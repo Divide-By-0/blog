@@ -1,8 +1,8 @@
 baseURL = 'https://amirbolous.com/'
 languageCode = 'en-us'
-title = "Personae Labs"
+title = "aayush's thoughts"
 theme = "hackerman"
-description = "Tools for character creation"
+description = "blog"
 [menu]
   [[menu.main]]
     name = "Home"
