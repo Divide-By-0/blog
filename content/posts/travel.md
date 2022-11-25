@@ -1,11 +1,11 @@
 ---
-title: "Travel Recommendations for Novelty-seekers Like Me"
+title: "Travel Recommendations for Novelty-Seekers Like Me"
 date: 2022-10-19T22:12:03.284Z
 type: posts
 draft: false
 slug: "travel"
-category: "3 mins read"
-tags: ["blog"]
+category: "10 mins read"
+tags: ["recs"]
 description: "It's hard to surface really good travel recs, so I put my favorite experiences in this live document to help people exactly like me have crazy fun unique experiences."
 ---
 

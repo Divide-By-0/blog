@@ -5,8 +5,8 @@ authors: ["yush_g"]
 type: posts
 draft: false
 slug: "vickrey"
-category: "3 mins read"
-tags: ["blog"]
+category: "15 mins read"
+tags: ["crypto"]
 description: "A writeup of the EthBogota hackathon project that me, real_philogy, and out.eth put together"
 ---
 
