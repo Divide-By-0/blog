@@ -11,13 +11,13 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I usually get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like international movies especially, since they aren't influenced by the usual Hollywood tropes or methods of storytelling and tend to be a lot more unique.
 
-Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)!
+Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch.
 
 ## Previous
 
 ### 2022
 
-- **Better Days**: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from Hong Kong director. Had me thinking about the film for like a whole day after.
+- **Better Days**: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from Hong Kong director. Had me thinking about the film for like a whole day after.
 
 - **3 Idiots**: 10/10. Rewatched this after 10 years. This is my favorite Bollywood film of all time; a touching story told through an educational satire. Has some legendary songs and probably shaped a good amount of my young identity.
 
@@ -33,7 +33,7 @@ Specifically, I love movies that are more sci-fi in nature (like Dune), or have 
 
 - **Look at Me**: 8/10. Another documentary that fills in the troubled story of the most-streamed hip hop artist of our generation. It's crazy to see this mans electric stage presence from the very first show. He was a complex person, and the documentary managed to both give a fair portrayal of his crimes and explain the circumstances that led to it. I wish we could have seen him live out the redemption arc that the movie painted, but maybe he never would have. Again, only highly recommended for fans of his music.
 
-- **3 Billboards Outside Ebbing Missouri**: 10/10.
+- **3 Billboards Outside Ebbing Missouri**: 10/10. It has an excellent unique plot from the get-go, and sets up a really unique protagonist/antagonist arc. Standout indie film.
 
 - **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. Isn’t selflessness more romantic and idealistic?
 
@@ -55,41 +55,85 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Churchill**: 5/10. Good acting, but that doesn't really make up for the overly simplictic plot. The movie kind of overplays Chuchill's role and the movie takes too many factual liberties.
 
+- **A Girl Walks Home Alone at Night**: 7/10. Iranian cinema, very unique.
+
 - **Invictus**: 6/10. Interesting, and portrayed parts of his leadership that were particularly surprising that I think any leader can learn from. I feel other movies about Mandela will do a better job depicting the harder battles he fought for his country.
 
-- **Kamikaze Girls**: 8/10. I did not expect to like this as much as I did. Was assigned by a film class, but this is just told in such a fresh style that I've never seen any American cinema ever have the creativity for. The only Japanese non-anime film that I've ever seen probably.
+- **Kamikaze Girls**: 8/10. I did not expect to like this as much as I did. Was assigned by a film class, but this is just told in such a fresh style that I've never seen any American cinema ever have the creativity for. The only Japanese non-anime film that I've seen so far probably.
 
 - **His Girl Friday**: 8/10. Also surprise how much I enjoyed this. I think this movie set the record for fastest words per minute, and is a hilarious story about yellow journalism in the 1900s.
 
 - **Amelie**: 8/10. This is a classic -- from the color palette to the strange character, to the feeling of clever retribution. Made me fall in love with Yann Tiersen's song Comptine d'un Autre été: L'Après-Midi.
 
-- **The Conversation**: 4/10.
+- **Rashômon**: 7/10. One of Kurosawa's finest films. Deals with truth and interpretation in a pretty interesting way, although the ending is a bit abstract.
+
+- **Cleo from 5 to 7**: 2/10. I don't like French new wave style that much.
+
+- **The Conversation**: 3/10.
+
+- **Pulp Fiction**: 6/10. I didn't like it that much, but the style of interconnected plot lines seemed pretty novel for the time.
 
 - **Citizen Kane**: 6/10. Funny how much this says about the powerful today.
 
 - **In the Heights**: 8/10. Love me some Lin Manuel Miranda.
 
-- **We Are As Gods**: 10/10. Absolutely incredible, underrated documentary about Steward Brand, "the person that all the people you look up to, look up to." I think hearing his story gave me the freedom to pursue what I want, how I want to. Not sure if it's available online, so [dm me](https://twitter.com/yush_g/) for a copy. Probably favorite of the year.
+- **We Are As Gods**: 10/10. Absolutely incredible, underrated documentary about Steward Brand, "the person that all the people you look up to, look up to." I think hearing his story gave me the freedom to pursue what I want, how I want to. Online for [like $5](https://www.weareasgods.film/), or you can [dm me](https://twitter.com/yush_g/) for a copy. Probably favorite of the year.
 
-- **Crazy Rich Asians**: 7/10. Classic.
+- **Taxi Driver**: 6/10. Psychologically disturbing.
+
+- **Malcolm and Mary**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via good filmmaking.
 
 ### 2020
 
+- **The Lighthouse**: 3/10. Some sea shanties portray a fall into insanity, abstract black and white movie.
+
 - **Us**: 10/10. Favorite movie of the year. One of those movies with a massive retcon, and spent like 4 hours afterwards analyzing how all the little symbols and scenes actually fit together insanely well and imply super crazy things. The feeling of revalation I got from analyzing this is the feeling I wish English class had been able to convey.
 
-- **Soul**: 10/10. Great character design, message, and feelings. Really loved it, and it came at a particularly well timed point.
+- **Dead Poet's Society**: 9/10. I love stories about education and miseducation, and Robin Williams here is incredible.
+
+- **Kal Ho Na Ho**: 10/10. Starts slow, but becomes very emotional. A Bollywood classic.
+
+- **Zindaagi Neigh Milage Dubara**: 9/10. Three guys go on a trip and discover what they want.
+
+- **Into the Woods**: 7/10. Mishmash family friendly fairytale musical, themes of morality, perception of evil, and supporting even through mistakes.
+
+- **The Last Airbender** : 3/10. A terrible movie with lots of potholes and not very good acting and bring mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.z
+
+- **Hamilton**: 10/10. Lin Manuel Miranda classic.
+
+- **Little Women**: 3/10. Couldn't fully tell the main characters apart, wasn't invested in any characters, and poorly depicted present/past jumps.
+
+- **August Rush**: 5/10. Annoyed by the classic boy genius perception that ignores all the hard work in favor of miracles. Family feels good tale, but one-dimensional love story.
+
+- **Soul**: 10/10. Great character design, message, and feelings. Really loved it, and it came at a particularly well timed point in my life.
+
+- **Jumanji 2**: 6/10.
 
 - **21**: 8/10. Love me some MIT.
 
+- **Parasite**: 10/10. Incredible story, cinematography, music, characters, symbolism, everything. This was the movie that got me interested in international cinema.
+
+- **Frozen 2**: 8/10. Honestly mostly nostalgia from Frozen 1.
+
+- **Catch Me If You Can**: 10/10. I love how this is based off a true story, and shows about mischevious male leads are always fun to me.
+
+- **The Inventor (Theranos)**: 7/10. There are like a million adaptations of Holmes' story now, this one was more like a documentary instead of a drama which I preferred.
+
 - **Enola Holmes**: 4/10. Standard, nothing particularly interesting about it.
 
-- **Ratatouille**: 10/10. Second time watching this after 5ish years. Feel good.
+- **Ratatouille**: 10/10. Second time watching this after 5ish years! Classic. Great thoughts on being the [chef vs the cook](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html), mentorship, and balancing the value of family and becoming independent.
 
 ### 2019
 
-- **Aladdin Live-Action**: 10/10. Great family movie. I am an absolute Aladdin simp.
+At this point and before,
 
-- **Avengers**: 7/10. I guess as a kid there's some feeling of closuse you want after having seen so many Marvel movies, which is why I keep watching. Nothing particularly interesting about the plot or storytelling, classic superhero stories.
+- **Spiderman Far From Home**: 10/10. I loved the leads and relatability.
+
+- **Aladdin Live-Action**: 9/10. Great family movie. I am an absolute Aladdin simp.
+
+- **The Hate You Give**: 7/10. I wish the character had showcased her strength better in the end, it didn't feel satisfying.
+
+- **Avengers**: 6/10. I guess as a kid there's some feeling of closuse you want after having seen so many Marvel movies, which is why I keep watching. Nothing particularly interesting about the plot or storytelling, classic superhero stories.
 
 ### 2018
 
@@ -97,24 +141,40 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **The Big Sick**: 9/10. Just completely insane that this was a real story.
 
-- **Inside Out**: 10/10. If you can't tell yet, I'm a Disney simp. Probably my favorite Disney movie.
+- **Bird Box**: 8/10. Haven't watched an apocalyptic movie in a while, was fun.
+
+- **Baby Driver**: 8/10. Pretty fun crime movie.
+
+- **Crazy Rich Asians**: 7/10. Classic.
+
+- **Inside Out**: 10/10. If you can't tell yet, I'm a Disney simp. This is probably my favorite Disney animation.
 
 - **O Brother, Where Art Thou?**: 9/10.
 
-- **Ready Player One**: 8/10. I actually liked this a lot more than most sci-fi snobs, plus it came out before metaverse was memed out of relevance.
+- **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had a pretty simple reason for most people's motivations which wasn't as fun.
 
 ## Want To Watch
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
+- **Internet's Own Boy**: Story about Aaron Schwartz.
 - **Shoplifters**: Director is very good (though this is his best), this won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Black Panther 2**: Was shot at MIT, so I have to see that.
-- **PK**: Bollywood movie that seems to be about an alien but is really about something more human?
-- **Song of the sea**: Scottish film with Anime vibes
+- **Black Panther 2**: Was shot at MIT, so I have to see it even though most people say it is subpar.
+- **The Banshees of Inisherin**: Scottish comedy.
+- **Primer**: "Primer is on the [Most Complicated Films IMDb list], thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
+- **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
+- **PK**: Bollywood movie that seems to be about an alien but is really about being human.
+- **Song of the sea**: Scottish film with Anime vibes.
 - **Minions 2**: Degenerate childhood nostalgia.
+- **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
+- **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Petit Mamam**: French movie, more about feelings than dialogue
 - **Yi Yi**: 2000 Taiwanese classic
+- **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
+
+<!-- Master Of None -->
+<!-- Blue Mountain State -->
