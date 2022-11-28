@@ -11,7 +11,7 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I usually get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like international movies especially, since they aren't influenced by the usual Hollywood tropes or methods of storytelling and tend to be a lot more unique.
 
-Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch.
+Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch.
 
 ## Previous
 
@@ -85,21 +85,25 @@ Watched a lot of weirder movies this year due to my film class.
 
 ### 2020
 
+- **Gully Boy**: 9/10. Fun movie about upcoming rapper from Indian slums. Better depiction of poverty than Slumdog Millionaire, and more inspiring.
+
 - **The Lighthouse**: 3/10. Some sea shanties portray a fall into insanity, abstract black and white movie.
 
 - **Us**: 10/10. Favorite movie of the year. One of those movies with a massive retcon, and spent like 4 hours afterwards analyzing how all the little symbols and scenes actually fit together insanely well and imply super crazy things. The feeling of revalation I got from analyzing this is the feeling I wish English class had been able to convey.
 
 - **Dead Poet's Society**: 9/10. I love stories about education and miseducation, and Robin Williams here is incredible.
 
-- **Kal Ho Na Ho**: 10/10. Starts slow, but becomes very emotional. A Bollywood classic.
+- **Kal Ho Na Ho**: 10/10. Starts slow, but becomes very emotional. A classic Shah Rukh Khan drama with all the Bollywood movie tropes. Would recommend starting here for Bollywood movies.
 
-- **Zindaagi Neigh Milage Dubara**: 9/10. Three guys go on a trip and discover what they want.
+- **Zindaagi Neigh Milage Dubara**: 9/10. Another classic about three friends adventuring and exploring love on a bachelor trip, not particularly deep but has some iconic scenes that most Bollywood fans will recognize -- the tomato scene especially.
 
 - **Into the Woods**: 7/10. Mishmash family friendly fairytale musical, themes of morality, perception of evil, and supporting even through mistakes.
 
 - **The Last Airbender** : 3/10. A terrible movie with lots of potholes and not very good acting and bring mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.z
 
 - **Hamilton**: 10/10. Lin Manuel Miranda classic.
+
+- **Dilwale Dulhania Le Jayenge**: 9/10. Classic romance Bollywood movie with forbidden marriage.
 
 - **Little Women**: 3/10. Couldn't fully tell the main characters apart, wasn't invested in any characters, and poorly depicted present/past jumps.
 
@@ -152,6 +156,8 @@ At this point and before,
 - **O Brother, Where Art Thou?**: 9/10.
 
 - **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had a pretty simple reason for most people's motivations which wasn't as fun.
+
+- **Slumdog Millionaire**: A film about India made by a non-Bollywood studio. Wouldn't recommend starting here, it's a pretty white take on Indian poverty. Is told in an interesting way though, and is moving.
 
 ## Want To Watch
 
