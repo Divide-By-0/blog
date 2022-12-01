@@ -49,7 +49,7 @@ Specifically, I love movies that are more sci-fi in nature (like Dune), or have 
 
 Watched a lot of weirder movies this year due to my film class.
 
-- **Dune**: 8/10 if you haven't read the book, 9/10 if you have. Really incredible seeing the amount of thought gone into this, and how similar the feelings were when reading the book. I wish I could see [director breakdowns like this](https://www.youtube.com/watch?v=GoAA0sYkLI0) for every single scene.
+- **Dune**: 9/10 if you've read the book, 8/10 if you haven't. Really incredible seeing the amount of thought gone into this, and how similar the feelings were when reading the book. Incredible visuals and music. I wish I could see [director breakdowns like this](https://www.youtube.com/watch?v=GoAA0sYkLI0) for every single scene.
 
 - **Shang-Chi**: 7/10. Pretty high for a Marvel movie, good family vibes and really nice to see Marvel giving representation.
 
