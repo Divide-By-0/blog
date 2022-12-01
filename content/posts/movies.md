@@ -11,13 +11,13 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I usually get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like international movies especially, since they aren't influenced by the usual Hollywood tropes or methods of storytelling and tend to be a lot more unique.
 
-Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch.
+Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
 ## Previous
 
 ### 2022
 
-- **Better Days**: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from Hong Kong director. Had me thinking about the film for like a whole day after.
+- ⭐ **Better Days** ⭐: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from Hong Kong director. Had me thinking about the film for like a whole day after.
 
 - **3 Idiots**: 10/10. Rewatched this after 10 years. This is my favorite Bollywood film of all time; a touching story told through an educational satire. Has some legendary songs and probably shaped a good amount of my young identity.
 
@@ -77,7 +77,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **In the Heights**: 8/10. Love me some Lin Manuel Miranda.
 
-- **We Are As Gods**: 10/10. Absolutely incredible, underrated documentary about Steward Brand, "the person that all the people you look up to, look up to." I think hearing his story gave me the freedom to pursue what I want, how I want to. Online for [like $5](https://www.weareasgods.film/), or you can [dm me](https://twitter.com/yush_g/) for a copy. Probably favorite of the year.
+- ⭐ **We Are As Gods** ⭐: 10/10. Absolutely incredible, underrated documentary about Steward Brand, "the person that all the people you look up to, look up to." I think hearing his story gave me the freedom to pursue what I want, how I want to. Online for [like $5](https://www.weareasgods.film/), or you can [dm me](https://twitter.com/yush_g/) for a copy. Probably favorite of the year.
 
 - **Taxi Driver**: 6/10. Psychologically disturbing.
 
@@ -89,7 +89,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **The Lighthouse**: 3/10. Some sea shanties portray a fall into insanity, abstract black and white movie.
 
-- **Us**: 10/10. Favorite movie of the year. One of those movies with a massive retcon, and spent like 4 hours afterwards analyzing how all the little symbols and scenes actually fit together insanely well and imply super crazy things. The feeling of revalation I got from analyzing this is the feeling I wish English class had been able to convey.
+- ⭐ **Us** ⭐: 10/10. Favorite movie of the year. One of those movies with a massive retcon, and spent like 4 hours afterwards analyzing how all the little symbols and scenes actually fit together insanely well and imply super crazy things. The feeling of revalation I got from analyzing this is the feeling I wish English class had been able to convey.
 
 - **Dead Poet's Society**: 9/10. I love stories about education and miseducation, and Robin Williams here is incredible.
 
@@ -115,8 +115,6 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **21**: 8/10. Love me some MIT.
 
-- **Parasite**: 10/10. Incredible story, cinematography, music, characters, symbolism, everything. This was the movie that got me interested in international cinema.
-
 - **Frozen 2**: 8/10. Honestly mostly nostalgia from Frozen 1.
 
 - **Catch Me If You Can**: 10/10. I love how this is based off a true story, and shows about mischevious male leads are always fun to me.
@@ -130,6 +128,8 @@ Watched a lot of weirder movies this year due to my film class.
 ### 2019
 
 At this point and before,
+
+- ⭐ **Parasite** ⭐: 10/10. Incredible story, cinematography, music, characters, symbolism, everything. This was the movie that got me interested in international cinema.
 
 - **Spiderman Far From Home**: 10/10. I loved the leads and relatability.
 
@@ -147,17 +147,17 @@ At this point and before,
 
 - **Bird Box**: 8/10. Haven't watched an apocalyptic movie in a while, was fun.
 
-- **Baby Driver**: 8/10. Pretty fun crime movie.
+- **Baby Driver**: 8/10. Pretty fun heist movie.
 
 - **Crazy Rich Asians**: 7/10. Classic.
 
-- **Inside Out**: 10/10. If you can't tell yet, I'm a Disney simp. This is probably my favorite Disney animation.
+- ⭐ **Inside Out** ⭐: 10/10. If you can't tell yet, I'm a Disney simp. This is probably my favorite Disney animation.
 
 - **O Brother, Where Art Thou?**: 9/10.
 
 - **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had a pretty simple reason for most people's motivations which wasn't as fun.
 
-- **Slumdog Millionaire**: A film about India made by a non-Bollywood studio. Wouldn't recommend starting here, it's a pretty white take on Indian poverty. Is told in an interesting way though, and is moving.
+- **Slumdog Millionaire**: 7/10. A film about India made by a non-Bollywood studio. Wouldn't recommend starting here, it's a pretty white take on Indian poverty. Is told in an interesting way though, and is moving.
 
 ## Want To Watch
 
