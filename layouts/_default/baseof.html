@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        {{- partial "head.html" . -}}
-        <!-- fb -->
-        <meta property="og:url" content="{{ .Permalink }}" />
-        <meta property="og:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
-        <meta property="og:description" content="{{ .Summary }}" />
-        <!-- tw -->
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
-        <meta name="twitter:description" content="{{ .Summary }}" />
-        <meta name="twitter:site" content="@amirbolous" />
+  <head>
+    {{- partial "head.html" . -}}
+    <!-- fb -->
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+    <meta property="og:description" content="{{ .Summary }}" />
+    <!-- tw -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+    <meta name="twitter:description" content="{{ .Summary }}" />
+    <meta name="twitter:site" content="@yush_g" />
 
-        {{ if .Params.Image }}
-        <meta property="og:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
-        <meta name="twitter:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
-        {{ end }} {{ if not (isset .Params "image")}}
-        <meta property="og:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
-        <meta name="twitter:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
-        {{ end }}
-    </head>
-    <body>
-        <main>
-            {{- partial "header.html" . -}}
-            <div class="mainPage">
-                <div id="content">{{- block "main" . }}{{- end }}</div>
-                {{- partial "footer.html" . -}}
-            </div>
-        </main>
-    </body>
+    {{ if .Params.Image }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
+    {{ end }} {{ if not (isset .Params "image")}}
+    <meta property="og:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
+    {{ end }}
+  </head>
+  <body>
+    <main>
+      {{- partial "header.html" . -}}
+      <div class="mainPage">
+        <div id="content">{{- block "main" . }}{{- end }}</div>
+        {{- partial "footer.html" . -}}
+      </div>
+    </main>
+  </body>
 </html>
