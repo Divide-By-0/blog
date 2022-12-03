@@ -177,6 +177,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Minions 2**: Degenerate childhood nostalgia.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
+- **Kahaani**: Hindi film.
 - **Petit Mamam**: French movie, more about feelings than dialogue
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.
