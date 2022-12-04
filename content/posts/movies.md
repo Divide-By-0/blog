@@ -17,7 +17,9 @@ Specifically, I love movies that are more sci-fi in nature (like Dune), or have 
 
 ### 2022
 
-- ⭐ **Better Days** ⭐: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from Hong Kong director. Had me thinking about the film for like a whole day after.
+- **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
+
+- ⭐ **Better Days** ⭐: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from a Hong Kong director. Had me thinking about the film for like a whole day after.
 
 - **3 Idiots**: 10/10. Rewatched this after 10 years. This is my favorite Bollywood film of all time; a touching story told through an educational satire. Has some legendary songs and probably shaped a good amount of my young identity.
 
@@ -127,7 +129,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 ### 2019
 
-At this point and before,
+At this point and before, I watched mostly just mainstream movies.
 
 - ⭐ **Parasite** ⭐: 10/10. Incredible story, cinematography, music, characters, symbolism, everything. This was the movie that got me interested in international cinema.
 
@@ -174,7 +176,6 @@ The notes for these movies are just summaries of what friends have told me about
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Song of the sea**: Scottish film with Anime vibes.
-- **Minions 2**: Degenerate childhood nostalgia.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Kahaani**: Hindi film.
