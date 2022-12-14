@@ -151,6 +151,8 @@ As that smart contract gains legitimacy and public acceptance, people can verify
 
 - ZK Glassdoor / ZK Blind: this requires ZK-JWTs, an easy adaptation on top of our code
 
+- Decentralized anonymous KYC
+
 We are leading a new research group called the Signed Data Group within Personae Labs, in order to further each such application of this tech. We think that there are many signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without oracles. Reach out to [Personae](personaelabs.org) if you want to build with us, we would love to talk with anyone excited about this tech and support any builders with the resources to build this tech in public.
 
 <!-- Footnotes themselves at the bottom. -->

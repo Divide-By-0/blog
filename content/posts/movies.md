@@ -11,11 +11,13 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I usually get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like international movies especially, since they aren't influenced by the usual Hollywood tropes or methods of storytelling and tend to be a lot more unique.
 
-Specifically, I love movies that are more sci-fi in nature (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (like Better Days), or have you sniff out lots of little clues that the filmmaker plants (I love huge retcons, e.g. Us). Specifically, I think more technical folks or people who love puzzles, will particularly love this list! I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8/10 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
+Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants (like retcons from Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
 ## Previous
 
 ### 2022
+
+So far, this has been an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
 
 - **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
 
@@ -24,6 +26,8 @@ Specifically, I love movies that are more sci-fi in nature (like Dune), or have 
 - **3 Idiots**: 10/10. Rewatched this after 10 years. This is my favorite Bollywood film of all time; a touching story told through an educational satire. Has some legendary songs and probably shaped a good amount of my young identity.
 
 - **Clue**: 9/10. Really incredible adaptation (of the board game!). Probably my favorite movie pre-1990, they did a great job making murder lighthearted and keeping the audience guessing.
+
+- **Aaron Swartz: The Internet's Own Boy**: 10/10. Aaron's death was an abhorrent tragedy, but his life and values were incredibly uplifting and inspiring. This documentary is incredibly personal for me: nearly all the values that I try to uphold are either directly inspired by or were deeply held by Aaron. My life has been significantly impacted by both his story and the projects he worked on: my entire life right now is focused on improving trust in governance and open access education, things Aaron deeply cared about. I cried probably 5 times in this documentary, even though I already knew the entire story: my rating is extemely biased.
 
 - **Howl's Moving Castle**: 10/10. My first Studio Ghibli film. Incredible character design, animation, and story.
 
