@@ -10,7 +10,7 @@ tags: ["crypto"]
 description: "A cool way to do trustless email subset verification on chain, and what that unlocks"
 ---
 
-[TOC]
+<!-- [TOC] -->
 
 # Summary
 
@@ -147,7 +147,7 @@ As that smart contract gains legitimacy and public acceptance, people can verify
 
 - A decentralized oracle for off chain data, putting price feeds on-chain
 
-- Anonymous Edward Snowden leaks (proving an email from the NSA was sent without revealing who you are)
+- Whistleblowing: imagine anonymous Edward Snowden–type leaks (proving an email from the NSA was sent without revealing who you are)
 
 - ZK Glassdoor / ZK Blind: this requires ZK-JWTs, an easy adaptation on top of our code
 
