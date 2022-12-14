@@ -43,6 +43,8 @@ So far, this has been an excellent year for movies. I spent a significant amount
 
 - **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. Isn’t selflessness more romantic and idealistic?
 
+- **Everything Everywhere All at Once**: 9/10. A24's standout movie; absurdist comedy. Excellent indie filmmaking and reflection on themes of parental empathy and nihilism. Am pretty happy I watched it with my family, we had a lot to talk about afterwards (though the hot dog scenes were not particularly comfortable lol). I think this is the only absurdist film I've really liked: they did a great job on keeping a compelling narrative that conveyed the emotional punches they wanted to convey.
+
 - **Badla**: 9/10. This is a more recent Hindi film about a surprisingly well-told mystery — I won’t spoil it, but I found the story more refreshing than any other previous mystery movie I’ve watched (it was way better than Knives Out). It’s the fourth foreign language remake of a similar Spanish mystery movie, The Innocent Guest, so you can rewatch in different languages!
 
 - **Ek Tha Tiger**: 4/10. Classic feel-good action/romance Hindi film about the spy that falls in love. I thought the message was pretty standard and some of the reveals were fairly predictable so wouldn’t recommend it, but it’s a nice feeling to be able to recognize and predict tropes sometimes!
