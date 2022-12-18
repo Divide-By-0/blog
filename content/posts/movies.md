@@ -9,7 +9,7 @@ tags: ["recs"]
 description: "It's hard to surface really good movie recs, so I put my favorites (and not-so-favorites) and upcoming movies in this live document!"
 ---
 
-It's hard to find a curated list of movies that I or my friends would like. I usually get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like international movies especially, since they aren't influenced by the usual Hollywood tropes or methods of storytelling and tend to be a lot more unique.
+It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially, since they aren't influenced by the usual Hollywood tropes or standard methods of storytelling, and tend to be a lot more unique.
 
 Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants (like retcons from Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
@@ -18,6 +18,8 @@ Puzzle making is pretty lossy and inaccurate representation of this list. I gene
 ### 2022
 
 So far, this has been an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
+
+- **Triangle of Sadness**: 6/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. This [scene breakdown](https://www.youtube.com/watch?v=ZDBMoCdktHY) looks promising though.
 
 - **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
 
@@ -29,11 +31,11 @@ So far, this has been an excellent year for movies. I spent a significant amount
 
 - **Aaron Swartz: The Internet's Own Boy**: 10/10. Aaron's death was an abhorrent tragedy, but his life and values were incredibly uplifting and inspiring. This documentary is incredibly personal for me: nearly all the values that I try to uphold are either directly inspired by or were deeply held by Aaron. My life has been significantly impacted by both his story and the projects he worked on: my entire life right now is focused on improving trust in governance and open access education, things Aaron deeply cared about. I cried probably 5 times in this documentary, even though I already knew the entire story: my rating is extemely biased.
 
-- **Howl's Moving Castle**: 10/10. My first Studio Ghibli film. Incredible character design, animation, and story.
+- **Howl's Moving Castle**: 10/10. My first Studio Ghibli film. I absolutely loved Calcifer's character design, the animation was really well executed and heart warming, and even through the almost absurd story, you couldn't help but root for the odd band of characters.
 
 - **Nope**: 6/10. I had high hopes for a Jordan Peele film after **Us** topped my 2020 list, but was let down. This film explored spectacle and animal treatment, themes that I think made for less complex plots. It was cool though how two seemingly disparate plots connected in ways that implied non-obvious subtexts about each one. The movie theatre itself was absolutely sick though -- Nitehawk Cinema in NYC; they serve you food and drinks in your seat!
 
-- **Hadestown**: 10/10. Broadway musical to not technically a movie. Best play I've seen since Hamilton -- the music, the story, the acting, the characters, the set: everything really stood out and made you tear up at the end.
+- **Hadestown**: 10/10. Broadway musical, so not technically a movie (though they usually movie-ify these things a few years out). Best play I've seen since Hamilton -- the music, the story, the acting, the characters, the set: everything really stood out and made you tear up at the end.
 
 - **jeen-yuhs**: 9/10. (rated before Kanye got cancelled) This man was such a lunatic that before his first album, he got a documentary videogapher to follow him around. As a result, there's a ton of crazy primary source footage, and a really compelling narrative that colors in a lot of what did and didn't change with Donda around. Only really recommended for Kanye fans.
 
@@ -51,15 +53,15 @@ So far, this has been an excellent year for movies. I spent a significant amount
 
 - **Tick Tick Boom**: 9/10. This year’s Lin Manuel Miranda release. The relationship dialogue felt really authentic, and it’s really fun to see the maturation of the character's vision throughout time. Confused how 30/90 is the most popular song from the album, I put it dead last on my ranking. Alexandra Shipp is my newest celeb crush for sure.
 
-- **Tenet**: 10/10. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on. This is one of the few films I've ever rewatched, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’.
+- **Tenet**: 10/10. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on. This is one of the few films I've ever rewatched, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent and I finally was able to wrap my head around all the story lines and questions. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’, but this one is like 5x as complex and does a surprisingly excellent, non-tropey job with its take on time travel.
 
 ### 2021
 
 Watched a lot of weirder movies this year due to my film class.
 
-- **Dune**: 9/10 if you've read the book, 8/10 if you haven't. Really incredible seeing the amount of thought gone into this, and how similar the feelings were when reading the book. Incredible visuals and music. I wish I could see [director breakdowns like this](https://www.youtube.com/watch?v=GoAA0sYkLI0) for every single scene.
+- **Dune**: 9/10 if you've read the book, 8/10 if you haven't. Really incredible seeing the amount of thought gone into this, and how similar the feelings were when reading the book. There's a ton of context that is covered extensively in the book but barely scratched in the movie, so I do think that reading the book will fill in a lot of the small plot questions (though the film does stand quite well on its own). Incredible visuals and music. I wish I could see [director breakdowns like this](https://www.youtube.com/watch?v=GoAA0sYkLI0) for every single scene.
 
-- **Shang-Chi**: 7/10. Pretty high for a Marvel movie, good family vibes and really nice to see Marvel giving representation.
+- **Shang-Chi**: 8/10. Pretty high for a Marvel movie, good family vibes and really nice to see Marvel giving representation.
 
 - **Churchill**: 5/10. Good acting, but that doesn't really make up for the overly simplictic plot. The movie kind of overplays Chuchill's role and the movie takes too many factual liberties.
 
