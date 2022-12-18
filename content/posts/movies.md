@@ -33,6 +33,8 @@ So far, this has been an excellent year for movies. I spent a significant amount
 
 - **Howl's Moving Castle**: 10/10. My first Studio Ghibli film. I absolutely loved Calcifer's character design, the animation was really well executed and heart warming, and even through the almost absurd story, you couldn't help but root for the odd band of characters.
 
+- **MIT: Regressions**: 10/10. This is simply the most mindblowing documentary I've ever seen, and it's [available for free online](https://regressions.mit.edu/). There is a ton of batshit crazy footage from the last 60 years of MIT-related history: unreleased moon landing footage, Nixon tapes where he says some insanely stupid things about education, students fighting admin and police en masse, and incredibly thoughtful and unique commentary on the MIT's political and social evolution and the impact on the world. I think this meaningfully changed the way I look at both MIT and myself, and in my opinion is an absolute must watch.
+
 - **Nope**: 6/10. I had high hopes for a Jordan Peele film after **Us** topped my 2020 list, but was let down. This film explored spectacle and animal treatment, themes that I think made for less complex plots. It was cool though how two seemingly disparate plots connected in ways that implied non-obvious subtexts about each one. The movie theatre itself was absolutely sick though -- Nitehawk Cinema in NYC; they serve you food and drinks in your seat!
 
 - **Hadestown**: 10/10. Broadway musical, so not technically a movie (though they usually movie-ify these things a few years out). Best play I've seen since Hamilton -- the music, the story, the acting, the characters, the set: everything really stood out and made you tear up at the end.
