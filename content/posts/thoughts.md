@@ -1,5 +1,5 @@
 ---
-title: "Books for Curious Rabbit-holers Like Me"
+title: "Thoughts for Curious Rabbit-holers Like Me"
 date: 2022-12-18T22:12:03.284Z
 type: posts
 draft: false
@@ -11,7 +11,7 @@ description: "I often read things then forget what my takeaways were, so this do
 
 ## Musings
 
-These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about.Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inpsired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/).
+These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about. Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inpsired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/).
 
 In an ideal world, I would both survey my opinion on the topic before the reading, and after the reading, and maybe make some concrete predictions or somehow stake my opinions? But there isn't a super easy way to do this right now. Maybe staking some bounties here or setting up a manifolds market folder for myself would work well? Open to suggestions. I will probably start a similar page for the books I read soon, but for now they are on my [goodreads](https://www.goodreads.com/user/show/123131170-aayush-gupta).
 
