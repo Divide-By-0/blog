@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "aayush's thoughts"
 theme = "hackerman"
 description = "blog"
+googleAnalytics = 'G-K3VZM7ZJ7M'
 [menu]
   [[menu.main]]
     name = "Home"

@@ -1,5 +1,5 @@
 ---
-title: "Travel Recommendations for Novelty-Seekers Like Me"
+title: "Travel Recommendations for Novelty-Seekers Like Me [Live Post]"
 date: 2022-10-19T22:12:03.284Z
 type: posts
 draft: false
@@ -12,6 +12,8 @@ description: "It's hard to surface really good travel recs, so I put my favorite
 I thought it would be cool to share some of the cool spots/hidden gems from all the countries I've visited. I try to select spots that are really unique, especially in their vibe, experience, or culture ‒ the farther it is from anything I've experienced before, the higher it'll be on this list. I'll also try to list the "best" versions of things I've tried, like food types or libraries. I usually care much less about historical significance or aesthetics, and there are plenty of lists for that already. The best adventures will always be the unplanned spontaneous outings you risk yourself, so definitely don't lean too much on this list :)
 
 These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems more geared to places than experiences, and TikTok #hiddengems and Reddit are also just alright, but often prioritize instagrammable places (I assign very low weight to that in contrast). Personal recommendations seem to be the only way that really works for me -- apps like Fever purport to systematize this (I haven't tried it), but it seems potentially promising.
+
+This alive document will be updated every time I travel.
 
 - USA
   - Seattle, WA
@@ -43,7 +45,7 @@ These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems mo
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
 - Maldives
   - Experiences
-    - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself!
+    - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
     - **Undersea restaurant**: Food isn't worth the price, but being in a giant tube underwater while eating was pretty sick.
 - Singapore
   - Food
@@ -60,3 +62,7 @@ These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems mo
     - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
   - Experiences
     - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
+- Anywhere
+  - Experiences
+    - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
+    - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course so you can get credit for your first dive.

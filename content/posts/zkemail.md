@@ -6,7 +6,7 @@ type: posts
 draft: false
 slug: "zkemail"
 category: "15 mins read"
-tags: ["crypto"]
+tags: ["crypto", "zk"]
 description: "A cool way to do trustless email subset verification on chain, and what that unlocks"
 ---
 

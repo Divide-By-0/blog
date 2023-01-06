@@ -1,5 +1,5 @@
 ---
-title: "Movie Recommendations for Puzzle-Lovers Like Me"
+title: "Movie Recommendations for Puzzle-Lovers Like Me [Live Post]"
 date: 2022-11-24T22:12:03.284Z
 type: posts
 draft: false
@@ -12,6 +12,8 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially, since they aren't influenced by the usual Hollywood tropes or standard methods of storytelling, and tend to be a lot more unique.
 
 Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants (like retcons from Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
+
+This alive doc will be updated every time I watch a movie.
 
 ## Previous
 
