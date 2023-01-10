@@ -11,17 +11,23 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially, since they aren't influenced by the usual Hollywood tropes or standard methods of storytelling, and tend to be a lot more unique.
 
-Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants (like retcons from Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
+Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants, each one changing the implications of the movie (see: Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
 This alive doc will be updated every time I watch a movie.
 
 ## Previous
 
+### 2023
+
+- **The Prestige**: 8/10. This had been on my list ever since watching 'Now You See Me'. This movie about two vengeful magicians is a magic trick itself, filled with clever misdirections. The portrayal of obsession was well motivated and captivating.
+
+- **Fight Club**: 9/10. Not at all what I thought it would be about from the name. It has the vibes of a cult classic -- zany characters do very strange but surprisingly understandable things, and it explores more complex themes than just pointless testosterone-fueled fighting.
+
 ### 2022
 
-So far, this has been an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
+This was an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
 
-- **Triangle of Sadness**: 6/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. This [scene breakdown](https://www.youtube.com/watch?v=ZDBMoCdktHY) looks promising though.
+- **Triangle of Sadness**: 6/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. The [director scene breakdowns](https://www.youtube.com/watch?v=ZDBMoCdktHY) were also pretty mediocre compared to others I've seen.
 
 - **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
 
@@ -57,7 +63,7 @@ So far, this has been an excellent year for movies. I spent a significant amount
 
 - **Tick Tick Boom**: 9/10. This year’s Lin Manuel Miranda release. The relationship dialogue felt really authentic, and it’s really fun to see the maturation of the character's vision throughout time. Confused how 30/90 is the most popular song from the album, I put it dead last on my ranking. Alexandra Shipp is my newest celeb crush for sure.
 
-- **Tenet**: 10/10. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on. This is one of the few films I've ever rewatched, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent and I finally was able to wrap my head around all the story lines and questions. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’, but this one is like 5x as complex and does a surprisingly excellent, non-tropey job with its take on time travel.
+- **Tenet**: 10/10. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on. This is one of the few films I've ever rewatched immediately, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent and I finally was able to wrap my head around all the story lines and questions. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’, but this one is like 5x as complex and does a surprisingly excellent, non-tropey job with its take on time travel. <!-- There is one quirk with injuries working slightly differently whether it's normal or radiation induced, but I think it's still consistent.  -->
 
 ### 2021
 
@@ -147,7 +153,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Spiderman Far From Home**: 10/10. I loved the leads and relatability.
 
-- **Aladdin Live-Action**: 9/10. Great family movie. I am an absolute Aladdin simp.
+- **Aladdin Live-Action**: 9/10. Great family movie.
 
 - **The Hate You Give**: 7/10. I wish the character had showcased her strength better in the end, it didn't feel satisfying.
 
@@ -155,7 +161,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 ### 2018
 
-- **Psych: The Movie**: 10/10. I'm a Psych simp. Anything Psych I will give a 10/10 gauranteed.
+- **Psych: The Movie**: 10/10. Anything Psych I will give a 10/10 gauranteed.
 
 - **The Big Sick**: 9/10. Just completely insane that this was a real story.
 
@@ -169,7 +175,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **O Brother, Where Art Thou?**: 9/10.
 
-- **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had a pretty simple reason for most people's motivations which wasn't as fun.
+- **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had pretty one dimensional characters with overly simplistic motivations, which didn't feel authentic.
 
 - **Slumdog Millionaire**: 7/10. A film about India made by a non-Bollywood studio. Wouldn't recommend starting here, it's a pretty white take on Indian poverty. Is told in an interesting way though, and is moving.
 
@@ -178,13 +184,13 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
-- **Internet's Own Boy**: Story about Aaron Schwartz.
 - **Shoplifters**: Director is very good (though this is his best), this won a number of international film festivals. Usually recommended for people who liked Parasite.
+- **Eternal Sunshine of the Spotless Mind**: Recommended 2x to me
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Black Panther 2**: Was shot at MIT, so I have to see it even though most people say it is subpar.
 - **The Banshees of Inisherin**: Scottish comedy.
-- **Primer**: "Primer is on the [Most Complicated Films IMDb list], thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
+- **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Song of the sea**: Scottish film with Anime vibes.

@@ -37,6 +37,8 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 
 - Why aren't there more fission advocacy groups and individuals deeply devoted to proving to the public that fission is now completely safe?
   - A friend brough up the good point that nuclear fission has not proliferated partially due to arms controls laws in case the nuclear capability is misappropriated, but mostly due to public perception and fear of meltdown. This fear is no longer reasonable given the leaps and bounds in fuel tech that cannot physically meltdown and way better designs. A group devoted to public informing and advocacy could be quite interesting, or even a lone wolf Varoufakis-type figure for fission.
+- To what extent does the benefits of hastened globalization from an energy abundance mindset (pro fossil fuels) outweigh the cons of an energy scarcity mindset?
+  - The burden for decarbonized energy often disproportionately falls on third world countries (i.e. Kenya had to globalize via a supermajority of renewable energy). Is that actually subsidized enough to make it cheaper than fossil fuels, or are poor countries left to pay the upfront and maintenance costs to offset the continued greed of globalized economies?
 - What is a videogame design that cannot be botted?
   - This question is pretty important as AI gets more and more powerful, scripting becomes easier and easier, and games add assets that have massive real economic value. A friend asked me this but we could only think of one such function together. Would be curious to hear what other folks can cook up from first principles.
 - Experiencing local culture
