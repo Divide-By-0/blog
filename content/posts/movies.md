@@ -13,7 +13,7 @@ It's hard to find a curated list of movies that I or my friends would like. I've
 
 Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants, each one changing the implications of the movie (see: Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
-This alive doc will be updated every time I watch a movie.
+This alive doc will be updated every time I watch a movie. Maybe one day I will also reflect these on Letterboxd.
 
 ## Previous
 
@@ -119,7 +119,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Into the Woods**: 7/10. Mishmash family friendly fairytale musical, themes of morality, perception of evil, and supporting even through mistakes.
 
-- **The Last Airbender** : 3/10. A terrible movie with lots of potholes and not very good acting and bring mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.z
+- **The Last Airbender** : 3/10. A terrible movie with lots of potholes and not very good acting and mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.
 
 - **Hamilton**: 10/10. Lin Manuel Miranda classic.
 
@@ -184,14 +184,17 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
-- **Shoplifters**: Director is very good (though this is his best), this won a number of international film festivals. Usually recommended for people who liked Parasite.
+- **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **Eternal Sunshine of the Spotless Mind**: Recommended 2x to me
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
+- **Drive my Car**: A Murukami classic.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Black Panther 2**: Was shot at MIT, so I have to see it even though most people say it is subpar.
+- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **The Banshees of Inisherin**: Scottish comedy.
+- **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
+- **Black Panther 2**: Was shot at MIT, so I want to spot all the buildings I know and love from it, even though most say it is subpar.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Song of the sea**: Scottish film with Anime vibes.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.

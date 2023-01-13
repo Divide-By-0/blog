@@ -3,7 +3,7 @@ title: "Thoughts for Curious Rabbit-holers Like Me [Live Post]"
 date: 2022-12-18T22:12:03.284Z
 type: posts
 draft: false
-slug: "readings"
+slug: "thoughts"
 category: "10 mins read"
 tags: ["recs"]
 description: "I often read things then forget what my takeaways were, so this doc is meant to remind me and hopefully surface interesting ideas for others."
