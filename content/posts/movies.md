@@ -19,19 +19,21 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 
 ### 2023
 
+-- **Eternal Sunshine of the Spotless Mind**: 9/10. This movie seems to be about forgetting and regret and breakups, but it's really about love. About how it's the genuine feeling and not the words themselves that make you love someone, and about how you choose someone again and again both with incomplete and with complete information. It might sound cheesy, but I think the movie did a great job not falling into that trap, mostly because of the sci-fi element (but what do I know, I've seen like 3 total romance movies). I think movies about repeating relationships fall flat for me since I feel like people change so much that repeating a relationship is a completely different jourey, but also most people probably whiplash their personality less than I do.
+
 - **The Prestige**: 8/10. This had been on my list ever since watching 'Now You See Me'. This movie about two vengeful magicians is a magic trick itself, filled with clever misdirections. The portrayal of obsession was well motivated and captivating.
 
-- **Fight Club**: 9/10. Not at all what I thought it would be about from the name. It has the vibes of a cult classic -- zany characters do very strange but surprisingly understandable things, and it explores more complex themes than just pointless testosterone-fueled fighting.
+- **Fight Club**: 9/10. Not at all what I thought it would be about from the name. It has the vibes of a cult classic -- zany characters do very strange but surprisingly understandable things, and it explores more complex themes than just pointless testosterone-fueled fighting. Has one of my favorite scenes of all time (the one with Raymond).
 
 ### 2022
 
 This was an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
 
-- **Triangle of Sadness**: 6/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. The [director scene breakdowns](https://www.youtube.com/watch?v=ZDBMoCdktHY) were also pretty mediocre compared to others I've seen.
+- **Triangle of Sadness**: 5/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. The [director scene breakdowns](https://www.youtube.com/watch?v=ZDBMoCdktHY) were also pretty mediocre compared to others I've seen.
 
 - **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
 
-- ⭐ **Better Days** ⭐: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from a Hong Kong director. Had me thinking about the film for like a whole day after.
+- ⭐ **Better Days** ⭐: 10/10. Wholesome coming of age romance story. Starts with bullying, but evolves into a way more complex and emotional story. Was censored by the CCP, so there are a few scenes that don't make 100% sense, but [a few](https://new.qq.com/rain/a/20200426A0IKSO00) [articles](https://www.hollywoodreporter.com/movies/movie-news/inside-the-censorship-battle-over-oscar-nominee-better-days-it-was-a-tug-of-war-4165587/) quickly cleared it up. Some trailers have previews of some of the cut scenes too. First Academy Award nominated film from a Hong Kong director. Had me thinking about the film for like a whole day after. On Netflix.
 
 - **3 Idiots**: 10/10. Rewatched this after 10 years. This is my favorite Bollywood film of all time; a touching story told through an educational satire. Has some legendary songs and probably shaped a good amount of my young identity.
 
@@ -185,12 +187,11 @@ The notes for these movies are just summaries of what friends have told me about
 
 - **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
-- **Eternal Sunshine of the Spotless Mind**: Recommended 2x to me
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Drive my Car**: A Murukami classic.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
-- **The Banshees of Inisherin**: Scottish comedy.
+- **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
 - **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.

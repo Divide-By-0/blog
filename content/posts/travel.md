@@ -62,6 +62,12 @@ This alive document will be updated every time I travel.
     - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
   - Experiences
     - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
+- Egypt
+  - Food/Experiences
+    - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was one of the best stays I've ever had.
+- Thailand
+  - Food
+    - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
 - Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
