@@ -101,7 +101,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - ⭐ **We Are As Gods** ⭐: 10/10. Absolutely incredible, underrated documentary about Steward Brand, "the person that all the people you look up to, look up to." I think hearing his story gave me the freedom to pursue what I want, how I want to. Online for [like $5](https://www.weareasgods.film/), or you can [dm me](https://twitter.com/yush_g/) for a copy. Probably favorite of the year.
 
-- **Taxi Driver**: 6/10. Psychologically disturbing.
+- **Taxi Driver**: 6/10. Psychologically disturbing. Scorsese told a creative story in a style I've never seen a movie follow, but I just found it a little unnerving for my taste.
 
 - **Malcolm and Mary**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via good filmmaking.
 
@@ -165,7 +165,9 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Psych: The Movie**: 10/10. Anything Psych I will give a 10/10 gauranteed.
 
-- **The Big Sick**: 9/10. Just completely insane that this was a real story.
+- **Spider-Man: Into the Spider-Verse**: 10/10. I probably don't need to sell you on this, but this was an incredible story with an insane animated comic book art style.
+
+- **The Big Sick**: 8/10. Just completely insane that this was a real story. Was a 9 when I watched it.
 
 - **Bird Box**: 8/10. Haven't watched an apocalyptic movie in a while, was fun.
 
