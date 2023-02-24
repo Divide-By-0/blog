@@ -30,19 +30,23 @@ I'd want to require you to submit some kind of public commitment that you're onl
 
 Let’s consider a few ways we could try to make a nullifier.
 
-**1. hash(public key)**
+#### 1. hash(public key)
+
 What if you just post a hash of your public key? This looks promising: your account only has one public key, so you can't post again, and no two accounts have the same public key. But there are only so many on-chain addresses, so an adversary could brute-force compute all the hashes to link the nullifier back to you.
 
-**2. hash(secret key)**
+#### 2. hash(secret key)
+
 How about if you hash your secret key instead, then? That can't be brute-forced. But what if you want to join a semi-anonymous forum, and then later on you want to receive an anonymous airdrop of a DAO's governance token? You'd be stuck with a single global nullifier, so you could only do one of these things.
 
-**3. hash(message, secret key)**
+#### 3. hash(message, secret key)
+
 Let's add in a message: that way, each app can have one canonical message to identify it. This seems pretty good: there's no way to reverse-engineer the nullifier via the secret key; it's lightweight and computable in a hardware wallet, and it's unique for each account and application. But there's a problem: sending a secret key anywhere outside of a secure enclave, like a hardware wallet, compromises security, especially if the user copy-pastes it as plaintext. It’s dangerous for the secret key to leave the enclave, but the elliptic curve pairing functions required for proving zkSNARKS are too complex to be computed in current hardware wallets, so we want the verifier to be able to verify the proof without even having to access the secret key. All computations that do require access to the secret key should be very lightweight so they can be run on a hardware wallet if necessary.
 
-**4. Deterministic ECDSA signature**
+#### 4. Deterministic ECDSA signature
+
 What if you sign a message with your secret key, and the signature is your nullifier? That was the initial idea for [stealthdrop nullifiers](https://github.com/stealthdrop/stealthdrop). It's promising because you don't have to provide your secret key anywhere – you just generate the signature yourself. One catch is that this requires what's called a “deterministic signature scheme” -- if you generate a signature that includes some nondeterministic randomness, then the nullifier wouldn't be unique, because you could have a different nullifier for each possible value of the random part. Fortunately, ECDSA, the signature scheme used by Ethereum, is deterministic: the randomness is deterministically derived from the secret key (like `hash[secret key]`). So if you can deterministically sign some app-specific message, you might guess that `hash[sign(message, pk)]` would be an effective nullifier. Unfortunately, this doesn't quite work: to *verify* the randomness, the zkSNARK would still need to access the secret key. And if we don't commit to a particular piece of randomness, an adversary could generate around 2<sup>256</sup> valid ECDSA signatures (and thus nullifiers) per message. For that reason, normal Ethereum signatures don’t work as a unique anonymous identifier.
 
-**5. Verifiable random functions/unique signatures**
+#### 5. Verifiable random functions/unique signatures
 
 It turns out there’s some literature on verifiable random functions (VRFs) that have essentially the same properties that we want, but these constructions don’t work out of the box with ECDSA. Most of these functions use pairing-friendly curves, but ECDSA uses the secp256k1 elliptic curve. If we could use a pairing-friendly curve, we could have just used the deterministic BLS signature scheme and skipped this whole exercise!
 
@@ -50,13 +54,13 @@ It turns out there’s some literature on verifiable random functions (VRFs) tha
 
 Let's summarize the properties we've determined we need from our nullifier. It should be:
 
-**1. Unique**
+#### 1. Unique
 Users shouldn't be able to generate multiple nullifiers; otherwise, they could double-spend or double-claim.
 
-**2. Deterministic**
+#### 2. Deterministic
 Signature schemes generally incorporate randomness; if the nullifier were computed using randomness generated in a nondeterministic way, then it would be impossible to generate a single uniquely valid nullifier.
 
-**3. Verifiable with only the public key**
+#### 3. Verifiable with only the public key
 The verifier should be able to verify the proof without having to access the secret key, to preserve the security of the secret key.
 
 At this point, you might ask: isn't this a solved problem? Don't [zcash](z.cash) and [tornado.cash](tornado.cash) get along just fine without more complex nullifiers? Yes – but this is because they make another tradeoff: they allow interactivity. So a user could simply hash a random string to start with, and use another hash of that preimage as their nullifier from then on (this is what tornado.cash uses for withdrawal claims). But interactivity causes a few problems. First, it adds overhead. Second, the anonymity set is limited to the set of people who have already signed a message: for instance, on tornado.cash, the only people who would withdraw are those who have already deposited, so the first user can only withdraw once several others have deposited to preserve plausible deniability. In this case, anonymity is limited by shaky assumptions, like that other people have interacted with the platform between your deposits and your withdraws, which has already been used to [break anonymity](https://www.tutela.xyz/). Third, Tornado reveals your nullifier in plaintext in-browser, allowing Chrome and malicious extensions to access it. It would be better if only the owner of the secret key's secure enclave could access that information. And fourth, interactivity doesn't work with certain applications, like ZK airdrops, because it would open the protocol to sybil attacks and spam.
