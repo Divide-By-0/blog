@@ -115,7 +115,7 @@ This is promising because hardware wallets will only have to compute hashes, not
 
 ### The interactivity-quantum secrecy tradeoff
 
-In the far future, once quantum computers can break ECDSA keypair security, most Ethereum keypairs will be broken, but migration to a quantum-resistant keypair in advance will keep active funds safe. Specifically, people can sign messages committing to new quantum-resistant keypairs (or just higher-bit keypairs on similar algorithms), and the canonical chain can fork to make such keypairs valid. ZK-SNARKs become forgeable, but secret data in past proofs remains secret. In the best case, the chain should be able to continue without a hitch.
+In the far future, once quantum computers can break ECDSA keypair security, most Ethereum keypairs will be broken, but migration to a quantum-resistant keypair in advance will keep active funds safe. Specifically, people can sign messages committing to new quantum-resistant keypairs (or just higher-bit keypairs on similar algorithms), and the canonical chain can fork to make such keypairs valid. zkSNARKs become forgeable, but secret data in past proofs remains secret. In the best case, the chain should be able to continue without a hitch.
 
 However, the anonymity guarantee of deterministic nullifiers *will* break: an adversary can derive the secret keys for the whole anonymity set and thus derive all the nullifiers. This problem will exist for any deterministic nullifier algorithm on ECDSA, since revealing the secret key reveals the only source of hidden information that guarantees anonymity in a deterministic protocol.
 
