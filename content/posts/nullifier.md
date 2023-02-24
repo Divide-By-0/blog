@@ -68,13 +68,13 @@ So we'll add this as a fourth property to our list:
 **4. Non-interactive**
 The user shouldn't have to take any additional actions other than generating a single nullifier.
 
-![good_nullifier_6](../../media/good_nullifier_6.png)
-
 ### A promising new standard
 
 With these criteria in mind, let’s try to combine the intuition around simple hash-based functions with our desire for unique signatures. What if a function like $\text{hash}[m, pk]^{sk}$ (easy enough to calculate in a hardware wallet’s secure enclave), was possible to verify with only the public key? This is the key insight we can use to construct our nullifier, by deriving such a verification scheme and using this value as a signature.
 
 Consider a signature that has two parts: a deterministic part based on a message and secret key (like $\text{hash(message)}^{sk} \mod p$), and a non-deterministic part that allows verification of this calculation. Then, we could use the deterministic part as a nullifier, and use both the deterministic and non-deterministic part to verify that it is a valid signature using only the public key.
+
+![good_nullifier_6](../../media/good_nullifier_6.png)
 
 Here’s an example of such an algorithm. Proposed by Kobi and 0xPARC, it’s known as a DDH-VRF (decisional Diffie–Hellman verifiable random function) -- a combination of the Goh-Jarecki EDL signature scheme and Chaum-Pederson proofs of discrete log equality, inspired by BLS signatures. We’ve color coded the equivalent numbers so you can check the math.
 
