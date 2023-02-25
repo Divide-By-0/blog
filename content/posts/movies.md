@@ -4,7 +4,7 @@ date: 2022-11-24T22:12:03.284Z
 type: posts
 draft: false
 slug: "movies"
-category: "5 mins read"
+category: "5 min read"
 tags: ["recs"]
 description: "It's hard to surface really good movie recs, so I put my favorites (and not-so-favorites) and upcoming movies in this live document!"
 ---
@@ -19,7 +19,9 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 
 ### 2023
 
--- **Eternal Sunshine of the Spotless Mind**: 9/10. This movie seems to be about forgetting and regret and breakups, but it's really about love. About how it's the genuine feeling and not the words themselves that make you love someone, and about how you choose someone again and again both with incomplete and with complete information. It might sound cheesy, but I think the movie did a great job not falling into that trap, mostly because of the sci-fi element (but what do I know, I've seen like 3 total romance movies). I think movies about repeating relationships fall flat for me since I feel like people change so much that repeating a relationship is a completely different jourey, but also most people probably whiplash their personality less than I do.
+- **Akira**: 7/10. This movie is weird -- but insanely influential for all the sci-fi to come after it. At the time, it was the highest budget Japanese animation ever -- they were able to create things no previous animation had created. They created the first cyberpunk cityscape and the iconic motorcycle slide replicated literally hundreds or thousands of times in media since then. Just to name a few, their depiction of child experimentation directly inspired Stranger Things, and the neo-Tokyo visuals and red puffer fashion directly inspired Kanye.
+
+- **Eternal Sunshine of the Spotless Mind**: 9/10. This movie seems to be about forgetting and regret and breakups, but it's really about love. About how it's the genuine feeling and not the words themselves that make you love someone, and about how you choose someone again and again both with incomplete and with complete information. It might sound cheesy, but I think the movie did a great job not falling into that trap, mostly because of the sci-fi element (but what do I know, I've seen like 3 total romance movies). I think movies about repeating relationships fall flat for me since I feel like people change so much that repeating a relationship is a completely different journey, but also most people probably whiplash their personality less than I do.
 
 - **The Prestige**: 8/10. This had been on my list ever since watching 'Now You See Me'. This movie about two vengeful magicians is a magic trick itself, filled with clever misdirections. The portrayal of obsession was well motivated and captivating.
 
@@ -39,7 +41,7 @@ This was an excellent year for movies. I spent a significant amount of time comb
 
 - **Clue**: 9/10. Really incredible adaptation (of the board game!). Probably my favorite movie pre-1990, they did a great job making murder lighthearted and keeping the audience guessing.
 
-- **Aaron Swartz: The Internet's Own Boy**: 10/10. Aaron's death was an abhorrent tragedy, but his life and values were incredibly uplifting and inspiring. This documentary is incredibly personal for me: nearly all the values that I try to uphold are either directly inspired by or were deeply held by Aaron. My life has been significantly impacted by both his story and the projects he worked on: my entire life right now is focused on improving trust in governance and open access education, things Aaron deeply cared about. I cried probably 5 times in this documentary, even though I already knew the entire story: my rating is extemely biased.
+- **Aaron Swartz: The Internet's Own Boy**: 10/10. Aaron's death was an abhorrent tragedy, but his life and values were incredibly uplifting and inspiring. This documentary is incredibly personal for me: nearly all the values that I try to uphold are either directly inspired by or were deeply held by Aaron. My life has been significantly impacted by both his story and the projects he worked on: my entire life right now is focused on improving trust in governance and open access education, things Aaron deeply cared about. I cried probably 5 times in this documentary, even though I already knew the entire story.
 
 - **Howl's Moving Castle**: 10/10. My first Studio Ghibli film. I absolutely loved Calcifer's character design, the animation was really well executed and heart warming, and even through the almost absurd story, you couldn't help but root for the odd band of characters.
 
@@ -53,9 +55,11 @@ This was an excellent year for movies. I spent a significant amount of time comb
 
 - **Look at Me**: 8/10. Another documentary that fills in the troubled story of the most-streamed hip hop artist of our generation. It's crazy to see this mans electric stage presence from the very first show. He was a complex person, and the documentary managed to both give a fair portrayal of his crimes and explain the circumstances that led to it. I wish we could have seen him live out the redemption arc that the movie painted, but maybe he never would have. Again, only highly recommended for fans of his music.
 
+- **Summer Wars**: 6/10. A comical anime about a fake boyfriend who's taken to meet his fake girlfriend's family, where he uses his computer, videogame, and math skills to save 2009 Japan's conception of the metaverse. A fun story for the family and an interesting conception of the "metaverse", but nothing particularly standout artistically.
+
 - **3 Billboards Outside Ebbing Missouri**: 10/10. It has an excellent unique plot from the get-go, and sets up a really unique protagonist/antagonist arc. Standout indie film.
 
-- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. Isn’t selflessness more romantic and idealistic?
+- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. It gets rid of my favorite part -- the romanticness and idealism of the completely selfless. Perhaps if I'd watched this independently of the short story, I'd like it more.
 
 - **Everything Everywhere All at Once**: 9/10. A24's standout movie; absurdist comedy. Excellent indie filmmaking and reflection on themes of parental empathy and nihilism. Am pretty happy I watched it with my family, we had a lot to talk about afterwards (though the hot dog scenes were not particularly comfortable lol). I think this is the only absurdist film I've really liked: they did a great job on keeping a compelling narrative that conveyed the emotional punches they wanted to convey.
 
@@ -89,11 +93,11 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Rashômon**: 7/10. One of Kurosawa's finest films. Deals with truth and interpretation in a pretty interesting way, although the ending is a bit abstract.
 
-- **Cleo from 5 to 7**: 2/10. I don't like French new wave style that much.
+- **Cleo from 5 to 7**: 2/10. I don't like French new wave style that much -- very few interesting things happened in this movie.
 
-- **The Conversation**: 3/10.
+- **The Conversation**: 3/10. Ugly, brutalist aesthetic. Very boring and simple storyline.
 
-- **Pulp Fiction**: 6/10. I didn't like it that much, but the style of interconnected plot lines seemed pretty novel for the time.
+- **Pulp Fiction**: 6/10. I didn't like it that much, but the style of interconnected plot lines seemed pretty novel for the time. There's also a ridiculous number of memes that refer to this movie.
 
 - **Citizen Kane**: 6/10. Funny how much this says about the powerful today.
 
@@ -103,7 +107,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Taxi Driver**: 6/10. Psychologically disturbing. Scorsese told a creative story in a style I've never seen a movie follow, but I just found it a little unnerving for my taste.
 
-- **Malcolm and Mary**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via good filmmaking.
+- **Malcolm and Marie**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via cool black and white shots.
 
 ### 2020
 
@@ -189,8 +193,9 @@ The notes for these movies are just summaries of what friends have told me about
 
 - **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
-- **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Drive my Car**: A Murukami classic.
+- **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
+- **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
