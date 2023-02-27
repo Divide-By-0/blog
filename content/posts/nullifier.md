@@ -82,7 +82,7 @@ Consider a signature that has two parts: a deterministic part based on a message
 
 Here’s an example of such an algorithm. Proposed by Kobi and 0xPARC, it’s known as a DDH-VRF (decisional Diffie–Hellman verifiable random function) -- a combination of the Goh-Jarecki EDL signature scheme and Chaum-Pederson proofs of discrete log equality, inspired by BLS signatures. I’ve color-coded the equivalent numbers so you can check the math.
 
-Here, $\text{hash}$ is a function that hashes directly to the curve, outputting a pair (x, y) instead of a scalar; $\text{hash2}$ is a traditional hash function like SHA-256 or Poseidon. This construction assumes the discrete log problem is hard; this is known as the decisional Diffie-Hellman assumption (DDF), hence the name. I use exponential notation here so you can apply your usual intuitions about the discrete log, but these exponentiations are actually implemented as elliptic curve multiplications.
+Here, $\text{hash}$ is a function that hashes directly to the curve, outputting a pair (x, y) instead of a scalar; $\text{hash2}$ is a traditional hash function like SHA-256 or Poseidon. This construction assumes the discrete log problem is hard; this is known as the decisional Diffie-Hellman assumption (DDH), hence the name. I use exponential notation here so you can apply your usual intuitions about the discrete log, but these exponentiations are actually implemented as elliptic curve multiplications.
 
 ![math](../../media/nullifier_math.png)
 
