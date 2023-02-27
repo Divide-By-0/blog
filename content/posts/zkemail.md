@@ -5,9 +5,9 @@ authors: ["yush_g, sampriti"]
 type: posts
 draft: false
 slug: "zkemail"
-category: "15 mins read"
+category: "30 min read"
 tags: ["crypto", "zk"]
-description: "A cool way to do trustless email subset verification on chain, and what that unlocks"
+description: "A cool way to do server-free, mostly-trustless email subset verification on chain, and what that unlocks"
 ---
 
 <!-- [TOC] -->

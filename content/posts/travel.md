@@ -4,7 +4,7 @@ date: 2022-10-19T22:12:03.284Z
 type: posts
 draft: false
 slug: "travel"
-category: "10 mins read"
+category: "10 min read"
 tags: ["recs"]
 description: "It's hard to surface really good travel recs, so I put my favorite experiences in this live document to help people exactly like me have crazy fun unique experiences."
 ---

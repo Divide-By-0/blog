@@ -9,7 +9,7 @@ tags: ["recs"]
 description: "It's hard to surface really good movie recs, so I put my favorites (and not-so-favorites) and upcoming movies in this live document!"
 ---
 
-It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially, since they aren't influenced by the usual Hollywood tropes or standard methods of storytelling, and tend to be a lot more unique.
+It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially -- classic Hollywood eschews controversy in favor of tropes and standard storytelling methods to maximize profit and agreeability at the box office; indie films tend to be a lot more unique and interesting.
 
 Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants, each one changing the implications of the movie (see: Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
@@ -18,6 +18,9 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 ## Previous
 
 ### 2023
+
+- ⭐ **Your Name** ⭐: 10/10. This movie had the most beautiful animation I've ever seen -- and it tells a beautiful story that is so deeply emotional, that you hardly give a passing glace to the reason time and identity work so strangely. It is the top 5 grossing anime films of all time, for good reason -- the beautiful music was from a Japanese rock band that yet achieves an incredibly soft soundtrack, the scenery is depicted unlike any animation I have ever seen, and the characters tug on your heartstrings. It imbues a sense that you can love a kind of person without needing a concrete identity (their name), and you feel a sense of something you are yearning for -- an alluringly romantic take in today's app swiping era. It doesn't hurt that my favorite-ever sci fi anthology, Axiomatic by Greg Egan, had a direct influence on the director (the "The Safe-Deposit Box" story specifically).
+<!-- Note: Insert tiktok above that has a preview of the animation style -->
 
 - **Akira**: 7/10. This movie is weird -- but insanely influential for all the sci-fi to come after it. At the time, it was the highest budget Japanese animation ever -- they were able to create things no previous animation had created. They created the first cyberpunk cityscape and the iconic motorcycle slide replicated literally hundreds or thousands of times in media since then. Just to name a few, their depiction of child experimentation directly inspired Stranger Things, and the neo-Tokyo visuals and red puffer fashion directly inspired Kanye.
 
@@ -109,7 +112,11 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Malcolm and Marie**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via cool black and white shots.
 
+- **Zindagi Na Melegi Dobara**: 10/10. An absolute classic Indian movie -- deeply moving, hilarious, filled with mischief and adventure, with a banger soundtrack. This is the kind of movie that will addict you to Bollywood films.
+
 ### 2020
+
+Many of these movies were chosen jointly with my family during COVID, so I didn't get as much of a chance to explore deeply.
 
 - **Gully Boy**: 9/10. Fun movie about upcoming rapper from Indian slums. Better depiction of poverty than Slumdog Millionaire, and more inspiring.
 
@@ -197,7 +204,11 @@ The notes for these movies are just summaries of what friends have told me about
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
+- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
+- **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
+- **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
+- **Spirited Away**: Somehow I haven't watched the greatest animated film of all time yet??
 - **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
 - **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
