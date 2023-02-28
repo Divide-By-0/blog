@@ -29,6 +29,7 @@ This alive document will be updated every time I travel.
       - **Next Haunt at MIT**: An interactive, horror escape room with actors, built by students inside a dorm. If you have a friend going here able to get you a ticket, it's definitely one of the most unique experiences I've had.
       - **Level99**: This is one of my favorite places in MA; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, timed jenga for maximum height, etc), and fun little bands that track the number of stars you have so far. Everyone I've told about it has loved it.
       - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and they'll be able to take you!
+      - **The Viz Lab at Harvard**: Apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. That sounds completely nuts to me, and I'd love to make a trip over and check it out.
       - Find me, and I'll happily offer you an algorave tutorial class (shout out to @alsoknownasrox for teaching me!) or play crazy cool VR videogames with you (my favorites are Minecraft in 3D, games with crazy realistic physics, and space exploration games like No Mans Sky!)
   - New York City, NY
     - Food

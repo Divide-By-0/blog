@@ -5,7 +5,7 @@ authors: ["yush_g"]
 type: posts
 draft: false
 slug: "nullifier"
-category: "20 mins read"
+category: "30 min read"
 tags: ["crypto", "zk"]
 description: "Unique pseudonymity"
 math: true
