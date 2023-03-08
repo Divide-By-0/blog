@@ -69,6 +69,10 @@ This alive document will be updated every time I travel.
 - Thailand
   - Food
     - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
+- Japan
+  - Experiences
+    - **Metal Gear Solid escape room**: There are physical guards you have to sneak around apparently, which sounds really cool.
+    - **Studio Ghibli Museum**: Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
 - Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.

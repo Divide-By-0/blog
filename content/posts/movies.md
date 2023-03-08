@@ -19,6 +19,8 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 
 ### 2023
 
+- **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they started with a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad that they immediately villianized the really interesting Mexico-inspired country they set up -- I would have loved a more nuanced take here, or more empathy created for them throughout. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated. The plot itself was also super formulaic and not really compelling or surprising; the last hour and a half was pretty predictable. A steep decline from Black Panther 1.
+
 - ⭐ **Your Name** ⭐: 10/10. This movie had the most beautiful animation I've ever seen -- and it tells a beautiful story that is so deeply emotional, that you hardly give a passing glace to the reason time and identity work so strangely. It is the top 5 grossing anime films of all time, for good reason -- the beautiful music was from a Japanese rock band that yet achieves an incredibly soft soundtrack, the scenery is depicted unlike any animation I have ever seen, and the characters tug on your heartstrings. It imbues a sense that you can love a kind of person without needing a concrete identity (their name), and you feel a sense of something you are yearning for -- an alluringly romantic take in today's app swiping era. It doesn't hurt that my favorite-ever sci fi anthology, Axiomatic by Greg Egan, had a direct influence on the director (the "The Safe-Deposit Box" story specifically).
 <!-- Note: Insert tiktok above that has a preview of the animation style -->
 
@@ -204,8 +206,8 @@ The notes for these movies are just summaries of what friends have told me about
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
+- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
 - **Spirited Away**: Somehow I haven't watched the greatest animated film of all time yet??
@@ -213,7 +215,6 @@ The notes for these movies are just summaries of what friends have told me about
 - **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
-- **Black Panther 2**: Was shot at MIT, so I want to spot all the buildings I know and love from it, even though most say it is subpar.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Song of the sea**: Scottish film with Anime vibes.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
