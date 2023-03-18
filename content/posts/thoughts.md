@@ -56,7 +56,7 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 
 - I suck at making music. How can I make more of it?
 
-  - One of the most insane experiences I've ever felt is sitting in an office in 2am darkness, one tiny light on the desk, feeling like it was a mini music studio, and jamming with an incredibly musically talented friend to write songs together. It seems simple, but it was almost surreal to be in that kind of creative flow; words transforming to poetry transforming to sung lyrics and slapped on a beat; it felt beautiful and creative and I loved it and I want more of it, even though I have minimal musical talent. I wonder if I can turn mastery of AI music tools into becoming a pseudo-producer or something.
+  - One of the most insane experiences I've ever felt is sitting in an office in 2am darkness, one tiny light on the desk, feeling like it was a mini music studio, and jamming with an incredibly musically talented friend to write songs together. It seems simple, but it was almost surreal to be in that kind of creative flow; words transforming to poetry transforming to sung lyrics and slapped on a beat; it felt beautiful and creative and I loved it and I want more of it. I have negative musical talent, but I can write so-so lyrics. I wonder if I can turn mastery of AI music tools into becoming a pseudo-producer or something and work with my favorite artists (I sent a beat anonymously to my favorite signers' manager who actually said they'd be down for me to come into the studio with her??? If only I had more time and talent...)
 
 - It brings up another question -- how do you consistently induce an environment conducive to creative flow, specific to the kind of work being done?
 
