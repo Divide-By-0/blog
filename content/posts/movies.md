@@ -170,7 +170,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Aladdin Live-Action**: 9/10. Great family movie.
 
-- **The Hate You Give**: 7/10. I wish the character had showcased her strength better in the end, it didn't feel satisfying.
+- **The Hate You Give**: 6/10. I wish the character had showcased her strength and growth better in the end, it was pretty unsatisfying to see the final external outcome of the internal growth of her confidence and voice.
 
 - **Avengers**: 6/10. I guess as a kid there's some feeling of closuse you want after having seen so many Marvel movies, which is why I keep watching. Nothing particularly interesting about the plot or storytelling, classic superhero stories.
 
@@ -186,15 +186,31 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Baby Driver**: 8/10. Pretty fun heist movie.
 
-- **Crazy Rich Asians**: 7/10. Classic.
+- **Crazy Rich Asians**: 7/10. Classic; I think I wasn't as interested or intrigued by the plot.
 
 - ⭐ **Inside Out** ⭐: 10/10. If you can't tell yet, I'm a Disney simp. This is probably my favorite Disney animation.
 
-- **O Brother, Where Art Thou?**: 9/10.
+- **O Brother, Where Art Thou?**: 9/10. Has an [absolutely banger song](https://www.youtube.com/watch?v=08e9k-c91E8) and is a pretty fun modern take on the Odyssey.
 
 - **Ready Player One**: 7/10. I liked this more than the sci-fi critics, plus it came out before metaverse was memed out of relevance. Had pretty one dimensional characters with overly simplistic motivations, which didn't feel authentic.
 
 - **Slumdog Millionaire**: 7/10. A film about India made by a non-Bollywood studio. Wouldn't recommend starting here, it's a pretty white take on Indian poverty. Is told in an interesting way though, and is moving.
+
+### 2017
+
+- **Straight Outta Compton**: 10/10. An incredible story about the start of mainstream hip-hop with NWA.
+
+- **A Brilliant Young Mind (X+Y)**: 10/10. This is a story about the IMO, about romance, about the beauty of math. It reflects a lot of my own experience, and felt really deeply relatable: the male lead went on to [much bigger stardom](https://en.wikipedia.org/wiki/Asa_Butterfield), and I had a [massive crush on the main female](https://www.imdb.com/name/nm1792549/) who unfortunately seems to have not acted for the last 10 years.
+
+- **deadpool**: 10/10. Ryan Renolds is an absolutely lovable clown.
+
+- **Da Vinci Code**: 10/10. God the allure of a worldwide puzzle with a dizzying reward is so beautiful: part of the reason I love geocachine is that I get the slightest glimpse into such a double layer on reality.
+
+- **It**: 6/10. Classic horror movie.
+
+- **Interstellar**: 10/10. Beautiful Christopher Nolan masterpiece.
+
+- **The Greatest Showman**: 8/10.
 
 ## Want To Watch
 
@@ -224,6 +240,4 @@ The notes for these movies are just summaries of what friends have told me about
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
-
-<!-- Master Of None -->
-<!-- Blue Mountain State -->
+- **Mind Fuck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindfuck section

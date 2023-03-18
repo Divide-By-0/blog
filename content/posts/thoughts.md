@@ -1,9 +1,9 @@
 ---
-title: "Thoughts for Curious Rabbit-holers Like Me [Live Post]"
+title: "Questions for Curious Rabbit-holers Like Me [Live Post]"
 date: 2022-12-18T22:12:03.284Z
 type: posts
 draft: false
-slug: "thoughts"
+slug: "questions"
 category: "15 min read"
 tags: ["recs"]
 description: "I often read things then forget what my takeaways were, so this doc is meant to remind me and hopefully surface interesting ideas for others."
@@ -11,7 +11,7 @@ description: "I often read things then forget what my takeaways were, so this do
 
 ## Musings
 
-These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about. Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inpsired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/).
+These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about. Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inpsired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/). Usually phrased in the form of questions, as that's a fairly simple way for readers to critically come to their own ideas as well.
 
 In an ideal world, I would both survey my opinion on the topic before the reading, and after the reading, and maybe make some concrete predictions or somehow stake my opinions? But there isn't a super easy way to do this right now. Maybe staking some bounties here or setting up a manifolds market folder for myself would work well? Open to suggestions. I will probably start a similar page for the books I read soon, but for now they are on my [goodreads](https://www.goodreads.com/user/show/123131170-aayush-gupta).
 
@@ -49,7 +49,20 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 - Will Project CETI lead to cargo cultism in whales?
   - A system of belief in which a less tech advanced society is contacted by a more advanced society, and the less advanced society resorts to ineffective means like prayer to try to bring the more advanced society to bring more goods, like guns. Interesting to wonder if this will be a possible fear with interspecies communication projects, like [humans aiming to talk with whales](https://common.earth/project-ceti).
 - What does one do about carpal tunnel symptoms?
+
   - I dealt with this nonsense for several years of my life: I had the whole ergonomic gambit, and it stopped me from playing my favorite sports and even typing and writing for a whole. On strong recommendations of several of my friends, I was led down this rabbit hole. One of the most prominent rehab centers in the USA is the NYU Rusk Rehab center, and one of their longest tenured members for 50 years (and the [director of the patient clinic](https://www.nytimes.com/2017/06/23/science/john-sarno-dead-healing-back-pain-doctor.html) for a decade) was named John Sarno. He was also a Professor of Rehab Medicine at NYU -- as one of the foremost experts at one of the foremost instutitions, this guy was the real deal. He published a book detailing some of his most effective methods for dealing with chronic pain, which was a theory that the pain is caused by tension in the muscles. This tension comes from psychosomatic causes, aka repressed anger and emotions that manifests itself as pain. It might sound psycho, but given this man's credentials I decided to try [his book](https://amzn.to/3HF8aZv). After the short 3ish hour audiobook and maybe 5-10 hours of focused reflection and therapy, I basically resolved my symptoms -- no more lugging around ergonomic equipment, no more physical therapy, no more movement avoidance needed. Given that this book also basically cured all 3-4 of the friends I recommended this to and the 3-4 who recommended it to me, I would highly recommend giving this a shot -- it's relatively low cost, even if it doesn't work.
+
+- What is the point of poetry?
+
+  I've had this discussion with various folks over the last few months, and one recent discussion distilled my thoughts quite well -- communicated here as the socratic dialogue I wish I had then.
+
+  **Student**: Why doesn't the poet just say the thing outright, like an essay?
+
+  **Gojo**: Just as how papers are how one communicates science, essays how one communicates ideas, poetry is how one communicates emotions: it's more powerful to drwa assosciations and invoke the feeling via metaphor, that a reader can triangulate in embedding space. This is often be more globally evocative of the feeling they are trying to communicate, by pinpointing it on more dimensions: by using the specific to invoke something more universal and general.
+
+  **Student**: Why have things like rhymes and structure then?
+
+  **Gojo:** You don't need it, strictly speaking -- and many poems don't have or need it. But constraints can help with creativity i.e. needing rhyming words can evoke a specific thread of thinking that would have been hard to conjure without it, or make it more fun to consume.
 
 ## Thoughts from videos
 
