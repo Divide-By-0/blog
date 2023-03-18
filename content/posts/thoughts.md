@@ -54,15 +54,15 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 
 - What is the point of poetry?
 
-  I've had this discussion with various folks over the last few months, and one recent discussion distilled my thoughts quite well -- communicated here as the socratic dialogue I wish I had then.
+  - I've had this discussion with various folks over the last few months, and one recent discussion distilled my thoughts quite well -- communicated here as the socratic dialogue I wish I had then.
 
-  **Student**: Why doesn't the poet just say the thing outright, like an essay?
+> > **Student**: Why doesn't the poet just say the thing outright, like an essay?
 
-  **Gojo**: Just as how papers are how one communicates science, essays how one communicates ideas, poetry is how one communicates emotions: it's more powerful to drwa assosciations and invoke the feeling via metaphor, that a reader can triangulate in embedding space. This is often be more globally evocative of the feeling they are trying to communicate, by pinpointing it on more dimensions: by using the specific to invoke something more universal and general.
+> > **Gojo**: Just as how papers are how one communicates science, essays how one communicates ideas, poetry is how one communicates emotions. Rather than trying to decsribe an emotion outright, it's often more powerful to draw assosciations and invoke the feeling via metaphor, that a reader can triangulate in embedding space. This is often be more globally evocative of the feeling they are trying to communicate, by pinpointing it on more dimensions: by using the specific to invoke something more universal and general.
 
-  **Student**: Why have things like rhymes and structure then?
+> > **Student**: Why have things like rhymes and structure then?
 
-  **Gojo:** You don't need it, strictly speaking -- and many poems don't have or need it. But constraints can help with creativity i.e. needing rhyming words can evoke a specific thread of thinking that would have been hard to conjure without it, or make it more fun to consume.
+> > **Gojo:** You don't need it, strictly speaking -- and many poems don't use it. But constraints can help with creativity i.e. needing rhyming words can evoke almost random threads of thinking that would have been hard to conjure without it, or make it more fun to consume.
 
 ## Thoughts from videos
 
