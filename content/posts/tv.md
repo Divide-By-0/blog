@@ -27,7 +27,11 @@ Storytelling simp is pretty lossy and inaccurate representation of this list. I 
 
 ### 2022
 
-- ⭐ **Bojack Horseman** ⭐: 10/10. It's nominally the best show around about depression, but it's so well done that I couldn't really tell. I found the titular character to be both repulsive and incredibly relatable: a remarkable mirror on myself that I've never seen so well done in media. The characters are all complex, and the anthropomorphic characters drive focus to chracter traits closer to people's cores.
+- **Westworld** 10/10 for Season 1. The world building and meta world building is absolutely insane -- both the out west parts and the futuristic parts. It delves really deep into some very interesting consciousness theories, which I've commented on [a bit more in my other posts](https://blog.aayushg.com/posts/questions#thoughts-from-articles). They slyly slip in a bunch of fun thought experiments about consciousness and AI that are remarkably thought provoking and unique -- Jonathan Nolan clearly dug deep for material. The characters are dynamic and multifaceted, and the plot is surprising and well done.
+
+- **Sword Art Online**: 8/10 for Season 1. A metaverse concept that was pretty novel for it's time, the protagonists are entertaining, and the the romance is heartwarming. Probably aimed at middle or high schoolers, but I really enjoyed it nevertheless and would recommend it as an intro anime.
+
+- ⭐ **Bojack Horseman** ⭐: 10/10. It's nominally the best show around about depression, but it's so well done that I couldn't really tell. I found the titular character to be both repulsive and incredibly relatable: a remarkable mirror on myself that I've never seen so well done in media. The characters are all astoundingly complex and deal with realistic problems that show who they deeply are, and the anthropomorphic characters drive focus to chracter traits closer to people's cores.
 
 ### 2020
 
