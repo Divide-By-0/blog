@@ -1,5 +1,5 @@
 ---
-title: "Unique Pseudonymity on Ethereum: Verifiably Deterministic Signatures on ECDSA"
+title: "PLUME: Unique Pseudonymity with Ethereum"
 date: 2022-12-01T02:12:03.284Z
 authors: ["yush_g"]
 type: posts
@@ -14,55 +14,55 @@ aliases:
 math: true
 ---
 
-### ZK Systems
+## ZK Systems
 
 The proliferation of advances in [zkSNARK](https://ethereum.org/en/zero-knowledge-proofs/) applications has created a useful new [privacy](https://vitalik.ca/general/2022/06/15/using_snarks.html) primitive: a user can prove statements _about_ their identity without revealing their full identity. If you can provide a zkSNARK demonstrating that you know the secret key for an account that is a leaf of the Merkle tree of Bored Ape owners, then you can prove that you own a Bored Ape without telling anyone who you are. Or you could prove that you're part of the group "liquidity providers on Uniswap in the last 24 hours", or maybe even one day that you're part of the group "people with a mutation in the XYZ gene".
 
 Why would you want to prove that you're part of a group? For one thing, you might want to talk with the rest of the group on a forum that's anonymous but also only open to verified members. One application, [heyanon](https://www.heyanon.xyz/), uses ZK verification to anonymously tweet on behalf of members of groups – for instance, victims of the DAO hack. You could expand this into a full-blown semi-anonymous message board, where a user verifies their eligibility by sending a valid zkSNARK with each message proving that they have a valid signature. But it's hard to moderate a forum without consistent identities: you'd need some way of requiring each anonymous account to link all its actions together, so you could track its reputation or ban it if you had to. There are many other applications that require a single pseudonymous identity per user to prevent duplicate actions; for example, claiming an airdrop or voting.
 
-### One address, one nullifier
+## One address, one nullifier
 
 Let's say we want to do an [zero-knowledge airdrop](https://github.com/stealthdrop/stealthdrop): I publish a set of addresses whose owners should be allowed to claim the airdrop, but I want to let those owners anonymously receive the airdrop from burner accounts. If you own one of those addresses, you make a new anonymous account and use it to send me a ZK proof that there's some address on the list whose secret key you control (for example, a proof that you can generate a valid signature with the secret key). But what if you then make _another_ new account and send me a new proof to try and claim a second airdrop? I don't know which of the original addresses the proof corresponds to, because it's anonymous, so how do I stop you from claiming arbitrarily many airdrops?
 
-I'd want to require you to submit some kind of public commitment that you're only using your claim once. This kind of unique public identifier is called a “nullifier” because after it's published, it nullifies an address’s ability to perform an action again.
+I'd want to require you to submit some kind of public commitment that you're only using your claim once. This kind of unique public identifier is called a “nullifier” because after it's published, it nullifies an address’s ability to perform an action again. From a more general lens of identity, you can think of these as a pen-name, or your PLUME: a Pseudonymously Linked Unique Message Entity.
 
-### Some possible nullifier schemes
+## Some possible nullifier schemes
 
 Let’s consider a few ways we could try to make a nullifier.
 
-#### 1. hash(public key)
+### 1. hash(public key)
 
 What if you just post a hash of your public key? This looks promising: your account only has one public key, so you can't post again, and no two accounts have the same public key. But there are only so many on-chain addresses, so an adversary could brute-force compute all the hashes to link the nullifier back to you.
 
-#### 2. hash(secret key)
+### 2. hash(secret key)
 
 How about if you hash your secret key instead, then? That can't be brute-forced. But what if you want to join a semi-anonymous forum, and then later on you want to receive an anonymous airdrop of a DAO's governance token? You'd be stuck with a single global nullifier, so you could only do one of these things.
 
-#### 3. hash(message, secret key)
+### 3. hash(message, secret key)
 
 Let's add in a message: that way, each app can have one canonical message to identify it. This seems pretty good: there's no way to reverse-engineer the nullifier via the secret key; it's lightweight and computable in a hardware wallet, and it's unique for each account and application. But there's a problem: proving the validity of this nullifier would require access to the secret key, and sending a secret key anywhere outside of a secure enclave, like a hardware wallet, compromises security, especially if the user copy-pastes it as plaintext. It’s dangerous for the secret key to leave the enclave, but the elliptic curve pairing functions required for proving zkSNARKS are too complex to be computed in current hardware wallets, so we want the verifier to be able to verify the proof without even having to access the secret key. All computations that do require access to the secret key should be very lightweight so they can be run on a hardware wallet if necessary.
 
-#### 4. Deterministic ECDSA signature
+### 4. Deterministic ECDSA signature
 
 What if you sign a message with your secret key, and the signature is your nullifier? That was the initial idea for [stealthdrop nullifiers](https://github.com/stealthdrop/stealthdrop). It's promising because you don't have to provide your secret key anywhere – you just generate the signature yourself. One catch is that this requires what's called a “deterministic signature scheme” -- if you generate a signature that includes some nondeterministic randomness, then the nullifier wouldn't be unique, because you could have a different nullifier for each possible value of the random part. Fortunately, ECDSA, the signature scheme used by Ethereum, is deterministic: the randomness is deterministically derived from the secret key (like `hash[secret key]`). So if you can deterministically sign some app-specific message, you might guess that `hash[sign(message, pk)]` would be an effective nullifier. Unfortunately, this doesn't quite work: to _verify_ the randomness, the zkSNARK would still need to access the secret key. And if we don't commit to a particular piece of randomness, an adversary could generate around 2<sup>256</sup> valid ECDSA signatures (and thus nullifiers) per message. For that reason, normal Ethereum signatures don’t work as a unique anonymous identifier.
 
-#### 5. Verifiable random functions/unique signatures
+### 5. Verifiable random functions/unique signatures
 
 It turns out there’s some literature on verifiable random functions (VRFs) that have essentially the same properties that we want, but these constructions don’t work out of the box with ECDSA. Most of these functions use pairing-friendly curves, but ECDSA uses the secp256k1 elliptic curve. You could imagine a different world where Ethereum used pairing-friendly curves instead, but in that case, it would probably also be using a deterministic signature scheme like BLS, so we wouldn't need a VRF in the first place.
 
-### Properties of a good nullifier
+## Properties of a good nullifier
 
 Let's summarize the properties we've determined we need from our nullifier. It should be:
 
-#### 1. Unique
+### 1. Unique
 
 Users shouldn't be able to generate multiple nullifiers; otherwise, they could double-spend or double-claim.
 
-#### 2. Deterministic
+### 2. Deterministic
 
 Signature schemes generally incorporate randomness; if the nullifier were computed using randomness generated in a nondeterministic way, then it would be impossible to generate a single uniquely valid nullifier.
 
-#### 3. Verifiable with only the public key
+### 3. Verifiable with only the public key
 
 The verifier should be able to verify the proof without having to access the secret key, to preserve the security of the secret key.
 
@@ -72,11 +72,11 @@ Noninteractivity enables new use cases for ZK systems because it allows a large 
 
 So we'll add this as a fourth property to our list:
 
-#### 4. Non-interactive
+### 4. Non-interactive
 
 The user shouldn't have to take any additional actions other than generating a single nullifier.
 
-### A promising new standard
+## A promising new standard
 
 With these criteria in mind, let’s try to combine the intuition around simple hash-based functions with our desire for unique signatures. What if a function like $\text{hash}[\text{message, }pk]^{sk}$, easy enough to calculate in a hardware wallet’s secure enclave, were possible to verify with only the public key? This is the key insight we can use to construct our nullifier, by deriving such a verification scheme and using this value as a signature.
 
@@ -117,11 +117,31 @@ Conveniently, the verification check doesn't require the secret key anywhere, ju
 
 Importantly, the public nullifier looks like random noise to everyone else, and even knowing the full set of possible public keys leaves you with no way to figure out whether the nullifier came from any particular public key.
 
-Even if the secure enclave gets breached and all the private signals are leaked, only the public key gets revealed, not the secret key. So the leak would deanonymize the user but still wouldn't allow anyone to steal their funds. (We will have a formal proof of this in a paper very soon!)
+Even if the wallet gets breached and all the private signals are leaked, only the public key gets revealed, not the secret key. So the leak would deanonymize the user but still wouldn't allow anyone to steal their funds. (We have a formal proof of this in [our paper](https://aayushg.com/thesis.pdf)!) This is also promising because hardware wallet secure enclaves only need to to exponents of the secret key, and wallets in general only need to be able to compute hashes, not entire ZK proofs -- even if they had the compute power for ZK, most systems' security have yet to be formally verified, and state-of-the-art implementations are changing every year.
 
-This is promising because hardware wallets will only have to compute hashes, not entire ZK proofs, whose security has yet to be formally verified and whose implementations will likely change over the next few years.
+**In summary, we achieve unique pseudonymity via PLUMEs, by deploying verifiably deterministic signatures on ECDSA within wallets. Users can then derive unlinked application-specific nullifiers. Users can also anonymously prove set membership in any set of Ethereum or Bitcoin wallets, via ZK proofs that can be verified efficiently.**
 
-### The interactivity-quantum secrecy tradeoff
+## New use cases enabled
+
+Let's say we've implemented this PLUME system: what can we do now with unique but anonymous identities?
+
+ZK airdrops become easy: we just check that you're in the Merkle tree of allowed users in ZK, and then require that you submit a nullifier to prevent you from claiming the airdrop a second time.
+
+Message boards can have persistent anonymous identity, meaning you can post under the same nullifier three times, and everyone will know that all your posts came from the same person, and that the author of the posts is a member of the group eligible to post to the forum, but no one will know that the author is you. Another huge unlock is moderation -- anonymous accounts can get banned, and anonymous accounts can accrue persistent reputation.
+
+We can build anonymous sybil-resistant apps like voting, where we need to ensure people haven’t double-voted (ideally, we'd also use [MACI](https://privacy-scaling-explorations.github.io/maci/) to prevent bribery by making receipts impossible). This can be done with the nullifier scheme we've just walked through, where the airdropper publishes a list of eligible addresses, and then if you own one of those addresses, you make a burner account to vote from, proving anonymously that you control an eligible address that hasn't already voted. (One wrinkle is that for on-chain applications that require gas, including some voting systems, the burner account won't necessarily have funds with which to pay the gas yet; in these cases, we can maintain anonymity by having users send their proofs to relayers, who front the gas to post the proof on-chain and then get paid off by the election contract.)
+
+I think that wallets that adopt this standard will enable their users to interact with the next generation of ZK applications first. I’m bullish on a future where this is a standard as commonplace as ECDSA signing within every secure enclave.
+
+## Next steps
+
+So far, we have the [Gupta-Gurkan nullifier paper proving all the security proofs](https://aayushg.com/thesis.pdf); a [repository](https://github.com/zk-nullifier-sig/zk-nullifier-sig/) with the deterministic signature calculation in Rust (Javascript in progress); all the components of the [Circom circuits](https://github.com/geometryresearch/secp256k1_hash_to_curve/) needed to do hashing to elliptic curves; and a [Metamask snap](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) to compute nullifiers.
+
+In the future, we're hoping to formalize our spec into an ERC and use that to integrate the nullifier calculation into [Burner Wallet](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping or using the scheme, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant! Thank you to Kobi for coming up with the scheme and coauthoring the paper with me, 0xPARC for brainstorming the scheme with me, Vivek for writing the actual proofs with me, Richard for contributing a ton of JS code for wallet intergrations, Blake and Weijie for doing the circom ZK circuits, and all of the teams who looked at and used this for the Nouns private voting contest!
+
+# Appendix
+
+## The interactivity-quantum secrecy tradeoff
 
 In the far future, once quantum computers can break ECDSA keypair security, most Ethereum keypairs will be broken. This doesn't mean quantum will necessarily cause everyone to lose their funds: we can migrate to a more quantum-resistant signature scheme (or even just a higher-bit version of ECDSA) in advance by having everyone sign messages committing to new keypairs under the new scheme and forking the canonical chain to make those new keypairs valid. zkSNARKs become forgeable, but secret data in past proofs remains secret. In the best case, the chain should be able to continue without a hitch.
 
@@ -138,21 +158,3 @@ There is an [alternative](https://zkresear.ch/t/how-quantum-computers-affect-zk-
 To get a better estimate of how long quantum computers might actually take to break the anonymity of nullifiers, a [recent approximation](https://eprint.iacr.org/) of $9n$ signal qubits needed to solve discrete log on quantum computers shows that we are likely several decades till discrete log is even theoretically in reach, primarily because the noise problem has not been corrected for yet. (For a more complete model of how quantum affects blockchains, check out my overview post [here](https://zkresear.ch/t/how-quantum-computers-affect-zk-and-blockchains-how-to-quantum-proof-ethereum/59)).
 
 If you want to use nullifiers, this knowledge should inform the point you choose on the interactivity-quantum secrecy tradeoff curve, but ultimately, it also depends on your use case. People who care more about large anonymity sets in the short term, like DAO voters or young people making confessions that won't matter when they’re older, might prefer the nullifier construction outlined in this post, but people who need secrecy in the long term, like whistleblowers or journalists, might want to consider a semaphore construction like Tornado's instead.
-
-### New use cases enabled
-
-Let's say we've implemented this nullifier system: what can we do now with unique but anonymous identities?
-
-ZK airdrops become easy: we just check that you're in the Merkle tree of allowed users in ZK, and then require that you submit a nullifier to prevent you from claiming the airdrop a second time.
-
-Message boards can have persistent anonymous identity, meaning you can post under the same nullifier three times, and everyone will know that all your posts came from the same person, and that the author of the posts is a member of the group eligible to post to the forum, but no one will know that the author is you. Another huge unlock is moderation -- anonymous accounts can get banned, and anonymous accounts can accrue persistent reputation.
-
-We can build anonymous sybil-resistant apps like voting, where we need to ensure people haven’t double-voted (ideally, we'd also use [MACI](https://privacy-scaling-explorations.github.io/maci/) to prevent bribery by making receipts impossible). This can be done with the nullifier scheme we've just walked through, where the airdropper publishes a list of eligible addresses, and then if you own one of those addresses, you make a burner account to vote from, proving anonymously that you control an eligible address that hasn't already voted. (One wrinkle is that for on-chain applications that require gas, including some voting systems, the burner account won't necessarily have funds with which to pay the gas yet; in these cases, we can maintain anonymity by having users send their proofs to relayers, who front the gas to post the proof on-chain and then get paid off by the election contract.)
-
-I think that wallets that adopt this standard will enable their users to interact with the next generation of ZK applications first. I’m bullish on a future where this is a standard as commonplace as ECDSA signing within every secure enclave.
-
-### Next steps
-
-So far, we have the [Gupta-Gurkan nullifier paper proving all the security proofs](https://aayushg.com/thesis.pdf); a [repository](https://github.com/zk-nullifier-sig/zk-nullifier-sig/) with the deterministic signature calculation in Rust (Javascript in progress); all the components of the [Circom circuits](https://github.com/geometryresearch/secp256k1_hash_to_curve/) needed to do hashing to elliptic curves; and a [Metamask snap](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) to compute nullifiers.
-
-In the future, we're hoping to formalize our spec into an ERC and use that to integrate the nullifier calculation into [Burner Wallet](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping or using the scheme, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant! Thank you to Kobi for coming up with the scheme and coauthoring the paper with me, 0xPARC for brainstorming the scheme with me, Vivek for writing the actual proofs with me, Richard for contributing a ton of JS code for wallet intergrations, Piotr for writing the snap, Blake and Weijie for doing the circom ZK circuits, and all of the teams who looked at and used this for the private voting contest!
