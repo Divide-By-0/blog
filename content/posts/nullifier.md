@@ -8,6 +8,9 @@ slug: "nullifier"
 category: "30 min read"
 tags: ["crypto", "zk"]
 description: "Unique pseudonymity"
+aliases:
+    - /posts/plume
+    - /plume
 math: true
 ---
 
@@ -152,8 +155,4 @@ I think that wallets that adopt this standard will enable their users to interac
 
 So far, we have the [Gupta-Gurkan nullifier paper proving all the security proofs](https://aayushg.com/thesis.pdf); a [repository](https://github.com/zk-nullifier-sig/zk-nullifier-sig/) with the deterministic signature calculation in Rust (Javascript in progress); all the components of the [Circom circuits](https://github.com/geometryresearch/secp256k1_hash_to_curve/) needed to do hashing to elliptic curves; and a [Metamask snap](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) to compute nullifiers.
 
-In the future, we're hoping to formalize our spec into an ERC and use that to integrate the nullifier calculation into [Burner Wallet](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping or using the scheme, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant!
-
-```
-
-```
+In the future, we're hoping to formalize our spec into an ERC and use that to integrate the nullifier calculation into [Burner Wallet](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping or using the scheme, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant! Thank you to Kobi for coming up with the scheme and coauthoring the paper with me, 0xPARC for brainstorming the scheme with me, Vivek for writing the actual proofs with me, Richard for contributing a ton of JS code for wallet intergrations, Piotr for writing the snap, Blake and Weijie for doing the circom ZK circuits, and all of the teams who looked at and used this for the private voting contest!
