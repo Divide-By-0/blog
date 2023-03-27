@@ -4,11 +4,8 @@
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;700&display=swap"
-        rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
-    {{ $title := print .Title }} {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    {{ $title := print .Title }} {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }} {{ partial "hook_head_end.html" . }}
     <title>{{ $title }}</title>
 </head>
