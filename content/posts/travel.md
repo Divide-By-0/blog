@@ -18,28 +18,32 @@ This alive document will be updated every time I travel.
 - USA
   - Seattle, WA
     - Food
-      - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle.
+      - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
+    - To-do
+      - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
   - Cambridge, MA
     - Food
-      - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a line.
+      - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
       - **Yume Ga Agakura**: Sister shop, the best udon in MA. They shout a rating for your meal at the end, based on the amount of the Udon you were able to finish. Also affordable ($15/per).
       - **Life Alive**: The best vegetarian food I've ever eaten ‒ I hate vegetarian food and still really enjoy this place.
       - **Jules' Jamaican Pop Up**: This secret tent only appears on weekend afternoons in Central, and serves huge and tasty portions of jerk chicken.
     - Experiences
       - **Next Haunt at MIT**: An interactive, horror escape room with actors, built by students inside a dorm. If you have a friend going here able to get you a ticket, it's definitely one of the most unique experiences I've had.
-      - **Level99**: This is one of my favorite places in MA; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, timed jenga for maximum height, etc), and fun little bands that track the number of stars you have so far. Everyone I've told about it has loved it.
+      - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, timed jenga for maximum height, etc), and fun little electronic bands that track the number of stars you have so far. Everyone I've told about it has loved it.
       - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and they'll be able to take you!
       - **The Viz Lab at Harvard**: Apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. That sounds completely nuts to me, and I'd love to make a trip over and check it out.
       - Find me, and I'll happily offer you an algorave tutorial class (shout out to @alsoknownasrox for teaching me!) or play crazy cool VR videogames with you (my favorites are Minecraft in 3D, games with crazy realistic physics, and space exploration games like No Mans Sky!)
   - New York City, NY
     - Food
-      - **Genki Omakase**: I haven't been here yet, but it's one of the most affordable omakase's I've ever seen at < $100/person, and a friend who's been to 4 omakase's said it's the best of the lot.
-      - **Action Burger**: I haven't been here, but it looks interesting ‒ it has a sci-fi theme and a bunch of videogames setup for patrons.
+      - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
+      - **Action Burger**: I haven't been here, but it looks interesting ‒- it has a sci-fi theme and a bunch of videogames setup for patrons.
+      - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
     - Experiences
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
       - **Speak No More**: I haven't been here, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion.
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
-      - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take long subway segments often.
+      - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.
+      - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
       - **Hyprov**: I haven't been, but hypnosis with improv sounds pretty interesting.
   - Other
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
