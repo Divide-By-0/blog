@@ -21,6 +21,7 @@ This alive document will be updated every time I travel.
       - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
     - To-do
       - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
+      - **The Gorge**: [Rave style experiences](https://pnw.beyondwonderland.com/) in a naturally-formed amphitheatre in the rock.
   - Cambridge, MA
     - Food
       - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
@@ -40,12 +41,18 @@ This alive document will be updated every time I travel.
       - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
     - Experiences
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
-      - **Speak No More**: I haven't been here, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion.
+      - **Sleep No More**: I haven't been here, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html).
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
       - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
+      - **Immersive Gamebox**: Haven't been, [but this place](https://immersivegamebox.com/locations/ny-lower-east-side-manhattan/) claims full immersive tech-enabled rooms.
       - **Hyprov**: I haven't been, but hypnosis with improv sounds pretty interesting.
-  - Other
+    - North California
+      - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
+    - South California
+      - **Mars College**: Haven't been. One of my close friends' favorite alternative communes.
+      - **B Sweeet**: Haven't been. In LA, a bread pudding shop with 40 flavors.
+  - ## Other
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
 - Maldives
@@ -67,17 +74,32 @@ This alive document will be updated every time I travel.
     - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
   - Experiences
     - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
-- Egypt
-  - Food/Experiences
-    - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was one of the best stays I've ever had.
+- Berlin
+  - **Trust**: Haven't been yet but know some people. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in.
+  - **Kitkatclub**: Haven't been. Famous alt club.
+  - **Sisyphus**: Haven't been. Famous 6 story themed club.
+  - **About:Blank**: Haven't been. Well reputed club.
+  - **Berghain**: Haven't been. Most famous club, can only get in at 6am on a Sunday. Need to dress slightly gay/alternatively/authentically to get past Sven, and speak a bit of German.
 - Thailand
   - Food
     - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
 - Japan
   - Experiences
+    - **Ryokan**: More authentic stay.
     - **Metal Gear Solid escape room**: There are physical guards you have to sneak around apparently, which sounds really cool.
     - **Studio Ghibli Museum**: Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
+    - **Kojima Studio tour**: Haven't been here yet, but the guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
+- Egypt
+  - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
+  - Food/Experiences
+    - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was a great local stay.
+- Other International
+  - Experiences
+    - **Phillipines International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
+    - **French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
+    - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
 - Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
     - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course so you can get credit for your first dive.
+    - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.

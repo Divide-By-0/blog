@@ -72,13 +72,17 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 
 > > **Student**: Why have things like rhymes and structure then?
 
-> > **Gojo:** You don't need it, strictly speaking -- and many poems don't use it. But constraints can help with creativity i.e. needing rhyming words can evoke almost random threads of thinking that would have been hard to conjure without it, or make it more fun to consume.
+> > **Gojo:** You don't need it, strictly speaking -- and many poems don't use it. But constraints can help with creativity i.e. needing rhyming words can evoke almost random threads of thinking that would have been hard to conjure without it, or make it more fun to consume. This quote from _The Artist’s Way_ sums it up well: "In limits, there is freedom. Creativity thrives within structure."
 
 ## Thoughts from videos
 
 - Is the kind of obsession that Benny Blanco has replicable?
 
   - There are [dozens](https://www.youtube.com/watch?v=Vt3qpowacRQ) of [videos](https://www.youtube.com/watch?v=-L9A7e3bIDE) on [YouTube](https://www.youtube.com/watch?v=iC_yRxEsbJM) about how this man works -- and it's clear he cares about the beautify of the music and emotional connection with other artists first and foremost. He just jams when he wants to, and has the kind of artistic influences that make all of his songs massive bops. There are so many stories of obsession, but this is the first I saw with such raw video footage online -- is this kind of obsession possible to imbue in another or in yourself?
+
+## Personal Reflection Thoughts
+
+- I often give myself a hard time after screwing up. [This article recommends compassion instead](https://kofibaah.com/posts/hard-time/) -- the example of being late and beating yourself up over it (and not changing) feels relatable. I like the [Alexander Technique](https://www.michaelashcroft.org/courses)-esque practice of expanding awareness in such situations, with the goal of becoming an observer of your mental loops rather than mired in them.
 
 ## Other Thoughts
 
