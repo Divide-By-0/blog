@@ -89,6 +89,7 @@ This alive document will be updated every time I travel.
     - **Metal Gear Solid escape room**: There are physical guards you have to sneak around apparently, which sounds really cool.
     - **Studio Ghibli Museum**: Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
     - **Kojima Studio tour**: Haven't been here yet, but the guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
+    - **Pachinko Parlor**: Super intense gambling phenomenon in Japan.
 - Egypt
   - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
   - Food/Experiences
