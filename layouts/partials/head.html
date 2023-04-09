@@ -5,11 +5,24 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Space+Mono&display=swap" rel="stylesheet" />
 {{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
 <link rel="stylesheet" type="text/css" href="/css/style.css" />
 {{ $title := print .Title }} {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
 <title>{{ $title }}</title>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+    "datePublished": "{{ .Date.Format "2022-10-20" }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Params.author }}"
+    }
+  }
+</script>
 {{ template "_internal/google_analytics.html" . }}
