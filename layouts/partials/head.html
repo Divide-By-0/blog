@@ -1,8 +1,12 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Space+Mono&display=swap" rel="stylesheet" />
 {{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
 <link rel="stylesheet" type="text/css" href="/css/style.css" />

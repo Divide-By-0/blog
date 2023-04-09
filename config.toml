@@ -2,7 +2,7 @@ baseURL = 'https://blog.aayushg.com/'
 languageCode = 'en-us'
 title = "aayush's thoughts"
 theme = "hackerman"
-description = "blog"
+description = "Aayush's blog. Discusses zk cryptography like plume, zk email, nullifiers, quantum crypto, and vickrey auctions on chain. Also lists reviews and recommendations for hidden gem movies, TV shows, travel recs, and more."
 googleAnalytics = 'G-K3VZM7ZJ7M'
 [menu]
   [[menu.main]]
@@ -15,3 +15,5 @@ googleAnalytics = 'G-K3VZM7ZJ7M'
     pre = "pen-tool"
     url = "/posts/"
     weight = 2
+[params]
+    description = "Aayush's blog. Discusses zk cryptography like plume, zk email, nullifiers, quantum crypto, and vickrey auctions on chain. Also lists reviews and recommendations for hidden gem movies, TV shows, travel recs, and more."
