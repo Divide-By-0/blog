@@ -1,0 +1,2 @@
+{{ $summaryWithoutHeaders := replaceRE "<h[1-6][^>]*>.*</h[1-6]>" "" .Summary }}
+{{ $summaryWithoutHeaders | safeHTML }}
