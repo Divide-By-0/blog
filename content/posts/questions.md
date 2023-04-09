@@ -9,11 +9,11 @@ tags: ["recs"]
 description: "I often read things then forget what my takeaways were, so this doc is meant to remind me and hopefully surface interesting ideas for others."
 ---
 
-## Musings
-
 These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about. Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inpsired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/). Usually phrased in the form of questions, as that's a fairly simple way for readers to critically come to their own ideas as well.
 
-In an ideal world, I would both survey my opinion on the topic before the reading, and after the reading, and maybe make some concrete predictions or somehow stake my opinions? But there isn't a super easy way to do this right now. Maybe staking some bounties here or setting up a manifolds market folder for myself would work well? Open to suggestions. I will probably start a similar page for the books I read soon, but for now they are on my [goodreads](https://www.goodreads.com/user/show/123131170-aayush-gupta).
+## Musings
+
+In an ideal world, I would both survey my opinion on the topic before the reading, and after the reading, and maybe make some concrete predictions or somehow stake my opinions? But there isn't a super easy way to do this right now. Maybe staking some bounties here or setting up a manifolds market folder for myself would work well? Open to suggestions. I will probably start a similar page for the books I read soon, but for now they are on my [goodreads](https://www.goodreads.com/yushg).
 
 This alive doc will be updated every time I feel the desire to pen a thought.
 

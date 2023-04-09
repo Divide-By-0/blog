@@ -12,7 +12,7 @@ description: "A cool way to do server-free, mostly-trustless email subset verifi
 
 <!-- [TOC] -->
 
-# Summary
+## Summary
 
 Lack of trustless web2 and web3 integration is one of the leading reasons that blockchains feel siloed from the rest of the world -- there is currently no way of trustlessly interoperating with the exabytes of existing information online, built up over decades by millions of users, that plug into every system that we use every day.
 
@@ -22,7 +22,7 @@ The oracle problem is exactly this -- there is no way to trustlessly ingest off-
 
 In addition to just zk-email, we collaborated with [Nozee](https://github.com/sehyunc/nozee) to adapt this to JWTs and make the first [email-address-based anonymous message board](nozee.xyz), and along with Katat, isolated the regex into an independent CLI tool [zk-regex library in circom](https://github.com/zk-email-verify/zk-regex/), and are working with folks from PSE for a next-gen version in Halo2, along with various theoretical cryptography and circuit improvements to make the circuits lightning fast. We have several crazy applications in the works as well. If problems like these excite you, reach out to [me](https://twitter.com/yush_g) to build with us! If you have questions on this as you read it, feel free to open a [Github issue](https://github.com/zk-email-verify/zk-email-verify/issues) on the website repo, or reply, and we will do our best to clarify.
 
-# What it means to have trustlessly verified identity on chain
+## What it means to have trustlessly verified identity on chain
 
 One way to verify that some data actually came from some source, is to verify a signature produced by the source via their private keys. Verifying this signature with their public keys lets us ensure that the data actually came from this source. These signatures are not obvious[^1] -- in this work, we hammer down on emails, and have discovered that an algorithm called DKIM (used for email signatures) is a perfect fit for us to verify off chain information. Specifically, every email you receive is signed by the sending domain, so if we can just verify that signature on chain, we are golden! Unfortunately, there are 3 substantial roadblocks to naively doing this:
 
@@ -34,12 +34,12 @@ One way to verify that some data actually came from some source, is to verify a 
 
 How do we solve all of these? Enter zero knowledge proofs and proof of email.
 
-# ZK Proof of Email Construction Explained
+## ZK Proof of Email Construction Explained
 
 Zero knowledge proofs let you prove that you know some information without revealing it. They have two key properties that we lean on in this construction: constant time + space verification cost on-chain (this helps us compress information similar to tricks that ZK-EVMs use, and compress calldata via strategic hashing) and being able to selectively hide and reveal whatever data you want, as you can choose to make public whatever subset of the computation you wish to.
 The next few sections will be technical -- if you're just interested in using this technology, skip to the end of the Regex section!
 
-## DKIM
+### DKIM
 
 To understand how zero knowledge proofs can help us verify email signatures, we have to fully understand the algorithm first. Luckily, the core algorithm fits on one line:
 
@@ -49,7 +49,7 @@ Every email you've received post 2017 likely has this signature on it. A user y 
 
 Here's the fascinating part -- if we do this in ZK, we can design applications so that no one except you, not even the mailserver or keystroke tracker, can determine who it is (our proof generation scripts + website can be run 100% client side).
 
-## ZK Circuit
+### ZK Circuit
 
 Now that we have this signature, all we need to do is run the traditional signature verification inside a ZK-SNARK! Here is what that looks like:
 
@@ -85,17 +85,17 @@ Contract Checks:
 
 Note that in the current iteration, each application needs its own regex string, which will need its own verifier function. This makes sense, as you want Twitter verification to have a different flow from company domain verification.
 
-# Technical innovations
+## Technical innovations
 
 In order to verify these emails efficiently in ZK, you have to ensure that 1) it works on all emails, up to some reasonable length, and 2) it is not possible to hack the system to fudge properties of the email. For these two to be possible, we had to engineer two new circuit types -- arbitrary length SHA256, and regex in circom.
 
-## Arbitrary length SHA256 hashing
+### Arbitrary length SHA256 hashing
 
 In order to verify all message lengths with the same verifier circuit, it needs to work on all possible email lengths. So we edited the circomlib SHA256 circuit to make it work on all messages up to any max length, and will open source that with a PR to circomlib soon.
 
 On top of that, the email can be so long that the circuit might be infeasibly long (all the HTML tags are also part of the signed body, and alone can add 8 million constraints!). With a tip from @viv_boop, we realized that if you want to prove a value near the end of the email, you can pass a partial preimage of the hash function and only run the last few hashing blocks inside the ZK-SNARK. This works because you need to know the full pre-image to be able to calculate any partial hash. This trick actually works for any sponge-based or Merkle-Damgard based hash function, and can make knowledge of hash preimage verification faster everywhere!
 
-## Regex (Deterministic Finite Automata) in ZK
+### Regex (Deterministic Finite Automata) in ZK
 
 What is stopping someone from stuffing in their own fields into, say, the subject of an email -- say like they send the subject as "subject: to: aayushg@mit.edu" -- how do we stop our masking parser from getting confused about the real to address?
 
@@ -105,7 +105,7 @@ In order to do arbitrary regex checks inside of circom, the most efficient metho
 
 The way this transition to circom constraints occurs is via elementary gates: at each character in order, we compare the current character and the previous character's state, and through a series of AND and multi-OR gates, can deduce what the current state should be. We then import this modular constraint into the relevant circuit -- this means that we have to know the structure of the regex prior to deriving the zkey (although the specific characters being matched can be edited on-the-fly).
 
-# This sounds too good to be true... what are all of the hidden assumptions?
+## This sounds too good to be true... what are all of the hidden assumptions?
 
 When we say "trustless", we should clarify where exactly the trust assumptions lie, because there are a few. Here's why we have to trust them, and why we think that's ok (and note that we are not a trusted party):
 
@@ -123,7 +123,7 @@ This server can read all of your mail in plaintext as well as the header, and so
 
 Note that if there is a nullifier on the message (Twitter handle, body hash, etc), then these mailservers will also be able to de-anonymize people on chain -- since this again requires them breaching your trust to read your email, we expect existing privacy legislation to be a temporary preventative mechanism until email encryption is more widespread (like Skiff).
 
-# How Serverless ZK Twitter Verification Works
+## How Serverless ZK Twitter Verification Works
 
 The MVP that Sampriti, I, and lermchair are working on is at https://zkemail.xyz, which allows any user to run the Twitter username verification circuit (although right now there are bugs). You simply send a password reset email to yourself, and download the headers ("Download original email" in Gmail), then paste the contents of the email into the frontend. You can wait for the token to expire if you are worried about us taking it, or use an old reset email -- the thing we are looking for is any on-demand email from Twitter with your username, not the password reset string. Then, you click generate: this creates a ZK proof that verifies the email signature and ensures that only the user's chosen Ethereum address can use this proof to verify email ownership.
 
@@ -137,7 +137,7 @@ Then, the data gets sent to a smart contract to verify the signature. Why do we 
 
 As that smart contract gains legitimacy and public acceptance, people can verify that the DNS record is in fact accurate, and if it's ever wrong, fork to the correct address: we expect community consensus to land on the correct key over time . If we attempted to replicate the gaurantees of DNSSEC, by finding a way to issue our own signatures, the holder of the private key of the signature issuing would be a trusted failure point in the entire system. If we outsourced to the client themselves or a server, we open up an additional requirement on the DNS record not being spoofed at the moment in time that the client is verifying the proof. We can enable upgradability upon a switching of the public key through any number of decentralized governance methods, or by lobbying Twitter to enable DNSSEC.
 
-# What will you build, anon?
+## What will you build, anon?
 
 - People with at least $1M in their Chase bank account
 
@@ -151,11 +151,13 @@ As that smart contract gains legitimacy and public acceptance, people can verify
 
 - Whistleblowing: imagine anonymous Edward Snowden–type leaks (proving an email from the NSA was sent without revealing who you are)
 
-- ZK Glassdoor / ZK Blind: this requires ZK-JWTs, an easy adaptation on top of our code
+- ZK Glassdoor / ZK Blind with ZK-JWTs [Example](https://github.com/sehyunc/nozee)
 
-- Decentralized anonymous KYC
+- Decentralized anonymous KYC [Example](https://github.com/zkemail/zk-email-verify/pull/47)
 
-We are leading a new research group called the Signed Data Group within 0xPARC, in order to further each such application of this tech. We think that there are many signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without oracles. Reach out if you want to build with us, we would love to talk with anyone excited about this tech and support any builders with the resources to build this tech in public.
+- Serverless, noncustodial bridges [Example](https://devfolio.co/projects/zkpp-23ef)
+
+We are leading a new research group for such signed data, grant-supported by 0xPARC, in order to further each such application of this tech. We think that there are many signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without oracles. Reach out if you want to build with us, we would love to talk with anyone excited about this tech and support any builders with the resources to build this tech in public and open source.
 
 <!-- Footnotes themselves at the bottom. -->
 

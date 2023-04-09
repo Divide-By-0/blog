@@ -1,5 +1,5 @@
 ---
-title: "How Quantum Computers affect Cryptography"
+title: "How Quantum Computers affect Cryptography and Blockchain"
 date: 2023-02-16T22:12:03.284Z
 type: posts
 draft: false
@@ -10,9 +10,8 @@ description: "It's really hard to understand how exactly quantum computing affec
 math: true
 ---
 
-# Thinking about Quantum x Blockchains
-
-Note: This hasn't been reviewed by an expert, and is just from me skimming through papers. There is likely some error here in my very simplified mental models. However, I think this model is a good middle ground between the oversimplified layman-oriented quantum news articles, and the hyper academic quantum computing papers that are hard for a cryptographer to parse. Leave thoughts/comments/corrections on [the hackmd draft of this post](https://hackmd.io/vXWmu5QsSOGVSz9N03LXuQ)! This is also a mirror of this [zkresearch post](https://zkresear.ch/t/how-quantum-computers-affect-zk-and-blockchains-how-to-quantum-proof-ethereum/59).
+I think this model is a good middle ground between the oversimplified layman-oriented quantum news articles, and the hyper academic quantum computing papers that are hard for a cryptographer to parse.
+Note: This hasn't been reviewed by an expert, and is just from me skimming through papers. There is likely some error here in my very simplified mental models. Leave thoughts/comments/corrections on [the hackmd draft of this post](https://hackmd.io/vXWmu5QsSOGVSz9N03LXuQ)! This is also a mirror of this [zkresearch post](https://zkresear.ch/t/how-quantum-computers-affect-zk-and-blockchains-how-to-quantum-proof-ethereum/59).
 
 ## What are the powers of a quantum adversary?
 
