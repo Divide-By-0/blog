@@ -1,6 +1,6 @@
 ---
 title: "How Quantum Computers affect Cryptography and Blockchain"
-date: 2023-02-16T22:12:03.284Z
+date: 2023-02-17T22:12:03.284Z
 type: posts
 draft: false
 slug: "quantumcrypto"
@@ -53,7 +53,7 @@ Note: This hasn't been reviewed by an expert, and is just from me skimming throu
 
 ## What is a reasonable timeline to expect ECDSA on secp256k1 to be broken?
 
-- It seems that expert consensus varies from 2035-2100 (or even never) -- it may take longer to get there because of the valley of death of few applications between a few dozen qubits and a few hundred thousand. There is utility on the small end for theoreticians, and utility on the high end for cryptography, but very little intermediate use for qubit counts in the middle, and thus makes ROI for funding much worse.
+- It seems that expert consensus varies from 2035-2100 (or even never) -- it may take longer to get there because of the valley of death of few applications between a few dozen qubits and a few hundred thousand. There is utility on the small end for theoreticians, and utility on the high end for cryptography, but very little intermediate use for qubit counts in the middle, and thus makes ROI for funding much worse. On the other hand, some companies like IBM seem hellbent on getting there regardless of applications.
 - IBM has been surprisingly accurate on [it's timeline](https://research.ibm.com/blog/ibm-quantum-roadmap-2025) for qubit computers -- again, these are signal + noise qubits, so the actual signal qubit count is substantially less than the number you see, though the extent to which this is the case depends on the specific algorithm.
 
 ## Quantum Resistant Ethereum Keypairs
