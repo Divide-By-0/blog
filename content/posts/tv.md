@@ -52,8 +52,8 @@ This year I've basically exclusively watched anime, compared to almost none befo
 The notes for these movies are just summaries of what friends/Reddit have told me about. Approximately ranked with most-want-to-watch at the top. Interestingly, I only have animes on this list...
 
 - **Stein's Gate (Anime)**: Apparently this is a really good one about a time travelling microwave (seems a little absurd to me, but I'm willing to give it a shot) -- a friend said this is the anime he most wishes he could rewatch with fresh eyes.
-- **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2...
-- **Your Lie in April (Anime)**: Highly recommended dramatic romance
+- **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
+- **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
 - **Bocchi the Rock (Anime)**: This is one of the most popular animes in my Japanese friend's Tokyo group, about an anxious-avoidant gradeschool girl who's really good at guitar, and has to reconcile the social needs of being in a band with her natural introversion.
 - **Tatami Galaxy (Anime)**: Seems to explore the disllusionment of exploring alternate school lives. Critically acclaimed with exaggerated style and absurd dark comedy, 11 episodes.
