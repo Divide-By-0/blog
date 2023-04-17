@@ -10,7 +10,7 @@ description: "It's really hard to understand how exactly quantum computing affec
 math: true
 ---
 
-I think this model is a good middle ground between the oversimplified layman-oriented quantum news articles, and the hyper academic quantum computing papers that are hard for a cryptographer to parse. Thanks to Aram H and Lev Stambler for comments and discussions. As the field rapidly evolves, things here may become outdated or wrong. Feel free to leave thoughts/comments/corrections on [the hackmd draft of this post](https://hackmd.io/vXWmu5QsSOGVSz9N03LXuQ)! This is also a mirror of this [zkresearch post](https://zkresear.ch/t/how-quantum-computers-affect-zk-and-blockchains-how-to-quantum-proof-ethereum/59).
+I think [this post](https://blog.aayushg.com/posts/quantumcrypto) is a good middle ground between the oversimplified layman-oriented quantum news articles, and the hyper academic quantum computing papers that are hard for a cryptographer to parse. Thanks to Aram Harrow, Krishanu Sankar, and Lev Stambler for comments and discussions. As the field rapidly evolves, things here may become outdated or wrong. Feel free to leave thoughts/comments/corrections on [the hackmd draft of this post](https://hackmd.io/vXWmu5QsSOGVSz9N03LXuQ)! An old version was previously also posted on [zkresearch](https://zkresear.ch/t/how-quantum-computers-affect-zk-and-blockchains-how-to-quantum-proof-ethereum/59).
 
 ## What are the powers of a quantum adversary?
 
@@ -51,7 +51,8 @@ I think this model is a good middle ground between the oversimplified layman-ori
 
 ## What is a reasonable timeline to expect ECDSA on secp256k1 to be broken?
 
-- It seems that expert consensus varies from 2035-2100 (or even never) -- it may take longer to get there because of the valley of death of few applications between a few dozen qubits and a few hundred thousand. There is utility on the small end for theoreticians, and utility on the high end for cryptography, but very little intermediate use for qubit counts in the middle, and thus makes ROI for funding much worse. There are some promising ideas though, like [quantum random sampling](https://arxiv.org/abs/2206.04079) having practical advantage over classical random sampling, even on lower qubit counts -- . On the other hand, some companies like IBM seem hellbent on getting there regardless of applications.
+- It seems that expert consensus varies from 2035-2100 (or even never). One popular slowdown argument is that it may take longer to get there because of the valley of death of few applications between a few dozen qubits and a few hundred thousand. There is utility on the small end for theoreticians, and utility on the high end for cryptography, but very little proven intermediate use for qubit counts in the middle, and thus makes ROI for funding much worse. I'm not totally convinced -- several billion government dollars have still been invested over the past few years, and it seems that several companies (like IBM) are hellbent on getting there regardless of applications.
+- While most current "business" use cases are feasible just fine on classical computers, there are some new promising ideas, like [quantum random sampling in 2022](https://arxiv.org/abs/2206.04079) demonstrating advantage over classical random sampling, even on lower qubit counts. This is helpful for simulations and machine learning.
 - IBM has been surprisingly accurate on [it's timeline](https://research.ibm.com/blog/ibm-quantum-roadmap-2025) for qubit computers -- again, these are signal + noise qubits, so the actual signal qubit count is substantially less than the number you see, though the extent to which this is the case depends on the specific algorithm.
 
 ## What parts of zero knowledge exactly are broken?
@@ -80,6 +81,4 @@ I think this model is a good middle ground between the oversimplified layman-ori
 - One issue is that smart contracts need to be special-cased, since we know the pre-image of the address via create2. One easy solution is to hard-code that once a contract has been made by create/create2, transactions that utilize their secret key are disallowed (i.e. no signatures or eoa-style txs will be validated).
 - Perhaps, for future smart contracts, if we don't want to special case them, we could standardize around a new opcode (say create3, or create2 with an optional arg), that, say, just swaps the last bit in the create2 output. This keeps the address determination deterministic, but does not reveal the pre-image of the hash.
 
-This is a very rapidly changing field, so these results will likely update year after year.
-
-[Account](https://crypto.stackexchange.com/users/101665/john-targaryen?tab=activity) with stack overflow questions/comments.
+This is a very rapidly changing field, so these results will likely update year after year. Track this [Stack Overflow account](https://crypto.stackexchange.com/users/101665/john-targaryen?tab=activity) to see more questions/comments.
