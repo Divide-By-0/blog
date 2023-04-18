@@ -52,7 +52,7 @@ How do we solve all of these? Enter zero-knowledge proofs.
 # ZK Proof of Email Construction
 
 Zero-knowledge proofs let you prove that you know some information without revealing it. They have two key properties that we rely on here:
-1. Constant time and space verification cost (this helps us compress information similar to tricks that ZK-EVMs use, and compress calldata via strategic hashing)
+1. Constant time and space verification cost (so that we can make the calldata much smaller; we don't have to post the whole email, just the small part we want to make public, e.g. a Twitter username).
 2. Controllable privacy: the ability to make some inputs to the computation public and others private.
 
 The next few sections will be technical -- if you're just interested in using this technology, skip to the end of the Regex section.
