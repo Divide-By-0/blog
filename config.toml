@@ -2,7 +2,7 @@ baseURL = 'https://blog.aayushg.com/'
 languageCode = 'en-us'
 title = "aayush's thoughts"
 theme = "hackerman"
-description = "Blog of Aayush. Discusses zk cryptography including plume, zk email, quantum, and vickrey auctions on chain. Also reviews and recs for hidden gem movies, TV shows, and travel recs."
+description = "Aayush's blog. Discusses zk cryptography including plume, zk email, quantum, and vickrey auctions on chain. Also reviews and recs for hidden gem movies, TV shows, and travel recs."
 googleAnalytics = 'G-K3VZM7ZJ7M'
 enableGitInfo = true
 [menu]
@@ -16,5 +16,3 @@ enableGitInfo = true
     pre = "pen-tool"
     url = "/posts/"
     weight = 2
-[params]
-    description = "Blog of Aayush. Discusses zk cryptography including plume, zk email, quantum, and vickrey auctions on chain. Also reviews and recs for hidden gem movies, TV shows, and travel recs."
