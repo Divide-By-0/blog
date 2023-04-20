@@ -18,3 +18,5 @@ description = "Aayush's blog. Discusses zk cryptography including plume, zk emai
     weight = 2
 [params]
     description = "Aayush's blog. Discusses zk cryptography including plume, zk email, quantum, and vickrey auctions on chain. Also reviews and recs for hidden gem movies, TV shows, and travel recs."
+[markup.goldmark.renderer]
+    hardWraps = true
