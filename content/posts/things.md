@@ -75,3 +75,5 @@ My favorite board games are Decrypto (a way better alternative to Codenames), Sm
 **[SF750 Power Supply](https://amzn.to/41ovLXd) - $165.** Enough to comfortably run a high end GPU with everything else.
 **[i5 12400F IBM CPU](https://amzn.to/3MXDiI3) - $160.** You are optimizing for heat; the bigger and later gen CPUs run hotter, and this is extremely fast, better than lower tier i7s, and doesn't need any extra cooling.
 **[2TB NVMe](https://amzn.to/3LkgG3j) - $140.** Faster and cheaper than an SSD.
+
+I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part breakdowns here](https://docs.google.com/document/d/1eNvCDBKa5C32xioyYf02mZgIgCG_GFZHWnw0rGWRPzs/edit).
