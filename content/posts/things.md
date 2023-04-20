@@ -6,7 +6,7 @@ draft: false
 slug: "things"
 category: "10 min read"
 tags: ["recs"]
-description: "Put some useful physical items in a list for other folks to get inspiration from."
+description: "Some useful physical items to improve your quality of life."
 ---
 
 Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Most other lists online are more comprehensive and I have taken many things from them. Most stuff is from Amazon (linked via short reflinks, but I still link to the cheapest version + only stuff I would have linked without that). I want to add software here soon.
@@ -15,8 +15,8 @@ This alive document will be updated every time I buy something incredible.
 
 # Household
 
-**[Molly's Suds Laundry Detergent Pods](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods. A little worried about [normal detergent inflamming my allergies/inflammation](https://pubmed.ncbi.nlm.nih.gov/35899466/) so I decided to move away from standard detergent.
-**[Heated Japanese Kotatsu Table](https://amzn.to/3oupdYp) + [300W Adapter](https://amzn.to/3AflFvx) - $200.** This is incredibly warm and cozy, especially in the winter. Takes a few weeks to ship from Japan, but is totally worth it.
+**[Molly's Suds Laundry Detergent Pods](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods. A little worried about [normal detergent inflamming my allergies/EoE](https://pubmed.ncbi.nlm.nih.gov/35899466/) so I decided to move away from standard detergent.
+**[Heated Japanese Kotatsu Table](https://amzn.to/3oupdYp) + [300W Adapter](https://amzn.to/3AflFvx) - $200.** Imagine a table with a heater inside and a comforter around it, but a flat surface to work on. It's incredibly warm and cozy, especially in the winter. Takes a few weeks to ship from Japan, but is totally worth it.
 **[Chromecast](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=chromecast&_sacat=0) - $30**. Only really useful to keep TV on ambient mode, flipping through Google Photos albums of me and all of my friends.
 
 # Bathroom
@@ -49,8 +49,9 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well. These fall out every now and then, but I only need them to fall asleep so it's OK.
 **[Mini Sim + Cable Box](https://amzn.to/40sX8Ov) - $10.** Has a SIM switcher, and small adapters nicely laid out. I carry this with a few USB to USB C adapters seperately.
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
+**[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. Bought on eBay for a discount, I love my Eclipse colorway.
 
-I also use a Kindle Paperwhite Kids and use Calibre on my laptop to format and load in arbitrary epubs and mobis from online.
+I also have an iPad for notes, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also use
 
 # Other
 
