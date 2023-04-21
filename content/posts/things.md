@@ -9,7 +9,7 @@ tags: ["recs"]
 description: "Some useful physical items to improve your quality of life."
 ---
 
-Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Most other lists online are more comprehensive and I have taken many things from them. Most stuff is from Amazon (linked via short reflinks, but I still link to the cheapest version + only stuff I would have linked without that). I want to add software here soon.
+Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Most other lists online are more comprehensive and I have taken many things from them. Most stuff is from Amazon (linked via short reflinks, but I still link to the cheapest version + only stuff I would have linked without that). I want to add software here soon as well.
 
 This alive document will be updated every time I buy something incredible.
 
@@ -21,37 +21,40 @@ This alive document will be updated every time I buy something incredible.
 
 # Bathroom
 
-**[Mint Shampoo and Conditioner](https://amzn.to/3MXzOVZ) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.
-**[Body Wash](https://amzn.to/3ox6j35) - $9.** Smells good, doesn't have SLS or other crap in it.
+**[Mint Shampoo and Conditioner](https://amzn.to/3MXzOVZ) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.s
+**[Body Wash](https://amzn.to/3ox6j35) - $9.** Cheap and smells good, doesn't have SLS or other crap in it.
 **[The Softest Bathroom Mats](https://amzn.to/40pgfcg) - $20.** High pile and insanely soft and plush.
 **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** It just feels soo good. Reddit recommended.
 **[Double Line Floss Picks](https://amzn.to/3oyc6oS) - $3.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and the gunk comes out stick between the two strings. Normal floss cuts off circulation to my finger and so I never do it.
 **[Sekkisui Face Sunscreen](https://www.ebay.com/itm/323874987084?hash=item4b68741c4c:g:oKkAAOSwrHRdRLKA) - $20.** Non greasy, nice smelling, easy to apply sunscreen from /r/AsianBeauty. Other folks recommend Biore UV which I'm sure is good as well.
+**[Travel Toiletry Kit](https://amzn.to/40ulyHn) - $15.** I dump shampoo/conditioner/bodywash in here before I travel, because I really prefer to use my own.
 
 # Kitchen
 
 **[Water Bottle Cleaning Tablets](https://amzn.to/3An9LQh) - $8.** Put into your water bottle for 15 min to clean out the gunk.
-**[Dishwand](https://amzn.to/3KYDxQm) - $4.** Basicallly a sponge with a handle. sPut dishsoap onto it to clean dishes without having to touch a sponge.
-**[Creme Brulee Torch](https://amzn.to/3UWvcBy) + [Fuel](https://amzn.to/3ox5fMJ) - $16.** Way more fun than a lighter or matchbox.
-**[Ramen Bowls](https://amzn.to/3AeNuEo) - $40.** Spark joy, useful for most soupy foods.
+**[Dishwand](https://amzn.to/3KYDxQm) - $4.** Basicallly a sponge with a handle. Put dishsoap onto it to clean dishes without having to touch a sponge.
+**[Kitchen Torch](https://amzn.to/3UWvcBy) + [Fuel](https://amzn.to/3ox5fMJ) - $16.** Way more fun than a lighter or matchbox for all things fire.
+**[Ramen Bowls](https://amzn.to/3AeNuEo) - $40.** Sparks joy, useful for most soupy foods.
 
 I also use Athletic Greens each morning and have gazpacho in the fridge for a quick breakfast. I hate cooking and use a rotation of microwavable frozen food delivery services to eat (I promise it's less depressing and more tasty than it sounds).
 
 # Clothing
 
-**[Enro Face Masks](https://enro.com/collections/adults) - $20**. [Wirecutter tested](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/) face masks for filtration and comfort, and this won both hands down. It claims a PM0.1 filter, and tests consistently with that as well; it also maintains it for a few washes (but becomes half as effective at 50 washes; I usually lose mine before 10). I use it in any place with asbestos risk as well; it's not a cure-all but it's better than any other mask for that.
+**[Enro Face Masks](https://enro.com/collections/adults) - $20**. [Wirecutter tested](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/) face masks for filtration and comfort, and this won both hands down. It claims a PM0.1 filter, and tested consistently with that claim. It also maintains high filtration for a few washes (but becomes half as effective at 50 washes; I usually lose mine before 10). I use it in any place with asbestos risk as well; it's not a cure-all but it's better than any other mask for that.
 **[Shirt Stays](https://amzn.to/3N23Ckf) - $13.** Connect your dress shirt to your socks. Critical for formal dress shirts for me, to avoid it bunching up and look bad.
 **[Neck Gaiter](https://amzn.to/43PkT68) - $15.** Tighter and smaller than a scarf, critical in cold weather.
+**[Oura Ring](ouraring.com) - $300 + $72/year.** I actually find this most useful to feel comfortable consuming caffeine; I don't want to lose access to my own body's tiredness signals, but I find the Oura recommendations to be a decent enough substitute on those days. It's also cool to see the sleep staging -- I wish their timezone tracking was better; it often screws up data when flying, which is when I most want the data. I got it before the subscription, so I don't have to pay; with the subscription, it might be more worth it to get a secondhand gen 2 off of eBay instead.
 
 # Backpack
 
+**[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
 **[Sidecar iPad Mount for Laptop](https://amzn.to/3L23EpQ) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
 **[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well. These fall out every now and then, but I only need them to fall asleep so it's OK.
 **[Mini Sim + Cable Box](https://amzn.to/40sX8Ov) - $10.** Has a SIM switcher, and small adapters nicely laid out. I carry this with a few USB to USB C adapters seperately.
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
-**[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. Bought on eBay for a discount, I love my Eclipse colorway.
+**[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
 
-I also have an iPad for notes, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also use
+I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
 
 # Other
 
@@ -65,7 +68,7 @@ I also have an iPad for notes, and a Kindle Paperwhite Kids for distraction-free
 
 **[Colored Flame Birthday Candles](https://amzn.to/41qsCGh) - $7.** Cheap, simple, and cool on birthdays.
 **[Joycon Controller Grips](https://amzn.to/3AgnbO9)- $10.** Turn each Nintendo Switch joycon into a mini controller.
-**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook for some handles.
+**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook so it works on all handles.
 
 My favorite board games are Decrypto (a way better alternative to Codenames), Smallworld (sort of like Risk but more fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
 
