@@ -7,7 +7,7 @@ draft: false
 slug: "nullifier"
 category: "30 min read"
 tags: ["crypto", "zk"]
-description: "Unique pseudonymity"
+description: "A signature scheme that enables zk applications with nullifiers on Ethereum addresses, like zk voting, zk airdrops, zk message boards, and zk proof of solvency."
 aliases:
   - /posts/plume
   - /plume
@@ -25,6 +25,8 @@ Why would you want to prove that you're part of a group? For one thing, you migh
 Let's say we want to do an [zero-knowledge airdrop](https://github.com/stealthdrop/stealthdrop): I publish a set of addresses whose owners should be allowed to claim the airdrop, but I want to let those owners anonymously receive the airdrop from burner accounts. If you own one of those addresses, you make a new anonymous account and use it to send me a ZK proof that there's some address on the list whose secret key you control (for example, a proof that you can generate a valid signature with the secret key). But what if you then make _another_ new account and send me a new proof to try and claim a second airdrop? I don't know which of the original addresses the proof corresponds to, because it's anonymous, so how do I stop you from claiming arbitrarily many airdrops?
 
 I'd want to require you to submit some kind of public commitment that you're only using your claim once. This kind of unique public identifier is called a “nullifier” because after it's published, it nullifies an address’s ability to perform an action again. From a more general lens of identity, you can think of these as a pen-name, or your PLUME: a Pseudonymously Linked Unique Message Entity.
+
+There are many more uses for these "PLUMEs". Anonymous message boards will need anonymous banning or "upvotes" to curate good content and a healthy community, which requires a consistent pen-name. [Proof of Solvency](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html) [solutions](https://github.com/summa-dev/circuits-circom) need an anonymous way to ensure that two exchanges cannot share addresses to fake solvency: there needs to be a way to uniquely attest to an address in a way that keeps it private, but no other exchange can also claim that address.
 
 ## Some possible nullifier schemes
 
