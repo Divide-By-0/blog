@@ -27,7 +27,7 @@ This alive document will be updated every time I buy something incredible.
 **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** It just feels soo good. Reddit recommended.
 **[Double Line Floss Picks](https://amzn.to/3oyc6oS) - $3.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and the gunk comes out stick between the two strings. Normal floss cuts off circulation to my finger and so I never do it.
 **[Sekkisui Face Sunscreen](https://www.ebay.com/itm/323874987084?hash=item4b68741c4c:g:oKkAAOSwrHRdRLKA) - $20.** Non greasy, nice smelling, easy to apply sunscreen from /r/AsianBeauty. Other folks recommend Biore UV which I'm sure is good as well.
-**[Travel Toiletry Kit](https://amzn.to/40ulyHn) - $15.** I dump shampoo/conditioner/bodywash in here before I travel, because I really prefer to use my own.
+**[Travel Toiletry Kit](https://amzn.to/40ulyHn)([Cheaper 3 Pack](https://amzn.to/41sF48x)) - $15/$6.** I dump shampoo/conditioner/bodywash in here before I travel, since I prefer to use my own.
 
 # Kitchen
 
@@ -53,6 +53,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Mini Sim + Cable Box](https://amzn.to/40sX8Ov) - $10.** Has a SIM switcher, and small adapters nicely laid out. I carry this with a few USB to USB C adapters seperately.
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
 **[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
+**[Cheap Apple Pencil 2](https://amzn.to/43QyWbt) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
 
 I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
 
@@ -61,8 +62,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Proxmark 3 RFID Cloner](https://amzn.to/3GZSBfo) - $75.** Designed by the veritable and prolific [Samy Kamkar](https://twitter.com/samykamkar). Can be a bit finnicky to first time setup, but once you have it then it clones basically all cards I throw at it.
 **[RFID Ring](https://amzn.to/3AhjojO) - $30.** Clone any card onto this, then just tap with your finger to use it.
 **[Extremely Small Wallet Pen](https://amzn.to/41DjNJ2) - $7.** This ~1mm wide, ~4 inch pen fits in my wallet and is useful in a pinch or when geocaching.
-**[Heated Eye Mask](https://amzn.to/3MWPUiF) - $17.** Plugs into a USB, very useful for dry eye.
-**[Cheap Apple Pencil 2](https://amzn.to/43QyWbt) - $30.** Give up variable pressure and pay 5x less, still magnetically charges.
+**[Heated Eye Mask](https://amzn.to/3MWPUiF) - $17.** Plugs into a USB, very useful to use one eye at a time for dry eye.
 
 # Fun
 
@@ -70,7 +70,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Joycon Controller Grips](https://amzn.to/3AgnbO9)- $10.** Turn each Nintendo Switch joycon into a mini controller.
 **[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook so it works on all handles.
 
-My favorite board games are Decrypto (a way better alternative to Codenames), Smallworld (sort of like Risk but more fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
+My favorite board games are Decrypto (a way better alternative to Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
 
 # Small PC Build
 
