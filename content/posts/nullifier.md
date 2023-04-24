@@ -14,7 +14,7 @@ aliases:
 math: true
 ---
 
-## ZK Systems
+## Why do we want PLUMEs?
 
 The proliferation of advances in [zkSNARK](https://ethereum.org/en/zero-knowledge-proofs/) applications has created a useful new [privacy](https://vitalik.ca/general/2022/06/15/using_snarks.html) primitive: a user can prove statements _about_ their identity without revealing their full identity. If you can provide a zkSNARK demonstrating that you know the secret key for an account that is a leaf of the Merkle tree of Bored Ape owners, then you can prove that you own a Bored Ape without telling anyone who you are. Or you could prove that you're part of the group "liquidity providers on Uniswap in the last 24 hours", or maybe even one day that you're part of the group "people with a mutation in the XYZ gene".
 
@@ -26,7 +26,7 @@ Let's say we want to do an [zero-knowledge airdrop](https://github.com/stealthdr
 
 I'd want to require you to submit some kind of public commitment that you're only using your claim once. This kind of unique public identifier is called a “nullifier” because after it's published, it nullifies an address’s ability to perform an action again. From a more general lens of identity, you can think of these as a pen-name, or your PLUME: a Pseudonymously Linked Unique Message Entity.
 
-There are many more uses for these "PLUMEs". Anonymous message boards will need anonymous banning or "upvotes" to curate good content and a healthy community, which requires a consistent pen-name. [Proof of Solvency](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html) [solutions](https://github.com/summa-dev/circuits-circom) need an anonymous way to ensure that two exchanges cannot share addresses to fake solvency: there needs to be a way to uniquely attest to an address in a way that keeps it private, but no other exchange can also claim that address.
+There are many more uses for these "PLUMEs". Anonymous message boards will need anonymous banning or "upvotes" to curate good content and a healthy community, which requires a consistent anonymous pen-name. [Proof of Solvency](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html) [solutions](https://github.com/summa-dev/circuits-circom) need an anonymous way to ensure that two exchanges cannot share addresses to fake solvency: there needs to be a way to uniquely attest to an address in a way that keeps it private, but no other exchange can also claim that address.
 
 ## Some possible nullifier schemes
 
@@ -141,9 +141,9 @@ So far, we have the [Gupta-Gurkan nullifier paper proving all the security proof
 
 In the future, we're hoping to formalize our spec into an ERC and use that to integrate the nullifier calculation into [Burner Wallet](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping or using the scheme, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant! Thank you to Kobi for coming up with the scheme and coauthoring the paper with me, 0xPARC for brainstorming the scheme with me, Vivek for writing the proofs with me and making helpful suggestions for this post, Richard for contributing a ton of JS code for wallet integrations, Blake and Weijie for doing the circom ZK circuits, Lily Jordan for editing this post, and all of the teams who looked at and used this for the Nouns private voting contest!
 
-# Appendix
+## Appendix
 
-## The interactivity-quantum secrecy tradeoff
+### The interactivity-quantum secrecy tradeoff
 
 In the far future, once quantum computers can break ECDSA keypair security, most Ethereum keypairs will be broken. This doesn't mean quantum will necessarily cause everyone to lose their funds: we can migrate to a more quantum-resistant signature scheme (or even just a higher-bit version of ECDSA) in advance by having everyone sign messages committing to new keypairs under the new scheme and forking the canonical chain to make those new keypairs valid. zkSNARKs become forgeable, but secret data in past proofs remains secret. In the best case, the chain should be able to continue without a hitch.
 
