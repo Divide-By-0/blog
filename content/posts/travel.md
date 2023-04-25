@@ -32,8 +32,8 @@ This alive document will be updated every time I travel.
       - **Next Haunt at MIT**: An interactive, horror escape room with actors, built by students inside a dorm. If you have a friend going here able to get you a ticket, it's definitely one of the most unique experiences I've had.
       - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, timed jenga for maximum height, etc), and fun little electronic bands that track the number of stars you have so far. Everyone I've told about it has loved it.
       - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and they'll be able to take you!
-      - **The Viz Lab at Harvard**: Apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. That sounds completely nuts to me, and I'd love to make a trip over and check it out.
-      - Find me, and I'll happily offer you an algorave tutorial class (shout out to @alsoknownasrox for teaching me!) or play crazy cool VR videogames with you (my favorites are Minecraft in 3D, games with crazy realistic physics, and space exploration games like No Mans Sky!)
+      - **The Viz Lab at Harvard**: I haven't been, but apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. That sounds completely nuts to me, and I'd love to make a trip over and check it out.
+      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along. Happy to play play crazy cool VR videogames with you (my favorites are beatsaber, games with crazy realistic physics, and space exploration games like No Mans Sky!)
   - New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -47,11 +47,14 @@ This alive document will be updated every time I travel.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
       - **Immersive Gamebox**: Haven't been, [but this place](https://immersivegamebox.com/locations/ny-lower-east-side-manhattan/) claims full immersive tech-enabled rooms.
       - **Hyprov**: I haven't been, but hypnosis with improv sounds pretty interesting.
-    - North California
+  - California
+    - Bay Area
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
+      - **Noisebridge**: An [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
+      - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in SF with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
     - South California
-      - **Mars College**: Haven't been. One of my close friends' favorite alternative communes.
-      - **B Sweeet**: Haven't been. In LA, a bread pudding shop with 40 flavors.
+      - **Mars College**: Haven't been but want to go. One of my close friends' favorite alternative communes.
+      - **B Sweeet**: Haven't been but want to go. In LA, a bread pudding shop with 40 flavors.
   - ## Other
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
