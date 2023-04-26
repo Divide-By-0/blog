@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- range .Data.Pages -}}
-  <url>
-    <loc>{{ .Permalink }}</loc>{{ with .GitInfo }}
-    <lastmod>{{ .AuthorDate.Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ else }}{{ with .Lastmod }}
-    <lastmod>{{ .Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ end }}{{ end }}
-    <changefreq>daily</changefreq>
-    <priority>{{ if eq .Section "post" }}0.8{{ else }}0.5{{ end }}</priority>
-  </url>
+    {{- if ne .RelPermalink "/categories/" -}}
+        <url>
+            <loc>{{ .Permalink }}</loc>{{ with .GitInfo }}
+            <lastmod>{{ .AuthorDate.Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ else }}{{ with .Lastmod }}
+            <lastmod>{{ .Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ end }}{{ end }}
+            <changefreq>daily</changefreq>
+            <priority>{{ if eq .Section "post" }}0.8{{ else }}0.5{{ end }}</priority>
+        </url>
+    {{- end -}}
   {{- end -}}
 </urlset>

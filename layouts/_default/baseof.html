@@ -1,25 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     {{- partial "head.html" . -}}
-    <!-- fb -->
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
-    <meta property="og:description" content="{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-    <!-- tw -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ if .Title  }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
-    <meta name="twitter:description" content="{{ .Summary }}" />
-    <meta name="twitter:site" content="@yush_g" />
-    <meta name="description" content="{{ .Description }}" />
-
-    {{ if .Params.Image }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}media/{{ .Params.Image }}" />
-    {{ end }} {{ if not (isset .Params "image")}}
-    <meta property="og:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}media/default-preview.jpg" />
-    {{ end }}
   </head>
   <body>
     <main>
