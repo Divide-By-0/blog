@@ -81,3 +81,10 @@ My favorite board games are Decrypto (a way better alternative to Codenames), Sm
 **[2TB NVMe](https://amzn.to/3LkgG3j) - $140.** Faster and cheaper than an SSD.
 
 I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part breakdowns here](https://docs.google.com/document/d/1eNvCDBKa5C32xioyYf02mZgIgCG_GFZHWnw0rGWRPzs/edit).
+
+# Things I Want
+
+These are things I've stopped myself from buying so far, but they seem intriguing...
+**[Olfactory Water Bottle](https://uk.air-up.com/) - $25 + $6/15L.** Emits a smell near your nose, so that it feels like you're having flavored water. 3-pack pods only last for 15L of water, which is why there's the added unit cost.
+
+I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
