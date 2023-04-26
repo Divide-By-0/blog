@@ -133,17 +133,25 @@ We also need to deal with [malleability](https://zips.z.cash/protocol/protocol.p
 
 Finally, the data gets sent to a smart contract to verify the signature. Recall that we need a smart contract in order to ensure the integrity of the DNS keys.
 
+# Clientside Privacy
+
+For absolute user privacy, we ideally want to prove emails on the client side. Since manual client side-proofs usually aren't the most user friendly option, a compromise is to allow client-side proving for privacy enthusiasts, but default to a permissionless network of server-side provers for most people (where it's easy for someone to host their own such relayers). The world we absolutely want to avoid is having to trust a single organization to maintain your privacy for you.
+
+To this end, we have a multiprong strategy for efficient client side proofs with privacy. Since the circom circuits range from 1 million constraints without body verification to 3-8+ million with body verification, these proofs can take upwards of minutes and several CPUs on a user's browser. The same proving on 128-core machines can take less than 5 seconds; a permissionless network of provers is a decent fallback for users who care about efficiency, but trust the prover to maintain their privacy (or don't care about their privacy).
+
+Luckily, we can also utilize recursive halo2 proofs to be able to get both speedy proofs and short proof size and verification. We do this by proving a fast but large proof on the client side, and sending that privacy preserving proof to a generic halo2 aggregation machine (or a permissionless network of them) that recursively compresses that proof on a 64+ core computer (but still sub-cents cheap per proof) in mere seconds to one that can be verified on-chain efficiently. This is luckily enabled by the PSE snark-verifier library, and we use Axiom's variant for speed improvements. We expect this to take on the order of 10 seconds on a clients computer and on the order of ~20 seconds on the server to compress.
+
 # What will you build, anon?
 
-So far, in addition to creating zk-email, we've
+So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up right now into an SDK that should make it far easier to write your own proofs. We've also:
 
-- collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](nozee.xyz) that only reveals your email domain.
+- Collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](nozee.xyz) that only reveals your email domain.
 
 - isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zk-email-verify/zk-regex/), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2, along with various theoretical cryptography and circuit improvements to make the circuits lightning fast and easy to generate new regexes for.
 
-- co-led the 0xPARC SRP to lead a team to ship decentralized anonymous KYC: you prove you've passed KYC checks from e.g. Coinbase and Airbnb, and this lets you prove that you're a unique person. Coinbase and Airbnb would have to collude in order to break your anonymity -- we sort of have the power to construct MPC-style assumptions over any set of companies now!
+- Co-led the 0xPARC SRP where one team is shipping decentralized anonymous KYC: users prove they've passed KYC checks from e.g. Coinbase and Airbnb, and this lets them prove that they are a unique person. If your nullifier is the hash of both email signatures, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to MPC-style assumptions over any set of email senders/companies now, even without their permission!
 
-- supported the tech behind a [peer to peer venmo to usdc bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project!
+- Enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project!
 
 Here are a few more applications you could make using zk-email:
 
@@ -159,7 +167,7 @@ We have several crazy applications in the works as well -- we'd love to collabor
 
 <!-- Footnotes themselves at the bottom. -->
 
-[Sora](https://github.com/SoraSuegami/) and I are leading a new research group called the Proof of Email in order to further applications of trustless web2-web3 integrations, with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
+[Sora](https://github.com/SoraSuegami/) and I are leading a new research group called Proof of Email in order to further applications of trustless web2-web3 integrations, with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
 
 ## Footnotes
 
