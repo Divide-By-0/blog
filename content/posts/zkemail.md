@@ -165,7 +165,11 @@ Here are a few more applications you could make using zk-email:
 
 - ZK Glassdoor where you prove you work at a particular company and confess details about it.
 
+- Docusign on chain, where you base-64 decode the attachments and prove any subset of any attachment: this can be your tax return amount, your location, or the fact that you got a term sheet from a VC. You can use this identity proof to add authority to your anonymous speech.
+
 We have several crazy applications in the works as well -- we'd love to collaborate with builders to build them out. If problems like these excite you and you care about open source public goods, reach out to [me](https://twitter.com/yush_g) to build with us! If you have questions on this as you read it, feel free to open a [Github issue](https://github.com/zkemail/zk-email-verify/issues) on the website repo, or reply, and we will do our best to clarify.
+
+There are lots of interesting constructions you can experiment with, like putting addresses and hashes inside of emails (though this might raise the eyes of non-encrypted email providers). At the same time, there are lots of gotchas -- bcc's aren't signed so you can't prove that you were the only recipient of an email, the "to" email field isn't signed in hotmail, and some email providers have their own little quirks that are technically allowed by the DKIM RFC but will break most parsers. We recommend talking to us about your new construction idea so that we can help you verify your security assumptions! We intend to audit this codebase during 2023 to enable production use.
 
 <!-- Footnotes themselves at the bottom. -->
 
