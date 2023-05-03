@@ -149,31 +149,31 @@ So far, in addition to creating zk-email in circom, Sora and I are improving and
 
 - collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](nozee.xyz) that only reveals your email domain.
 
-- isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zk-email-verify/zk-regex/), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2, along with various theoretical cryptography and circuit improvements to make the circuits lightning fast and easy to generate new regexes for.
+- isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zk-email-verify/zk-regex/), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2 along with various theoretical cryptography and circuit improvements for improved speed and usability.
 
-- co-led the 0xPARC SRP where one team is shipping decentralized anonymous KYC: users prove they've passed KYC checks from e.g. Coinbase and Airbnb, and this lets them prove that they are a unique person. If your nullifier is the hash of both email signatures, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to MPC-style assumptions over any set of email senders/companies now, even without their permission!
+- co-led the 0xPARC SRP where one team is shipping decentralized anonymous KYC: a user proves they're a unique person by demonstrating that they've passed KYC checks from multiple sources -- for instance, Coinbase and Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission!
 
-- enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project!
+- enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project.
 
 Here are a few more applications you could make using zk-email:
 
-- Anonymity sets: people with at least a million dollars in their Chase bank account, or who verifiably bought a degen call option on Robinhood, or who have at least ten million Twitter followers, or who are Spotify Top Fans of an artist
+- Anonymity sets: prove you have at least a million dollars in their Chase bank account, or bought a degen call option on Robinhood, or have at least ten million Twitter followers, or are a Spotify Top Fan of some artist.
 
-- A decentralized oracle for price feeds: you prove you received an email from Nasdaq telling you a certain price for a stock
+- A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock.
 
-- Edward Snowden-style whistleblowing or leaks: prove you can receive email at an address associated with a particular government organization, like the NSA
+- Edward Snowden-style whistleblowing or leaks: prove you can receive email at an address associated with a particular government organization, like the NSA.
 
-- ZK Glassdoor where you prove you work at a particular company and confess details about it.
+- ZK Glassdoor: prove you work at a particular company and so can provide firsthand information on what it's like to work there.
 
-- Docusign on chain, where you base-64 decode the attachments and prove any subset of any attachment: this can be your tax return amount, your location, or the fact that you got a term sheet from a VC. You can use this identity proof to add authority to your anonymous speech.
+- On-chain DocuSign: base-64 decode an email's attachments and prove any subset of any attachment, as you would with the email itself -- this can be your tax return amount, your location, or the fact that you got a term sheet from a VC. You can use this identity proof to add credibility to your anonymous speech.
 
 We have several crazy applications in the works as well -- we'd love to collaborate with builders to build them out. If problems like these excite you and you care about open source public goods, reach out to [me](https://twitter.com/yush_g) to build with us! If you have questions on this as you read it, feel free to open a [Github issue](https://github.com/zkemail/zk-email-verify/issues) on the website repo, or reply, and we will do our best to clarify.
 
-There are lots of interesting constructions you can experiment with, like putting addresses and hashes inside of emails (though this might raise the eyes of non-encrypted email providers). At the same time, there are lots of gotchas -- bcc's aren't signed so you can't prove that you were the only recipient of an email, the "to" email field isn't signed in hotmail, and some email providers have their own little quirks that are technically allowed by the DKIM RFC but will break most parsers. We recommend talking to us about your new construction idea so that we can help you verify your security assumptions! We intend to audit this codebase during 2023 to enable production use.
+There are lots of interesting constructions you can experiment with, like putting addresses and hashes inside of emails (though this might raise the eyes of non-encrypted email providers). At the same time, there are lots of gotchas -- bcc's aren't signed so you can't prove that you were the only recipient of an email, the "to" email field isn't signed in Hotmail, and some email providers have their own little quirks that are technically allowed by the DKIM RFC but will break most parsers. We recommend talking to us about your new construction idea so that we can help you verify your security assumptions! We intend to audit this codebase during 2023 to enable production use.
 
 <!-- Footnotes themselves at the bottom. -->
 
-[Sora](https://github.com/SoraSuegami/) and I are leading a new research group called Proof of Email in order to further applications of trustless web2-web3 integrations, with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
+Sora and I are leading a new research group called Proof of Email in order to further applications of trustless web2-web3 integrations with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
 
 ## Footnotes
 
