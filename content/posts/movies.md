@@ -19,6 +19,8 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 
 ### 2023
 
+- **Made in Abyss: Dawn of the Deep Soul**: 7/10. I hesitate even mentioning this in the movie section, because it's the third in a sequence of movies where the first two are better-laid out versions of the first season of the show. With that context though, I found it much more action packed and compelling -- there are a few missing details from the manga that would have clarified a lot of my confusions about the movie, but the main villain is surprisingly complex and consistent despite acting in what initially seems like inconsistent ways.
+
 - **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they started with a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad that they immediately villianized the really interesting Mexico-inspired country they set up -- I would have loved a more nuanced take here, or more empathy created for them throughout instead of just in bits and pieces. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated and sometimes contradictory. The plot itself was also super formulaic and not really compelling or surprising; the last hour was predictable enough to not be interesting. A steep decline from Black Panther 1.
 
 - ⭐ **Your Name** ⭐: 10/10. This movie had the most beautiful animation I've ever seen ([here's a 10 second tiktok preview](https://www.tiktok.com/@snauzk/video/7189209257500282113)) -- and it tells a beautiful story that is so deeply emotional, that you hardly give a passing glace to the reason time and identity work so strangely. It is the top 5 grossing anime films of all time, for good reason -- the beautiful music was from a Japanese rock band that yet achieves an incredibly soft and alluring soundtrack, the scenery is depicted so vividly unlike any animation I have ever seen, and the characters tug on your heartstrings. It imbues a sense that you can love a **kind** of person without knowing their identity yet, and you feel a sense of something you are yearning for -- an alluringly romantic take in today's app swiping era. It doesn't hurt that my favorite-ever sci fi anthology, Axiomatic by Greg Egan, had a direct influence on the director (the "The Safe-Deposit Box" story specifically).
@@ -220,6 +222,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Blindsight Short Film**: [Link](https://blindsight.space/) of a fan made short film. I liked the book, so this could be fun.
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
+- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
