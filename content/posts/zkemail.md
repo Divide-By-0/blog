@@ -147,7 +147,7 @@ Luckily, we can also utilize recursive halo2 proofs to be able to get both speed
 
 So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up right now into an SDK that should make it far easier to write your own proofs. We've also:
 
-- Collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](nozee.xyz) that only reveals your email domain.
+- Collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
 
 - isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zk-email-verify/zk-regex/), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2, along with various theoretical cryptography and circuit improvements to make the circuits lightning fast and easy to generate new regexes for.
 

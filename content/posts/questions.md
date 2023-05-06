@@ -78,6 +78,8 @@ This alive doc will be updated every time I feel the desire to pen a thought.
 
       **Gojo:** The conciseness of the medium implies intentionality of every word -- you can't waste words, and most poems are deeply thought out. This means that the depth of analysis and inferences you can make about the meaning are more likely to actually have been intentional, and so you can extract a lot of meaning from a single sentence.
 
+- Why don't all solar power installations like roof installs, come with autorotating mirrors that minimize the number of expensive panels? Basically, these mirrors would face the sun at the optimal angle to just reflect the sunlight onto the existing panels more cheaply. You'd have lower efficiency admittedly, but probably far lower cost. (Inspired from a chat with Sampriti, Justin, and Grimes)
+
 ## Thoughts from videos
 
 - Is the kind of obsession that Benny Blanco has replicable?
