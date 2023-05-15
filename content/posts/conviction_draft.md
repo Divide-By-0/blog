@@ -1,0 +1,156 @@
+---
+title: "Conviction is the Scarcest Resource: Dialogues About Conviction"
+date: 2023-04-24T22:12:03.284Z
+type: posts
+draft: true
+slug: "conviction"
+category: "5 min read"
+tags: ["advice"]
+description: "I keep having the same conversation again and again. So here's some snippets of chats, from which hopefully you can derive some useful info!"
+---
+
+A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), so I'm hoping to provide a few conversations here that help just put initial pen to paper, partially to help elucidate my own thoughts on this. Part 1 in a multiseries blog post about conviction.
+
+# Chat 1: Giving advice to N
+
+Summary: Navigating personal interests vs career paths, managing time on Twitter, maintaining conviction in one's chosen field, and accepting the unpredictable nature of future opportunities. Book recommendations as well.
+
+friend N -
+do you ever personally feel that twitter makes you more mimetic? i think life with twitter has made it so that when I hear about things going on in a field im not in anymore, i feel fomo towards it, and this feels so disingenuous
+
+yush —
+Yeah twitters bad for focus
+It's always fun hearing about the cool stuff but every minute of that takes away from ur own work and your own cool ideas.
+Twitters also like, 3 months behind on everything
+I usually keep twitter to a few min/day -- try to replace twitter with ethresearch or even like a tv show or something
+After spending time around certain people, I just very strongly feel like, the real crypto discussions are not happening on twitter lol
+
+friend N -
+What gives you your conviction on ZK? I find that I struggle to feel conviction towards something if I don’t see a concrete path for it working out, do you feel differently?
+
+yush -
+I think it comes back to the asymmetric bets
+you'll see this if you read the dream machine or skunkworks or any book with transformational tech
+theres a certain feeling that theres an explosion of new ability
+that only a few people realize
+zk is the only place I feel that right now
+
+friend —
+interesting -- theres so many smart kids around, and they all feel it for many diff things; some friends with physics, y'all have had ZK for a while, some friends are doing cool robotics things, etc.
+
+yush —
+yeah its hard to choose, they are all very cool
+I think its sort of like
+you have to order your interests
+so that you go super deep on one
+do something big
+then competely retract and go super deep on another
+and so on
+you've done the first step of be curious about a lot of things
+but now you need to switch modes a bit, and choose which of ur interests ur best _timed_ in
+it's sort of an unintuitive switch/mode but
+youre gonna screw yourself if you do two things at once or are constantly pining for some other interest
+and not do anything big in either
+like, I dont expect to be doing zk for 10 years
+I hope that in 5 years or whatever im sick of crypto, and decide idk longevity robots is my new schtick or whatever, and do that for a few years
+but like rn I think im well timed in zk, so zk it is
+for struggles w conviction I usually recommend the books greatness cannot be planned and feynmans rainbow
+u can see longer reviews for those here: https://goodreads.com/yushg
+
+friend —
+makes sense -- been meaning to read greatness cannot be planned for a while, saw the talk on it, seemed worth, will check those out this week
+have you ever felt regret or doubt on this when you see other things picking up, or are you past that at this point?
+i'm sure lots of people in AI over the last 2 decades felt moments of doubt and such when they saw other fields get their moment in the spotlight lmao
+
+yush —
+yeah I think when ai stuff started coming out, I was like ah, if id dedicated myself to that, I totally could have been a pivotal contributor to gpt X or whatever
+but its also like
+there will be soo many things like this in the next 10, 20, 30 years
+so where am I maximally leveraged and maximally having fun
+honestly like, id potentially be pretty happy just watching anime and reading books for the rest of my life and not doing any work
+so like if I actually dont care about clout (i.e. putting my name on gpt X) then like, how can I put myself in a place where I can be maximally leveraged to do things in the world that no one else is doing, that I almost feel like I have to do since im the only one who can
+like mitsoul.org is a good example of this -- its like super nonsexy, nothing is on twitter, etc, but I think better education will silently result in a bunch of massively smart ppl that seem like they came out of nowhere, and ill just be grinning in the background somewhere
+unfortunately I had to make the v difficult choice to strongly prioritize my zk work over it
+i can probably mention 2-3 people who's thoughts on a field are basically 100x better than anything I can conjure up, so im pretty happy mostly cheering them on from the sidelines; but I think I have thoughts on zk that no one else 100xs me on
+for agency I also recommend ppl watch the steward brand documentary we are as gods
+this guy just did whatever the fuck he was curious about but he did it to the max
+
+friend —
+yea if it is true that you can simply work hard and eventually be rewarded for it, the things in the coming years should give plenty of chances
+this might be semantics, I think I catch your meaning, but won't others do ZK if you don't?
+
+yush —
+yeah but basically like 3 other people in the world care about + are able to technically execute on the specific zk project I care most about right now
+and I could say the same for basically any zk niche I care about (except maybe like, zkevm or something)
+like if I was working on idk zk kyc for instance, then I could probably say the same thing (maybe a handful of people for that one)
+im just like not worried about being rewarded lol, worst case I write trading strats full time when I turn 30 or 35 if im still poor and need money to have kids or whatever; I am pretty confident that it will not come to that though LOL
+but until then, the goal is to accumulate max social capital + technical capital
+that can all be converted to financial capital anytime but u cant go the other way
+
+friend —
+is there anywhere specific you'd like to see yourself in 1 and 3 years? im curious where you want the path youve chosen to take you, if anywhere?
+
+yush —
+Maybe like, I have a cool product under my belt in 1 year, and in 3 years I'm helping to spawn and mentor a bunch of advanced cryptography projects beyond ZK? unclear
+If u asked me this 1 year ago I'd be like completely off base from what actually happened, so I think this answer can basically be ignored lol
+
+friend —
+yeah totally agree on that
+every time I think about these things (every month or so recently when some friend manages to trigger my FOMO lmao) I conclude that I should just work hard on things that seem fun and take it easy because theres no way I can plan this shit anyway, but the conclusion doesn't stick, am looking at the books you recommended above rn, I think those will help retrain the brain
+
+yush —
+yup good takeaway, you need a full mental model from the ground up so only a book is gonna give u that
+(also I feel like ive had this similar kind of conviction convo like 100 times lol, do u mind if I anonymize + summarize it and stick it on my blog to link to ppl in the future)
+
+friend N -
+please do, I would do the same if I was stable on a view on this topic
+
+# Chat 2: Notes from I had from a chat with mentor 1
+
+Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence, managing meetings, and recognizing the power of long-term compounding in personal development.
+
+- Humility
+  - If you don't have your own beliefs, and are always being humble to those above you, then it means you can't believe anything.
+  - One framing is that if you defend my logic, then suddenly it's arrogance? -> This isn't sustainable, since then you can't first principles think anymore.
+- Mentors
+  - If I agree with what 80% of what the mentor says, then no room for originality
+  - This higher level stuff is not really what the day to day helps with
+  - Mentors can maybe inform thoughts, but you need to have first principles beliefs about things -- they has the most information about everything, but that's not enough
+  - Old people have good heuristics, and good functions, and can say lots of general stuff, but don't know whats going on in your head
+  - Mentors plant a seed in my brain but ultimately I call the shot
+  - Everyone else just has one lens on you
+- Startups
+  - It always seems really cool that friends are all doing startups
+  - Find the thing you'd do because it suits you -- you're in a different mindspace when you're a fit for it from first principles
+  - On a meta level, you will basically always feel maximal FOMO -- if you track your opinion over time, its gonna really suck
+  - When the company is doing poorly, there are a bunch of reasons you'll say it wasn't a good fit for me anyways
+  - Evaluate opportunity and don't get hung up on regretting -- if you're only taking 100% shots, you're not aiming high enough, or else it means your bet sizing is too small
+  - Do something that needs vested time/experience ‒ expertise is significantly less fungible than money
+- Everything seeming cool before and out of it
+  - Have type of reaction that once I'm in a thing, assume this is it, this is the coolest thing
+  - SAM -- overly optimistic
+- Clout
+  - The sorts of undergrads who read techcrunch are very different from actually smart people
+  - Clout is a crutch -- there's no replacement for enthusiasm, and clout is the splenda for enthusiasm
+- Principles
+  - Process driven vs owning outcomes (opposites and can map to specific experiences)
+  - Mentors are maybe more experienced in general domain, but not in what should you a specific person do with your specific life? You just need a set of principles that work for your life situation
+  - Wise people say they are most are happy when doing x -- different than you
+  - I wont do anything im not emotionally convinced about, but if I build up to it, I can execute it with my whole heart; you need to be internally aligned to implement it well
+  - VC/startup failure mode is satisfying LP constraints from the start that is unsatisfiable
+- Intelligence
+  - Others will always be smarter
+  - I can be creative enough to come up with great things I can do
+  - Would you trade your life for mark zucks life? If the answer is like, yes clearly obviously -- there's probably some mental block. I can say with full certainty that I prefer to be myself -- what are the things you can do that could lead to that?
+  - Significantly influenced by a few specific individuals I personally know, and their values and beliefs
+  - Growth is super nonlinear
+  - Feeling like a follower is natural at the start, but
+- Discomfort
+  - Is different than the discomfort of like, asking a girl out or something. In this case, it's about more having the courage to pursue something really hard you might like. This courage and authenticity coincidentally makes the former example easier, but is a different kind of discomfort that needs to come first.
+  - This kind of discomfort grows you in axes of _you_
+- Meetings
+  - Sometimes jot quick notes after a mentor session: good for memorizing and listening and constructing the right mental models that will last longer term
+  - This doesn't really apply for things like meetings though, since there are clear actionables/tasks you don't want to drop
+- Long Term Compounding
+  - The long term stuff compounds: specific 40s something people we know have built themselves that over 20+ years of giving for the long term.
+  - For instance, someone working on an X company has been crazy obsessed with X for all 4 years of college -- was really struck by the depth of this obsession from the start.
