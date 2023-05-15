@@ -95,7 +95,7 @@ Maybe like, I have a cool product under my belt in 1 year, and in 3 years I'm he
 If u asked me this 1 year ago I'd be like completely off base from what actually happened, so I think this answer can basically be ignored lol
 
 friend —
-yeah totally agree on that
+yeah totally agree on that (see: [futility of planning long term meme](https://twitter.com/yacineMTB/status/1643843769245024256?s=20))
 every time I think about these things (every month or so recently when some friend manages to trigger my FOMO lmao) I conclude that I should just work hard on things that seem fun and take it easy because theres no way I can plan this shit anyway, but the conclusion doesn't stick, am looking at the books you recommended above rn, I think those will help retrain the brain
 
 yush —
@@ -104,6 +104,7 @@ yup good takeaway, you need a full mental model from the ground up so only a boo
 
 friend N -
 please do, I would do the same if I was stable on a view on this topic
+some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/status/1656085677954723840?s=20), ["grinding" breaks internal monologue](https://twitter.com/Brad08414464/status/1655028437202145280?s=20), [overthinking](https://twitter.com/lexfridman/status/1651646972279812097?s=20), [do things](https://twitter.com/Pavel_Asparagus/status/1657777983870971904?s=20).
 
 # Chat 2: Notes from I had from a chat with mentor 1
 
