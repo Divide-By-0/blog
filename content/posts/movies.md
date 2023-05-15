@@ -11,17 +11,21 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 
 It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially -- classic Hollywood eschews controversy in favor of tropes and standard storytelling methods to maximize profit and agreeability at the box office; indie films tend to be a lot more unique and interesting. See my similar [TV doc](https://blog.aayushg.com/posts/tv) for TV recs, or [my Goodreads](https://www.goodreads.com/yushg) for book recs.
 
-Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants, each one changing the implications of the movie (see: Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
+Puzzle making is pretty lossy and inaccurate representation of this list. I generally love any movies that are more sci-fi themed (like Dune), or have a complex plot that takes focus to fully understand (ahem Tenet), or make you feel a ton of emotions (damn, Better Days), or have you sniff out lots of little clues that the filmmaker plants, each one changing the implications of the movie (see: Us). I think this list is pretty broadly recommendable, but specifically I think more technical folks or people who love puzzles will particularly love this list. I don't include any spoilers, but more of a broadstrokes review. For reviews with spoilers, I usually search [metaphor.systems](https://metaphor.systems) for blog post analyses, which has been far better than Google or ChatGPT. This list is largely inspired by [Nick Sweeting's similar list](https://docs.sweeting.me/s/movies-to-watch#Mindfuck) and [Max Langenkamp](https://maxlangenkamp.me/). If you have any recs for me having looked at this list, I'd love to hear them -- you can dm me on [Twitter](https://twitter.com/yush_g/)! To calibrate, anything 8 or above means I highly recommend that others watch it, and 10 is a must-watch. ⭐ My top movie of the year is marked in stars ⭐.
 
-This alive doc will be updated every time I watch a movie. Maybe one day I will also reflect these on Letterboxd.
+This alive doc will be updated every time I watch a movie, and is in reverse chronological order. Maybe one day I will also reflect these on Letterboxd.
 
 ## Previous
 
 ### 2023
 
+- **Spirited Away**: 9/10. It's incredible that the greatest animated film of all time is so surreal and fantastical, but also grounded in very human themes like anti-capitalism, pro-environmentalism, anti-greed, pro-kindness etc throughout. A few blog posts helped me really understand all of the symbolism -- the best ones were these: [social commentary analysis](https://the-artifice.com/spirited-away-social-criticism/), [character analysis](https://myswordisunbelievablydull.wordpress.com/2015/02/27/spirited-away-analysis/), and [prostitution theory breakdown](https://onionandartichoke.tumblr.com/post/114137040455/the-prostitution-theory-of-spirited-away).
+
+- **Jujutsu Kaisen 0**: 9/10. This is a prequel to the first season, and OK watching standalone (unlike Made in Abyss). This is my favorite anime for a reason -- the story is both deeply emotional and hilarious, and the cast of characters is memorable and immediately lovable. Docked a point for a few scenes with unclear and unmotivated dialogue, meaning I had to rewatch those to understand.
+
 - **Made in Abyss: Dawn of the Deep Soul**: 7/10. I hesitate even mentioning this in the movie section, because it's the third in a sequence of movies where the first two are better-laid out versions of the first season of the show. With that context though, I found it much more action packed and compelling -- there are a few missing details from the manga that would have clarified a lot of my confusions about the movie, but the main villain is surprisingly complex and consistent despite acting in what initially seems like inconsistent ways.
 
-- **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they started with a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad that they immediately villianized the really interesting Mexico-inspired country they set up -- I would have loved a more nuanced take here, or more empathy created for them throughout instead of just in bits and pieces. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated and sometimes contradictory. The plot itself was also super formulaic and not really compelling or surprising; the last hour was predictable enough to not be interesting. A steep decline from Black Panther 1.
+- **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they started with a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad that they then villianized the really interesting Mexico-inspired country they set up -- I would have loved a more nuanced take here, or more empathy created for them throughout, instead of just in bits and pieces. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated and sometimes contradictory. The plot itself was also super formulaic and not really compelling or surprising; the last hour was predictable enough to not be interesting. A steep decline from Black Panther 1.
 
 - ⭐ **Your Name** ⭐: 10/10. This movie had the most beautiful animation I've ever seen ([here's a 10 second tiktok preview](https://www.tiktok.com/@snauzk/video/7189209257500282113)) -- and it tells a beautiful story that is so deeply emotional, that you hardly give a passing glace to the reason time and identity work so strangely. It is the top 5 grossing anime films of all time, for good reason -- the beautiful music was from a Japanese rock band that yet achieves an incredibly soft and alluring soundtrack, the scenery is depicted so vividly unlike any animation I have ever seen, and the characters tug on your heartstrings. It imbues a sense that you can love a **kind** of person without knowing their identity yet, and you feel a sense of something you are yearning for -- an alluringly romantic take in today's app swiping era. It doesn't hurt that my favorite-ever sci fi anthology, Axiomatic by Greg Egan, had a direct influence on the director (the "The Safe-Deposit Box" story specifically).
 
@@ -37,7 +41,7 @@ This alive doc will be updated every time I watch a movie. Maybe one day I will 
 
 This was an excellent year for movies. I spent a significant amount of time combing through trailers, award shows, and off-the-beaten path recommendations, and it heavily paid off. I hope that others can benefit from it!
 
-- **Triangle of Sadness**: 5/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and heirarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. The [director scene breakdowns](https://www.youtube.com/watch?v=ZDBMoCdktHY) were also pretty mediocre compared to others I've seen.
+- **Triangle of Sadness**: 5/10. This felt like a pretty overdone, trope-y cross of Lord of the Flies and "ugh rich people are so stupid and hierarchical". The absurdism was funny and well-placed, but it didn't explore any surprising or interesting themes. The [director scene breakdowns](https://www.youtube.com/watch?v=ZDBMoCdktHY) were also pretty mediocre compared to others I've seen.
 
 - **Minions: The Rise of Gru**: 8/10. Love these little guys, who more than make up for the lack of story. Degenerate childhood nostalgia.
 
@@ -65,7 +69,7 @@ This was an excellent year for movies. I spent a significant amount of time comb
 
 - **3 Billboards Outside Ebbing Missouri**: 10/10. It has an excellent unique plot from the get-go, and sets up a really unique protagonist/antagonist arc. Standout indie film.
 
-- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. It gets rid of my favorite part -- the romanticness and idealism of the completely selfless. Perhaps if I'd watched this independently of the short story, I'd like it more.
+- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. It gets rid of my favorite part -- the romantic idealism of the completely selfless. Perhaps if I'd watched this independently of the short story, I'd like it more.
 
 - **Everything Everywhere All at Once**: 9/10. A24's standout movie; absurdist comedy. Excellent indie filmmaking and reflection on themes of parental empathy and nihilism. Am pretty happy I watched it with my family, we had a lot to talk about afterwards (though the hot dog scenes were not particularly comfortable lol). I think this is the only absurdist film I've really liked: they did a great job on keeping a compelling narrative that conveyed the emotional punches they wanted to convey.
 
@@ -217,21 +221,19 @@ At this point and before, I watched mostly just mainstream movies.
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
-- **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
+- **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
-- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
-- **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
 - **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
-- **Spirited Away**: Somehow I haven't watched the greatest animated film of all time yet??
-- **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
 - **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
+- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
+- **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Song of the sea**: Scottish film with Anime vibes.
@@ -239,6 +241,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Kahaani**: Hindi film.
 - **Petit Mamam**: French movie, more about feelings than dialogue
+- **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness

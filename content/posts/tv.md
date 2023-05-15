@@ -53,7 +53,7 @@ This year I've basically exclusively watched anime, compared to almost none befo
 
 ### 2020
 
-- ⭐ **Master of None** ⭐: 10/10. Aziz Ansari is a genius: this show is an incredible mix of comedy and personal reflection; it's a really incredible set of stories about being a mid 20s-something person in New York: the inner conflict at the hidden ironies of the lifestyle, the ethical ambiguity of common and uncommon situations, and all of the small awkward moments in life that everyone has but no one acknowledges.
+- ⭐ **Master of None** ⭐: 10/10. Aziz Ansari is a genius: this show is an incredible mix of comedy and personal reflection. It's a really incredible set of stories about being a mid 20s-something person in New York: the inner conflict at the hidden ironies of the lifestyle, the ethical ambiguity of common and uncommon situations, and all of the small awkward moments in life that everyone has but no one acknowledges.
 
 ## Want to Watch
 
