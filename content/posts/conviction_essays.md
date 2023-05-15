@@ -11,7 +11,7 @@ description: "Essays about how you can't fake conviction -- how to recognize it,
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), but these are a few early cracks I had at essays and/or bullet point notes. I'm gonna try to approach this in a map vs territory kind of way: I point at a map and say look, that's the shape of that thing, and hopefully it's enough for you to fill in what I'm trying to convey gyourself. Part 2 in a multiseries blog post about conviction.
 
-# Real vs Fake Conviction
+## Real vs Fake Conviction
 
 - Motivation
   - The person who does every action and speaks every word the successful person did and spoke, may have the same outcome, but will not emerge with the same emotional consistency. They will not have the curiosity to build off what they did towards the future, or the enduring satisfaction that they followed what they believed in. They might have the money, but not the internal wealth or the long term means to create more and give the right advice.
@@ -31,7 +31,7 @@ A friend a few years back to me said, "Conviction is the scarcest resource, not 
     - Conviction needs emotional alignment – when doing the thing, you believe you are happiest doing that thing. Alignment seems wishy-washy, so here's a formalism: all your doubts, the ones that happen every second, the ones you think of every few minutes, and the ones every few weeks -> you'll always have doubts, but your emotions should still point in the same rough direction. To be clear, you will always have doubts, there will always be what-ifs.
     - But conviction is a sort of narrative you spin around your life that almost delude you into the importance of some specific thing, and that narrative is just as arbitrary as any decision or belief you might have -- but it is extremely powerful in directing actions in a consistent and self-boosting manner.
 
-# You Can't Fake Conviction
+## You Can't Fake Conviction
 
 This was an essay I wrote for a fellowship a few years back. It's a bit more concise than I would prefer, but gets the jist across.
 
@@ -43,7 +43,7 @@ As I began to notice conviction around me, I began to name shortcuts I had taken
 
 To get conviction now, I read strange books by experts, learn different fields, and pursue only projects that showcase interesting ideas, inevitably spawning more. I no longer worry about optimizing each second, and feel excitement when I build.
 
-# Scattered Thoughts on Conviction
+## Scattered Thoughts on Conviction
 
 - On optionality
   - Having read the admissions blogs on articles such as, "look at every class your school offers", how a PhD student found their passion in space systems orientation and navigation (through undergrad classes they liked, could articulate reasons for, a fun research-y experience but with a real system floating out in space, etc).

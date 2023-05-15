@@ -11,7 +11,7 @@ description: "I keep having the same conversation again and again. So here's som
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), so I'm hoping to provide a few conversations here that help just put initial pen to paper, partially to help elucidate my own thoughts on this. Part 1 in a multiseries blog post about conviction.
 
-# Chat 1: Giving advice to N
+## Chat 1: Giving advice to N
 
 Summary: Navigating personal interests vs career paths, managing time on Twitter, maintaining conviction in one's chosen field, and accepting the unpredictable nature of future opportunities. Book recommendations as well.
 
@@ -106,7 +106,7 @@ friend N -
 please do, I would do the same if I was stable on a view on this topic
 some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/status/1656085677954723840?s=20), ["grinding" breaks internal monologue](https://twitter.com/Brad08414464/status/1655028437202145280?s=20), [overthinking](https://twitter.com/lexfridman/status/1651646972279812097?s=20), [do things](https://twitter.com/Pavel_Asparagus/status/1657777983870971904?s=20).
 
-# Chat 2: Notes from I had from a chat with mentor 1
+## Chat 2: Notes from I had from a chat with mentor 1
 
 Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence, managing meetings, and recognizing the power of long-term compounding in personal development.
 
