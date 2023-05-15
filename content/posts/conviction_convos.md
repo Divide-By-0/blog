@@ -1,6 +1,6 @@
 ---
 title: "Conviction is the Scarcest Resource: Dialogues About Conviction"
-date: 2023-04-24T22:12:03.284Z
+date: 2023-05-14T22:12:03.284Z
 type: posts
 draft: true
 slug: "conviction"
@@ -35,66 +35,58 @@ theres a certain feeling that theres an explosion of new ability
 that only a few people realize
 zk is the only place I feel that right now
 
-friend —
+friend N —
 interesting -- theres so many smart kids around, and they all feel it for many diff things; some friends with physics, y'all have had ZK for a while, some friends are doing cool robotics things, etc.
 
 yush —
 yeah its hard to choose, they are all very cool
-I think its sort of like
-you have to order your interests
-so that you go super deep on one
-do something big
-then competely retract and go super deep on another
-and so on
+I think its sort of like, you have to order your interests so that you go super deep on one
+do something big, then competely retract and go super deep on another, and so on
 you've done the first step of be curious about a lot of things
 but now you need to switch modes a bit, and choose which of ur interests ur best _timed_ in
-it's sort of an unintuitive switch/mode but
-youre gonna screw yourself if you do two things at once or are constantly pining for some other interest
-and not do anything big in either
-like, I dont expect to be doing zk for 10 years
-I hope that in 5 years or whatever im sick of crypto, and decide idk longevity robots is my new schtick or whatever, and do that for a few years
-but like rn I think im well timed in zk, so zk it is
-for struggles w conviction I usually recommend the books greatness cannot be planned and feynmans rainbow
-u can see longer reviews for those here: https://goodreads.com/yushg
+it's sort of an unintuitive switch/mode
+youre gonna screw yourself if you do two things at once or are constantly pining for some other interest, and not do anything big in either
+like, I dont expect to be doing zk for 10 years -- I hope that in 5 years or whatever im sick of crypto, and decide idk longevity robots is my new schtick or whatever, and do that for a few years
+But rn I think im well timed in zk, so zk it is
+For struggles with conviction, I usually recommend the books 'greatness cannot be planned' and 'feynmans rainbow'
+You can see longer reviews for those here: https://goodreads.com/yushg
 
-friend —
+friend N —
 makes sense -- been meaning to read greatness cannot be planned for a while, saw the talk on it, seemed worth, will check those out this week
 have you ever felt regret or doubt on this when you see other things picking up, or are you past that at this point?
 i'm sure lots of people in AI over the last 2 decades felt moments of doubt and such when they saw other fields get their moment in the spotlight lmao
 
 yush —
-yeah I think when ai stuff started coming out, I was like ah, if id dedicated myself to that, I totally could have been a pivotal contributor to gpt X or whatever
-but its also like
-there will be soo many things like this in the next 10, 20, 30 years
+yeah I think when ai stuff started coming out, I was like ah, if id dedicated myself to that, I totally could have been a pivotal contributor to gpt X or whatever cool foundational AI model
+but also, this is a signal that there will be soo many things like this in the next 10, 20, 30 years
 so where am I maximally leveraged and maximally having fun
-honestly like, id potentially be pretty happy just watching anime and reading books for the rest of my life and not doing any work
-so like if I actually dont care about clout (i.e. putting my name on gpt X) then like, how can I put myself in a place where I can be maximally leveraged to do things in the world that no one else is doing, that I almost feel like I have to do since im the only one who can
-like mitsoul.org is a good example of this -- its like super nonsexy, nothing is on twitter, etc, but I think better education will silently result in a bunch of massively smart ppl that seem like they came out of nowhere, and ill just be grinning in the background somewhere
+honestly, id potentially be pretty happy just watching anime and reading books for the rest of my life and not doing any work
+So if I actually don't care about clout (i.e. putting my name on gpt X), then how can I put myself in a place where I can be maximally leveraged to do things in the world that no one else is doing, that I almost feel like I have to do since im the only one who can
+Maybe mitsoul.org is a good example of this -- its super nonsexy, nothing is on twitter, etc, but I think better education will silently result in a bunch of massively smart ppl that seem like they came out of nowhere, and ill just be grinning in the background somewhere
 unfortunately I had to make the v difficult choice to strongly prioritize my zk work over it
 i can probably mention 2-3 people who's thoughts on a field are basically 100x better than anything I can conjure up, so im pretty happy mostly cheering them on from the sidelines; but I think I have thoughts on zk that no one else 100xs me on
 for agency I also recommend ppl watch the steward brand documentary we are as gods
 this guy just did whatever the fuck he was curious about but he did it to the max
 
-friend —
+friend N —
 yea if it is true that you can simply work hard and eventually be rewarded for it, the things in the coming years should give plenty of chances
 this might be semantics, I think I catch your meaning, but won't others do ZK if you don't?
 
 yush —
-yeah but basically like 3 other people in the world care about + are able to technically execute on the specific zk project I care most about right now
-and I could say the same for basically any zk niche I care about (except maybe like, zkevm or something)
-like if I was working on idk zk kyc for instance, then I could probably say the same thing (maybe a handful of people for that one)
-im just like not worried about being rewarded lol, worst case I write trading strats full time when I turn 30 or 35 if im still poor and need money to have kids or whatever; I am pretty confident that it will not come to that though LOL
+yeah but basically 3 other people in the world care about + are able to technically execute on the specific zk project I care most about right now
+and I could say the same for like second, third, and fourth places for zk niches I care about (note this is not true for like zkevm or zk rollups) -- for instance, zk kyc
+im just like not worried about being rewarded lol, worst case I write trading strats full time when I turn 35 if im still poor and need money to have kids or whatever; I am pretty confident that it will not come to that though LOL
 but until then, the goal is to accumulate max social capital + technical capital
-that can all be converted to financial capital anytime but u cant go the other way
+that can all be converted to financial capital anytime, but u cant go the other way
 
-friend —
+friend N —
 is there anywhere specific you'd like to see yourself in 1 and 3 years? im curious where you want the path youve chosen to take you, if anywhere?
 
 yush —
 Maybe like, I have a cool product under my belt in 1 year, and in 3 years I'm helping to spawn and mentor a bunch of advanced cryptography projects beyond ZK? unclear
 If u asked me this 1 year ago I'd be like completely off base from what actually happened, so I think this answer can basically be ignored lol
 
-friend —
+friend N —
 yeah totally agree on that (see: [futility of planning long term meme](https://twitter.com/yacineMTB/status/1643843769245024256?s=20))
 every time I think about these things (every month or so recently when some friend manages to trigger my FOMO lmao) I conclude that I should just work hard on things that seem fun and take it easy because theres no way I can plan this shit anyway, but the conclusion doesn't stick, am looking at the books you recommended above rn, I think those will help retrain the brain
 

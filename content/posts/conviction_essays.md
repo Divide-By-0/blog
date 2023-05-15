@@ -1,6 +1,6 @@
 ---
 title: "Conviction is the Scarcest Resource: Essays About Fake Conviction"
-date: 2023-04-24T22:12:03.284Z
+date: 2023-05-14T22:12:03.284Z
 type: posts
 draft: true
 slug: "fake_conviction"
