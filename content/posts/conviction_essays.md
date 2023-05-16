@@ -20,7 +20,7 @@ A friend a few years back to me said, "Conviction is the scarcest resource, not 
 - Conviction
   - Ways to get conviction
     - **Media**
-      - Reading books gives you conviction in certain ideas – that's why it's important to choose only the authors that are experts in their fields, who have fought the fights and been through the trials and tribulations.
+      - Reading books gives you conviction in certain ideas – that's why it's important to choose only the authors that are experts in their fields, who have fought the fights and been through the trials and tribulations. [Read widely and differently](https://glibert.io/blog/reading/).
       - Rereading/rewatching renews conviction as well. I used to be opposed to this, because I consumed content for the excitement of unknown stories, and the stories weren't as novel the second time around. But if watching something gave you conviction in an idea, chances are that conviction will fade without constant rebuffing – and you really do get a chance to think about deeper artistic details that aren't at the apex of the foreground.
     - **Environment**
       - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found – it leads to too many cases where you feel like you obtained conviction, but in reality you're standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
