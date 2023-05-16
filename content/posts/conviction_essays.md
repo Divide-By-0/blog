@@ -6,7 +6,7 @@ draft: true
 slug: "fake_conviction"
 category: "5 min read"
 tags: ["advice"]
-description: "Essays about how you can't fake conviction -- how to recognize it, and how to stop it (and why doing this is the most important thing). Messy potpurri of info."
+description: "Essays about how you can't fake conviction -- how to recognize it, and how to stop it (and why doing this is the most important thing)."
 ---
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), but these are a few early cracks I had at essays and/or bullet point notes. I'm gonna try to approach this in a map vs territory kind of way: I point at a map and say look, that's the shape of that thing, and hopefully it's enough for you to fill in what I'm trying to convey yourself. Part 2 in a multiseries blog post about conviction.
@@ -23,8 +23,8 @@ A friend a few years back to me said, "Conviction is the scarcest resource, not 
       - Reading books gives you conviction in certain ideas – that's why it's important to choose only the authors that are experts in their fields, who have fought the fights and been through the trials and tribulations.
       - Rereading/rewatching renews conviction as well. I used to be opposed to this, because I consumed content for the excitement of unknown stories, and the stories weren't as novel the second time around. But if watching something gave you conviction in an idea, chances are that conviction will fade without constant rebuffing – and you really do get a chance to think about deeper artistic details that aren't at the apex of the foreground.
     - **Environment**
-      - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found – it leads to too many cases where you obtain conviction, but standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
-      - I loved my roommates, but it was hard to get support for the weird things I was starting to explore budding convictions in: they'd often shoot the whole concept down when we got to something I wasn't sure about, instead of encouraging me to build a stronger foundation on that point.
+      - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found – it leads to too many cases where you feel like you obtained conviction, but in reality you're standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
+      - Though I loved my previous roommates, it was hard to get support for the weird things I was starting to explore budding convictions in: they'd often shoot the whole concept down when we got to something I wasn't sure about, instead of encouraging me to build a stronger foundation on that point. Ultimately, it was healthier for me to separate and find new ones that I vibed with more.
       - If people ask you questions, do your thoughts hold up? This is often easier in physical conversation than online -- online, it's too easy to just not ask any questions.
     - **Momentum**
       - Momentum brings you to a world level, and deepens over time. Put this way: your goal is not "find the perfect topic", but choose a topic that will lead to interesting things, then pursue it with increasing fervor built from reading books in the field and talking to people in the field. This is a nice reframing of commitment, for the commitment-phobes of us.
@@ -89,5 +89,5 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
   - You want to be the thinker, but that takes knowledge of the why and the theory and the high level
   - At the same time, still need to be highly technical to get it done when no one else can -- doing is important but not the most important.
 - Misunderstanding Musk
-  - If you don't understand his drive for learning about space (i.e. reaching out to Cantrell, reading the 4 fat textbooks first, making himself the expert), then you won't understand what led to his conviction and talent
+  - If you don't understand his drive for learning about space (i.e. reaching out to Cantrell, reading the 4 fat textbooks first, making himself the expert), then you won't understand what led to his conviction and talent (say what you will about his personality, but those two are undeniable)
   - Doing something without first developing a deep understanding is like jumping down a rabbit hole with low confidence
