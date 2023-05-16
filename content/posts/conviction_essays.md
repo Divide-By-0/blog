@@ -9,21 +9,27 @@ tags: ["advice"]
 description: "Essays about how you can't fake conviction -- how to recognize it, and how to stop it (and why doing this is the most important thing). Messy potpurri of info."
 ---
 
-A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), but these are a few early cracks I had at essays and/or bullet point notes. I'm gonna try to approach this in a map vs territory kind of way: I point at a map and say look, that's the shape of that thing, and hopefully it's enough for you to fill in what I'm trying to convey gyourself. Part 2 in a multiseries blog post about conviction.
+A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), but these are a few early cracks I had at essays and/or bullet point notes. I'm gonna try to approach this in a map vs territory kind of way: I point at a map and say look, that's the shape of that thing, and hopefully it's enough for you to fill in what I'm trying to convey yourself. Part 2 in a multiseries blog post about conviction.
 
 ## How to (and How Not To) Get Conviction
+
+<!-- TODO: Add examples to ways to get conviction  -->
 
 - Motivation
   - The person who does every action and speaks every word the successful person did and spoke, may have the same outcome, but will not emerge with the same emotional consistency. They will not have the curiosity to build off what they did towards the future, or the enduring satisfaction that they followed what they believed in. They might have the money, but not the internal wealth or the long term means to create more and give the right advice.
 - Conviction
   - Ways to get conviction
-    - Reading books gives you conviction in certain ideas – that's why it's important to choose only the authors that are experts in their fields, who have fought the fights and been through the trials and tribulations.
-    - Rereading/rewatching renews conviction as well. I used to be opposed to this, because I consumed content for the excitement of unknown stories, and the stories weren't as novel the second time around. But if watching something gave you conviction in an idea, chances are that conviction will fade without constant rebuffing – and you really do get a chance to think about deeper artistic details that aren't at the apex of the foreground.
-    - Momentum brings you to a world level, and deepens over time. Put this way: your goal is not "find the perfect topic", but choose a topic that will lead to interesting things, then pursue it with increasing fervor built from reading books in the field and talking to people in the field.
-    - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found – it leads to too many cases where you obtain conviction, but standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
-    - If people ask you questions, do your thoughts hold up? This is often easier in physical conversation than online -- online, it's too easy to just not ask any questions.
-    - This is how people do one thing for a long time. They just get more and more conviction, and better and better intuitions. Conversely, you do need to do one thing for a while for your conviction to be strong -- you can't just build it in one night.
-    - If the reasons for their conviction is ever broken, they either find new equally compelling reasons, or switch.
+    - **Media**
+      - Reading books gives you conviction in certain ideas – that's why it's important to choose only the authors that are experts in their fields, who have fought the fights and been through the trials and tribulations.
+      - Rereading/rewatching renews conviction as well. I used to be opposed to this, because I consumed content for the excitement of unknown stories, and the stories weren't as novel the second time around. But if watching something gave you conviction in an idea, chances are that conviction will fade without constant rebuffing – and you really do get a chance to think about deeper artistic details that aren't at the apex of the foreground.
+    - **Environment**
+      - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found – it leads to too many cases where you obtain conviction, but standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
+      - I loved my roommates, but it was hard to get support for the weird things I was starting to explore budding convictions in: they'd often shoot the whole concept down when we got to something I wasn't sure about, instead of encouraging me to build a stronger foundation on that point.
+      - If people ask you questions, do your thoughts hold up? This is often easier in physical conversation than online -- online, it's too easy to just not ask any questions.
+    - **Momentum**
+      - Momentum brings you to a world level, and deepens over time. Put this way: your goal is not "find the perfect topic", but choose a topic that will lead to interesting things, then pursue it with increasing fervor built from reading books in the field and talking to people in the field. This is a nice reframing of commitment, for the commitment-phobes of us.
+      - This is how people do one thing for a long time. They just get more and more conviction, and better and better intuitions. Conversely, you do need to do one thing for a while for your conviction to be strong -- you can't just build it in one night.
+      - If the reasons for their conviction is ever broken, they either find new equally compelling reasons, or switch.
   - Ways not to get conviction
     - As you mature and learn more, conviction becomes harder. Youthful arrogance is often a quick and easy proxy for conviction, but flawed in exactly that – we are looking for conviction based on truth, not an arrogant delusion of the truth.
     - Originality is a shortcut to conviction, but fake originality is a fake shortcut. If you use someone else's thoughts and delude yourself into thinking non-first-principles thoughts are your own, you're standing on a shaky tower; poking at those thoughts risk collapsing the whole tower. Use other people's thoughts to inform your own, don't copy (see: Steal Like an Artist).
@@ -64,7 +70,7 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
 - Language splices out bad reasons for conviction
   - Communicates subtleties and reasons and things that go beyond the surface level
   - One must believe you can transmit and encode all information in language/imagery — without this, communication breaks down, and meaning in the world is lost. It cannot be transmitted, or understood, or anything. To really make sure your conviction is robust, you better be able to express your convictions through language, not just feeling.
-  - The translation into language is often the step where you can identify other people who don't have full conviction as well. Ask them questions, poke and prod till you fully understand what drives them.
+  - The translation into language is often the step where you can identify other people who don't have full conviction as well. Ask them questions, poke and prod till you fully understand what drives them.but ay
 
 ## Bad Forms of Conviction
 
@@ -72,7 +78,7 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
   - His eyes don't light up with excitement, it's just "going well"
   - Just wants to learn about ML and how to apply it, so he chose some random prof and field to work with
     - I disagree with this choice: I think to be a real expert and develop this compounding passion, you have to choose something that excites you and you're curious about, and keep asking questions.
-    - You can't love doing a thing because you like the tools involved: you have to be curious about the thing itself.
+    - You can't love doing a thing because you like the tools involved: you have to be curious about the thing itself, or else you are building knowledge in a field you will struggle to push yourself every day in.
 - The desire to be surprising, or desire to be impressive
   - You can't let this desire to surprise people overwhelm your necessity to stay true to yourself
   - In fact, you shouldn't let other people's expectations determine anything. Not your parents, not your friends, just you. That's a lot harder, since then your opinions stand fully from a tree of your own creation -- it requires real intellectual honesty first, and confidence in that intellectual honesty second.
