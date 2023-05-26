@@ -23,7 +23,7 @@ Yeah twitters bad for focus
 It's always fun hearing about the cool stuff but every minute of that takes away from ur own work and your own cool ideas.
 Twitters also like, 3 months behind on everything
 I usually keep twitter to a few min/day -- try to replace twitter with ethresearch or even like a tv show or something
-After spending time around certain people, I just very strongly feel like, the real crypto discussions are not happening on twitter lol
+After spending time around certain people, I just very strongly feel like, the real crypto discussions about the future are not happening on twitter lol
 
 friend N -
 What gives you your conviction on ZK? I find that I struggle to feel conviction towards something if I don’t see a concrete path for it working out, do you feel differently?
@@ -31,9 +31,8 @@ What gives you your conviction on ZK? I find that I struggle to feel conviction 
 yush -
 I think it comes back to the asymmetric bets
 you'll see this if you read the dream machine or skunkworks or any book with transformational tech
-theres a certain feeling that theres an explosion of new ability
-that only a few people realize
-zk is the only place I feel that right now
+theres a certain feeling that theres an explosion of new ability that only a few people realize
+zk is the only place I both feel that right now, and feel like I could've built a differentiated position in
 
 friend N —
 interesting -- theres so many smart kids around, and they all feel it for many diff things; some friends with physics, y'all have had ZK for a while, some friends are doing cool robotics things, etc.
@@ -41,13 +40,13 @@ interesting -- theres so many smart kids around, and they all feel it for many d
 yush —
 yeah its hard to choose, they are all very cool
 I think its sort of like, you have to order your interests so that you go super deep on one
-do something big, then competely retract and go super deep on another, and so on
+do something big, then completely retract and go super deep on another, and so on
 you've done the first step of be curious about a lot of things
 but now you need to switch modes a bit, and choose which of ur interests ur best _timed_ in
 it's sort of an unintuitive switch/mode
-youre gonna screw yourself if you do two things at once or are constantly pining for some other interest, and not do anything big in either
-like, I dont expect to be doing zk for 10 years -- I hope that in 5 years or whatever im sick of crypto, and decide idk longevity robots is my new schtick or whatever, and do that for a few years
-But rn I think im well timed in zk, so zk it is
+you're gonna screw yourself if you do two things at once or are constantly pining for some other interest, and not do anything big in either
+like, I don't expect to be doing zk for 10 years -- I hope that in 5 years or whatever im sick of crypto, and decide idk longevity robots is my new schtick or whatever, and do that for a few years
+But rn I think I'm well timed in zk, so zk it is
 For struggles with conviction, I usually recommend the books 'greatness cannot be planned' and 'feynmans rainbow'
 You can see longer reviews for those here: https://goodreads.com/yushg
 
@@ -65,8 +64,8 @@ So if I actually don't care about clout (i.e. putting my name on gpt X), then ho
 Maybe mitsoul.org is a good example of this -- its super nonsexy, nothing is on twitter, etc, but I think better education will silently result in a bunch of massively smart ppl that seem like they came out of nowhere, and ill just be grinning in the background somewhere
 unfortunately I had to make the v difficult choice to strongly prioritize my zk work over it
 i can probably mention 2-3 people who's thoughts on a field are basically 100x better than anything I can conjure up, so im pretty happy mostly cheering them on from the sidelines; but I think I have thoughts on zk that no one else 100xs me on
-for agency I also recommend ppl watch the steward brand documentary we are as gods
-this guy just did whatever the fuck he was curious about but he did it to the max
+for agency I also recommend ppl watch the steward brand documentary We Are as Gods
+this guy just did whatever the fuck he was curious about but he did it to the max -- it resulted in a ton of cool things like whole earth catalog, apple computer etc, and I found it useful to free myself from expectations
 
 friend N —
 yea if it is true that you can simply work hard and eventually be rewarded for it, the things in the coming years should give plenty of chances
@@ -74,13 +73,13 @@ this might be semantics, I think I catch your meaning, but won't others do ZK if
 
 yush —
 yeah but basically 3 other people in the world care about + are able to technically execute on the specific zk project I care most about right now
-and I could say the same for like second, third, and fourth places for zk niches I care about (note this is not true for like zkevm or zk rollups) -- for instance, zk kyc
+and I could say the same for like second, third, and fourth places for zk niches I care about (note this is not true for like zkevm or zk rollups)
 im just like not worried about being rewarded lol, worst case I write trading strats full time when I turn 35 if im still poor and need money to have kids or whatever; I am pretty confident that it will not come to that though LOL
 but until then, the goal is to accumulate max social capital + technical capital
 that can all be converted to financial capital anytime, but u cant go the other way
 
 friend N —
-is there anywhere specific you'd like to see yourself in 1 and 3 years? im curious where you want the path youve chosen to take you, if anywhere?
+is there anywhere specific you'd like to see yourself in 1 and 3 years? im curious where you want the path you've chosen to take you, if anywhere?
 
 yush —
 Maybe like, I have a cool product under my belt in 1 year, and in 3 years I'm helping to spawn and mentor a bunch of advanced cryptography projects beyond ZK? unclear
@@ -102,6 +101,8 @@ some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/s
 
 Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence, managing meetings, and recognizing the power of long-term compounding in personal development.
 
+This was a conversation I had when I went to a mentor I trust and respect. I had asked a bunch of personal questions about my situation, and he had a bunch of responses -- they are more tailored for my specific situation, but have some nuggets that might inform thinking about things adjacent to conviction.
+
 - Humility
   - If you don't have your own beliefs, and are always being humble to those above you, then it means you can't believe anything.
   - One framing is that if you defend my logic, then suddenly it's arrogance? -> This isn't sustainable, since then you can't first principles think anymore.
@@ -119,31 +120,26 @@ Summary: Reflections on personal and professional growth, how humility can go wr
   - When the company is doing poorly, there are a bunch of reasons you'll say it wasn't a good fit for me anyways
   - Evaluate opportunity and don't get hung up on regretting -- if you're only taking 100% shots, you're not aiming high enough, or else it means your bet sizing is too small
   - Do something that needs vested time/experience ‒ expertise is significantly less fungible than money
-- Everything seeming cool before and out of it
-  - Have type of reaction that once I'm in a thing, assume this is it, this is the coolest thing
-  - SAM -- overly optimistic
 - Clout
   - The sorts of undergrads who read techcrunch are very different from actually smart people
   - Clout is a crutch -- there's no replacement for enthusiasm, and clout is the splenda for enthusiasm
+  - Someone else has set up a system and engineered what seemed "good" to them and memed into being the highest clout
 - Principles
-  - Process driven vs owning outcomes (opposites and can map to specific experiences)
+  - Two types of mindsets; process driven vs owning outcomes. These are opposites and can map to specific experiences
   - Mentors are maybe more experienced in general domain, but not in what should you a specific person do with your specific life? You just need a set of principles that work for your life situation
-  - Wise people say they are most are happy when doing x -- different than you
-  - I wont do anything im not emotionally convinced about, but if I build up to it, I can execute it with my whole heart; you need to be internally aligned to implement it well
-  - VC/startup failure mode is satisfying LP constraints from the start that is unsatisfiable
+  - Wise people say they are most are happy when doing x -- x is likely different than yours.
+  - I wont do anything I'm not emotionally convinced about, but if I build up to it, I can execute it with my whole heart; you need to be internally aligned to implement it well
+  - One VC/startup failure mode is satisfying your funders constraints from the start; you don't have the time or space to decide your principles first
 - Intelligence
-  - Others will always be smarter
+  - Others will always be smarter; but there are always ways to position yourself better regardless. Either you do an overlap of two things really well, or you are in domain X but care about and do unusual thing Y that really accelerates you or whatever
   - I can be creative enough to come up with great things I can do
-  - Would you trade your life for mark zucks life? If the answer is like, yes clearly obviously -- there's probably some mental block. I can say with full certainty that I prefer to be myself -- what are the things you can do that could lead to that?
+  - Would you trade your life for mark zucks life? If the answer is like, yes clearly obviously -- there's probably some mental block. I can say with full certainty that I prefer to be myself -- what are the things you can do that could lead to that? What are things you currently have that you don't want to let go of? How can you stretch those things into something unique that you're excited by?
   - Significantly influenced by a few specific individuals I personally know, and their values and beliefs
-  - Growth is super nonlinear
-  - Feeling like a follower is natural at the start, but
+  - Feeling like a follower is natural at the start, especially when learning from a great mentor. But you can't settle for that
 - Discomfort
   - Is different than the discomfort of like, asking a girl out or something. In this case, it's about more having the courage to pursue something really hard you might like. This courage and authenticity coincidentally makes the former example easier, but is a different kind of discomfort that needs to come first.
   - This kind of discomfort grows you in axes of _you_
-- Meetings
-  - Sometimes jot quick notes after a mentor session: good for memorizing and listening and constructing the right mental models that will last longer term
-  - This doesn't really apply for things like meetings though, since there are clear actionables/tasks you don't want to drop
 - Long Term Compounding
-  - The long term stuff compounds: specific 40s something people we know have built themselves that over 20+ years of giving for the long term.
-  - For instance, someone working on an X company has been crazy obsessed with X for all 4 years of college -- was really struck by the depth of this obsession from the start.
+  - The long term stuff compounds: specific people we know in their 40s have built themselves an excellent reputation that over 20+ years of giving for the long term, and now can do whatever they want to do with the best people.
+  - For instance, someone working on an X company has been crazy obsessed with X for all 4 years of college -- was really struck by the depth of this obsession from the start. Even though X is cool, I don't think I could fully devote myself to it as much as they could.
+    - For instance, Travis from Uber cared the most about having a personal chauffeur. He was obsessed with that, for years and years. Although I personally like Ubers and I'd be sad if it was gone, I can't visualize myself being exciting when thinking about devoting years and years to manifesting myself a personal driver, especially not anywhere near what Travis had.
