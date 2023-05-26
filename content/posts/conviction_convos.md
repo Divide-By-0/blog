@@ -65,7 +65,7 @@ Maybe mitsoul.org is a good example of this -- its super nonsexy, nothing is on 
 unfortunately I had to make the v difficult choice to strongly prioritize my zk work over it
 i can probably mention 2-3 people who's thoughts on a field are basically 100x better than anything I can conjure up, so im pretty happy mostly cheering them on from the sidelines; but I think I have thoughts on zk that no one else 100xs me on
 for agency I also recommend ppl watch the steward brand documentary We Are as Gods
-this guy just did whatever the fuck he was curious about but he did it to the max -- it resulted in a ton of cool things like whole earth catalog, apple computer etc, and I found it useful to free myself from expectations
+this guy just did whatever the fuck he was curious about but he did it to the max -- it resulted in a ton of cool unexpected things different from anything before it like whole earth catalog, apple computer etc, and I found it useful to free myself from expectations
 
 friend N —
 yea if it is true that you can simply work hard and eventually be rewarded for it, the things in the coming years should give plenty of chances
