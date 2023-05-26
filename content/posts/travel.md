@@ -82,7 +82,7 @@ This alive document will be updated every time I travel.
   - **Kitkatclub**: Haven't been. Famous alt club.
   - **Sisyphus**: Haven't been. Famous 6 story themed club.
   - **About:Blank**: Haven't been. Well reputed club.
-  - **Berghain**: Haven't been. Most famous club, can only get in at 6am on a Sunday. Need to dress slightly gay/alternatively/authentically to get past Sven, and speak a bit of German.
+  - **Berghain**: Haven't been. Most famous club, much higher chance of getting in at odd midday times on non-Saturdays. Need to dress alternatively/preferably black to get past Sven, and speak a bit of German.
 - Thailand
   - Food
     - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
@@ -94,16 +94,17 @@ This alive document will be updated every time I travel.
     - **Kojima Studio tour**: Haven't been here yet, but the guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
     - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 15 minutes, but it's interesting to see at least once.
     - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
-    - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing.
+    - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
 - Egypt
   - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
   - Food/Experiences
     - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was a great local stay.
 - Other International
   - Experiences
-    - **Phillipines International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
-    - **French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
+    - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
+    - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
+    - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
 - Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
