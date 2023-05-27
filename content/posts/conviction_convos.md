@@ -101,7 +101,7 @@ some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/s
 
 Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence and recognizing the power of long-term compounding in personal development.
 
-This was a conversation I had when I went to a mentor I trust and respect. I had asked a bunch of personal questions about my situation, and he had a bunch of responses -- they are more tailored for my specific situation, but have some nuggets that might inform thinking about things adjacent to conviction.
+This was a conversation I had when I went to a mentor I trust and respect. I was confused how to build my own principles and maintain humility, and how to deal with my desire to do startups. They are tailored responses for my specific situation and mindset at the time, but have some nuggets that might inform thinking about things adjacent to conviction.
 
 - Humility
   - I asked how to maintain conviction without being arrogant; isn't humility showing deference to people who are more experienced than you? If I defend my logic, isn't that arrogance?
@@ -161,7 +161,7 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
 #### The Importance of Fun and Simplicity
 
 - I asked about where should I work? I have all of these choices and don't know what to do.
-- Important technology often starts as toys or simple ideas
+- Important technology often starts as toys or simple ideas (see the [Dream Machine](https://amzn.to/4385EUZ) for the history of computing, littered with examples of this)
 - Focusing on simple, fun projects can lead to significant achievements; a lot of companies started like this for a reason
 - Advancing humanity can also be achieved by having fun and staying focused on simple goals, and he prefers working on the set of problems for where this is true since there are so many problems, and "where I have the most fun" is a pretty good filtering function
 - Where people are having the most fun, are the places that I personally respect most

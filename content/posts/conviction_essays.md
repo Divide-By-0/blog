@@ -1,5 +1,5 @@
 ---
-title: "Conviction is the Scarcest Resource: Essays About Fake Conviction"
+title: "Conviction is the Scarcest Resource: Essays About Gaining Real Conviction"
 date: 2023-05-14T22:12:03.284Z
 type: posts
 draft: true
@@ -25,7 +25,7 @@ A friend a few years back to me said, "Conviction is the scarcest resource, not 
       - I think I've committed the points and stories in this [Steve Jobs 2005 commencement address](https://www.youtube.com/watch?v=D1R-jKKp3NA) basically to memory by this point. His three points are counterintuitive and exactly correct, and his stories are well told -- I'm basically always asking myself if I'm settling now, and faith in the dots connecting is critical for doing what you want. If you never at least try to setup the dots you'd ideally want to connect, they never can get a chance to. Thanks to DC for the original rec.
     - **Environment**
       - A blog, whiteboard, and excited people around you are the biggest motivators. Letting thoughts marinate in your head in a vacuum is risky, I've found it leads to too many cases where you feel like you obtained conviction, but in reality you're standing on shaky logical ground. Write your convictions down, test them by sharing them with people, and surround yourself by others who aren't content with settling.
-      - Though I loved my previous roommates, it was hard to get support for the weird things I was starting to explore budding convictions in: they'd often shoot the whole concept down when we got to something I wasn't sure about, instead of encouraging me to build a stronger foundation on that point. Ultimately, it was healthier for me to separate and find new ones that I vibed with more.
+      - Though I loved my previous roommates, it was hard to get support for the weird things I was starting to explore budding convictions in: they'd often shoot the whole concept down when we got to something I wasn't sure about, instead of encouraging me to build a stronger foundation on that point. Ultimately, it was healthier for me to separate and find new ones that supported me more.
       - If people ask you questions, do your thoughts hold up? This is often easier in physical conversation than online -- online, it's too easy to just not ask any questions, meaning you're missing really thoughtful, high-engagement feedback.
     - **Momentum**
       - Momentum brings you to a world level, and deepens over time. Put this way: your goal is not "find the perfect topic", but choose a topic that will lead to interesting things, then pursue it with increasing fervor built from reading books in the field and talking to people in the field. This is a nice reframing of commitment, for the commitment-phobes of us.
@@ -43,9 +43,9 @@ A friend a few years back to me said, "Conviction is the scarcest resource, not 
   - How to know you have conviction
     - Conviction needs emotional alignment – when doing the thing, you believe you are happiest doing that thing. Alignment seems wishy-washy, so here's a formalism: all your doubts, the ones that happen every second, the ones you think of every few minutes, and the ones every few weeks, at each step, are outweighed by your conviction. You'll always have doubts, but your emotions should still point in the same rough direction.
     - In fact, emotional consistency is necessary and sufficient -- you can skip all the other steps, but be hyper aware of your emotional response to everything and confident in tapping into your own feelings to guide you. My definition of feelings here refers to the kind of "gut" response that your hunter-gatherer brain, having combined all of your goals and desires, expresses through muscle tension or intrusive thoughts.
-  - Conviction is a resource
+  - Conviction is a resource/narrative
     - It can be "discovered" through aggressive exploration or emotional in-tune-ness, lost as one becomes disillusioned or the original reasons for that conviction no longer hold, and is scarce (but not fixed supply).
-    - In a sense, this framing might be too limiting -- conviction is perhaps less a resource, than a narrative. But a powerful narrative you spin around your life, that almost delude you into the extra importance of some specific thing: that narrative is just as arbitrary as any decision or belief you might have -- but it is extremely powerful in directing actions in a consistent and self-boosting manner.
+    - But this framing has its limits -- conviction is equally a narrative; a powerful narrative you spin around your life, that almost delude you into the extra importance of some specific thing. That narrative is just as arbitrary as any decision or belief you might have -- but it is extremely powerful in directing actions in a consistent and self-boosting manner.
 
 ## You Can't Fake Conviction
 
@@ -77,7 +77,7 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
 
 ## Bad Forms of Conviction
 
-- Seeing my roommate is doing research he's not super jazzed by
+- My roommate is doing research he's not super jazzed by
   - His eyes don't light up with excitement, it's just "going well"
   - Just wants to learn about ML and how to apply it, so he chose some random prof and field to work with
     - I disagree with this choice: I think to be a real expert and develop this compounding passion, you have to choose something that excites you and you're curious about, and keep asking questions.
