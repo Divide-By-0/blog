@@ -97,7 +97,7 @@ friend N -
 please do, I would do the same if I was stable on a view on this topic
 some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/status/1656085677954723840?s=20), ["grinding" breaks internal monologue](https://twitter.com/Brad08414464/status/1655028437202145280?s=20), [overthinking](https://twitter.com/lexfridman/status/1651646972279812097?s=20), [do things](https://twitter.com/Pavel_Asparagus/status/1657777983870971904?s=20).
 
-## Chat 2: Mentors and Startups (Notes from a chat with mentor 1)
+## Chat 2: Mentors, Startups, and Principles (Notes from a chat with mentor 1)
 
 Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence and recognizing the power of long-term compounding in personal development.
 
@@ -149,7 +149,7 @@ This was a conversation I had when I went to a mentor I trust and respect. I had
 
 During this chat, I was mostly asking about choosing between a bunch of jobs -- what should I apply to? What should I work on? What even are the factors I should use to make these decisions -- I feel like my pro-con chart isn't really helpful.
 
-### Project Classes and Startups
+#### Project Classes and Startups
 
 - I brought up that I wanted to do a startup
   - He stopped me right there -- you're saying "I want to do a startup," but instead you should be saying "this should exist", and it should exist so badly that it's the #1 thing you want in the world. Maybe a startup is the right vessel? Maybe building an open source community is?
@@ -158,7 +158,7 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
   - Glad he doesn't work at startups; some of them can feel like a death march with no product-market fit
 - Prefer project classes in university; they are a good way to gain experience without commitment, focused on learning and this kind of emotional introspection
 
-### The Importance of Fun and Simplicity
+#### The Importance of Fun and Simplicity
 
 - I asked about where should I work? I have all of these choices and don't know what to do.
 - Important technology often starts as toys or simple ideas
@@ -168,20 +168,20 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
   - Vibe check these orgs to see if people are deep in the grind or having fun
   - If people are really having fun, they'll naturally make more progress
 
-### Academia and Research Labs
+#### Academia and Research Labs
 
 - Some people are comfortable publishing their work, but not everyone wants to write a giant academic paper and go through the grind to push out useful tech
 - He's personally turned off by the culture of academia and the obscurity of most of the research -- most people say like, that's not what it's about, the system is a necessary evil to do good work, etc, but that's not the culture he wants to surround himself by for years
 - Big AI research labs like OpenAI and Deepmind can have politics and slow-moving processes; he knows a friend that quit Google Brain because of its lack of urgency
 
-### Personal Convictions and Focus
+#### Personal Convictions and Focus
 
 - It's hard to give generic advice; personal convictions play a significant role
 - You have to say no a hundred times for every yes -- focus is a superpower, and your bar for what you aim that power at should be insanely high
 - It's effective and emotionally easier to do one thing at a time
 - Being less goal-oriented and focusing on intrinsic fun and personal convictions is important
 
-### Work Environments and Company Culture
+#### Work Environments and Company Culture
 
 - I asked again about all my choices for where to work, feeling I didn't get clarity on my specific choice yet.
 - People tend to make more progress when they're having fun and enjoying their work
@@ -192,23 +192,20 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
 
 I was asking this mentor how to deal with accelerating my projects, and feeling like I hadn't done many concrete things the past few months even though I'd made progress on a bunch of projects, and so on.
 
-## Productivity and Output
+#### Productivity and Output
 
 - More people isn't more output
 - The "barrel" strategy where you task people to tasks in parallel is really hard: everything takes so much longer
   - The nasty thing with parallel is that it hides that people may not be that great ‒ taking 3 days off is ok since no one depends on their work
-
-## Competence and Goals
-
 - First thing shipped first shows competence
 - Don't monetize, create soft power: you start attracting the best players
 
-## Focus and Commitment
+#### Focus and Commitment
 
 - You need to be hungrier, stop maximizing optionality
   - Remaining in this zone, where you even are doing 2 projects, is not like 100% going into 50%, it's like 1000% is splitting into 50-50
 - You can beat anyone with focus: this is the superpower
-  - No one's committed ‒ everyone else doing random shiny crap: mutual X could be brilliant but he can't choose what to do
+  - No one's committed ‒ everyone else doing random shiny crap: i.e. mutual X could be brilliant but he can't choose what to do
   - Spend time grappling with like, what single thing do I really want right now
 - Don't care about competition: everyone is incompetent and distracted
 - What are you willing to sacrifice to get that 1000%? You need to stop living in group houses all the time, care about other things and put your time into those.
