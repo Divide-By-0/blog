@@ -2,7 +2,7 @@
 title: "Conviction is the Scarcest Resource: Essays About Gaining Real Conviction"
 date: 2023-05-14T22:12:03.284Z
 type: posts
-draft: true
+draft: false
 slug: "fake_conviction"
 category: "5 min read"
 tags: ["advice"]
