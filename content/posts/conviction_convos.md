@@ -97,22 +97,23 @@ friend N -
 please do, I would do the same if I was stable on a view on this topic
 some relevant memes: [doing what you feel like](https://twitter.com/sociaIrate/status/1656085677954723840?s=20), ["grinding" breaks internal monologue](https://twitter.com/Brad08414464/status/1655028437202145280?s=20), [overthinking](https://twitter.com/lexfridman/status/1651646972279812097?s=20), [do things](https://twitter.com/Pavel_Asparagus/status/1657777983870971904?s=20).
 
-## Chat 2: Notes from I had from a chat with mentor 1
+## Chat 2: Mentors and Startups (Notes from a chat with mentor 1)
 
-Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence, managing meetings, and recognizing the power of long-term compounding in personal development.
+Summary: Reflections on personal and professional growth, how humility can go wrong, original thinking, long-term commitment, embracing discomfort, and the role of mentors. It discusses the allure and challenges of startups, the deceptive nature of clout, and the need to align personal principles with actions. It also delves into understanding the value of intelligence and recognizing the power of long-term compounding in personal development.
 
 This was a conversation I had when I went to a mentor I trust and respect. I had asked a bunch of personal questions about my situation, and he had a bunch of responses -- they are more tailored for my specific situation, but have some nuggets that might inform thinking about things adjacent to conviction.
 
 - Humility
+  - I asked how to maintain conviction without being arrogant; isn't humility showing deference to people who are more experienced than you? If I defend my logic, isn't that arrogance?
   - If you don't have your own beliefs, and are always being humble to those above you, then it means you can't believe anything.
-  - One framing is that if you defend my logic, then suddenly it's arrogance? -> This isn't sustainable, since then you can't first principles think anymore.
+    - Consider that experts themselves can have completely opposite views, and they are also very good at seeing the problem from their very specific vantage point of the world. They might be able to say statements about being good at their discipline, but they can't describe how those map to your nuanced situation, and they can't synthesize their own fields' knowledge well to fields they don't know about yet.
+  - Considering disagreement as arrogance isn't sustainable, since then you can't first principles think for yourself anymore.But disagreeing doesn't need to be framed as arrogance.
+    - It can be like having a question. Until this question is answered, you can't believe what they are saying. This is one framing to say that for you to believe them, you need to interact with them, till they first principles build you up to their viewpoint.
 - Mentors
-  - If I agree with what 80% of what the mentor says, then no room for originality
-  - This higher level stuff is not really what the day to day helps with
-  - Mentors can maybe inform thoughts, but you need to have first principles beliefs about things -- they has the most information about everything, but that's not enough
-  - Old people have good heuristics, and good functions, and can say lots of general stuff, but don't know whats going on in your head
-  - Mentors plant a seed in my brain but ultimately I call the shot
-  - Everyone else just has one lens on you
+  - If I agree with what 80% of what the mentor says, then there's no room for originality
+  - The higher level advice is not really what helps or informs the day to day decisions -- it's why listening to thought leaders is ultimately pretty useless in decision making
+  - Mentors plant a seed in my brain but ultimately I call the shot: Mentors can maybe inform thoughts, but you need to have first principles beliefs about things -- you have the most information about everything, and the compressed representation the mentor has may not be enough
+  - Old people have good heuristics, and good functions, and can say lots of general stuff, but don't know whats going on in your head. Everyone else just has one lens on you
 - Startups
   - It always seems really cool that friends are all doing startups
   - Find the thing you'd do because it suits you -- you're in a different mindspace when you're a fit for it from first principles
@@ -121,7 +122,7 @@ This was a conversation I had when I went to a mentor I trust and respect. I had
   - Evaluate opportunity and don't get hung up on regretting -- if you're only taking 100% shots, you're not aiming high enough, or else it means your bet sizing is too small
   - Do something that needs vested time/experience ‒ expertise is significantly less fungible than money
 - Clout
-  - The sorts of undergrads who read techcrunch are very different from actually smart people
+  - The sorts of undergrads who read Techcrunch are very different from actually smart people
   - Clout is a crutch -- there's no replacement for enthusiasm, and clout is the splenda for enthusiasm
   - Someone else has set up a system and engineered what seemed "good" to them and memed into being the highest clout
 - Principles
@@ -142,4 +143,73 @@ This was a conversation I had when I went to a mentor I trust and respect. I had
 - Long Term Compounding
   - The long term stuff compounds: specific people we know in their 40s have built themselves an excellent reputation that over 20+ years of giving for the long term, and now can do whatever they want to do with the best people.
   - For instance, someone working on an X company has been crazy obsessed with X for all 4 years of college -- was really struck by the depth of this obsession from the start. Even though X is cool, I don't think I could fully devote myself to it as much as they could.
-    - For instance, Travis from Uber cared the most about having a personal chauffeur. He was obsessed with that, for years and years. Although I personally like Ubers and I'd be sad if it was gone, I can't visualize myself being exciting when thinking about devoting years and years to manifesting myself a personal driver, especially not anywhere near what Travis had.
+    - For instance, Travis from Uber cared the most about having a personal chauffeur. He was obsessed with that, for years and years. Although I personally like Ubers and I'd be sad if it was gone, I can't visualize myself being excited by devoting years to manifesting myself a personal driver, especially not anywhere near the passion that Travis had.
+
+## Chat 3: Fun is Critical (A chat with mentor 2)
+
+During this chat, I was mostly asking about choosing between a bunch of jobs -- what should I apply to? What should I work on? What even are the factors I should use to make these decisions -- I feel like my pro-con chart isn't really helpful.
+
+### Project Classes and Startups
+
+- I brought up that I wanted to do a startup
+  - He stopped me right there -- you're saying "I want to do a startup," but instead you should be saying "this should exist", and it should exist so badly that it's the #1 thing you want in the world. Maybe a startup is the right vessel? Maybe building an open source community is?
+  - Success is more likely if pursued for the "right reasons"
+  - Researchers and startups may envy each other's positions
+  - Glad he doesn't work at startups; some of them can feel like a death march with no product-market fit
+- Prefer project classes in university; they are a good way to gain experience without commitment, focused on learning and this kind of emotional introspection
+
+### The Importance of Fun and Simplicity
+
+- I asked about where should I work? I have all of these choices and don't know what to do.
+- Important technology often starts as toys or simple ideas
+- Focusing on simple, fun projects can lead to significant achievements; a lot of companies started like this for a reason
+- Advancing humanity can also be achieved by having fun and staying focused on simple goals, and he prefers working on the set of problems for where this is true since there are so many problems, and "where I have the most fun" is a pretty good filtering function
+- Where people are having the most fun, are the places that I personally respect most
+  - Vibe check these orgs to see if people are deep in the grind or having fun
+  - If people are really having fun, they'll naturally make more progress
+
+### Academia and Research Labs
+
+- Some people are comfortable publishing their work, but not everyone wants to write a giant academic paper and go through the grind to push out useful tech
+- He's personally turned off by the culture of academia and the obscurity of most of the research -- most people say like, that's not what it's about, the system is a necessary evil to do good work, etc, but that's not the culture he wants to surround himself by for years
+- Big AI research labs like OpenAI and Deepmind can have politics and slow-moving processes; he knows a friend that quit Google Brain because of its lack of urgency
+
+### Personal Convictions and Focus
+
+- It's hard to give generic advice; personal convictions play a significant role
+- You have to say no a hundred times for every yes -- focus is a superpower, and your bar for what you aim that power at should be insanely high
+- It's effective and emotionally easier to do one thing at a time
+- Being less goal-oriented and focusing on intrinsic fun and personal convictions is important
+
+### Work Environments and Company Culture
+
+- I asked again about all my choices for where to work, feeling I didn't get clarity on my specific choice yet.
+- People tend to make more progress when they're having fun and enjoying their work
+- Large companies may have a low bar for talent, making it unclear if you'll be matched with someone truly talented or someone who just studied hard once to past the interview -- if you're looking for mentorship, this is the wrong way
+- Most people in quant finance are focusing on climbing ranks and increasing salaries, but this ladder mentality is super unhealthy and focuses you on the wrong things long term
+
+## Chat 4: Focus is the Superpower (A discussion with mentor 3)
+
+I was asking this mentor how to deal with accelerating my projects, and feeling like I hadn't done many concrete things the past few months even though I'd made progress on a bunch of projects, and so on.
+
+## Productivity and Output
+
+- More people isn't more output
+- The "barrel" strategy where you task people to tasks in parallel is really hard: everything takes so much longer
+  - The nasty thing with parallel is that it hides that people may not be that great ‒ taking 3 days off is ok since no one depends on their work
+
+## Competence and Goals
+
+- First thing shipped first shows competence
+- Don't monetize, create soft power: you start attracting the best players
+
+## Focus and Commitment
+
+- You need to be hungrier, stop maximizing optionality
+  - Remaining in this zone, where you even are doing 2 projects, is not like 100% going into 50%, it's like 1000% is splitting into 50-50
+- You can beat anyone with focus: this is the superpower
+  - No one's committed ‒ everyone else doing random shiny crap: mutual X could be brilliant but he can't choose what to do
+  - Spend time grappling with like, what single thing do I really want right now
+- Don't care about competition: everyone is incompetent and distracted
+- What are you willing to sacrifice to get that 1000%? You need to stop living in group houses all the time, care about other things and put your time into those.
+  - Don't delude myself that you're productive in this group house -- do a sober analysis, have friends that call you on your bullshit, and you must not trick yourself. How much time did you spend on each meal? On socializing? On doing things that weren't your main task, that interrupted your day? What about the travel and planning, and mental overhead?
