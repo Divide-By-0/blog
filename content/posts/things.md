@@ -68,7 +68,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 
 **[Colored Flame Birthday Candles](https://amzn.to/41qsCGh) - $7.** Cheap, simple, and cool on birthdays.
 **[Joycon Controller Grips](https://amzn.to/3AgnbO9)- $10.** Turn each Nintendo Switch joycon into a mini controller.
-**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook so it works on all handles.
+**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook from a clotheshanger so it works on all handles.
 
 My favorite board games are Decrypto (a way better alternative to Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
 
