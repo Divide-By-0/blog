@@ -9,7 +9,9 @@ tags: ["advice"]
 description: "I keep having the same conversation again and again. So here's some snippets of chats, from which hopefully you can derive some useful info!"
 ---
 
-A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format), so I'm hoping to provide a few conversations here that help just put initial pen to paper, partially to help elucidate my own thoughts on this. Part 1 in a multiseries blog post about conviction.
+A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format). I've reorganized some discussion notes/text chats that help start putting pen to paper and hopefully leave some helpful nuggets.
+
+This is Part 1 in a multiseries blog post about conviction. [Part 2, with more coherent bullet essays is here](https://blog.aayushg.com/posts/fake_conviction/).
 
 ## Chat 1: Giving advice to N
 

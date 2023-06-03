@@ -41,20 +41,20 @@ This alive document will be updated every time I travel.
       - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
     - Experiences
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
-      - **Sleep No More**: I haven't been here, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html).
+      - **Sleep No More**: Haven't been yet, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html).
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
       - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
       - **Immersive Gamebox**: Haven't been, [but this place](https://immersivegamebox.com/locations/ny-lower-east-side-manhattan/) claims full immersive tech-enabled rooms.
-      - **Hyprov**: I haven't been, but hypnosis with improv sounds pretty interesting.
+      - **Hyprov**: Haven't been yet, but hypnosis with improv sounds pretty interesting.
   - California
     - Bay Area
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
-      - **Noisebridge**: An [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
+      - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in SF with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
     - South California
-      - **Mars College**: Haven't been but want to go. One of my close friends' favorite alternative communes.
-      - **B Sweeet**: Haven't been but want to go. In LA, a bread pudding shop with 40 flavors.
+      - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
+      - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
   - ## Other
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
@@ -92,26 +92,26 @@ This alive document will be updated every time I travel.
     - **Dipping Ramen**: I find noodles in ordinary ramen a bit too thin, but the noodles at [Menya Ramen](https://goo.gl/maps/kofV2AjRpDszm8fr6) were thick and had body, and the black sauce was super tasty.
     - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's filling and cheap.
     - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.
-    - **Gomi Pit Bar**: I haven't been, but it seems really interesting. They serve meals with things that are usually thrown away (like Yuzu peels), and there's a massive window while you eat to watch a huge trash crane.
+    - **Gomi Pit Bar**: Haven't been yet. They serve creative meals with things that are usually thrown away (like Yuzu peels), and there's a massive window while you eat to watch a huge trash crane.
   - Experiences
-    - **Ryokan/Akiya**: More authentic stay.
-    - **Metal Gear Solid escape room**: There are physical guards you have to sneak around apparently, which sounds really cool.
-    - **Studio Ghibli Museum**: Haven't seen. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
-    - **Kojima Studio tour**: Haven't been here yet, but the guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
-    - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 15 minutes, but it's interesting to see at least once.
+    - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
+    - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays.
+    - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
+    - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
+    - **Kojima Studio tour**: Haven't been yet. The guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
+    - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 10 minutes, but it's interesting to see at least once.
     - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
     - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
     - **Ueno Cat Van**: Haven't been yet. Apparently in Ueno at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled the cat van that parks there, and a ton of cats just wander around the temple grounds.
     - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
-    - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
-    - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Apparently you fish your own fish and hand it to the server to cook.
-    - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Apparently animatronic dinos and robots check you in?? They have branches all over Japan and in NY too.
-    - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: If there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
-    - **Red Tokyo Tower**: A Level 99 reminiscent place with games where you have to use your whole body to play everything.
-    - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Red wine baths, sake baths, coffee baths, and dozens of others.
-    - **[Tecchan Yakitori Bar in Kichijoji by Kengo Kuma](https://www.designboom.com/architecture/kengo-kuma-tetchan-yakitori-bar-tokyo-japan-04-19-2015/)**: This is a bar where the seats look like they're straight out of an acrylic jungle.
-    - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: This quirky izakaya is inside a chef's messy home, and has mostly regulars. Haven't been, but its featured in [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
-    - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Featured in [this video](https://youtu.be/7zZLSdO8Of4?t=989).
+    - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
+    - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
+    - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in?? They have branches all over Japan and in NY too.
+    - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
+    - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
+    - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others.
+    - **[Tecchan Yakitori Bar in Kichijoji by Kengo Kuma](https://www.designboom.com/architecture/kengo-kuma-tetchan-yakitori-bar-tokyo-japan-04-19-2015/)**: Haven't been yet. This is a bar where the seats look like they're straight out of an acrylic jungle.
+    - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
 - Egypt
   - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
   - Food/Experiences
