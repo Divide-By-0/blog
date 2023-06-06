@@ -119,8 +119,6 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Malcolm and Marie**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via cool black and white shots.
 
-- **Zindagi Na Melegi Dobara**: 10/10. An absolute classic Indian movie -- deeply moving, hilarious, filled with mischief and adventure, with a banger soundtrack. This is the kind of movie that will addict you to Bollywood films.
-
 ### 2020
 
 Many of these movies were chosen jointly with my family during COVID, so I didn't get as much of a chance to explore deeply.
@@ -135,7 +133,7 @@ Many of these movies were chosen jointly with my family during COVID, so I didn'
 
 - **Kal Ho Na Ho**: 10/10. Starts slow, but becomes very emotional. A classic Shah Rukh Khan drama with all the Bollywood movie tropes. Would recommend starting here for Bollywood movies.
 
-- **Zindaagi Neigh Milage Dubara**: 9/10. Another classic about three friends adventuring and exploring love on a bachelor trip, not particularly deep but has some iconic scenes that most Bollywood fans will recognize -- the tomato scene especially.
+- **Zindagi Na Milegi Dobara**: 9/10. Another classic about three friends adventuring and exploring love on a bachelor trip; moving, hilarious, and filled with mischief and adventure. Not particularly deep but has some iconic scenes that most Bollywood fans will recognize -- the tomato scene especially. This is the kind of movie that will addict you to Bollywood films and has a hit-filled soundtrack.
 
 - **Into the Woods**: 7/10. Mishmash family friendly fairytale musical, themes of morality, perception of evil, and supporting even through mistakes.
 
@@ -177,7 +175,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **The Hate You Give**: 6/10. I wish the character had showcased her strength and growth better in the end, it was pretty unsatisfying to see the final external outcome of the internal growth of her confidence and voice.
 
-- **Avengers**: 6/10. I guess as a kid there's some feeling of closuse you want after having seen so many Marvel movies, which is why I keep watching. Nothing particularly interesting about the plot or storytelling, classic superhero stories.
+- **Avengers**: 6/10. As a kid there's some feeling of closure you want after having seen so many Marvel movies; so I keep watching. Nothing particularly interesting about the plot or storytelling, classic superhero stories.
 
 ### 2018
 
@@ -222,27 +220,29 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
-- **The Secret and Their Eyes (original Spanish version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
+- **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
 - **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
-- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
-- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
-- **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
-- **City of God**: IMDb darling. Seems to have an interesting premise, prortaying two communities of youth in a violent neighborhood.
-- **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
+- **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
+- **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
+- **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
+- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
+- **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
+- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
-- **Song of the sea**: Scottish film with Anime vibes.
+- **Song of the Sea**: Scottish film with Anime vibes.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Kahaani**: Hindi film.
 - **Petit Mamam**: French movie, more about feelings than dialogue
-- **The Banshees of Inisherin**: Scottish comedy. Oscar nominee.
+- **Farewell My Concubine**: About two people growing up in opera during China's change.
+<!-- - **The Banshees of Inisherin**: Scottish comedy. Oscar nominee. -->
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
-- **Mind Fuck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindfuck section
+- **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
