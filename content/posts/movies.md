@@ -228,6 +228,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
+- **Dungeons and Dragons Movie**: Juvenile humor, funny plot.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.

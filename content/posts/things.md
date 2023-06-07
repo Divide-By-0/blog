@@ -21,12 +21,13 @@ This alive document will be updated every time I buy something incredible.
 
 # Bathroom
 
-**[Mint Shampoo and Conditioner](https://amzn.to/3MXzOVZ) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.s
-**[Body Wash](https://amzn.to/3ox6j35) - $9.** Cheap and smells good, doesn't have SLS or other crap in it.
+**[Mint Shampoo and Conditioner](https://amzn.to/3MXzOVZ) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.
+**[Body Wash](https://amzn.to/3ox6j35) - $9.** Cheap and smells good, doesn't have SLS in it.
 **[The Softest Bathroom Mats](https://amzn.to/40pgfcg) - $20.** High pile and insanely soft and plush.
-**[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** It just feels soo good. Reddit recommended.
-**[Double Line Floss Picks](https://amzn.to/3oyc6oS) - $3.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and the gunk comes out stick between the two strings. Normal floss cuts off circulation to my finger and so I never do it.
-**[Sekkisui Face Sunscreen](https://www.ebay.com/itm/323874987084?hash=item4b68741c4c:g:oKkAAOSwrHRdRLKA) - $20.** Non greasy, nice smelling, easy to apply sunscreen from /r/AsianBeauty. Other folks recommend Biore UV which I'm sure is good as well.
+**[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** Feels super smooth even with just a little. Reddit recommended.
+**[Double Line Floss Picks](https://amzn.to/3oyc6oS) - $3.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and you can see all your tooth gunk stuck between the two strings. Normal floss cuts off circulation to my finger and so I never do it, and water flossers are too annoying to refill and carry around.
+**[Sekkisui Face Sunscreen](https://www.ebay.com/itm/323874987084?hash=item4b68741c4c:g:oKkAAOSwrHRdRLKA) - $20.** Non greasy, nice smelling, easy to apply sunscreen from /r/AsianBeauty. Half price in any convenience store in Asia.
+**[Biore UV Sunscreen](https://www.ebay.com/itm/374606941467?hash=item5738504d1b:g:1zsAAOSwtOFkemhm&amdata=enc%3AAQAIAAAA4GoyZdPABhixZGlvMnf7wzOVMT19QTG6XvgGkIfRqfVrZzHFxU3xk8moSyZDZlkBe5wujCVqaiAu8WxOPz1%2BvVi6W1sF9coUYuPDXbzWMhxc5TISlKEGNP0YDNWwLg4uG2%2F7QVu6XMt%2BCvhiMRw0mfPD1PNw6KQpEk%2FKNbz0Ko6cbQJEZZSmd29b3V4lByGmweb%2BJt4wsAh6BR4yANvOEFS7Hx53xA2PpSfGxvuVyzMORx149Gnpgr2fQtIEKBcxy011bUa0vwBfTCL%2BV7LP4Q8zC0w8b2e7AOy1WcELLUeu%7Ctkp%3ABFBMrKSS75Ji) - $15**. I use this as a body and face sunscreen, since more comes out per squeeze than the Sekkisui. Half price at any convenience store in Japan. Recommended by [Andrew Connor](https://andrewconner.com/things/).
 **[Travel Toiletry Kit](https://amzn.to/40ulyHn)([Cheaper 3 Pack](https://amzn.to/41sF48x)) - $15/$6.** I dump shampoo/conditioner/bodywash in here before I travel, since I prefer to use my own.
 
 # Kitchen
@@ -49,7 +50,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 
 **[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
 **[Sidecar iPad Mount for Laptop](https://amzn.to/3L23EpQ) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
-**[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well. These fall out every now and then, but I only need them to fall asleep so it's OK.
+**[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well and usually fall out when I sleep. These don't, are super cheap, and are softer than normal earplugs. I stopped needing melatonin to sleep after starting to use these.
 **[Mini Sim + Cable Box](https://amzn.to/40sX8Ov) - $10.** Has a SIM switcher, and small adapters nicely laid out. I carry this with a few USB to USB C adapters seperately.
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
 **[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
@@ -70,7 +71,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Joycon Controller Grips](https://amzn.to/3AgnbO9)- $10.** Turn each Nintendo Switch joycon into a mini controller.
 **[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook from a clotheshanger so it works on all handles.
 
-My favorite board games are Decrypto (a way better alternative to Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
+My favorite board games are Decrypto (a word game that's way deeper than Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
 
 # Small PC Build
 
@@ -86,5 +87,11 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 
 These are things I've stopped myself from buying so far, but they seem intriguing...
 **[Olfactory Water Bottle](https://uk.air-up.com/) - $25 + $6/15L.** Emits a smell near your nose, so that it feels like you're having flavored water. 3-pack pods only last for 15L of water, which is why there's the added unit cost.
+**[EarOS One Concert Earplugs](https://amzn.to/3X1Rvqj) - $40**. Developed with the MIT Acoustic Lab, and a few [one-off reviews say it's better than the popular alternatives](https://amzn.to/45QheGc).
+**[Hair Clipper with a Vacuum](https://amzn.to/43s9ngi) - $40**. I hate cleaning the sink every time I shave. Recommended by [this post](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use).
+**[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
+**[Space Saver Compression Bags](https://amzn.to/3CfC44b) - $13**. These bags have a one way vent when you compress them, so are useful to tightly pack clothes in suitcases. Good gift for people who travel a lot.
+**[Travel Battery Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Recommended by [Tynan](https://tynan.com/gear2022/).
+**[Moisture Chamber Eye Seals](https://amzn.to/3Nj9q8T) - $45**. My dry eye doctor recommended that when I'm on the computer a lot, to browse with these instead to maintain eye moisture. You can also just use goggles, but these result in notably more moisture for me.
 
 I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
