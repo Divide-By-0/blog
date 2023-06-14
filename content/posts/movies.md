@@ -19,13 +19,17 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2023
 
-- **Spirited Away**: 9/10. It's incredible that the greatest animated film of all time is so surreal and fantastical, but also grounded in very human themes like anti-capitalism, pro-environmentalism, anti-greed, pro-kindness etc throughout. A few blog posts helped me really understand all of the symbolism -- the best ones were these: [social commentary analysis](https://the-artifice.com/spirited-away-social-criticism/), [character analysis](https://myswordisunbelievablydull.wordpress.com/2015/02/27/spirited-away-analysis/), and [prostitution theory breakdown](https://onionandartichoke.tumblr.com/post/114137040455/the-prostitution-theory-of-spirited-away).
+- **Suzume**: 8/10. This film was breathtaking and beautiful, just like all of Shinkai's animations. The sound track was incredible (did you know Radwimps sourced a smalltime Tiktok singer to do the title song?), the story had me in tears, and the characters have the goofiness of a Ghibli classic. While most seem to disagree with me, I actually think that this film failed to live up to Shinkai's greatest masterpiece (and my movie of the year) Your Name -- it felt a bit too Miyazaki-ified and didn't feel like a unique evolution, and the romance was a huge step down (Shinkai was [forced](https://en.wikipedia.org/wiki/Suzume#Characters) to include a romance even though he didn't want to). But it does emotionally punch you with the themes he wanted to communicate, namely remembering the countless lost in natural disasters, and the enduring trauma that reverberates for decades.
 
-- **Jujutsu Kaisen 0**: 9/10. This is a prequel to the first season, and OK watching standalone (unlike Made in Abyss). This is my favorite anime for a reason -- the story is both deeply emotional and hilarious, and the cast of characters is memorable and immediately lovable. Docked a point for a few scenes with unclear and unmotivated dialogue, meaning I had to rewatch those to understand.
+- **Spiderman: Across the Spiderverse**: 9/10. It's hard to imagine what could beat the [genre-defining](https://www.youtube.com/watch?v=l96IgQmXmhM&pp=ygUZc3BpZGVydmVyc2UgYW5pbWF0aW9uIGhvdw%3D%3D) first film, but this sequel managed perfectly. I loved Gwen's character development, the insanely ambitious animation across so many different styles that took 1000 animators 5 years, the nuanced villains, and the fresh plotline. I have no idea how they are gonna top this for the final film without having us wait like 10 years. The coolest thing is that [a 14 year old animated](https://www.nytimes.com/2023/06/07/movies/spider-man-across-the-spider-verse-lego.html) all of the Lego scenes, directly interfacing with one of the directors biweekly. Docked a point for the ending, which was I guess necessary for the rest of the film to shine the way it did.
+
+- **Spirited Away**: 9/10. It's incredible that the greatest animated film of all time is so surreal and fantastical, but also grounded in very human themes like anti-capitalism, pro-environmentalism, anti-greed, pro-kindness etc throughout. A few blog posts helped me really understand all of the symbolism -- the best ones were these: [social commentary analysis](https://the-artifice.com/spirited-away-social-criticism/), [character analysis](https://myswordisunbelievablydull.wordpress.com/2015/02/27/spirited-away-analysis/), and [this prostitution conspiracy](https://onionandartichoke.tumblr.com/post/114137040455/the-prostitution-theory-of-spirited-away).
+
+- **Jujutsu Kaisen 0**: 9/10. This is a prequel to the first season, and OK watching standalone (unlike Made in Abyss). This is my favorite anime for a reason -- the story is both deeply emotional and hilarious, and the cast of characters is memorable and immediately lovable. Docked a point for a few scenes with unclear and/or unmotivated dialogue.
 
 - **Made in Abyss: Dawn of the Deep Soul**: 7/10. I hesitate even mentioning this in the movie section, because it's the third in a sequence of movies where the first two are better-laid out versions of the first season of the show. With that context though, I found it much more action packed and compelling -- there are a few missing details from the manga that would have clarified a lot of my confusions about the movie, but the main villain is surprisingly complex and consistent despite acting in what initially seems like inconsistent ways.
 
-- **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they started with a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad that they then villianized the really interesting Mexico-inspired country they set up -- I would have loved a more nuanced take here, or more empathy created for them throughout, instead of just in bits and pieces. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated and sometimes contradictory. The plot itself was also super formulaic and not really compelling or surprising; the last hour was predictable enough to not be interesting. A steep decline from Black Panther 1.
+- **Black Panther 2**: 5/10. I wanted to watch this due to the 5 minutes that takes place at MIT. Without Chadwick Boseman, I'll admit they were dealt a pretty tough hand. To be honest, the first 45 minutes or so was really compelling. I was really sad by the second half, where they unfairly villianized the really interesting Mexico-inspired country they set up -- it felt like they were forcing a conflict that didn't exist, and I would have loved a more nuanced plot here with more consistent empathy throughout. The main character didn't even try to do the right thing for most of the movie, and the character arc felt pretty unmotivated and sometimes contradictory. The plot itself was also super formulaic and not really compelling or surprising; the last hour was predictable enough to not be interesting. A steep decline from Black Panther 1.
 
 - ⭐ **Your Name** ⭐: 10/10. This movie had the most beautiful animation I've ever seen ([here's a 10 second tiktok preview](https://www.tiktok.com/@snauzk/video/7189209257500282113)) -- and it tells a beautiful story that is so deeply emotional, that you hardly give a passing glace to the reason time and identity work so strangely. It is the top 5 grossing anime films of all time, for good reason -- the beautiful music was from a Japanese rock band that yet achieves an incredibly soft and alluring soundtrack, the scenery is depicted so vividly unlike any animation I have ever seen, and the characters tug on your heartstrings. It imbues a sense that you can love a **kind** of person without knowing their identity yet, and you feel a sense of something you are yearning for -- an alluringly romantic take in today's app swiping era. It doesn't hurt that my favorite-ever sci fi anthology, Axiomatic by Greg Egan, had a direct influence on the director (the "The Safe-Deposit Box" story specifically).
 
@@ -79,7 +83,7 @@ This was an excellent year for movies. I spent a significant amount of time comb
 
 - **Tick Tick Boom**: 9/10. This year’s Lin Manuel Miranda release. The relationship dialogue felt really authentic, and it’s really fun to see the maturation of the character's vision throughout time. Confused how 30/90 is the most popular song from the album, I put it dead last on my ranking. Alexandra Shipp is my newest celeb crush for sure.
 
-- **Tenet**: 10/10. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on. This is one of the few films I've ever rewatched immediately, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent and I finally was able to wrap my head around all the story lines and questions. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’, but this one is like 5x as complex and does a surprisingly excellent, non-tropey job with its take on time travel. <!-- There is one quirk with injuries working slightly differently whether it's normal or radiation induced, but I think it's still consistent.  -->
+- **Tenet**: 10/10. This is one of the few films I've ever rewatched immediately, since the plot was so complex and addicting to puzzle out. After spending a long night analyzing it, I think it’s self-consistent and I finally was able to wrap my head around all the story lines and questions. I think I really enjoy these cerebral multi-layered plots; it reminds me a bit of unwrapping the onion plots of ‘Us’ or ‘Interstellar’, but this one is like 5x as complex, and has a surprisingly excellent, non-tropey take on time travel. On the first watch, I was unfortunately too sleep-deprived to understand even half of what was going on -- I recommend watching with full focus. <!-- There is one quirk with injuries working slightly differently whether it's normal or radiation induced, but I think it's still consistent.  -->
 
 ### 2021
 
@@ -117,7 +121,7 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Taxi Driver**: 6/10. Psychologically disturbing. Scorsese told a creative story in a style I've never seen a movie follow, but I just found it a little unnerving for my taste.
 
-- **Malcolm and Marie**: 5/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via cool black and white shots.
+- **Malcolm and Marie**: 3/10. As much as I love Zendaya, I feel like the film was a pretty surface-level argument between a couple that the movie tried to deepen via cool black and white shots.
 
 ### 2020
 
@@ -129,7 +133,7 @@ Many of these movies were chosen jointly with my family during COVID, so I didn'
 
 - ⭐ **Us** ⭐: 10/10. Favorite movie of the year. One of those movies with a massive retcon, and spent like 4 hours afterwards analyzing how all the little symbols and scenes actually fit together insanely well and imply super crazy things. The feeling of revalation I got from analyzing this is the feeling I wish English class had been able to convey.
 
-- **Dead Poet's Society**: 9/10. I love stories about education and miseducation, and Robin Williams here is incredible.
+- **Dead Poets Society**: 9/10. I love stories about replacing school with miseducation, and Robin Williams here is incredible.
 
 - **Kal Ho Na Ho**: 10/10. Starts slow, but becomes very emotional. A classic Shah Rukh Khan drama with all the Bollywood movie tropes. Would recommend starting here for Bollywood movies.
 
@@ -137,7 +141,7 @@ Many of these movies were chosen jointly with my family during COVID, so I didn'
 
 - **Into the Woods**: 7/10. Mishmash family friendly fairytale musical, themes of morality, perception of evil, and supporting even through mistakes.
 
-- **The Last Airbender** : 3/10. A terrible movie with lots of potholes and not very good acting and mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.
+- **The Last Airbender** : 4/10. A terrible movie with lots of potholes and not very good acting and mediocre special effects and just everything was little bit sad. I haven't even watched the show and I thought it was bad.
 
 - **Hamilton**: 10/10. Lin Manuel Miranda classic.
 
@@ -145,11 +149,11 @@ Many of these movies were chosen jointly with my family during COVID, so I didn'
 
 - **Little Women**: 3/10. Couldn't fully tell the main characters apart, wasn't invested in any characters, and poorly depicted present/past jumps.
 
-- **August Rush**: 5/10. Annoyed by the classic boy genius perception that ignores all the hard work in favor of miracles. Family feels good tale, but one-dimensional love story.
+- **August Rush**: 5/10. Annoyed by the classic boy genius perception that ignores all the hard work in favor of miracles. Family feel-good tale, but one-dimensional love story.
 
 - **Soul**: 10/10. Great character design, message, and feelings. Really loved it, and it came at a particularly well timed point in my life.
 
-- **Jumanji 2**: 6/10.
+- **Jumanji 2**: 6/10. Didn't have a unique enough take from the first movie.
 
 - **21**: 8/10. Love me some MIT.
 
@@ -159,7 +163,7 @@ Many of these movies were chosen jointly with my family during COVID, so I didn'
 
 - **The Inventor (Theranos)**: 7/10. There are like a million adaptations of Holmes' story now, this one was more like a documentary instead of a drama which I preferred.
 
-- **Enola Holmes**: 4/10. Standard, nothing particularly interesting about it.
+- **Enola Holmes**: 4/10. Nothing particularly interesting about it; there are many better mystery films. This one did a poor job of information setup and Enola's depiction did not do her potential justice; likely any episode of Sherlock is better.
 
 - **Ratatouille**: 10/10. Second time watching this after 5ish years! Classic. Great thoughts on being the [chef vs the cook](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html), mentorship, and balancing the value of family and becoming independent.
 
@@ -169,7 +173,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - ⭐ **Parasite** ⭐: 10/10. Incredible story, cinematography, music, characters, symbolism, everything. This was the movie that got me interested in international cinema.
 
-- **Spiderman Far From Home**: 10/10. I loved the leads and relatability.
+- **Spiderman Far From Home**: 10/10. I loved the leads and relatability. The story was incredible, and the animation was
 
 - **Aladdin Live-Action**: 9/10. Great family movie.
 
@@ -181,9 +185,9 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Psych: The Movie**: 10/10. Anything Psych I will give a 10/10 gauranteed.
 
-- **Spider-Man: Into the Spider-Verse**: 10/10. I probably don't need to sell you on this, but this was an incredible story with an insane animated comic book art style.
+- **Spiderman: Into the Spider-Verse**: 10/10. A deeply relatable story with a mindblowing, [artistically risky, and genre-defining](https://www.youtube.com/watch?v=l96IgQmXmhM&pp=ygUZc3BpZGVydmVyc2UgYW5pbWF0aW9uIGhvdw%3D%3D) animated comic book art style.
 
-- **The Big Sick**: 8/10. Just completely insane that this was a real story. Was a 9 when I watched it.
+- **The Big Sick**: 8/10. Just completely insane that this was a real story. Was a 9/10 when I watched it, but downgraded because I think present me wouldn't enjoy it as much.
 
 - **Bird Box**: 8/10. Haven't watched an apocalyptic movie in a while, was fun.
 
@@ -207,7 +211,7 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **deadpool**: 10/10. Ryan Renolds is an absolutely lovable clown.
 
-- **Da Vinci Code**: 10/10. God the allure of a worldwide puzzle with a dizzying reward is so beautiful: part of the reason I love geocachine is that I get the slightest glimpse into such a double layer on reality.
+- **Da Vinci Code**: 10/10. The allure of a worldwide puzzle with a dizzying reward is so beautiful: part of the reason I love geocaching is that I get the slightest glimpse into such a double layer on reality.
 
 - **It**: 6/10. Classic horror movie.
 
@@ -224,7 +228,6 @@ The notes for these movies are just summaries of what friends have told me about
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Suzume**: November 2022 film by the same director and similar animation style as 'Your Name'
 - **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
@@ -247,3 +250,11 @@ The notes for these movies are just summaries of what friends have told me about
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
 - **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
+
+Coming 2023
+
+- **Oppenheimer**: Nolan's next film.
+
+Coming 2024
+
+- **Deadpool 3**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.

@@ -27,14 +27,13 @@ This alive document will be updated every time I travel.
       - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
       - **Yume Ga Agakura**: Sister shop, the best udon in MA. They shout a rating for your meal at the end, based on the amount of the Udon you were able to finish. Also affordable ($15/per).
       - **Life Alive**: The best vegetarian food I've ever eaten ‒ I hate vegetarian food and still really enjoy this place.
-      - **Jules' Jamaican Pop Up**: This secret tent only appears on weekend afternoons in Central, and serves huge and tasty portions of jerk chicken.
     - Experiences
       - **Next Haunt at MIT**: An interactive, horror escape room with actors, built by students inside a dorm. If you have a friend going here able to get you a ticket, it's definitely one of the most unique experiences I've had.
-      - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, timed jenga for maximum height, etc), and fun little electronic bands that track the number of stars you have so far. Everyone I've told about it has loved it.
-      - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and they'll be able to take you!
-      - **The Viz Lab at Harvard**: I haven't been, but apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. That sounds completely nuts to me, and I'd love to make a trip over and check it out.
-      - **[Beginner DnD Night at Pandemonium](https://pandemoniumbooks.com/products/beginner-d-d-fire-in-the-greatwood?start=2023-06-01T00:00&select=2023-06-07T18:00)**: Haven't been yet, but it seems like fun.
-      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along. Happy to play play crazy cool VR videogames with you (my favorites are beatsaber, games with crazy realistic physics, and space exploration games like No Mans Sky!)
+      - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, pvp games, etc) that rank you on completin from 0-3 stars. Your wristband tracks your total stars, and the place is super high tech. Everyone I've told about it has loved it. If you prefer a lower-tech version of this, I also love [Boda Borg](https://www.bodaborg.com/).
+      - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and we'll be able to take you!
+      - **The Viz Lab at Harvard**: I haven't been, but apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. I'm not sure how this is different than a 3d theatre, but I'd love to make a trip over and check it out.
+      - **[Beginner DnD Night at Pandemonium](https://pandemoniumbooks.com/products/beginner-d-d-fire-in-the-greatwood?start=2023-06-01T00:00&select=2023-06-07T18:00)**: Was a wonderful, ultra-affordable introduction to the world of dungeons and dragons, plus you get to support an indie game store. The intro level dungeon master is very good and patient -- definitely start with a beginner class to avoid annoying the experienced players (unless you are one yourself!).
+      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along.
   - New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -92,8 +91,7 @@ This alive document will be updated every time I travel.
     - Theres a number of extremely tasty Soba places, noodle spots, and curry restaurants that were tasty and cheap -- it's hard to list them all here but any place with homemade noodles will probably be really good, even if it's a chain.
     - **Dipping Ramen**: I find noodles in ordinary ramen a bit too thin, but the noodles at [Menya Ramen](https://goo.gl/maps/kofV2AjRpDszm8fr6) were thick and had body, and the black sauce was super tasty.
     - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's filling and cheap.
-    - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.
-    - **Gomi Pit Bar**: Haven't been yet. They serve creative meals with things that are usually thrown away (like Yuzu peels), and there's a massive window while you eat to watch a huge trash crane.
+    - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.s
   - Experiences
     - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
     - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays.
@@ -103,15 +101,14 @@ This alive document will be updated every time I travel.
     - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 10 minutes, but it's interesting to see at least once.
     - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
     - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
-    - **Ueno Cat Van**: Haven't been yet. Apparently in Ueno at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled the cat van that parks there, and a ton of cats just wander around the temple grounds.
+    - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
     - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
     - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
     - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
-    - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in?? They have branches all over Japan and in NY too.
+    - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
     - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
     - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
-    - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others.
-    - **[Tecchan Yakitori Bar in Kichijoji by Kengo Kuma](https://www.designboom.com/architecture/kengo-kuma-tetchan-yakitori-bar-tokyo-japan-04-19-2015/)**: Haven't been yet. This is a bar where the seats look like they're straight out of an acrylic jungle.
+    - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
     - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
 - Egypt
   - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
@@ -126,5 +123,8 @@ This alive document will be updated every time I travel.
 - Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
-    - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course so you can get credit for your first dive.
+    - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course, so you can get credit for your first dive.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
+- No Longer Exist
+  - A good reminder of why you should go to these places soon -- nothing is promised forever.
+  - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?

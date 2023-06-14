@@ -9,7 +9,7 @@ tags: ["recs"]
 description: "Some useful physical items to improve your quality of life."
 ---
 
-Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Most other lists online are more comprehensive and I have taken many things from them. Most stuff is from Amazon (linked via short reflinks, but I still link to the cheapest version + only stuff I would have linked without that). I want to add software here soon as well.
+Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon, but I've linked to the cheapest place online I've found it. I want to add software here soon as well.
 
 This alive document will be updated every time I buy something incredible.
 
@@ -44,7 +44,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Enro Face Masks](https://enro.com/collections/adults) - $20**. [Wirecutter tested](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/) face masks for filtration and comfort, and this won both hands down. It claims a PM0.1 filter, and tested consistently with that claim. It also maintains high filtration for a few washes (but becomes half as effective at 50 washes; I usually lose mine before 10). I use it in any place with asbestos risk as well; it's not a cure-all but it's better than any other mask for that.
 **[Shirt Stays](https://amzn.to/3N23Ckf) - $13.** Connect your dress shirt to your socks. Critical for formal dress shirts for me, to avoid it bunching up and look bad.
 **[Neck Gaiter](https://amzn.to/43PkT68) - $15.** Tighter and smaller than a scarf, critical in cold weather.
-**[Oura Ring](https://ouraring.com) - $300 + $72/year.** I actually find this most useful to feel comfortable consuming caffeine; I don't want to lose access to my own body's tiredness signals, but I find the Oura recommendations to be a decent enough substitute on those days. It's also cool to see the sleep staging -- I wish their timezone tracking was better; it often screws up data when flying, which is when I most want the data. I got it before the subscription, so I don't have to pay; with the subscription, it might be more worth it to get a secondhand gen 2 off of eBay instead.
+**[Oura Ring](https://ouraring.com) - $300 + $72/year.** I actually find this most useful to feel comfortable consuming caffeine; I don't want to lose access to my own body's tiredness signals, but I find the Oura recommendations to be a decent enough substitute on those days. It's also cool to see the sleep staging -- I wish their timezone tracking was better; it often screws up data when flying, which is when I most want the data. I got it before the subscription, so I don't have to pay; with the subscription, it might be more worth it to get a secondhand gen 2 off of eBay instead. I wish there were better analyses, beyond just sleep staging; i.e. it could automatically determine the weather where the ring was that night, and post correlation plots of sleep with weather like [the Sleep Cycle app does](https://play.google.com/store/apps/details?id=com.northcube.sleepcycle&hl=en_US&gl=US). I use [this Sleep as Android app](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en_US&gl=US) for lucid dreaming cues when sleeping alone, but long term I hope to cultivate higher awareness instead.
 
 # Backpack
 
@@ -61,7 +61,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 # Other
 
 **[Proxmark 3 RFID Cloner](https://amzn.to/3GZSBfo) - $75.** Designed by the veritable and prolific [Samy Kamkar](https://twitter.com/samykamkar). Can be a bit finnicky to first time setup, but once you have it then it clones basically all cards I throw at it.
-**[RFID Ring](https://amzn.to/3AhjojO) - $30.** Clone any card onto this, then just tap with your finger to use it.
+**[RFID Ring](https://amzn.to/3AhjojO) - $30.** Clone any card onto this, then just tap with your finger to use it. Rumor is Oura Gen 4 will have this.
 **[Extremely Small Wallet Pen](https://amzn.to/41DjNJ2) - $7.** This ~1mm wide, ~4 inch pen fits in my wallet and is useful in a pinch or when geocaching.
 **[Heated Eye Mask](https://amzn.to/3MWPUiF) - $17.** Plugs into a USB, very useful to use one eye at a time for dry eye.
 
@@ -92,6 +92,7 @@ These are things I've stopped myself from buying so far, but they seem intriguin
 **[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 **[Space Saver Compression Bags](https://amzn.to/3CfC44b) - $13**. These bags have a one way vent when you compress them, so are useful to tightly pack clothes in suitcases. Good gift for people who travel a lot.
 **[Travel Battery Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Recommended by [Tynan](https://tynan.com/gear2022/).
+**[Stannous Fluoride Toothpaste](https://amzn.to/3WQULox) - $15**. Stannous flouride and hydroxyapatite has repeatedly [been shown](https://now.tufts.edu/2013/03/20/other-fluoride-benefits-stannous-fluoride) to be more effective than normal toothpaste at cavity prevention. This Crest toothpaste is basically the same price and texture so should be a no-brainer toothpaste replacement. Thanks to [Rob Wiblin for the rec](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68).
 **[Moisture Chamber Eye Seals](https://amzn.to/3Nj9q8T) - $45**. My dry eye doctor recommended that when I'm on the computer a lot, to browse with these instead to maintain eye moisture. You can also just use goggles, but these result in notably more moisture for me.
 
 I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
