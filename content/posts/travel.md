@@ -11,17 +11,19 @@ description: "It's hard to surface really good travel recs, so I put my favorite
 
 I thought it would be cool to share some of the cool spots/hidden gems from all the countries I've visited. I try to select spots that are really unique, especially in their vibe, experience, or culture ‒ the farther it is from anything I've experienced before, the higher it'll be on this list. I'll also try to list the "best" versions of things I've tried, like food types or libraries. I usually care much less about historical significance or aesthetics, and there are plenty of lists for that already. The best adventures will always be the unplanned spontaneous outings you risk yourself, so definitely don't lean too much on this list :)
 
-These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems more geared to places than experiences, and TikTok #hiddengems and Reddit are also just alright, but often prioritize instagrammable places (I assign very low weight to that in contrast). Personal recommendations seem to be the only way that really works for me -- apps like Fever purport to systematize this (I haven't tried it), but it seems potentially promising.
+These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems more geared to places than experiences, and TikTok #hiddengems and Reddit are just alright, and unfortunately often prioritize instagrammable places (I assign very low weight to instagrammability in contrast). Personal recommendations seem to be the only way that really works for me -- apps like Fever purport to systematize this (I haven't tried it), but I think my brand of novelty is more open and idiosyncratic than most people's tastes.
 
 This alive document will be updated every time I travel.
 
 - USA
+
   - Seattle, WA
     - Food
       - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
     - To-do
       - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
       - **The Gorge**: [Rave style experiences](https://pnw.beyondwonderland.com/) in a naturally-formed amphitheatre in the rock.
+      - **Impatient Optimist**: Haven't been yet. This Janet Echelman art piece is permanently on display in Microsoft's campus, and I think her art is particularly interesting.
   - Cambridge, MA
     - Food
       - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
@@ -32,8 +34,11 @@ This alive document will be updated every time I travel.
       - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, pvp games, etc) that rank you on completin from 0-3 stars. Your wristband tracks your total stars, and the place is super high tech. Everyone I've told about it has loved it. If you prefer a lower-tech version of this, I also love [Boda Borg](https://www.bodaborg.com/).
       - **Hacking at MIT**: This is a secret, orally-passed down tradition where students take each other to hidden spots on campus, like a dusty vent with a videogame lounge in it. Ask any MIT student (or me) and we'll be able to take you!
       - **The Viz Lab at Harvard**: I haven't been, but apparently [this lab](https://hwpi.harvard.edu/eps-visualization-research-laboratory/home) has a set of goggles and projectors that let you see any image as a "hologram" in a room on a massive curved screen. I'm not sure how this is different than a 3d theatre, but I'd love to make a trip over and check it out.
+      - **Mass MoCA**: This museum is about a 3 hour drive from Boston, but it is absolutely worth it (and I wasn't even that big a fan of museums in general). The light and space artist James Turrell has some absolutely perception-breaking and mindbending installations that alone make this trip worth it, and I became obsessed with art and his style after going here (everyone else who went with me is obsessed too).
       - **[Beginner DnD Night at Pandemonium](https://pandemoniumbooks.com/products/beginner-d-d-fire-in-the-greatwood?start=2023-06-01T00:00&select=2023-06-07T18:00)**: Was a wonderful, ultra-affordable introduction to the world of dungeons and dragons, plus you get to support an indie game store. The intro level dungeon master is very good and patient -- definitely start with a beginner class to avoid annoying the experienced players (unless you are one yourself!).
-      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along.
+      - **Contact Improv at the Central Square Church**: This dance form is meant for people together without music, and in spontaneous improv-like fashion, you learn to yes-and movement with another. Feel beautiful and vulnerable and thrilled, and pay-what-you-want at [this spot in Central Square](https://contactimprovboston.com/). I'm sure contact improv exists in many places as well in different formats, but this was the one I personally tried as a beginner and liked. Thanks to Max for the rec.
+      - **Alexander Technique with Tommy**: Alexander Technique is predominantly learning to notice and release body tension you never knew you had, and embracing effortless non-doing to break out of bad habits. If this sounds like nonsense, here is a concrete data point: when I went, Tommy lightly tugged my feet and I felt an overwhelming sense of heaviness immediately in my neck -- it felt almost magical. I felt completely different walking out, and even though it was just gentle, safe nudges, it felt far more intensely eye-opening than any massage I've ever had. Tommy is one of the experts in AT, and [he has been practicing here](https://www.easeofbeing.com/) for decades. Thanks to Max for the rec.
+      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule!
   - New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -47,6 +52,7 @@ This alive document will be updated every time I travel.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
       - **Immersive Gamebox**: Haven't been, [but this place](https://immersivegamebox.com/locations/ny-lower-east-side-manhattan/) claims full immersive tech-enabled rooms.
       - **Hyprov**: Haven't been yet, but hypnosis with improv sounds pretty interesting.
+      - **Grand Central Terminal Whispering Gallery**: Haven't been yet. An oval room on the lower floor where standing on the foci of the room 30 ft apart means you can hear each other whispering to each other, even with multiple loud people in between.
   - California
     - Bay Area
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
@@ -55,9 +61,11 @@ This alive document will be updated every time I travel.
     - South California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
-  - ## Other
+      - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
+  - ## Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
+
 - Maldives
   - Experiences
     - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
@@ -77,6 +85,7 @@ This alive document will be updated every time I travel.
     - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
   - Experiences
     - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
+    - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
 - Berlin
   - **Trust**: Haven't been yet but know some people. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in.
   - **Kitkatclub**: Haven't been. Famous alt club.
@@ -125,6 +134,8 @@ This alive document will be updated every time I travel.
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
     - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course, so you can get credit for your first dive.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
+    - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
+    - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
 - No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?

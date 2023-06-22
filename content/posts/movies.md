@@ -19,9 +19,11 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2023
 
-- **Suzume**: 8/10. This film was breathtaking and beautiful, just like all of Shinkai's animations. The sound track was incredible (did you know Radwimps sourced a smalltime Tiktok singer to do the title song?), the story had me in tears, and the characters have the goofiness of a Ghibli classic. While most seem to disagree with me, I actually think that this film failed to live up to Shinkai's greatest masterpiece (and my movie of the year) Your Name -- it felt a bit too Miyazaki-ified and didn't feel like a unique evolution, and the romance was a huge step down (Shinkai was [forced](https://en.wikipedia.org/wiki/Suzume#Characters) to include a romance even though he didn't want to). But it does emotionally punch you with the themes he wanted to communicate, namely remembering the countless lost in natural disasters, and the enduring trauma that reverberates for decades.
+This year was marked by Japanese cinema. I spent the year steeped in the culture, from the music to the anime shows to the movies, and even working from Tokyo for a few weeks.
 
-- **Spiderman: Across the Spiderverse**: 9/10. It's hard to imagine what could beat the [genre-defining](https://www.youtube.com/watch?v=l96IgQmXmhM&pp=ygUZc3BpZGVydmVyc2UgYW5pbWF0aW9uIGhvdw%3D%3D) first film, but this sequel managed perfectly. I loved Gwen's character development, the insanely ambitious animation across so many different styles that took 1000 animators 5 years, the nuanced villains, and the fresh plotline. I have no idea how they are gonna top this for the final film without having us wait like 10 years. The coolest thing is that [a 14 year old animated](https://www.nytimes.com/2023/06/07/movies/spider-man-across-the-spider-verse-lego.html) all of the Lego scenes, directly interfacing with one of the directors biweekly. Docked a point for the ending, which was I guess necessary for the rest of the film to shine the way it did.
+- **Suzume**: 8/10. This film was breathtaking and beautiful, just like all of Shinkai's animations. The sound track was incredible (did you know Radwimps sourced a smalltime Tiktok singer to do the title song?), the story had me in tears, and the characters have the goofiness of a Ghibli classic. While most seem to disagree with me, I actually think that this film failed to live up to Shinkai's greatest masterpiece (and my movie of the year) Your Name -- Suzume felt a bit too Miyazaki-ified to feel like a unique evolution, and the romance was a huge step down (Shinkai was [forced](https://en.wikipedia.org/wiki/Suzume#Characters) to include a romance even though he didn't want to). But it does emotionally punch you with the themes he wanted to communicate, namely remembering the countless lost in natural disasters, and the enduring trauma that reverberates for decades.
+
+- **Spiderman: Across the Spiderverse**: 9/10. It's hard to imagine what could beat the [genre-defining](https://www.youtube.com/watch?v=l96IgQmXmhM&pp=ygUZc3BpZGVydmVyc2UgYW5pbWF0aW9uIGhvdw%3D%3D) first film, but this sequel managed perfectly. I loved Gwen's character development, the insanely ambitious animation across so many different styles that took 1000 animators 5 years, the nuanced villains, and the fresh plotline. I have no idea how they are gonna top this for the final film without having us wait like 10 years. The coolest thing is that [a 14 year old animated](https://www.nytimes.com/2023/06/07/movies/spider-man-across-the-spider-verse-lego.html) all of the Lego scenes, directly interfacing with one of the directors biweekly. Docked a point for the ending, which in a sense was necessary for the rest of the film to shine the way it did.
 
 - **Spirited Away**: 9/10. It's incredible that the greatest animated film of all time is so surreal and fantastical, but also grounded in very human themes like anti-capitalism, pro-environmentalism, anti-greed, pro-kindness etc throughout. A few blog posts helped me really understand all of the symbolism -- the best ones were these: [social commentary analysis](https://the-artifice.com/spirited-away-social-criticism/), [character analysis](https://myswordisunbelievablydull.wordpress.com/2015/02/27/spirited-away-analysis/), and [this prostitution conspiracy](https://onionandartichoke.tumblr.com/post/114137040455/the-prostitution-theory-of-spirited-away).
 
@@ -73,7 +75,7 @@ This was an excellent year for movies. I spent a significant amount of time comb
 
 - **3 Billboards Outside Ebbing Missouri**: 10/10. It has an excellent unique plot from the get-go, and sets up a really unique protagonist/antagonist arc. Standout indie film.
 
-- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. It gets rid of my favorite part -- the romantic idealism of the completely selfless. Perhaps if I'd watched this independently of the short story, I'd like it more.
+- **Arrival**: 7/10. While the visuals put it a notch above the book, I thought the movie editorialization from the book to add a “reason” for the events hurt the story. It gets rid of my interpretation, of the story being the romantic idealism of the completely selfless. Perhaps if I'd watched this independently of the short story, I'd like it more.
 
 - **Everything Everywhere All at Once**: 9/10. A24's standout movie; absurdist comedy. Excellent indie filmmaking and reflection on themes of parental empathy and nihilism. Am pretty happy I watched it with my family, we had a lot to talk about afterwards (though the hot dog scenes were not particularly comfortable lol). I think this is the only absurdist film I've really liked: they did a great job on keeping a compelling narrative that conveyed the emotional punches they wanted to convey.
 
@@ -95,13 +97,13 @@ Watched a lot of weirder movies this year due to my film class.
 
 - **Churchill**: 5/10. Good acting, but that doesn't really make up for the overly simplictic plot. The movie kind of overplays Chuchill's role and the movie takes too many factual liberties.
 
-- **A Girl Walks Home Alone at Night**: 7/10. Iranian cinema, very unique.
+- **A Girl Walks Home Alone at Night**: 6/10. Iranian vampire movie, very unique but also a bit too simplistic of a plot for me to enjoy it.
 
 - **Invictus**: 6/10. Interesting, and portrayed parts of his leadership that were particularly surprising that I think any leader can learn from. I feel other movies about Mandela will do a better job depicting the harder battles he fought for his country.
 
 - **Kamikaze Girls**: 8/10. I did not expect to like this as much as I did. Was assigned by a film class, but this is just told in such a fresh style that I've never seen any American cinema ever have the creativity for. The only Japanese non-anime film that I've seen so far probably.
 
-- **His Girl Friday**: 8/10. Also surprise how much I enjoyed this. I think this movie set the record for fastest words per minute, and is a hilarious story about yellow journalism in the 1900s.
+- **His Girl Friday**: 8/10. Surprised how much I enjoyed this. I think this movie set the record for fastest words per minute, and is a hilarious story about yellow journalism in the 1900s.
 
 - **Amelie**: 8/10. This is a classic -- from the color palette to the strange character, to the feeling of clever retribution. Made me fall in love with Yann Tiersen's song Comptine d'un Autre été: L'Après-Midi.
 
