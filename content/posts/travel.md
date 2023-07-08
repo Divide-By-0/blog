@@ -39,6 +39,7 @@ This alive document will be updated every time I travel.
       - **Contact Improv at the Central Square Church**: This dance form is meant for people together without music, and in spontaneous improv-like fashion, you learn to yes-and movement with another. Feel beautiful and vulnerable and thrilled, and pay-what-you-want at [this spot in Central Square](https://contactimprovboston.com/). I'm sure contact improv exists in many places as well in different formats, but this was the one I personally tried as a beginner and liked. Thanks to Max for the rec.
       - **Alexander Technique with Tommy**: Alexander Technique is predominantly learning to notice and release body tension you never knew you had, and embracing effortless non-doing to break out of bad habits. If this sounds like nonsense, here is a concrete data point: when I went, Tommy lightly tugged my feet and I felt an overwhelming sense of heaviness immediately in my neck -- it felt almost magical. I felt completely different walking out, and even though it was just gentle, safe nudges, it felt far more intensely eye-opening than any massage I've ever had. Tommy is one of the experts in AT, and [he has been practicing here](https://www.easeofbeing.com/) for decades. Thanks to Max for the rec.
       - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule!
+      - **Garment District**: On Saturday mornings, they restock; buy used clothes then the pound.
   - New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -53,11 +54,15 @@ This alive document will be updated every time I travel.
       - **Immersive Gamebox**: Haven't been, [but this place](https://immersivegamebox.com/locations/ny-lower-east-side-manhattan/) claims full immersive tech-enabled rooms.
       - **Hyprov**: Haven't been yet, but hypnosis with improv sounds pretty interesting.
       - **Grand Central Terminal Whispering Gallery**: Haven't been yet. An oval room on the lower floor where standing on the foci of the room 30 ft apart means you can hear each other whispering to each other, even with multiple loud people in between.
+      - **ARTECHOUSE, SuperReal, ZeroSpace**: Haven't been yet, but these are all large cutting edge art tech exhibits.
+      - **Spyscape Museum**: Haven't been yet, but you pretend to be a spy?
   - California
     - Bay Area
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
-      - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in SF with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
+      - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
+      - **The Center**: A tea house in SF, staffed by people from the group house above it!
+      - **Black Box VR Gym**: A gym where you exercise in VR.
     - South California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
@@ -65,6 +70,8 @@ This alive document will be updated every time I travel.
   - ## Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
+    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas.
+    - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
 
 - Maldives
   - Experiences
@@ -119,6 +126,7 @@ This alive document will be updated every time I travel.
     - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
     - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
     - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
+    - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Osaka comes with lots of unexpected experiments and was highly recommended.
 - Egypt
   - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
   - Food/Experiences

@@ -95,6 +95,11 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
   - Who is the thinker and the doer in your role? Again, the distinction between the [cook vs the chef](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) is critical -- if you don't yet see this dichotomy or think it's important, you are likely the cook and not in actual full control of your own future.
   - You want to be the thinker, but that takes knowledge of the why and the theory and the high level
   - At the same time, still need to be highly technical to get it done when no one else can -- doing is important, but not the most important.
+- Because you "should"
+  - Noticing that you should probably do something is actually a bit of a red flag that might indicate that the motivation is placed on you externally, not internally.
+  - The NVC book puts it well: Shame is a form of self-hatred, and actions taken in reaction to shame (i.e. shame from feeling you're not doing what you should) are not free and joyful acts. Even if our intention is to behave with more kindness and sensitivity, if people sense shame or guilt behind our actions, they are less likely to appreciate what we do than if we are motivated purely by the human desire to contribute to life. Avoid shoulding yourself!
 - Misunderstanding Musk
   - If you don't understand his drive for learning about space (i.e. reaching out to Cantrell, reading the 4 fat textbooks first, making himself the expert), then you won't understand what led to his conviction and talent (say what you will about his personality, but those two are undeniable)
   - Doing something without first developing a deep understanding is like jumping down a rabbit hole with low confidence
+
+Read [part 1 here, with specific advice from conversation transcripts with mentors](https://blog.aayushg.com/posts/conviction/).

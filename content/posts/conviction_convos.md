@@ -204,7 +204,8 @@ I was asking this mentor how to deal with accelerating my projects, and feeling 
 
 #### Focus and Commitment
 
-- You need to be hungrier, stop maximizing optionality
+- In college, it's fine to have phases where you do not to feel focused enough -- your goal is to try different things. Even then, shipping one at a time will be more productive and fun
+- Now that you're post college in a field, you need to be hungrier, stop maximizing optionality
   - Remaining in this zone, where you even are doing 2 projects, is not like 100% going into 50%, it's like 1000% is splitting into 50-50
 - You can beat anyone with focus: this is the superpower
   - No one's committed ‒ everyone else doing random shiny crap: i.e. mutual X could be brilliant but he can't choose what to do
@@ -212,3 +213,50 @@ I was asking this mentor how to deal with accelerating my projects, and feeling 
 - Don't care about competition: everyone is incompetent and distracted
 - What are you willing to sacrifice to get that 1000%? You need to stop living in group houses all the time, care about other things and put your time into those.
   - Don't delude myself that you're productive in this group house -- do a sober analysis, have friends that call you on your bullshit, and you must not trick yourself. How much time did you spend on each meal? On socializing? On doing things that weren't your main task, that interrupted your day? What about the travel and planning, and mental overhead?
+
+## Chat 5: Focus on the flips (A chat with mentor 4)
+
+This mentor is significantly older and wiser than the other mentors, incredibly well respected by many in tech, and speaks with decades of experience. This is more about doing things in general than staunch commitment or conviction.
+
+- Common failure modes
+  - Often, young individuals get tempted by the potential rewards of wealth, fame, and reputation and fall into the trap of adhering to a set [playbook](https://masterplan.substack.com/p/master-plan-justin-glibert-foundation).
+  - But this has a significant opportunity cost — particularly in your 20s — where the scope for exponential growth is vast.
+- Don't confuse precision and accuracy
+  - Don't conflate a better path with what you should be doing
+  - It's easy to stay on your current path and optimize for precision -- a classic rationalist trope. But the changes that matter most are the ones where you're completely inaccurate, and those are more important to seek out.
+- Have a high standard of understanding
+  - Strive to fully comprehend, rigorously questioning if something doesn't match your existing knowledge
+  - Be cautious of accepting answers that merely seem satisfying
+- It will be obvious
+  - If you work back from what should I concentrate on, it's harder to figure out what it might be -- it will be obvious to yourself that you want to concentrate on something when it emerges
+  - Just focus on following your curiosity and doing hard things till then, which means you have to be comfortable with uncertainty
+- Discomfort vs uncertainty
+  - I asked about seeking discomfort, and if Yes Theory's principle was a good general strategy
+  - Discomfort alone might be counterproductive
+  - Seek uncertainty and not discomfort -- uncertainty can be uncomfortable as well, but that's a subtly specific type of discomfort
+  - You don't want certainty on how you'll approach time in college; if you have that, it probably means you haven't explored enough
+- Scarcity of secrets
+  - Contrary to popular belief, secrets aren't scarce. They are plentiful. If you subconsciously believe secrets are limited, you risk overvaluing them and pursuing unproductive paths. The challenge isn't finding secrets, but prioritizing them and extracting the most value from each one.
+- Follow your fascination
+  - Forget what's best. Focus on what interests you most. What engages you when you aren't trying to be "productive"? Remember that it's possible to enjoy things deeply and that repetition and stagnation can lead to wasted time.
+- Differentiated skills by accident
+  - At no point was I trying to gain these skills; I was already operating in low probability regions, doing a lot of things that very few other people do
+  - The higher order bit was to do rare things, not try to balance myriad threads of advice
+  - He never explicitly verbalized this before, but looking back maybe the takeaway is not to not think at all beyond this first bit
+  - There are often lots of grants where if you finish, you get the money -- it's default attractive, but you don't want to choose it because of the money; those are often things that are outsourced because they're not the most critical, hardest core technology and don't lead to differentiated skills
+  - High conviction, differentiated mental model changes come from doing unexpected things, unlikely to work
+- College choices
+  - In college, take classes just because they are interesting ([Steve Jobs agrees](https://youtu.be/D1R-jKKp3NA?t=162))
+  - Once you're out of undergrad, everything is directed and goal oriented, and it's a lot harder to just re-enter college mode and learn random things for a few months
+  - He'd honestly be down to spend a semester at MIT even now just learning stuff, but too many life details would have to align in impossible ways to make him free enough to do that -- it's one of the best concentrations of high quality people with a desire to work on projects together
+  - Almost every MIT final class project, if you took it to the next level, are actually all quite interesting
+- Uniqueness comes in the overlaps
+  - Be really good in a few fields, since it's almost impossible to become the best in one
+  - Things collide and emerge in the overlap that only you can see or execute on
+  - Unique perspectives and opportunities often emerge in the overlap of different fields — areas where most of your peers won't possess minimum competency.
+- Look for things without labels
+  - Seek out ideas and experiences that resist categorization.
+  - The lack of labels often signifies the presence of unique learning and growth opportunities.
+
+Read [part 2 here, with more coherent bullet essays](https://blog.aayushg.com/posts/fake_conviction/).
+<!--  Include "Talks/Convos > Ego" section from my Remnote and "Talks/Convos > A<...> N<...>" from my Remnote -->
