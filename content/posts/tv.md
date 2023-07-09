@@ -73,12 +73,11 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 
 Shows I watched in middle and high school, roughly ranked in reverse chronological order.
 
-- Blue Mountain State
 - Silicon Valley
 - Suits
-- Breaking Bad
 - Yes Theory
 - Impractical Jokers
+- Breaking Bad
 - Pretty Little Liars
 
 ### Young childhood past

@@ -102,4 +102,11 @@ To get conviction now, I [read strange books by experts](https://glibert.io/blog
   - If you don't understand his drive for learning about space (i.e. reaching out to Cantrell, reading the 4 fat textbooks first, making himself the expert), then you won't understand what led to his conviction and talent (say what you will about his personality, but those two are undeniable)
   - Doing something without first developing a deep understanding is like jumping down a rabbit hole with low confidence
 
+## Concrete Advice for College
+
+- Communities
+  - It's easy to get caught up in what is "cool" or prestigious in college -- avoid groups for which this is a feature or advertisement of the group. If the reason to join their club is similar to having a lot of money, getting good internships, or having luxurious yearly retreats with a hot tub, then they are probably not enjoying the thing for the thing itself (i.e. building conviction), but are instead doing it instrumentally. If this is their attraction and what they are advertising, they probably don't have the types of features you're looking for.
+  - Look instead for places where people are quietly doing good work. People building projects in their dorm rooms, people meeting to build projects without clout and just for fun, and people excited to understand things they're curious about. These will be almost certainly be low status groups in your top college's classical definition of "status", but likely have the most real things you can learn and genuine people you want to work with.
+- My good friend Max recommends these three readings. [Memetic desire in college](https://danwang.co/college-girardian-terror/), [the death of fun at Stanford](https://www.palladiummag.com/2022/06/13/stanfords-war-on-social-life/), and [this interview with the creator of the most recent MIT documentary](https://maxlangenkamp.me/posts/mit_legacy/). These can guide broader mental patterns to drive awareness of other traps.
+
 Read [part 1 here, with specific advice from conversation transcripts with mentors](https://blog.aayushg.com/posts/conviction/).

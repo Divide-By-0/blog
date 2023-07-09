@@ -199,8 +199,8 @@ I was asking this mentor how to deal with accelerating my projects, and feeling 
 - More people isn't more output
 - The "barrel" strategy where you task people to tasks in parallel is really hard: everything takes so much longer
   - The nasty thing with parallel is that it hides that people may not be that great ‒ taking 3 days off is ok since no one depends on their work
-- First thing shipped first shows competence
-- Don't monetize, create soft power: you start attracting the best players
+- First ship the most important thing first, to show competence
+- Don't worry about monetizing right now, create soft power: you start attracting the best players
 
 #### Focus and Commitment
 
@@ -237,7 +237,7 @@ This mentor is significantly older and wiser than the other mentors, incredibly 
   - You don't want certainty on how you'll approach time in college; if you have that, it probably means you haven't explored enough
 - Scarcity of secrets
   - Contrary to popular belief, secrets aren't scarce. They are plentiful. If you subconsciously believe secrets are limited, you risk overvaluing them and pursuing unproductive paths. The challenge isn't finding secrets, but prioritizing them and extracting the most value from each one.
-- Follow your fascination
+- What are you fascinated by
   - Forget what's best. Focus on what interests you most. What engages you when you aren't trying to be "productive"? Remember that it's possible to enjoy things deeply and that repetition and stagnation can lead to wasted time.
 - Differentiated skills by accident
   - At no point was I trying to gain these skills; I was already operating in low probability regions, doing a lot of things that very few other people do
