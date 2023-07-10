@@ -15,6 +15,18 @@ Puzzle making is pretty lossy and inaccurate representation of this list. I gene
 
 This alive doc will be updated every time I watch a movie, and is in reverse chronological order. Maybe one day I will also reflect these on Letterboxd.
 
+## Table of Contents
+
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+- [Want To Watch](#want-to-watch)
+
+
 ## Previous
 
 ### 2023

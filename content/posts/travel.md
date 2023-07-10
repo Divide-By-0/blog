@@ -15,16 +15,36 @@ These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems mo
 
 This alive document will be updated every time I travel.
 
-- USA
+## Table of Contents
+- [USA](#usa)
+  - [Seattle, WA](#seattle-wa)
+  - [Cambridge, MA](#cambridge-ma)
+  - [New York City, NY](#new-york-city-ny)
+  - [California](#california)
+  - [Other USA](#other-usa)
+- [Asia](#asia)
+  - [Maldives](#maldives)
+  - [Singapore](#singapore)
+  - [Seoul, South Korea](#seoul-south-korea)
+  - [Thailand](#thailand)
+  - [Japan](#japan)
+  - [Egypt](#egypt)
+- [Europe](#europe)
+  - [London](#london)
+  - [Berlin](#berlin)
+- [Other International](#other-international)
+- [Anywhere](#anywhere)
+- [No Longer Exist](#no-longer-exist)
 
-  - Seattle, WA
+- ## USA
+  - ### Seattle, WA
     - Food
       - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
     - To-do
       - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
       - **The Gorge**: [Rave style experiences](https://pnw.beyondwonderland.com/) in a naturally-formed amphitheatre in the rock.
       - **Impatient Optimist**: Haven't been yet. This Janet Echelman art piece is permanently on display in Microsoft's campus, and I think her art is particularly interesting.
-  - Cambridge, MA
+  - ### Cambridge, MA
     - Food
       - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
       - **Yume Ga Agakura**: Sister shop, the best udon in MA. They shout a rating for your meal at the end, based on the amount of the Udon you were able to finish. Also affordable ($15/per).
@@ -40,7 +60,7 @@ This alive document will be updated every time I travel.
       - **Alexander Technique with Tommy**: Alexander Technique is predominantly learning to notice and release body tension you never knew you had, and embracing effortless non-doing to break out of bad habits. If this sounds like nonsense, here is a concrete data point: when I went, Tommy lightly tugged my feet and I felt an overwhelming sense of heaviness immediately in my neck -- it felt almost magical. I felt completely different walking out, and even though it was just gentle, safe nudges, it felt far more intensely eye-opening than any massage I've ever had. Tommy is one of the experts in AT, and [he has been practicing here](https://www.easeofbeing.com/) for decades. Thanks to Max for the rec.
       - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule!
       - **Garment District**: On Saturday mornings, they restock; buy used clothes then the pound.
-  - New York City, NY
+  - ### New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
       - **Action Burger**: I haven't been here, but it looks interesting ‒- it has a sci-fi theme and a bunch of videogames setup for patrons.
@@ -56,7 +76,8 @@ This alive document will be updated every time I travel.
       - **Grand Central Terminal Whispering Gallery**: Haven't been yet. An oval room on the lower floor where standing on the foci of the room 30 ft apart means you can hear each other whispering to each other, even with multiple loud people in between.
       - **ARTECHOUSE, SuperReal, ZeroSpace**: Haven't been yet, but these are all large cutting edge art tech exhibits.
       - **Spyscape Museum**: Haven't been yet, but you pretend to be a spy?
-  - California
+      - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).
+  - ### California
     - Bay Area
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
@@ -67,83 +88,87 @@ This alive document will be updated every time I travel.
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
       - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
-  - ## Other USA
+  - ### Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
     - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas.
     - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
+## Asia
+  - ### Maldives
+    - Experiences
+      - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
+      - **Undersea restaurant**: Food isn't worth the price, but being in a giant tube underwater while eating was pretty sick.
+  - ### Singapore
+    - Food
+      - **Labyrinth**: This chef takes you through a Michelin-starred whirlwind story of his childhood -- including street food, candles made of lard that you eat with the meal, and a custom printed cereal box. Felt very personal in a way that no other meal ever has.
+  - ### Seoul, South Korea
+    - Food
+      - **Shin Migyeong Hongdae Dakgalbi**: Dakgalbi is incredible, and ths was the place I happened to stumble upon: the best chicken I've ever eaten.
+    - Experiences
+      - **Meerkat and Friends**: Play with meerkats, racoons, wallabies, and foxes ‒ the only place I know where you can really get up close to them. Alternatively, Zoo in the City seems new and equally as good.
+      - **Teacup Animals Store**: A shop that breeds very miniscule pets, and ships them across the world. Absolutely adorable tiny cats and dogs that fit in your hand.
+  - ### Thailand
+    - Food
+      - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
+  - ### Japan
+    - Food
+      - Theres a number of extremely tasty Soba places, noodle spots, and curry restaurants that were tasty and cheap -- it's hard to list them all here but any place with homemade noodles will probably be really good, even if it's a chain.
+      - **Dipping Ramen**: I find noodles in ordinary ramen a bit too thin, but the noodles at [Menya Ramen](https://goo.gl/maps/kofV2AjRpDszm8fr6) were thick and had body, and the black sauce was super tasty.
+      - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's filling and cheap.
+      - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.
+      - **So Udon Shikokuya**: 85 year old grandma has a super tiny cluttered restaurant in Tokyo with tasty, homemade food.
+    - Experiences
+      - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
+      - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays.
+      - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
+      - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
+      - **Kojima Studio tour**: Haven't been yet. The guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
+      - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 10 minutes, but it's interesting to see at least once.
+      - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
+      - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
+      - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
+      - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
+      - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
+      - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
+      - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
+      - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
+      - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
+      - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
+      - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
+      - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Osaka comes with lots of unexpected experiments and was highly recommended.
+  - ### Egypt
+    - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
+    - Food/Experiences
+      - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was a great local stay.
+- ## Europe
+  - ### London
+    - Food
+      - **Formal Dinner at Trinity/Cambridge**: If you're lucky enough to have a friend at a university, chances are they have dress-up formals where they serve you an incredible 5 course meal for $13 in a Harry Potter-style dinner hall. An old man even rings a gong and mumbles 20 seconds of unintelligible Latin!
+      - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
+    - Experiences
+      - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
+      - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
+  - ### Berlin
+    - **Trust**: Haven't been yet but know some people. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in.
+    - **Kitkatclub**: Haven't been. Famous alt club.
+    - **Sisyphus**: Haven't been. Famous 6 story themed club.
+    - **About:Blank**: Haven't been. Well reputed club.
+    - **Berghain**: Haven't been. Most famous club, much higher chance of getting in at odd midday times on non-Saturdays. Need to dress alternatively/preferably black to get past Sven, and speak a bit of German.
 
-- Maldives
-  - Experiences
-    - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
-    - **Undersea restaurant**: Food isn't worth the price, but being in a giant tube underwater while eating was pretty sick.
-- Singapore
-  - Food
-    - **Labyrinth**: This chef takes you through a Michelin-starred whirlwind story of his childhood -- including street food, candles made of lard that you eat with the meal, and a custom printed cereal box. Felt very personal in a way that no other meal ever has.
-- Seoul, South Korea
-  - Food
-    - **Shin Migyeong Hongdae Dakgalbi**: Dakgalbi is incredible, and ths was the place I happened to stumble upon: the best chicken I've ever eaten.
-  - Experiences
-    - **Meerkat and Friends**: Play with meerkats, racoons, wallabies, and foxes ‒ the only place I know where you can really get up close to them. Alternatively, Zoo in the City seems new and equally as good.
-    - **Teacup Animals Store**: A shop that breeds very miniscule pets, and ships them across the world. Absolutely adorable tiny cats and dogs that fit in your hand.
-- London
-  - Food
-    - **Formal Dinner at Trinity/Cambridge**: If you're lucky enough to have a friend at a university, chances are they have dress-up formals where they serve you an incredible 5 course meal for $13 in a Harry Potter-style dinner hall. An old man even rings a gong and mumbles 20 seconds of unintelligible Latin!
-    - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
-  - Experiences
-    - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
-    - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
-- Berlin
-  - **Trust**: Haven't been yet but know some people. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in.
-  - **Kitkatclub**: Haven't been. Famous alt club.
-  - **Sisyphus**: Haven't been. Famous 6 story themed club.
-  - **About:Blank**: Haven't been. Well reputed club.
-  - **Berghain**: Haven't been. Most famous club, much higher chance of getting in at odd midday times on non-Saturdays. Need to dress alternatively/preferably black to get past Sven, and speak a bit of German.
-- Thailand
-  - Food
-    - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
-- Japan
-  - Food
-    - Theres a number of extremely tasty Soba places, noodle spots, and curry restaurants that were tasty and cheap -- it's hard to list them all here but any place with homemade noodles will probably be really good, even if it's a chain.
-    - **Dipping Ramen**: I find noodles in ordinary ramen a bit too thin, but the noodles at [Menya Ramen](https://goo.gl/maps/kofV2AjRpDszm8fr6) were thick and had body, and the black sauce was super tasty.
-    - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's filling and cheap.
-    - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.s
-  - Experiences
-    - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
-    - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays.
-    - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
-    - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
-    - **Kojima Studio tour**: Haven't been yet. The guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
-    - **Pachinko Parlor**: Super intense gambling phenomenon in Japan. Went briefly and got overwhelmed in 10 minutes, but it's interesting to see at least once.
-    - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
-    - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
-    - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
-    - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
-    - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
-    - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
-    - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
-    - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
-    - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
-    - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
-    - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
-    - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Osaka comes with lots of unexpected experiments and was highly recommended.
-- Egypt
-  - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
-  - Food/Experiences
-    - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was a great local stay.
-- Other International
+- ## Other International
   - Experiences
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
     - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
-- Anywhere
+- ## Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
     - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course, so you can get credit for your first dive.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
     - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
-- No Longer Exist
+- ### No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
+  - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.

@@ -13,6 +13,18 @@ Thought it would be fun to share useful things that I've bought for myself, as i
 
 This alive document will be updated every time I buy something incredible.
 
+# Table of Contents
+
+- [Household](#household)
+- [Bathroom](#bathroom)
+- [Kitchen](#kitchen)
+- [Clothing](#clothing)
+- [Backpack](#backpack)
+- [Other](#other)
+- [Fun](#fun)
+- [Small PC Build](#small-pc-build)
+- [Things I Want](#things-i-want)
+
 # Household
 
 **[Molly's Suds Laundry Detergent Pods](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods. A little worried about [normal detergent inflamming my allergies/EoE](https://pubmed.ncbi.nlm.nih.gov/35899466/) so I decided to move away from standard detergent.
@@ -55,6 +67,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
 **[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
 **[Cheap Apple Pencil 2](https://amzn.to/43QyWbt) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
+**[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 
 I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
 
@@ -88,11 +101,13 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 These are things I've stopped myself from buying so far, but they seem intriguing...
 **[Olfactory Water Bottle](https://uk.air-up.com/) - $25 + $6/15L.** Emits a smell near your nose, so that it feels like you're having flavored water. 3-pack pods only last for 15L of water, which is why there's the added unit cost.
 **[EarOS One Concert Earplugs](https://amzn.to/3X1Rvqj) - $40**. Developed with the MIT Acoustic Lab, and a few [one-off reviews say it's better than the popular alternatives](https://amzn.to/45QheGc).
-**[Hair Clipper with a Vacuum](https://amzn.to/43s9ngi) - $40**. I hate cleaning the sink every time I shave. Recommended by [this post](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use).
-**[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 **[Space Saver Compression Bags](https://amzn.to/3CfC44b) - $13**. These bags have a one way vent when you compress them, so are useful to tightly pack clothes in suitcases. Good gift for people who travel a lot.
-**[Travel Battery Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Recommended by [Tynan](https://tynan.com/gear2022/).
 **[Stannous Fluoride Toothpaste](https://amzn.to/3WQULox) - $15**. Stannous flouride and hydroxyapatite has repeatedly [been shown](https://now.tufts.edu/2013/03/20/other-fluoride-benefits-stannous-fluoride) to be more effective than normal toothpaste at cavity prevention. This Crest toothpaste is basically the same price and texture so should be a no-brainer toothpaste replacement. Thanks to [Rob Wiblin for the rec](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68).
 **[Moisture Chamber Eye Seals](https://amzn.to/3Nj9q8T) - $45**. My dry eye doctor recommended that when I'm on the computer a lot, to browse with these instead to maintain eye moisture. You can also just use goggles, but these result in notably more moisture for me.
 
 I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
+
+# Bad Things
+These did not work for me.
+**[Hair Clipper with a Vacuum](https://amzn.to/43s9ngi) - $40**. I hate cleaning the sink every time I shave. Recommended by [this post](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use). It only vacuumed 30% of hair for me, was useless.
+**[Travel Battery Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Did not rotate like Oral-B, vibrated instead, which was more uncomfortable and not useful for cleaning.
