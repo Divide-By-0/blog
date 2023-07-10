@@ -15,15 +15,15 @@ This alive document will be updated every time I buy something incredible.
 
 # Table of Contents
 
-- [Household](#household)
-- [Bathroom](#bathroom)
-- [Kitchen](#kitchen)
-- [Clothing](#clothing)
-- [Backpack](#backpack)
-- [Other](#other)
-- [Fun](#fun)
-- [Small PC Build](#small-pc-build)
-- [Things I Want](#things-i-want)
+[Household](#household)
+[Bathroom](#bathroom)
+[Kitchen](#kitchen)
+[Clothing](#clothing)
+[Backpack](#backpack)
+[Other](#other)
+[Fun](#fun)
+[Small PC Build](#small-pc-build)
+[Things I Want](#things-i-want)
 
 # Household
 
