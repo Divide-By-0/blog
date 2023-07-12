@@ -23,6 +23,7 @@ This alive document will be updated every time I buy something incredible.
 [Other](#other)
 [Fun](#fun)
 [Small PC Build](#small-pc-build)
+[Software](#software)
 [Things I Want](#things-i-want)
 
 # Household
@@ -96,7 +97,7 @@ My favorite board games are Decrypto (a word game that's way deeper than Codenam
 
 I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part breakdowns here](https://docs.google.com/document/d/1eNvCDBKa5C32xioyYf02mZgIgCG_GFZHWnw0rGWRPzs/edit).
 
-# Software Things
+# Software
 **[Mullvad VPN](mullvad.net)**: Cheap at $5/mo, and the VPN that all my privacy-conscious security expert friends use. They are committed to not logging data, and have [successfully resisted search warrants in the past](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/).
 **[Bitwarden](https://bitwarden.com/)**: Free and open-source password manager. Has pretty good UI and integrations, and one-click switching from any other password manager. Has never been hacked.
 **[Privacy.com](https://privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards to use them, since then I don't need to remember to cancel.
@@ -107,6 +108,8 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 **[Privacy.com](https://app.privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards to use them, since then I don't need to remember to cancel.
 **[Tactiq](https://tactiq.io/)**: Takes automatic transcripts of any Google Meet or Zoom meeting in browser along with AI actionables and summaries. No weird agent joins your calls or calendar meetings, its truly in the background.
 **[ShareGPT](https://sharegpt.com/)**: Share your ChatGPT conversations.
+
+I have various smaller bash settings, brew packages, and Chrome experimental flags that are really useful on my [dev setup Github repo](https://github.com/Divide-By-0/mac-dev-setup/) as well.
 
 # Things I Want
 
