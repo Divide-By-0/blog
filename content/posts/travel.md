@@ -82,8 +82,8 @@ This alive document will be updated every time I travel.
       - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
-      - **The Center**: A tea house in SF, staffed by people from the group house above it!
-      - **Black Box VR Gym**: A gym where you exercise in VR.
+      - **The Center**: Haven't been yet. A tea house in SF, staffed by people from the group house above it!
+      - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
     - South California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.

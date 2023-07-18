@@ -12,13 +12,13 @@ description: "A cool way to do server-free, mostly-trustless email subset verifi
 
 <!-- [TOC] -->
 
-The lack of trustless integration with web2 is one of the leading reasons that blockchains feel siloed from the rest of the world -- there's currently no way of trustlessly interoperating with the exabytes of existing information online, built up over decades by millions of users, that plug into every system that we use every day. The resulting isolation of blockchains leads to fully contained apps and ecosystems: a great fit for defi or gaming, but a terrible fit for pro-social applications trying to weave themselves into our daily lives.
+The lack of trustless integration with web2 is one of the leading reasons that blockchains feel siloed from the rest of the world -- there's currently no way of trustlessly interoperating with the exabytes of existing information online, built up over decades by millions of users, that plug into every system we use every day. The resulting isolation of blockchains leads to fully contained apps and ecosystems: a great fit for DeFi or gaming, but a terrible fit for prosocial applications trying to weave themselves into our daily lives.
 
-One realization of this is the oracle problem: there's no trustless way to ingest off-chain identities, stock prices, or physical actions onto web3, meaning that we have to trust intermediaries like Chainlink to do an API request for us to get that data. And giving centralized organizations control over all data ingestion for blockchains fundamentally undercuts the premise of decentralization.
+One of the main causes of this divide is the oracle problem: there's no trustless way to ingest off-chain identities, stock prices, or physical actions onto web3, meaning that we have to trust intermediaries like Chainlink, hardware enclaves, or http proxies to do an API request for us to get that data. Giving these centralized organizations control over all data ingestion for blockchains fundamentally undercuts the premise of decentralization.
 
-[Sampriti](https://github.com/sampritipanda/) and [I](https://twitter.com/yush_g) built a trustless alternative web2-web3 integration primitive: zk-email. Our repository is MIT-licensed and [open source](https://github.com/zkemail/zk-email-verify/), thanks to invaluable guidance from folks like [Vivek](https://twitter.com/viv_boop) and [Lermchair](https://twitter.com/lermchair). [Sora](https://twitter.com/SoraSue77) and [I](https://twitter.com/yush_g) are now building the V2 in halo2 to allow efficient, private client-side proofs along with (hopefully soon!) an MIT-licensed SDK that anyone can build their own apps on top of. We think that this library will lead to an ecosystem of applications that go far beyond helping the oracle problem: there are applications in onramps and offramps, whistleblowing, account recovery, kyc, data privacy and ownership, and almost every part of blockchain that aspires to interpret or affect the reality outside its own bubble.
+[Sampriti](https://github.com/sampritipanda/) and [I](https://twitter.com/yush_g) built a trustless alternative web2-web3 integration primitive: zk-email, with invaluable guidance from folks like [Vivek](https://twitter.com/viv_boop) and [Lermchair](https://twitter.com/lermchair). Our repository is MIT-licensed and [open source](https://github.com/zkemail/zk-email-verify/), and has a robust set of [npm packages](https://www.npmjs.com/~yushg) that provide an easy SDK for the circuits, contracts, and the frontend. [Sora](https://twitter.com/SoraSue77) and [I](https://twitter.com/yush_g) built a [halo2 SDK and circuits](https://github.com/zkemail/halo2-zkemail) to allow efficient, private client-side proofs along with an MIT-licensed SDK that anyone can build their own apps on top of. In addition, we open sourced [relayer infrastructure](https://github.com/zkemail/relayer) for people to run their own email servers with fast serverside proof generation using groth16 (less than 5 seconds and under a cent/proof on an autoscaled spot machine). We think that these libraries will lead to an ecosystem of applications that go far beyond helping the oracle problem: there are applications in onramps and offramps, whistleblowing, account recovery, KYC, data privacy and ownership, asset ownership, researcher donations, peer to peer payments, and almost every part of blockchain that aspires to interpret or affect the reality outside its own bubble.
 
-# Trustlessly verified identity on chain
+## Trustlessly verified identity on chain
 
 In general, a good way to verify that some data actually came from its purported source is to verify, using the source's public key, a signature produced with the source's private key. How can we use this as an oracle? Well, a huge amount of web2 data flows through email, and conveniently, almost all emails are signed by the sending domain using an algorithm called DKIM.
 
@@ -32,7 +32,7 @@ Every email you've received after 2017 likely has this signature on it. So if yo
 
 Because the header contains a hash of the body of the email, you can also prove what the email says. So for instance, you could verify on-chain that you own a particular Twitter account by posting the DKIM signature from a Twitter verification email you received.
 
-# Problems with a naive implementation
+## Problems with a naive implementation
 
 Unfortunately, there are a couple of problems with the approach of using standard public-key cryptography on-chain for this application.
 
@@ -44,18 +44,18 @@ Unfortunately, there are a couple of problems with the approach of using standar
 
 How do we solve all of these? Enter zero-knowledge proofs.
 
-# ZK Proof of Email Construction
+## ZK Proof of Email Construction
 
-Zero-knowledge proofs let you prove that you know some information without revealing it. They have two key properties that we rely on here:
+Zero-knowledge proofs let you prove that you know some information in your email without revealing it. They have two key properties that we rely on here:
 
 1. Constant time and space verification cost (so that we can make the calldata much smaller; we don't have to post the whole email, just the small part we want to make public, e.g. a Twitter username).
 2. Controllable privacy: the ability to make some inputs to the computation public and others private.
 
-Here's the fascinating part -- if we do this in ZK, we can design applications so that no one, not even the mailserver or keystroke tracker, can identify you as the email recipient, since you can keep your proof inputs private and our proof generation scripts and website can be run 100% clientside.
+Here's the fascinating part -- if we do this in ZK, we can design applications so that no one, not even the mailserver or a keystroke tracker, can identify you as the email recipient, since you can keep your proof inputs private and our proof generation scripts and website can be run 100% client-side.
 
 The next few sections will be technical -- if you're just interested in using this technology, skip to the "How Serverless ZK Twitter Verification Works" section.
 
-## ZK Circuit
+### ZK Circuit
 
 We're going to do basically the same signature verification from before, but inside a ZK-SNARK and using regular expressions. Here's what that looks like:
 
@@ -83,99 +83,99 @@ Contract Checks:
 
 Note that in the current iteration, each application needs its own regex string, which will need its own verifier function.
 
-# Technical innovations
+## Technical innovations
 
 A couple of properties we need to ensure are that 1) zk-email works on all emails, up to some reasonable length, and 2) it's impossible to hack the system to fudge properties of the email. For these two to be possible, we had to engineer two new circuit types in Circom: arbitrary-length SHA256 and regex.
 
-## Arbitrary length SHA256 hashing
+### Arbitrary length SHA256 hashing
 
 In order to verify all messages with the same verifier circuit, the circuit needs to work on all possible email lengths. So we edited the circomlib SHA256 circuit to make it work on all messages up to any max length. We'll open-source that with a PR to circomlib soon.
 
 Even if we can generate a circuit, the email can be so long that the circuit might be infeasibly large (all the HTML tags are also part of the signed body, and alone can add 8 million constraints!). With a tip from Vivek, we realized that if you want to prove a value near the end of the email, you don't have to do the entire hash computation in the ZK-SNARK. The way sponge-based and Merkle-Damgard based hash functions work is that the preimage string gets split into blocks which get hashed successively, each combined with the result of the last. So you can hash all the blocks up to the one you need _outside_ the snark, and then only run the last few hashing blocks inside the snark. What you're proving is not "I have a string that hashes to this value", but rather, "I have a substring that I can combine with the partially computed hash to yield the correct final hash value." This trick works for any sponge or Merkle-Damgard hash function, and can make knowledge of hash preimage verification faster everywhere!
 
-## Regex with Deterministic Finite Automata
+### Regex with Deterministic Finite Automata
 
-A naive way to confirm that you received a message sent to, say, aayushg@mit.edu would be to check the email header for the string "to: aayushg@mit.edu". But then someone else could fake a valid proof by setting the subject line to "subject: to: aayushg@mit.edu". So inside the zkSNARK, we have to parse the fields the exact same way that an email client would -- in particular, \r\n is used as a standard separation character between fields, and efforts to spoof it will result in that text being escaped (i.e., if the user types \r\n, it will appear as \\\\r\\\\n), so this combined with text matching is an effective check for email field validity.
+A naive way to confirm that you received a message sent to, say, aayushg@mit.edu would be to check the email header for the string "to: aayushg@mit.edu". But then someone else could fake a valid proof by setting the subject line to "subject: to: aayushg@mit.edu". So inside the ZK-SNARK, we have to parse the fields the exact same way that an email client would -- in particular, \r\n is used as a standard separation character between fields, and efforts to spoof it will result in that text being escaped (i.e., if the user types \r\n, it will appear as \\\\r\\\\n), so this combined with text matching is an effective check for email field validity.
 
 In order to do arbitrary regex checks inside of Circom, the most efficient method is to auto-generate Circom code on the fly. The way regex works is it uses a deterministic finite automaton: a DAG-based data structure consisting of nodes, corresponding to states, and edges, corresponding to each possible character that could come next. Any string input to a regex represents a traversal of the graph, where each successive character tells you which edge to follow. If the DFA ends on a success state, then you know the regex matched. To extract the specific text that matched a regex, you can just isolate a specific DFA state and mask the entire string to only reveal that value. We implemented a short Python program that converts an arbitrary regex into a DFA and then represents that DFA with gate operations in Circom code.
 
-The way this transition to Circom constraints occurs is via elementary gates: at each step, we compare the current character and the current state, and through a series of AND and multi-OR gates, can deduce what the next state should be. We then import this modular constraint into the relevant circuit -- this means that we have to know the structure of the regex prior to deriving the zkey (although the specific characters being matched can be edited on-the-fly). You can see a deeper dive into DFAs at [Katat's blog](https://katat.me/blog/ZK+Regex), and try out the min-dfa yourself with our fork of [cyberzhg's toolbox](https://github.com/CyberZHG/toolbox) at [zkregex.com/min_dfa](https://zkregex.com/min_dfa).
+The way this transition to Circom constraints occurs is via elementary gates: at each step, we compare the current character and the current state, and through a series of AND and multi-OR gates, can deduce what the next state should be. We then import this modular constraint into the relevant circuit -- this means that we have to know the structure of the regex prior to deriving the zkey (although the specific characters being matched can be edited on the fly). You can see a deeper dive into DFAs at [Katat's blog](https://katat.me/blog/ZK+Regex) and try out the regex-to-DFA converter yourself with our fork of [cyberzhg's toolbox](https://github.com/CyberZHG/toolbox) at [zkregex.com/min_dfa](https://zkregex.com/min_dfa).
 
-# Trust assumptions
+## Trust assumptions
 
 When we say "trustless", we mean that there's no need to trust the claimer of some off-chain fact because we can prove it using zk-email. zk-email itself isn't considered a trusted party either -- in other words, there's no centralized oracle or closed-source code that we'd have to trust to verify the information correctly. But there are a few third parties we still do have to trust.
 
-### 1. The DNS Public Key
+#### 1. The DNS Public Key
 
 We have to fetch the DNS keys from the DNS records, which may rotate as frequently as every six months to two years. Currently we include these in plaintext in the contracts, and they can be verified by inspection, but in the future we hope to trustlessly verify the DNS keys with [DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) as websites opt into this more secure framework. Because most websites (Twitter included) don't currently use DNSSEC, there is no signature on the DNS response received, which makes it easy for an adversary to man-in-the-middle the DNS request and give back the wrong public key. Hard-coding the public keys into the contracts instead isn't an ideal solution, but it at least mitigates the DNS spoofing risk. This is why we need to do the verification on-chain, since it allows us to put the DNS keys in an immutable data store.
 
-As a contract gains legitimacy and public acceptance, people can verify that the DNS record is in fact accurate, and if it’s ever wrong, fork to the correct record: we expect community consensus to land on the correct key over time. If we attempted to replicate the guarantees of DNSSEC by finding a way to issue our own signatures, the holder of the private key of the signature issuing would still be a single failure point. If we outsourced to the client or a server, we'd still have to somehow ensure that the DNS record wasn't being spoofed at the moment the client was verifying the proof. We can enable upgradability upon a switching of the public key through any number of decentralized governance methods, or by lobbying Twitter to enable DNSSEC.
+As a contract gains legitimacy and public acceptance, people can verify that the DNS record is in fact accurate, and if it’s ever wrong, fork to the correct record: we expect community consensus to land on the correct key over time. If we attempted to replicate the guarantees of DNSSEC by finding a way to issue our own signatures, the holder of the private key of the signature issuing would still be a single failure point. If we outsourced to the client or a server, we'd still have to somehow ensure that the DNS record wasn't being spoofed at the moment the client was verifying the proof. We can enable the contract to be upgraded to reflect a changed public key through any number of decentralized governance methods, or by lobbying Twitter to enable DNSSEC.
 
-### 2. The Sending Mailserver
+#### 2. The Sending Mailserver
 
 As the holder of the domain's private key, the sending mailserver can forge any message it wants. But trusting your mailserver is a core trust assumption of email in general, in that you trust, say, Gmail or your university or your company not to send people fake messages from you signed with their DKIM. A more innocuous issue that's probably more likely to arise is that the sending mailserver might change the format of its emails, which would temporarily disable zk-email verification until a new regex is written and a corresponding zkey compiled to handle the new format.
 
-### 3. The Receiving Mailserver
+#### 3. The Receiving Mailserver
 
 This server can read the plaintext and headers of all the emails you receive, and so someone with keys to the receiver mailserver can also generate valid zk-email proofs for anyone in the domain (for instance, Gmail can read all of your mail, so someone at Google could post a proof generated using an email sent to you). If the sender and receiver encrypt and decrypt messages using the [S/MIME](https://en.wikipedia.org/wiki/S/MIME) standard, this issue can be circumvented, but until that becomes more widely adopted, we rely on the assumption that mailservers won't abuse this power, for the same reasons as (2): you already trust that Google won't, say, steal your verification codes.
 
-If you're using zk-email for semi-anonymity (to prove that you're some member of a set, without revealing which member), note that if you post a message on-chain containing a nullifier derived from the email, like a body hash, then the receiving mailserver will be able to associate you with your nullifier, which would link your on-chain message to your identity. There is thus fundamentally a tradeoff between full email privacy (even to your mailserver) and proving **uniqueness** of your identity. Since breaking your privacy requires reading your email, privacy-conscious users utilizing apps with nullifiers should use encrypted email providers like Skiff or Protonmail to ensure privacy. To de-anonymize you, traditional providers like gmail would have to breach your trust and read your email to break privacy, so we expect existing privacy legislation to be a temporary preventative mechanism until encrypted email providers are more widely adopted, but still should be relied on for anonymity-critical applications. We will aim to make the specific privacy guarantees and each tradeoff very transparent for each proof type.
+If you're using zk-email for semi-anonymity (to prove that you're some member of a set, without revealing which member), note that if you post a message on-chain containing a nullifier derived from the email, like a body hash, then the receiving mailserver will be able to associate you with your nullifier, which would link your on-chain message to your identity. For this reason, there's a fundamental tradeoff between being undoxxable to your mailserver and being able to prove the uniqueness of your pseudonymous identity. If you're using an application that uses nullifiers and you're worried about your mailserver reading your mail and de-anonymizing you, you should use an encrypted email provides like Skiff or Protonmail to ensure privacy. We expect existing privacy legislation to be a temporary preventative mechanism until encrypted email providers are more widely adopted, but it shouldn't be relied on for anonymity-critical applications. We'll aim to make the exact privacy guarantees and tradeoffs very transparent for each proof type.
 
-# How Serverless ZK Twitter Verification Works
+## How Serverless ZK Twitter Verification Works
 
 =======
 
-Sampriti and I shipped an MVP, https://zkemail.xyz, that allows any user to run the Twitter username verification circuit. You send a password reset email to yourself, download the headers ("Download original email" in Gmail), then paste the contents of the email into the frontend. You can wait for the token to expire if you're worried about us taking it, or use an old reset email -- the thing we're looking for is just any on-demand email from Twitter with your username, so the particular password reset string doesn't matter. Next, you click generate: this creates a ZK proof that verifies the email signature and ensures that only your chosen Ethereum address can use this proof to verify email ownership.
+Sampriti and I have shipped an MVP, https://zkemail.xyz, that allows any user to run the Twitter username verification circuit. You send a password reset email to yourself, download the headers ("Download original email" in Gmail), then paste the contents of the email into the frontend. You can wait for the token to expire if you're worried about us taking it, or use an old reset email -- the thing we're looking for is just any on-demand email from Twitter with your username, so the particular password reset string doesn't matter. Next, you click generate: this creates a ZK proof that verifies the email signature and ensures that only the Ethereum address you specify can use this proof to verify email ownership.
 
 So what exactly is going on in this ZK circuit? Well, as with every other email, we verify that the RSA signature in the DKIM holds. We verify that the escaped "from:" email is in fact `@twitter.com`. And we check the `\r\n` before `from` in the header to make sure no one's trying to stuff a fake `from` address in another field like the subject line.
 
 Then, we check the body hash nested inside the hashed header. We save a ton of constraints by only regex-matching the string that precedes a Twitter username -- `email was meant for @` -- and then extracting the last match. (There is no user-generated text of more than 15 characters within this mask, so we know that the last match must be from Twitter itself.) We make just that username public, and verify that the hash holds by calculating the last three cycles of the Merkle-Damgard hash function, from the username match point onwards.
 
-We also need to deal with [malleability](https://zips.z.cash/protocol/protocol.pdf): the ability for someone else to view your proof, change some parameters, and generate another unique proof that verifies. We do this by requiring the user to embed their Ethereum address in the proof, as described in [this post](https://www.geometryresearch.xyz/notebook/groth16-malleability) -- that way, we don't actually have to prevent anyone from generating new proofs, since if they did, they would still just be asserting that _your_ Ethereum address owns your Twitter account.
+We also need to deal with [malleability](https://zips.z.cash/protocol/protocol.pdf): there are ways for someone else who views your proof to change some parameters and generate another unique proof that verifies. We do this by requiring the user to embed their Ethereum address in the proof, as described in [this post](https://www.geometryresearch.xyz/notebook/groth16-malleability) -- that way, we don't actually have to prevent anyone from generating new proofs, since if they did, they would still just be asserting that _your_ Ethereum address owns your Twitter account.
 
 Finally, the data gets sent to a smart contract to verify the signature. Recall that we need a smart contract in order to ensure the integrity of the DNS keys.
 
-# Clientside Privacy
+# Client-Side Privacy
 
-For absolute user privacy, we ideally want to prove emails on the client side. Since manual client side-proofs usually aren't the most user friendly option, a compromise is to allow client-side proving for privacy enthusiasts, but default to a permissionless network of server-side provers for most people (where it's easy for someone to host their own such relayers). The world we absolutely want to avoid is having to trust a single organization to maintain your privacy for you.
+To maximize user privacy, we'd ideally like to generate proofs on the client side so users don't have to send the contents of their emails to an external server. But there are two other properties that trade off against privacy: speed and compression. We'd like to be able to generate proofs fast, and make them small enough to efficiently verify on-chain -- for privacy and data ownership, we want to do as much of the proving locally as is practical. Different users value these properties to different degrees, so our solution is to offer both slower, private clientside options and fast, less private serverside options.
 
-To this end, we have a multiprong strategy for efficient client side proofs with privacy. Since the circom circuits range from 1 million constraints without body verification to 3-8+ million with body verification, these proofs can take upwards of minutes and several CPUs on a user's browser. The same proving on 128-core machines can take less than 5 seconds; a permissionless network of provers is a decent fallback for users who care about efficiency, but trust the prover to maintain their privacy (or don't care about their privacy).
+We expect the most privacy-conscious users and applications to utilize client-side proving. But, to maximize user-friendliness, we can default to a permissionless network of relayers (including self-hosted ones) that generate proofs on the user's behalf. In this case, you have to trust your relayer, but in exchange you get speed: since the circom circuits range from one million constraints without body verification to 3-8+ million with body verification, these proofs can take minutes and several CPUs on a user's browser. The same proving on 128-core machines can take less than five seconds. Halo2 proofs of the same circuit in the browser take only 15 seconds but produce proofs that are more expensive to verify on chain, so we are currently innovating on efficient server-side aggregation techniques to drive down the cost.
 
-Luckily, we can also utilize recursive halo2 proofs to be able to get both speedy proofs and short proof size and verification. We do this by proving a fast but large proof on the client side, and sending that privacy preserving proof to a generic halo2 aggregation machine (or a permissionless network of them) that recursively compresses that proof on a 64+ core computer (but still sub-cents cheap per proof) in mere seconds to one that can be verified on-chain efficiently. This is luckily enabled by the PSE snark-verifier library, and we use Axiom's variant for speed improvements. We expect this to take on the order of 10 seconds on a clients computer and on the order of ~20 seconds on the server to compress.
+We can also utilize recursive halo2 proofs to reduce the burden on the client without giving up compression or privacy. We do this by generating a fast but uncompressed proof on the client side, so that the plaintext message doesn't have to leave the client, and then sending that proof to a generic halo2 aggregation machine (or a permissionless network of them) that recursively compresses that proof on a 64+ core computer in a matter of seconds; the result is a proof that's small enough to be verified on-chain efficiently but still costs less than cents per proof and preserves the privacy of the email. This is enabled by the PSE [snark-verifier](https://github.com/privacy-scaling-explorations/snark-verifier) library, and we use Axiom's variant for speed improvements. We expect the initial proof to take around 15 seconds to generate on a user's computer and the compression to take around ~2 minutes on the server. If you're excited to help us improve the recursive prover efficiency or contribute, we have lots of grants available!
 
-# What will you build, anon?
+## What will you build, anon?
 
-So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up right now into an SDK that should make it far easier to write your own proofs. We've also:
+So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up into an SDK that should make it far easier to write your own proofs. We've also:
 
-- Collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
+- collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
 
-- isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zk-email-verify/zk-regex/), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2, along with various theoretical cryptography and circuit improvements to make the circuits lightning fast and easy to generate new regexes for.
+- isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zkemail/zk-email-verify/tree/main/libs/regex_to_circom), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2 along with various theoretical cryptography and circuit improvements for improved speed and usability.
 
-- Co-led the 0xPARC SRP where one team is shipping decentralized anonymous KYC: users prove they've passed KYC checks from e.g. Coinbase and Airbnb, and this lets them prove that they are a unique person. If your nullifier is the hash of both email signatures, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to MPC-style assumptions over any set of email senders/companies now, even without their permission!
+- co-led the 0xPARC Student Research Program, one of whose teams is shipping decentralized anonymous KYC: a user proves they're a unique person by demonstrating that they've passed KYC checks from multiple sources -- for instance, Coinbase and Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission!
 
-- Enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project!
+- enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project.
 
 Here are a few more applications you could make using zk-email:
 
-- Anonymity sets: people with at least a million dollars in their Chase bank account, or who verifiably bought a degen call option on Robinhood, or who have at least ten million Twitter followers, or who are Spotify Top Fans of an artist
+- Anonymity sets: prove you have at least a million dollars in their Chase bank account, or bought a degen call option on Robinhood, or have at least ten million Twitter followers, or are a Spotify Top Fan of some artist.
 
-- A decentralized oracle for price feeds: you prove you received an email from Nasdaq telling you a certain price for a stock
+- A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock.
 
-- Edward Snowden-style whistleblowing or leaks: prove you can receive email at an address associated with a particular government organization, like the NSA
+- Edward Snowden-style whistleblowing or leaks: prove you can receive email at an address associated with a particular government organization, like the NSA.
 
-- ZK Glassdoor where you prove you work at a particular company and confess details about it.
+- ZK Glassdoor: prove you work at a particular company and so can provide firsthand information on what it's like to work there.
 
-- Docusign on chain, where you base-64 decode the attachments and prove any subset of any attachment: this can be your tax return amount, your location, or the fact that you got a term sheet from a VC. You can use this identity proof to add authority to your anonymous speech.
+- On-chain DocuSign: base-64 decode the attachments on a confirmation email from DocuSign to prove you signed a legal document with certain properties: a tax return for a given amount, or a proof of residence in a given city, or a term sheet from a VC. You can use these proofs to add credibility to your anonymous speech.
 
 We have several crazy applications in the works as well -- we'd love to collaborate with builders to build them out. If problems like these excite you and you care about open source public goods, reach out to [me](https://twitter.com/yush_g) to build with us! If you have questions on this as you read it, feel free to open a [Github issue](https://github.com/zkemail/zk-email-verify/issues) on the website repo, or reply, and we will do our best to clarify.
 
-There are lots of interesting constructions you can experiment with, like putting addresses and hashes inside of emails (though this might raise the eyes of non-encrypted email providers). At the same time, there are lots of gotchas -- bcc's aren't signed so you can't prove that you were the only recipient of an email, the "to" email field isn't signed in hotmail, and some email providers have their own little quirks that are technically allowed by the DKIM RFC but will break most parsers. We recommend talking to us about your new construction idea so that we can help you verify your security assumptions! We intend to audit this codebase during 2023 to enable production use.
+There are lots of interesting constructions you can experiment with, like putting addresses and hashes inside of emails as verification codes (though don't forget the security pitfalls of unencrypted email). At the same time, there are lots of gotchas -- bcc's aren't signed, so you can't prove that you were the only recipient of an email; the "to" email field isn't signed in Hotmail; and some email providers have quirks that are technically allowed by the DKIM RFC but will break most parsers. If you have an idea for a new construction, we recommend you run it by us so we can help you verify your security assumptions. We intend to audit this codebase during 2023 to enable production use.
 
 <!-- Footnotes themselves at the bottom. -->
 
-[Sora](https://github.com/SoraSuegami/) and I are leading a new research group called Proof of Email in order to further applications of trustless web2-web3 integrations, with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
+With initial support from 0xPARC and the Ethereum Foundation's Privacy & Scaling Explorations group, [Sora](https://github.com/SoraSuegami/) and I are leading a new research group called Proof of Email in order to further the applications of trustless web2-web3 integrations with initial support from 0xPARC and EF PSE. In addition, [Vivek](https://twitter.com/viv_boop) and I are working on practical applications of this technology with Ivy Research. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
 
-## Footnotes
+### Footnotes
 
 [^1] TLS-Notary
 
