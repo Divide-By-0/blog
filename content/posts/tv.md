@@ -35,7 +35,7 @@ This year I've basically exclusively watched anime, compared to almost none befo
 
 - **Code Geass**: Maybe 6/10 for the first 5 episodes. The villainization of invaders is pretty one sided, the main character seems to win no matter what, and I don't like the animation style much or lack of clearly developed characters and backstory. The school scenes are alright though. I hear it gets better but I thought it would be more enjoyable to try another anime instead.
 
-- **Hunter x Hunter**: ??. I watched the first episode and liked it, but it felt tropey and aimed at children, so I didn't think that it would have as much depth. I decided to focus on other animes in the meantime.
+- **Hunter x Hunter**: ??. I watched the first episode and liked it -- this was the anime that set all the tropes. Couldn't find anyone to watch with me so I chose another.
 
 ### 2022
 
@@ -53,16 +53,18 @@ This year I've basically exclusively watched anime, compared to almost none befo
 
 ### 2020
 
-- ⭐ **Master of None** ⭐: 10/10. Aziz Ansari is a genius: this show is an incredible mix of comedy and personal reflection. It's a really incredible set of stories about being a mid 20s-something person in New York: the inner conflict at the hidden ironies of the lifestyle, the ethical ambiguity of common and uncommon situations, and all of the small awkward moments in life that everyone has but no one acknowledges.
+- ⭐ **Master of None** ⭐: 10/10. Aziz Ansari is a genius: this show is an incredible mix of comedy and personal reflection. It's a really incredible set of stories about being a mid 20s-something person in New York: the inner conflict at the hidden ironies of the lifestyle, the ethical ambiguity of common and uncommon situations, and all of the small awkward moments in life that everyone has but no one acknowledges. Never watched Season 3.
 
 ## Want to Watch
 
 The notes for these movies are just summaries of what friends/Reddit have told me about. Approximately ranked with most-want-to-watch at the top. Interestingly, I only have animes on this list...
 
-- **Stein's Gate (Anime)**: Apparently this is a really good one about a time travelling microwave (seems a little absurd to me, but I'm willing to give it a shot) -- a friend said this is the anime he most wishes he could rewatch with fresh eyes.
+- **Foundation**: Classic Asimov novel was adapted by Apple TV so no one seems to know about it, but friends seem to rate it highly.
 - **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
-- **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2.
+- **Stein's Gate (Anime)**: Apparently this is a really good one about a time travelling microwave (seems a little absurd to me, but I'm willing to give it a shot) -- a friend said this is the anime he most wishes he could rewatch with fresh eyes.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
+- **Abstract**: Profiles on famous artists like Olafur Elliason.
+- **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2.
 - **Bocchi the Rock (Anime)**: This is one of the most popular animes in my Japanese friend's Tokyo group, about an anxious-avoidant gradeschool girl who's really good at guitar, and has to reconcile the social needs of being in a band with her natural introversion.
 - **Tatami Galaxy (Anime)**: Seems to explore the disillusionment of exploring alternate school lives. Critically acclaimed with exaggerated style and absurd dark comedy, 11 episodes.
 - **Spy X Family (Anime)**: Wholesome and cute.

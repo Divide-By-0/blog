@@ -60,6 +60,7 @@ This alive document will be updated every time I travel.
       - **Alexander Technique with Tommy**: Alexander Technique is predominantly learning to notice and release body tension you never knew you had, and embracing effortless non-doing to break out of bad habits. If this sounds like nonsense, here is a concrete data point: when I went, Tommy lightly tugged my feet and I felt an overwhelming sense of heaviness immediately in my neck -- it felt almost magical. I felt completely different walking out, and even though it was just gentle, safe nudges, it felt far more intensely eye-opening than any massage I've ever had. Tommy is one of the experts in AT, and [he has been practicing here](https://www.easeofbeing.com/) for decades. Thanks to Max for the rec.
       - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule!
       - **Garment District**: On Saturday mornings, they restock; buy used clothes then the pound.
+      - **[Lilypad Inman](https://www.lilypadinman.com/)**: Haven't been yet, but my friends have recommended their Wed night [open mic](https://www.lilypadinman.com/home/tlzahry4nns4whp).
   - ### New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -76,14 +77,19 @@ This alive document will be updated every time I travel.
       - **Grand Central Terminal Whispering Gallery**: Haven't been yet. An oval room on the lower floor where standing on the foci of the room 30 ft apart means you can hear each other whispering to each other, even with multiple loud people in between.
       - **ARTECHOUSE, SuperReal, ZeroSpace**: Haven't been yet, but these are all large cutting edge art tech exhibits.
       - **Spyscape Museum**: Haven't been yet, but you pretend to be a spy?
+      - **[Index NYC](https://www.index-space.org/)**: Happenings and creative workshops.
+      - **[Dia Art Museums](https://diaart.org/)**: The organization that funded Turrell has a lot of open, free museums of pretty interesting artists.
       - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).
   - ### California
     - Bay Area
-      - **Neogenesis House**: In SF, haven't been. Seems cool, was one of the many houses that inspired our own [lxm.house](https://lxm.house).
+      - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
       - **The Center**: Haven't been yet. A tea house in SF, staffed by people from the group house above it!
+      - **[Studio 45](https://www.workatthestudio.com/)**: Haven't been yet. Free daily coworking in the Mission in   SF during the week with lots of maker space.
+      - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
+    <!-- Neogenesis House: Removed due to association with Genesis house. -->
     - South California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
