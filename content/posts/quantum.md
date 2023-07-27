@@ -7,6 +7,9 @@ slug: "quantumcrypto"
 category: "30 min read"
 tags: ["crypto", "zk", "quantum"]
 description: "It's really hard to understand how exactly quantum computing affects cryptography, what that timeline is, and how to think about it from a cryptographers perspective. This post hopes to give a mathematically-inclined middle ground of understanding."
+aliases:
+  - /posts/quantum
+  - /quantum
 math: true
 ---
 
