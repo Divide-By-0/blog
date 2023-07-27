@@ -86,7 +86,7 @@ This alive document will be updated every time I travel.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
       - **The Center**: Haven't been yet. A tea house in SF, staffed by people from the group house above it!
-      - **[Studio 45](https://www.workatthestudio.com/)**: Haven't been yet. Free daily coworking in the Mission in   SF during the week with lots of maker space.
+      - **[Studio 45](https://www.workatthestudio.com/)**: Haven't been yet. Free daily coworking in the Mission in SF during the week with lots of maker space.
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
