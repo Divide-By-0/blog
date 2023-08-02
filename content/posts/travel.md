@@ -81,17 +81,19 @@ This alive document will be updated every time I travel.
       - **[Index NYC](https://www.index-space.org/)**: Happenings and creative workshops.
       - **[Dia Art Museums](https://diaart.org/)**: The organization that funded Turrell has a lot of open, free museums of pretty interesting artists.
       - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).
-  - ### California
-    - Bay Area
+  - ### SF, California
+    - Food
+      - **Ginto Express**: $15 udon/curry bowls north of Mission, that taste just like they do in Japan.
+    - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
-      - **The Center**: Haven't been yet. A tea house in SF, staffed by people from the group house above it!
+      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication.
       - **[Studio 45](https://www.workatthestudio.com/)**: Haven't been yet. Free daily coworking in the Mission in SF during the week with lots of maker space.
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
-    - South California
+  - ### LA Area, California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
       - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
@@ -167,7 +169,7 @@ This alive document will be updated every time I travel.
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
-    - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
+    - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.  
 - ## Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
