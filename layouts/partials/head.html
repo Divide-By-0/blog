@@ -42,6 +42,15 @@
     }
   }
 </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11170906656"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11170906656');
+</script>
 {{ $canonicalURL := "" }} {{ if .IsHome }} {{ $canonicalURL = .Permalink }} {{ else }} {{ $canonicalURL = .Permalink }} {{ if .IsPage }} {{ $canonicalURL = .RelPermalink }} {{ end
 }} {{ end }}
 <link rel="canonical" href="{{ $canonicalURL | absURL }}" />
