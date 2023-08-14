@@ -84,14 +84,18 @@ This alive document will be updated every time I travel.
   - ### SF, California
     - Food
       - **Ginto Express**: $15 udon/curry bowls north of Mission, that taste just like they do in Japan.
+      - **Dandelion Chocolate**: My roommate [recommends this place's hot/drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too.
+      - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
-      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication.
-      - **[Studio 45](https://www.workatthestudio.com/)**: Haven't been yet. Free daily coworking in the Mission in SF during the week with lots of maker space.
+      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. My roommate [also recommends this place's hot chocolate](https://www.rhotter.com/posts/hot-chocolate).
+      - **[Studio 45](https://www.workatthestudio.com/)**: Free daily coworking in the Mission in SF, the upstairs coworking area is littered with architecture drawings and has a maker/creative vibe.
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
+      - **Monument/Dory**: Haven't been yet. A creative, art-tech [group house](http://www.monument.house/) out of a SoMa warehouse.
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
+      - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around here!
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
   - ### LA Area, California
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
