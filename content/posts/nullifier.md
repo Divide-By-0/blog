@@ -20,7 +20,7 @@ The proliferation of advances in [zkSNARK](https://ethereum.org/en/zero-knowledg
 
 Why would you want to prove that you're part of a group? For one thing, you might want to talk with the rest of the group on a forum that's anonymous but also only open to verified members. One application, [heyanon](https://www.heyanon.xyz/), uses ZK verification to anonymously tweet on behalf of members of groups – for instance, victims of the DAO hack. You could expand this into a full-blown semi-anonymous message board, where a user verifies their eligibility by sending a valid zkSNARK with each message proving that they have a valid signature. But it's hard to moderate a forum without consistent identities: you'd need some way of requiring each anonymous account to link all its actions together, so you could track its reputation or ban it if you had to. There are many other applications that require a single pseudonymous identity per user to prevent duplicate actions; for example, claiming an airdrop or voting.
 
-In short, PLUMEs unlock:
+In short, PLUMEs unlock these applications that weren't possible before:
 
 - Anonymous proof of solvency, so exchanges can't share accounts
 - Moderation on anonymous message boards of Ethereum addresses
