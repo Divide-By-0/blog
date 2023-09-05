@@ -13,3 +13,7 @@ Underrated and interesting ideas in cryptography that haven't been extensively e
 - Progress on the conjectures posed in witness encryption applications
 - Encrypting to someone who has a BLS signature (it's kind of a bootstrapped PKI based on pre-images of hashes, where you can just "give" anyone an easy and intuitive "encryption key" that you can also decrypt from, which could even be their raw ECDSA key)
 - Socialist millionaire's problem
+
+Cryptography notes:
+- https://dev.risczero.com/bonsai/
+    - Pretty interesting way to link off-chain computation to on-chain calls. Could expand precompiles.

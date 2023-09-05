@@ -20,6 +20,13 @@ The proliferation of advances in [zkSNARK](https://ethereum.org/en/zero-knowledg
 
 Why would you want to prove that you're part of a group? For one thing, you might want to talk with the rest of the group on a forum that's anonymous but also only open to verified members. One application, [heyanon](https://www.heyanon.xyz/), uses ZK verification to anonymously tweet on behalf of members of groups – for instance, victims of the DAO hack. You could expand this into a full-blown semi-anonymous message board, where a user verifies their eligibility by sending a valid zkSNARK with each message proving that they have a valid signature. But it's hard to moderate a forum without consistent identities: you'd need some way of requiring each anonymous account to link all its actions together, so you could track its reputation or ban it if you had to. There are many other applications that require a single pseudonymous identity per user to prevent duplicate actions; for example, claiming an airdrop or voting.
 
+In short, PLUMEs unlock:
+
+- Anonymous proof of solvency, so exchanges can't share accounts
+- Moderation on anonymous message boards of Ethereum addresses
+- ZK voting on groups of Ethereum addresses
+- ZK airdrops to Ethereum accounts
+
 ## One address, one nullifier
 
 Let's say we want to do an [zero-knowledge airdrop](https://github.com/stealthdrop/stealthdrop): I publish a set of addresses whose owners should be allowed to claim the airdrop, but I want to let those owners anonymously receive the airdrop from burner accounts. If you own one of those addresses, you make a new anonymous account and use it to send me a ZK proof that there's some address on the list whose secret key you control (for example, a proof that you can generate a valid signature with the secret key). But what if you then make _another_ new account and send me a new proof to try and claim a second airdrop? I don't know which of the original addresses the proof corresponds to, because it's anonymous, so how do I stop you from claiming arbitrarily many airdrops?
