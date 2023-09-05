@@ -71,6 +71,8 @@ This alive document will be updated every time I travel.
     - Experiences
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
       - **Sleep No More**: Haven't been yet, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html).
+      - **Book of Mormon**: Haven't seen yet. A good friend said this was one of the funniest shows they had ever watched. I'm hoping to catch their Broadway run!
+      <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
       - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
@@ -136,13 +138,14 @@ This alive document will be updated every time I travel.
       - **So Udon Shikokuya**: Haven't been yet. 85 year old grandma has a super tiny cluttered restaurant in Tokyo with tasty, homemade food.
     - Experiences
       - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
-      - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays.
+      - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
+      - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
       - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
       - **Kojima Studio tour**: Haven't been yet. The guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
-      - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
       - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
       - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
+      - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
