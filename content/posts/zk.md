@@ -1,6 +1,6 @@
 ---
-title: "ZK: Takes on the ZK Application Space"
-date: 2022-12-01T02:12:03.284Z
+title: "An Opinionated Overview of ZK Tooling and Proof Systems Right Now"
+date: 2023-08-01T02:12:03.284Z
 authors: ["yush_g"]
 type: posts
 draft: true
@@ -14,9 +14,9 @@ aliases:
 math: true
 ---
 
-When entering the ZK space, it's easy to be overwhelmed. Everyone is shilling their own protocol, and there are a ton of different proving standards and papers coming out every day. Folks often have similar questions on how to think about different ideas and protocols security, efficiency, and tradeoff wise. Unfortunately, often technologies take off with extremely misunderstood security guarantees or undisclosed "gotchas". I will summarize how I am currently thinking about the space of ZK tech, especially as we make decisions for what to prioritize for our own code and protocols. I am not perfectly versed in all of the tradeoffs of all of the recent ideas, but this will be a live doc updated as I read and learn more, and folks comment corrections.
+When entering the ZK space, it's easy to be overwhelmed. Everyone is shilling their own protocol, and there are a ton of different proving standards and papers coming out every day. Folks often have similar questions on how to think about different ideas and protocols security, efficiency, and tradeoff wise. Unfortunately, its very hard to quickly distinguish what is worth investing into, and all of the precise security guarantees or undisclosed "gotchas". I will summarize how I am personally currently thinking about the space of ZK tech, especially as we make decisions for what to prioritize for our own code and protocols. I am not perfectly versed in all of the tradeoffs of all of the recent ideas, but this will be a live doc updated as I read and learn more, and folks comment corrections.
 
-This is NOT an indictment of the protocols I don't highlight or cover favorably, nor does this represent the opinions of anyone I cite or credit (they are my interpretations only). I am aiming to make an intellectually honest survey, and so if I misunderstand something, please tell me ([telegram](https://t.me/yush_g), [twitter](https://twitter.com/yush_g)) -- I am very open to continual changes and improvements.
+This is NOT an indictment of the ideas/protocols I don't highlight or cover favorably, nor does this represent the opinions of anyone I cite or credit (they are my interpretations only). I am aiming to make an intellectually honest survey, and so if I misunderstand something, please tell me ([telegram](https://t.me/yush_g), [twitter](https://twitter.com/yush_g)) -- I am very open to continual changes and improvements, especially as the space and this tech rapidly evolves.
 
 ## ZK Proving Languages and Stacks
 Two thorough benchmarks for server-based ZK proof stacks are [Celer's benchmarking](https://blog.celer.network/2023/08/04/the-pantheon-of-zero-knowledge-proof-development-frameworks/) and [Modulus Labs' graphs](https://medium.com/@ModulusLabs/chapter-5-the-cost-of-intelligence-da26dbf93307). Together, they paint a very clear picture of the tradeoffs. I've summarized some here as well.
