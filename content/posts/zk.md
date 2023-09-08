@@ -31,10 +31,10 @@ Two thorough benchmarks for server-based ZK proof stacks are [Celer's benchmarki
 - [Goblin Plonk](https://hackmd.io/@aztec-network/BkGNaHUJn/%2FdUsu57SOTBiQ4tS9KJMkMQ): This is the only still-theoretical one from this list. I give it special mention because it has great power to speed up PLONKish type systems for recursive PLONK proofs with repeated structure (like hashes or regex).
 
 In conclusion, for writing a new circuit of your own we recommend:
-- circom for tiny client side proofs (i.e. hashing) or server-side proofs where privacy is less critical. Best tooling, lectures to learn ([more general](https://zkiap.com), [circom-specific](https://learn.0xparc.org/circom)), ease of switching to Nova/STARKs, and library of existing circuits.
+- circom if your client side proofs are very small (i.e. hashing), or server-side proofs you want to prove on-chain, where privacy is less critical. Best tooling, lectures to learn ([more general](https://zkiap.com), [circom-specific](https://learn.0xparc.org/circom)), ease of switching to Nova/STARKs, and library of existing circuits.
 - halo2 for client-side fast proofs where privacy is critical (performant/on-chain proofs require a beefy recursive server). Has a growing library of existing circuits as well as [accessible lectures and exercises to learn](https://learn.0xparc.org/halo2).
 - nova for ultra-fast client side proofs if you are confidenct that you will only have one repeated operation in the circuit, like many rounds of hashing.
-- plonky2/3 for ultra-fast server side proofs where privacy is irrelevant. Best for things like ZK EVMs.
+- plonky2/3 for ultra-fast server side proofs (so privacy is less important) and you are OK taking the risk on the unproven theoretical advances. Best for things like ZK EVMs.
 
 I generally drink my own Kool-Aid, so we have used this logic to prioritize what to put into production for [zk email](https://github.com/zkemail/), which is halo2 for client side proofs and circom on the server side. In practice, we haven't really regretted it yet, and expect that within the next year we will have to rewrite our circuits in whatever the newest fastest proving language is.
 
