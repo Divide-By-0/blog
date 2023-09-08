@@ -3,7 +3,7 @@ title: "An Opinionated Overview of ZK Tooling and Proof Systems Right Now"
 date: 2023-09-01T02:12:03.284Z
 authors: ["yush_g"]
 type: posts
-draft: true
+draft: false
 slug: "zk"
 category: "30 min read"
 tags: ["crypto", "zk"]
@@ -42,7 +42,7 @@ More bespoke systems may be marginally faster, but harder to learn and you may h
 
 ## ZK Ecosystems
 This landscape has a [great breakdown](https://flyingnobita.com/posts/2022/11/27/zkp-landscape) of what all of the different provers are doing.
-- Ethereum: constantly has a high ethos of working in public, novel ideas, critical public-goods aligned ideological drive, [and consistently intellectual honest technical direction](https://vitalik.ca/). Thusly attracts an [extremely high quality of publicly discussed open source protocol and cryptography research](https://ethresear.ch/), and basically every other chain is playing catch up. Cost per proof will plummet over time as L2s and ZKEVMs reach production.
+- Ethereum: constantly has a high ethos of working in public, novel ideas, critical public-goods aligned ideological drive, [and consistently intellectual honest technical direction](https://vitalik.ca/). Thusly attracts an [extremely high quality of publicly discussed open source protocol and cryptography research](https://ethresear.ch/), and basically every other chain is playing catch up. Cost per proof will plummet over time as L2s and ZKEVMs reach production. I count all EVM-compatible chains in this as well, including Optimism, Arbitrum, ZK rollups, etc.
 - [Risc0](https://dev.risczero.com/): Uses a custom implementation of STARKs (FRI) to prove RISC-V instruction set directly from Rust. STARKs inherently have larger proof sizes (see their [datasheet](https://dev.risczero.com/datasheet.pdf)) (~250 kB) which makes these hard to verify on-chain (calldata alone would cost 16M gas) but pretty quick to generate (seconds on consumer hardware, less on their cloud cluster). As this becomes more efficient i.e. via better lookup algorithms, I hope it becomes the de-facto way that servers prove they are executing the correct open source code. They have a pretty insane 100 GPU cluster for fast, non-private proving. It would actually be pretty cool to publicly verify all Rust server executions via this protocol, and their new thing [Bonsai](https://dev.risczero.com/bonsai/) with infra for on-chain calls of arbitrary programs is a pretty interesting model. In general, because of the overhead from not having bespoke circuits, it will be much slower than rolling your own circuits and isn't practical in browser for the same aforementioned reasons as small field FRI protocols, but we are excited to see how it evolves.
 - Starkware/Cairo: Has weird licensing with Polaris. All the good teams I know building on it (i.e. Modulus Labs) left due to poor tooling and poor scaling, and I know other teams for which dealing with the verifier is a bottleneck to their shipping velocity. They claim transpilation can make it compatible with Solidity, but making this process auditable seems near impossible so it is hard to trust (not their fault, mostly inherent with the decision to use a new language). Regardless, they were the first in the STARK space and made insane tech breakthroughs and speed benchmarks as well as a great attempt to be like Rust syntax, for which I commend their approach. RWith the newly open source prover, I'm curious to see if usage will increase.
 
