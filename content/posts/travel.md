@@ -170,7 +170,7 @@ This alive document will be updated every time I travel.
       - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
   - ### Berlin
-    - **Trust**: Haven't been yet but know some people. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in.
+    - **Trust**: Haven't been yet, but I've met some of the folks. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
     - **Kitkatclub**: Haven't been. Famous alt club.
     - **Sisyphus**: Haven't been. Famous 6 story themed club.
     - **About:Blank**: Haven't been. Well reputed club.

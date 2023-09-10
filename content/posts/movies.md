@@ -237,7 +237,9 @@ At this point and before, I watched mostly just mainstream movies.
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
+- **Elemental**: Even though it bombed the box office, I am actually incredibly excited for this movie -- the trailers look fun, it has the vibes of both Soul and Inside Out (my favorite Disney movies), and the post-launch reviews look really good.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
+- **Past Lives**: Two friends recommended this one to me very highly, and said I should go into it blind.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
