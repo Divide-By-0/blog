@@ -33,7 +33,11 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 This year was marked by Japanese cinema. I spent the year steeped in the culture, from the music to the anime shows to the movies, and even working from Tokyo for a few weeks.
 
+- **Oppenheimer**: 8/10. This movie was wonderful -- most of the events were based on truth, the tension between science and government was fascinating, and the evolution of Oppenheimer throughout different stages and responsibilities was fascinating. I also highly recommend this [wonderful essay compendium on Oppenheimer](https://3quarksdaily.com/essays-on-the-life-and-times-of-j-robert-oppenheimer-by-ashutosh-jogalekar) by Ash Jogalekar, which describes in detail how the movie breaks from the truth and the source material. It caused me to fully understand the movie, in which there were a few scenes that originally had me a bit lost. I did think that Nolan's other films (Inception, Tenet, Interstellar) rank higher on my list.
+
 - **Suzume**: 8/10. This film was breathtaking and beautiful, just like all of Shinkai's animations. The sound track was incredible (did you know Radwimps sourced a smalltime Tiktok singer to do the title song?), the story had me in tears, and the characters have the goofiness of a Ghibli classic. While most seem to disagree with me, I actually think that this film failed to live up to Shinkai's greatest masterpiece (and my movie of the year) Your Name -- Suzume felt a bit too Miyazaki-ified to feel like a unique evolution, and the romance was a huge step down (Shinkai was [forced](https://en.wikipedia.org/wiki/Suzume#Characters) to include a romance even though he didn't want to). But it does emotionally punch you with the themes he wanted to communicate, namely remembering the countless lost in natural disasters, and the enduring trauma that reverberates for decades.
+
+- **The Banshees of Inisherin**: 4/10. Indie Scottish comedy and Oscar nominee. Had some gruesome scenes I had to turn away for. The whole movie makes basically no sense and has a lot of pretty slow scenes, and humor that's only really funny if you're watching with other people.
 
 - **Spiderman: Across the Spiderverse**: 9/10. It's hard to imagine what could beat the [genre-defining](https://www.youtube.com/watch?v=l96IgQmXmhM&pp=ygUZc3BpZGVydmVyc2UgYW5pbWF0aW9uIGhvdw%3D%3D) first film, but this sequel managed perfectly. I loved Gwen's character development, the insanely ambitious animation across so many different styles that took 1000 animators 5 years, the nuanced villains, and the fresh plotline. I have no idea how they are gonna top this for the final film without having us wait like 10 years. The coolest thing is that [a 14 year old animated](https://www.nytimes.com/2023/06/07/movies/spider-man-across-the-spider-verse-lego.html) all of the Lego scenes, directly interfacing with one of the directors biweekly. Docked a point for the ending, which in a sense was necessary for the rest of the film to shine the way it did.
 
@@ -233,6 +237,8 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **The Greatest Showman**: 8/10.
 
+- **Inception**: 10/10. Another classic Nolan banger.
+
 ## Want To Watch
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
@@ -244,10 +250,12 @@ The notes for these movies are just summaries of what friends have told me about
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film.
+- **Barbie**: Someone explained the tl;dr of this to me and I thought it was actually hilarious; I wasn't excited till someone gave me those slight spoilers but now I'm actually pretty curious.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
+- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
 - **Dungeons and Dragons Movie**: Juvenile humor, funny plot.
+- **A Man Called Otto**: Both the original and the remake seem to be really well received movies.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
@@ -258,19 +266,13 @@ The notes for these movies are just summaries of what friends have told me about
 - **Song of the Sea**: Scottish film with Anime vibes.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
+- **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
 - **Kahaani**: Hindi film.
 - **Petit Mamam**: French movie, more about feelings than dialogue
 - **Farewell My Concubine**: About two people growing up in opera during China's change.
-<!-- - **The Banshees of Inisherin**: Scottish comedy. Oscar nominee. -->
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
 - **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
 
-Coming 2023
-
-- **Oppenheimer**: Nolan's next film.
-
-Coming 2024
-
-- **Deadpool 3**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
+Curious about Inside, The Man from Toronto, Minari, and Tunnel to Summer as well.

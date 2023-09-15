@@ -97,6 +97,7 @@ This alive document will be updated every time I travel.
       - **[Studio 45](https://www.workatthestudio.com/)**: Free daily coworking in the Mission in SF, the upstairs coworking area is littered with architecture drawings and has a maker/creative vibe.
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
       - **Monument/Dory**: Haven't been yet. A creative, art-tech [group house](http://www.monument.house/) out of a SoMa warehouse.
+      - **City Lights Bookstore**: Haven't been yet. A friend recommended it to me.
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
       - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around here!
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
