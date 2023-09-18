@@ -17,3 +17,4 @@ git push origin main
 ```
 
 Now, you can do `hugo serve` on the command line which will generate a /build folder. Making a project on [render.com](https://render.com) and pointing it to your repo should just work.
+
