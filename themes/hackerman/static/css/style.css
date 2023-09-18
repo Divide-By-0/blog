@@ -158,8 +158,8 @@ blockquote {
 main,
 body,
 textarea {
-  background-color: #0a1014;
-  color: #f8f9fa;
+  background-color: #121416;
+  color: #e6e1e1;
 }
 
 h1,
@@ -168,7 +168,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #f8f9fa;
+  color: #e6e1e1;
 }
 
 a {
