@@ -49,4 +49,6 @@ I think it's clear that on-chain apps should be built in the Ethereum ecosystem 
 
 For transparency, I have asked for and accepted grants from 0xPARC and the Ethereum Foundation PSE for my work. I sought them out and not the other way around, so I don't think it explicitly sways my thinking. However, it does give me an availability bias to the tech that I see people near me working on. They tend to choose their tech for a reason so I think it doesn't harm my opinions, but I acknowledge that it makes me less privvy to details of other ecosystems.
 
-Thanks to Nalin, John, Yi, Richard, Sora, Ratan, and Vivek for thoughts on this post, in addition to the countless folks behind these protocols themselves, and folks who I've had conversations with regarding zk over the last 2 years! Thanks to Richard and Sachin for touching on many of these points in their ZK Summit talk as well.
+Thanks to Nalin, John, Yi, Richard, Sora, Ratan, and Vivek for thoughts on this post, in addition to the countless folks behind these protocols themselves, and folks who I've had conversations with regarding zk over the last 2 years! Thanks to Richard and Sachin for touching on many of these points in their ZK Summit London talk as well.
+
+If you are excited by zk and want support to help get oriented in the space, I am happy to [answer any questions over Telegram](https://t.me/yush_g). If you're looking for ideas, we have open sourced our [best ideas for zk email](https://github.com/zkemail/), and will support any developer who wants to build them or any other idea.
