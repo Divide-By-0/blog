@@ -8,6 +8,48 @@
       {{- partial "header.html" . -}}
       <div class="mainPage">
         <div id="content">{{- block "main" . }}{{- end }}</div>
+      </div>
+      <!-- 
+        TODO (ChatGPT): You can create a lighter weight and more aesthetic form using HTML and JavaScript. This form will send a POST request to a Google Apps Script Web App, which will then store the email addresses in a Google Sheet.
+
+        Here's how to do it:
+
+        1. Create a new Google Sheet to store the email addresses.
+        2. Click on Extensions -> Apps Script.
+        3. Delete any code in the script editor and replace it with the following:
+        
+        ```
+        var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Sheet1');
+
+        function doPost(e) {
+          var email = e.parameter.email;
+          sheet.appendRow([email]);
+          return ContentService.createTextOutput('Success').setMimeType(ContentService.MimeType.TEXT);
+        }
+        ```
+
+        4. Click on Deploy -> New Deployment.
+        5. Choose Web App in the Select type dropdown.
+        6. Under "Who has access", select "Anyone".
+        7. Click on Deploy and copy the Web App URL.
+
+        Now, you can create a form in your Hugo template:
+        
+        ```
+        <form id="subscribe-form" action="YOUR_WEB_APP_URL" method="post">
+          <input type="email" name="email" placeholder="Your email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+        ```
+
+        Replace YOUR_WEB_APP_URL with the URL you copied earlier.
+
+        You can style this form using CSS to make it more aesthetic. When users submit the form, their email addresses will be stored in the Google Sheet.
+       -->
+      <div class="subscribe-form" style="display: flex; justify-content: center;">
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIgM1SOXC8f_Y6-44A2zFYJw6fF8MeNWdESHZAVkE_qJtGZw/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      </div>
+      <div class="mainPage">
         {{- partial "footer.html" . -}}
       </div>
     </main>

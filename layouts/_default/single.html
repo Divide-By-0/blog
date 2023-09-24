@@ -1,5 +1,12 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
+<article>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ partial "metadata.html" . }}
+    <section>
+      {{ .Content }}
+    </section>
+</article>
 <br /><br />
-{{ .Content }} {{ end }}
+{{ end }}
