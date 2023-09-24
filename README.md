@@ -1,5 +1,7 @@
 # Aayush's Blog
 
+Subscribe at [this Google Form](https://forms.gle/PLprvT8XA9VNB69q7).
+
 ## How to Setup Your Own Blog Like This
 
 By yush_g and amir_g
