@@ -133,6 +133,7 @@ This was a conversation I had when I went to a mentor I trust and respect. I was
   - Wise people say they are most are happy when doing x -- x is likely different than yours.
   - I wont do anything I'm not emotionally convinced about, but if I build up to it, I can execute it with my whole heart; you need to be internally aligned to implement it well
   - One VC/startup failure mode is satisfying your funders constraints from the start; you don't have the time or space to decide your principles first
+    - Edit: Another [coherent explanation](https://github.com/orgs/indexsupply/discussions/130) of avoiding VC funding is for "staying power"; I've also often been frustrated that my hard work is kept closed source at VC backed companies, instead of benefitting the world maximally.
 - Intelligence
   - Others will always be smarter; but there are always ways to position yourself better regardless. Either you do an overlap of two things really well, or you are in domain X but care about and do unusual thing Y that really accelerates you or whatever
   - I can be creative enough to come up with great things I can do
