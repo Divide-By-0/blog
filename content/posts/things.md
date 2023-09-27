@@ -72,6 +72,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
 **[Cheap Apple Pencil 2](https://amzn.to/43QyWbt) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
 **[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
+**[Portable Credit Card Charger](https://amzn.to/3rqBVcz) - $60**. This is about 3 credit cards thick, and so fits in my wallet and charges my phone to 30% pretty quick. Useful backup to always have around.
 
 I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
 
