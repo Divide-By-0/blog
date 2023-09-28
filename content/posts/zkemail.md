@@ -147,25 +147,25 @@ We can also utilize recursive halo2 proofs to reduce the burden on the client wi
 
 So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up into an SDK that should make it far easier to write your own proofs. We've also:
 
-- collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
+- **Proof of Email Domain**: collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
 
-- isolated the regex with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) into an independent Circom library and CLI tool, [zk-regex](https://github.com/zkemail/zk-email-verify/tree/main/libs/regex_to_circom), and are working with folks from [Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/) for a next-gen version in Halo2 along with various theoretical cryptography and circuit improvements for improved speed and usability.
+- **ZK Regex**: Created tooling to create your own ZK regex proofs easily with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) via [zk-regex](https://github.com/zkemail/zk-email-verify/tree/main/libs/regex_to_circom)
 
-- co-led the 0xPARC Student Research Program, one of whose teams is shipping decentralized anonymous KYC: a user proves they're a unique person by demonstrating that they've passed KYC checks from multiple sources -- for instance, Coinbase and Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission!
+- **Anonymous KYC**: Mentored a decentralized anonymous KYC project in the 0xPARC Student Research Program, including a . A user proves they're a unique person by demonstrating that they've passed KYC checks from one or multiple sources -- for instance, Coinbase and/or Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission! You can also integrate KYC into your application by just verifying a single one, instead of setting up any of your own KYC infrastructure.
 
-- enabled the tech behind a [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef) hackathon project.
+- **Decentralized, Noncustodial Bridges**: Enabled the tech behind ZKP2P, the first [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef)
 
 Here are a few more applications you could make using zk-email:
 
-- Anonymity sets: prove you have at least a million dollars in their Chase bank account, or bought a degen call option on Robinhood, or have at least ten million Twitter followers, or are a Spotify Top Fan of some artist.
+- **Identity Claims**: Prove you have at least a million dollars in their Chase bank account, or bought a degen call option on Robinhood, or have at least ten million Twitter followers, or are a Spotify Top Fan of some artist. Prove membership in arbitrary anonymity sets.
 
-- A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock.
+- **Price Oracles**: A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock, instead of trusting escalating games from centralized providers like Chainlink.
 
-- Edward Snowden-style whistleblowing or leaks: prove you can receive email at an address associated with a particular government organization, like the NSA.
+- **Whistleblowing**: Edward Snowden-style whistleblowing or leaks, without revealing your real identity. Prove you can receive email at an address associated with a particular government organization, like the NSA.
 
-- ZK Glassdoor: prove you work at a particular company and so can provide firsthand information on what it's like to work there.
+- **ZK Glassdoor/Blind**: Prove you work at a particular company and so can provide firsthand information on what it's like to work there.
 
-- On-chain DocuSign: base-64 decode the attachments on a confirmation email from DocuSign to prove you signed a legal document with certain properties: a tax return for a given amount, or a proof of residence in a given city, or a term sheet from a VC. You can use these proofs to add credibility to your anonymous speech.
+- **On-chain Legal Documents**: base-64 decode the attachments on a confirmation email from DocuSign to prove you signed a legal document with certain properties: a tax return for a given amount, or a proof of residence in a given city, or a term sheet from a VC. You can use these proofs to add credibility to your anonymous speech.
 
 We have a [set of SDKs](https://www.npmjs.com/search?q=%40zk-email) out to easily build your own ZK email applications, and a [zk-regex toolbox](https://zkregex.com/min_dfa) to help visualize and come up with new regexes. We have several demo applications as well, including demos listed at https://prove.email, as well as wallet infrastructure at https://emailwallet.org. Sora and I have got accelerated [circuits available with halo2](https://github.com/zkemail/halo2-zk-email) for [ultra-fast client side private proving](https://blog.aayushg.com/posts/zk). We'd love to collaborate with builders to build exciting applications of this tech. If problems like these excite you and you care about open source public goods, [join our developer Telegram](https://t.me/+SYqeeJ7qI3I4OWQx) to ask questions and start building! Alternatively reach out to [me](https://twitter.com/yush_g) with private questions. We have a set of example projects that we are happy to give grants for, as well as our roadmap [in our organization's Github README](https://github.com/zkemail/).
 
