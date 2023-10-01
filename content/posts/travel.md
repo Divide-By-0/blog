@@ -157,6 +157,9 @@ This alive document will be updated every time I travel.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
+  - ### Turkey
+    - Experiences
+      - Curius to check out the street performers at Taksim Square/Galata Tower, the light show in the Cistern of Theodosius, or the [roofs](https://www.reddit.com/r/istanbul/comments/uj58hf/what_are_some_of_istanbuls_hidden_gems/i7l5l72/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of the grand bazaar. Doesn't seem to have a rich counterculture scene.
   - ### Egypt
     - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
     - Food/Experiences
