@@ -93,6 +93,8 @@ My favorite board games are Decrypto (a word game that's way deeper than Codenam
 # Clothing
 
 **[Enro Face Masks](https://enro.com/collections/adults) - $20**. [Wirecutter tested](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/) face masks for filtration and comfort, and this won both hands down. It claims a PM0.1 filter, and tested consistently with that claim. It also maintains high filtration for a few washes (but becomes half as effective at 50 washes; I usually lose mine before 10). I use it in any place with asbestos risk as well; it's not a cure-all but it's better than any other mask for that.
+**[Prescription Glasses](https://amzn.to/3LLCmoN) - $20**. Turns out you can get prescription glasses super cheap on Amazon. These are a good fit for my slightly slimmer face and have blue light blocking, so I use them at night and as a backup travel pair.
+**[Carsickness Glasses](https://amzn.to/46CyDSt) - $15**. These look ridiculous and alien-like but two of my friends (and half of tiktok) swear that it works for bumpy car rides and carsickness, by aligning your sense of motion to your eyes.
 **[Shirt Stays](https://amzn.to/3N23Ckf) - $13.** Connect your dress shirt to your socks. Critical for formal dress shirts for me, to avoid it bunching up and look bad.
 **[Neck Gaiter](https://amzn.to/43PkT68) - $15.** Tighter and smaller than a scarf, critical in cold weather.
 
@@ -111,12 +113,11 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 # Software
 **[Mullvad VPN](https://mullvad.net)**: Cheap at $5/mo, and the VPN that all my privacy-conscious security expert friends use. They are committed to not logging data, and have [successfully resisted search warrants in the past](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/).
 **[Bitwarden](https://bitwarden.com/)**: Free and open-source password manager. Has pretty good UI and integrations, and one-click switching from any other password manager. Has never been hacked.
-**[Privacy.com](https://privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards to use them, since then I don't need to remember to cancel.
+**[Privacy.com](https://privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards for signup, since then I don't need to remember to cancel.
 **[Typio Reboot](https://github.com/tsukumijima/typio-form-recovery-reboot/releases/tag/v3.3.0)**: to save form history in Chrome when a tab closes or refreshes.
 **[Tempus: Timed Youtube Comments](https://chrome.google.com/webstore/detail/tempus/bpdhbpeecmmglmkjfmigehaebpndmceh)**: Pop up a sidebar on your YouTube where comments with timestamps appear at that timestamp.
 **[Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**: Read paywalled articles.
 **[Get Off Those Sites](https://github.com/grimsteel/get-off-those-sites)**: You predict the expected time on your site and it'll turn it black and white after that time, and also log the actual amount of time that you spend on that site.
-**[Privacy.com](https://app.privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards to use them, since then I don't need to remember to cancel.
 **[Tactiq](https://tactiq.io/)**: Takes automatic transcripts of any Google Meet or Zoom meeting in browser along with AI actionables and summaries. No weird agent joins your calls or calendar meetings, its truly in the background.
 **[ShareGPT](https://sharegpt.com/)**: Share your ChatGPT conversations.
 **[My List of Software Ideas](https://aayushg.com/ideas)**: I put all my extra software ideas here, and currently pay bounties on each one from old internship money. Help donate to it via Github Sponsors or venmo me! About 15/100 have been built so far.
