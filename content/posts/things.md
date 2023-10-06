@@ -78,6 +78,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 
 # Fun
 
+**[EarOS One Concert Earplugs](https://amzn.to/3X1Rvqj) - $40**. Developed with the MIT Acoustic Lab, this gives far higher quality audio than jamming foam earplugs into my ears. [The crowd agrees with me, and one-off reviews say it's better than the popular alternatives](https://amzn.to/45QheGc).
 **[Proxmark 3 RFID Cloner](https://amzn.to/3GZSBfo) - $75.** Designed by the veritable and prolific [Samy Kamkar](https://twitter.com/samykamkar). Quick to setup and it clones basically all cards I throw at it.
 **[RFID Ring](https://amzn.to/3AhjojO) - $30.** Clone any card onto this, then just tap with your finger to use it. Rumor is Oura Gen 4 will have this.
 **[Colored Flame Birthday Candles](https://amzn.to/41qsCGh) - $7.** Cheap, simple, and cool on birthdays.
@@ -137,7 +138,6 @@ I have various smaller bash settings, brew packages, and Chrome experimental fla
 
 These are things I've stopped myself from buying so far, but they seem intriguing...
 **[Olfactory Water Bottle](https://uk.air-up.com/) - $25 + $6/15L.** Emits a smell near your nose, so that it feels like you're having flavored water. 3-pack pods only last for 15L of water, which is why there's the added unit cost.
-**[EarOS One Concert Earplugs](https://amzn.to/3X1Rvqj) - $40**. Developed with the MIT Acoustic Lab, and a few [one-off reviews say it's better than the popular alternatives](https://amzn.to/45QheGc).
 **[Space Saver Compression Bags](https://amzn.to/3CfC44b) - $13**. These bags have a one way vent when you compress them, so are useful to tightly pack clothes in suitcases. Good gift for people who travel a lot.
 I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
 
