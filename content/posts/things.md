@@ -9,9 +9,9 @@ tags: ["recs"]
 description: "Some useful physical items to improve your quality of life."
 ---
 
-Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon, but I've linked to the cheapest place online I've found it. I want to add software here soon as well.
+Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon or eBay, but I've linked to the cheapest place online I've found it.
 
-This alive document will be updated every time I buy something incredible.
+This alive document will be updated every time I buy something incredible or use wonderful software.
 
 # Table of Contents
 
@@ -114,13 +114,22 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 **[Mullvad VPN](https://mullvad.net)**: Cheap at $5/mo, and the VPN that all my privacy-conscious security expert friends use. They are committed to not logging data, and have [successfully resisted search warrants in the past](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/).
 **[Bitwarden](https://bitwarden.com/)**: Free and open-source password manager. Has pretty good UI and integrations, and one-click switching from any other password manager. Has never been hacked.
 **[Privacy.com](https://privacy.com/join/QCDWQ)**: Make one-time burner credit cards with limits. I use this for automatically billing subscriptions, or sketchy sites that need credit cards for signup, since then I don't need to remember to cancel.
-**[Typio Reboot](https://github.com/tsukumijima/typio-form-recovery-reboot/releases/tag/v3.3.0)**: to save form history in Chrome when a tab closes or refreshes.
+**[Typio Reboot](https://github.com/tsukumijima/typio-form-recovery-reboot/releases/tag/v3.3.0)**: Save form history in Chrome when a tab closes or refreshes.
+**[Copyclip 1](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)**: Saves all clipboard history in an easy-to-copy place. I use it daily. Avoid the bloated newer version of the app.  
 **[Tempus: Timed Youtube Comments](https://chrome.google.com/webstore/detail/tempus/bpdhbpeecmmglmkjfmigehaebpndmceh)**: Pop up a sidebar on your YouTube where comments with timestamps appear at that timestamp.
 **[Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**: Read paywalled articles.
 **[Get Off Those Sites](https://github.com/grimsteel/get-off-those-sites)**: You predict the expected time on your site and it'll turn it black and white after that time, and also log the actual amount of time that you spend on that site.
 **[Tactiq](https://tactiq.io/)**: Takes automatic transcripts of any Google Meet or Zoom meeting in browser along with AI actionables and summaries. No weird agent joins your calls or calendar meetings, its truly in the background.
 **[ShareGPT](https://sharegpt.com/)**: Share your ChatGPT conversations.
-**[My List of Software Ideas](https://aayushg.com/ideas)**: I put all my extra software ideas here, and currently pay bounties on each one from old internship money. Help donate to it via Github Sponsors or venmo me! About 15/100 have been built so far.
+**[My List of Software Ideas](https://aayushg.com/ideas)**: I put all my extra software ideas here, and currently pay bounties on each one from old internship money. Help donate to it via Github Sponsors or Venmo me! About 15/100 have been built so far.
+
+I enable these chrome flags to name windows, fill PDF forms, and save passwords with two phase login.
+
+```
+chrome://flags/#window-naming
+chrome://flags/#pdf-form-save
+chrome://flags/#username-first-flow
+```
 
 I have various smaller bash settings, brew packages, and Chrome experimental flags that are really useful on my [dev setup Github repo](https://github.com/Divide-By-0/mac-dev-setup/) as well.
 
