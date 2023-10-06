@@ -65,12 +65,12 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 # Backpack
 
 **[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
-**[Sidecar iPad Mount for Laptop](https://amzn.to/3L23EpQ) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
+**[Sidecar iPad Mount for Laptop](https://www.ebay.com/itm/125205702514) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
 **[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well and usually fall out when I sleep. These don't, are super cheap, and are softer than normal earplugs. I stopped needing melatonin to sleep after starting to use these.
 **[Mini Sim + Cable Box](https://amzn.to/40sX8Ov) - $10.** Has a SIM switcher, and small adapters nicely laid out. I carry this with a few USB to USB C adapters seperately.
 **[Beaded Laptop Wrist Rest](https://amzn.to/3KUfsdA) - $20.** More comfortable for wrists on laptop + I used early in carpal tunnel journey before I discovered Sarno, and now I can't type without them.
 **[Bose 700 Noise Cancelling Headphones](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR12.TRC2.A0.H0.Xlaptop+stand.TRS0&_nkw=bose+700&_sacat=0) - $200.** Can pair to my phone and laptop at once, USB-C charging, excellent active noise cancellation. The one issue is that on-headphone taps are sometimes either too sensitive or not sensitive enough, but I don't use them much anyways. Bought on eBay for a 35% discount, mine is an Eclipse colorway.
-**[Cheap Apple Pencil 2](https://amzn.to/43QyWbt) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
+**[Cheap Apple Pencil 2](https://amzn.to/3PJqPrc) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
 **[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 **[Portable Credit Card Charger](https://amzn.to/3rqBVcz) - $60**. This is about 3 credit cards thick, and so fits in my wallet and charges my phone to 30% pretty quick. Useful backup to always have around.
 
