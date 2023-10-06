@@ -177,3 +177,20 @@ This hash to curve function is about half a million constraints. Why not use a c
 Thus, in expectation, let's say you want to be able to support anonymity sets up to the size of the world. Then, the expected value of the number of times someone might have to hash would be about $\log_2{10^10}$, or 33. If we want a say 99.9% guarantee that our protocol is secure, we need need $maxf$ flips of the hash function in the zk circuit such that P(# of flips till head < maxf for $10^10$ trials) > $99.9\%$. To calculate this, we calculate the probability that every trial avoids the failure case of flipping tails for all $maxf$ flips, which is basically that, for $t = 10^10$, we need to calculate the smallest $maxf$ so that $(1 - 0.5 ^ {maxf}) ^ t > 0.999$. $maxf$ ends up being 44 for the 99.9% probability, and 50 for 99.999% probability. With Poseidon at [300 constraints](https://zkrepl.dev), this winds up being only 15,000 constraints for the hashing alone.
 
 However, we would also need to prove that all the runs until the chosen nonce, are all not on the curve. Thus, would have to prove that the calculated hash value (after a cube and addition) is not a quadratic residue mod the field prime. To calculate that, we would [need to](https://en.wikipedia.org/wiki/Legendre_symbol#Definition) exponentiate the value to $((p - 1) / 2)$, which would take 7 repeated squarings (potentially a little less with speedups like Pippengers algorithm). This is in the wrong field for groth16, and such exponentiations are extremely expensive (far more than the 500K needed for regular hash to curve). Due to this overhead, iterative hashing is not practical as a replacement for hash to curve.
+
+### Why use SHA256 as the hash function?
+
+We had considered a number of hash functions here, including Poseidon, SHA512, and SHA256. We selected SHA256 because the V2 of the prover-optimized PLUME spec moves that hash into the on-chain part of verification, and the SHA256 precompile makes that specific hash much more efficient.
+
+In addition, Poseidon is much harder to optimize within the Ledger environment than already built-in and optimized functions like SHA256.
+
+### Why is there a V1 and a V2?
+
+The main difference is that the V1 has the sha256 hash verified within the ZK proof. The v2 has it verified on-chain as part of the verifier instead.
+
+V1 is useful on chains without sha precompiles or future proving systems with fast proofs i.e. hypernova based systems where prover cost is negligible.
+
+V2 is useful on chains with sha precompiles where proving speed matters (i.e. in browser applications with 2023 proving tech).
+
+It turns out that we probably can edit the V1 spec to include the minimized V2 nullifier calculation, but we need to think about that.
+
