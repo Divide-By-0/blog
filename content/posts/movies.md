@@ -26,14 +26,17 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 - [2017](#2017)
 - [Want To Watch](#want-to-watch)
 
-
 ## Previous
 
 ### 2023
 
 This year was marked by Japanese cinema. I spent the year steeped in the culture, from the music to the anime shows to the movies, and even working from Tokyo for a few weeks.
 
-- **Oppenheimer**: 8/10. This movie was wonderful -- most of the events were based on truth, the tension between science and government was fascinating, and the evolution of Oppenheimer throughout different stages and responsibilities was fascinating. I also highly recommend this [wonderful essay compendium on Oppenheimer](https://3quarksdaily.com/essays-on-the-life-and-times-of-j-robert-oppenheimer-by-ashutosh-jogalekar) by Ash Jogalekar, which describes in detail how the movie breaks from the truth and the source material. It caused me to fully understand the movie, in which there were a few scenes that originally had me a bit lost. I did think that Nolan's other films (Inception, Tenet, Interstellar) rank higher on my list.
+- **Barbie**: 5/10. There were a few gags and Ken discovering patriarchy were pretty funny. It had some self-aware criticisms of Barbie, but the main events and conclusion of the movie fell flat for me. It felt icky how the women caused the men to get jealous of each other, and the final line offered a mid-tier joke in place of a satisfying conclusion -- I wish they had done more to actually address the good questions that the film raised.
+
+- **The Village of Lovers**: 5/10. This is a documentary film about one of the longest-running alternative communities named Tamara, in which free love underscores an independent and self-sustaining eco-community. The film focused on a few isolated and specific parts of the culture, but I was more curious to see a cohesive picture of how the community actually managed to structure itself to self-sustain for so long. The director commentary afterwards also came off a bit self-centered.
+
+- **Oppenheimer**: 8/10. This movie was wonderful -- most of the events were based on truth, the tension between science and government was fascinating, and the evolution of Oppenheimer throughout different stages and responsibilities was fascinating. I also highly recommend this [wonderful essay compendium on Oppenheimer](https://3quarksdaily.com/essays-on-the-life-and-times-of-j-robert-oppenheimer-by-ashutosh-jogalekar) by Ash Jogalekar, which describes in detail how the movie breaks from the truth and the source material. It caused me to fully understand the movie, in which there were a few scenes that originally had me a bit lost. I did think that Nolan's other fictional films (Inception, Tenet, Interstellar) rank higher on my list.
 
 - **Suzume**: 8/10. This film was breathtaking and beautiful, just like all of Shinkai's animations. The sound track was incredible (did you know Radwimps sourced a smalltime Tiktok singer to do the title song?), the story had me in tears, and the characters have the goofiness of a Ghibli classic. While most seem to disagree with me, I actually think that this film failed to live up to Shinkai's greatest masterpiece (and my movie of the year) Your Name -- Suzume felt a bit too Miyazaki-ified to feel like a unique evolution, and the romance was a huge step down (Shinkai was [forced](https://en.wikipedia.org/wiki/Suzume#Characters) to include a romance even though he didn't want to). But it does emotionally punch you with the themes he wanted to communicate, namely remembering the countless lost in natural disasters, and the enduring trauma that reverberates for decades.
 
@@ -249,22 +252,21 @@ The notes for these movies are just summaries of what friends have told me about
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Drive my Car**: A Murukami classic.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
-- **Portrait of a Lady on Fire**: Well made, 2x recommended to me
-- **Barbie**: Someone explained the tl;dr of this to me and I thought it was actually hilarious; I wasn't excited till someone gave me those slight spoilers but now I'm actually pretty curious.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
-- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
 - **Dungeons and Dragons Movie**: Juvenile humor, funny plot.
 - **A Man Called Otto**: Both the original and the remake seem to be really well received movies.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
 - **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **Kiki's Delivery Service**: Another Studio Ghibli classic. Supposed to be an uplifting coming of age.
+- **PK**: Bollywood movie that seems to be about an alien but is really about being human.
+- **Portrait of a Lady on Fire**: Well made, 2x recommended to me. The first 20 minutes were really slow to me unfortunately.
+- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
-- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
-- **PK**: Bollywood movie that seems to be about an alien but is really about being human.
-- **Song of the Sea**: Scottish film with Anime vibes.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
+- **Song of the Sea**: Scottish film with Anime vibes.
+- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
 - **Kahaani**: Hindi film.
