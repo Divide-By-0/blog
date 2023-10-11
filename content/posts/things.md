@@ -120,7 +120,7 @@ I also use a 3060TI and a Dan A4 Case. [Build video and more detailed part break
 **[Tempus: Timed Youtube Comments](https://chrome.google.com/webstore/detail/tempus/bpdhbpeecmmglmkjfmigehaebpndmceh)**: Pop up a sidebar on your YouTube where comments with timestamps appear at that timestamp.
 **[Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**: Read paywalled articles.
 **[Get Off Those Sites](https://github.com/grimsteel/get-off-those-sites)**: You predict the expected time on your site and it'll turn it black and white after that time, and also log the actual amount of time that you spend on that site.
-**[Tactiq](https://tactiq.io/)**: Takes automatic transcripts of any Google Meet or Zoom meeting in browser along with AI actionables and summaries. No weird agent joins your calls or calendar meetings, its truly in the background.
+**[Tactiq](https://app.tactiq.io/x/u/l/58GTBrrWR3ZnGaDShD6N)**: Takes automatic transcripts of any Google Meet or Zoom meeting in browser along with AI actionables and summaries. No weird agent joins your calls or calendar meetings, it just messages the chat and is fully in the background.
 **[ShareGPT](https://sharegpt.com/)**: Share your ChatGPT conversations.
 **[My List of Software Ideas](https://aayushg.com/ideas)**: I put all my extra software ideas here, and currently pay bounties on each one from old internship money. Help donate to it via Github Sponsors or Venmo me! About 15/100 have been built so far.
 
