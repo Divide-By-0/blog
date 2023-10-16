@@ -101,6 +101,7 @@ This alive document will be updated every time I travel.
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
       - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around here!
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
+    <!-- Reminder to self: Stay at Benji's parents backyard shed. -->
   - ### LA Area, California
     - Food
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
@@ -175,11 +176,14 @@ This alive document will be updated every time I travel.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
       - **Pagan Chaos Ceremony**: Haven't been yet. Every solstice (and on select holidays in between), a group of folks heads to an isolated park and participates in a structured yet spontaneous ritual.. There is primal screaming, flower burning, and ritualistic drumming as a door opens and chaos breaks loose. Not sure if the invite should be public, so dm me or the organizer [Gabriella](https://www.gabriellajeansart.com/) for the invite!
   - ### Berlin
-    - **Trust**: Haven't been yet, but I've met some of the folks. Coordination gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
-    - **Kitkatclub**: Haven't been. Famous alt club.
-    - **Sisyphus**: Haven't been. Famous 6 story themed club.
+    - **Trust/Moving Castles**: Coordination-based gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
+    - **Moos**: This collective near Treptower park has beautiful, cheap co-living for renegade anarchist types and artists -- I stayed here for a month and loved it. There were always interesting things happening (climate cooperative negotiation board games, indie documentary screening about an alternative community, handpan soundbath sauna nights, etc).
+    - **Kitkatclub**: Famous kink club -- we went on a psytrace night so it was less kinky (I hear foreplay night is also focused on vibes over kink). The place itself is this insane labyrinth with tons of little hidden rooms, and it is definitely worth going to at least once.
+    - **Chaos Computer Club**: Berlin's anarchist computer meetup every Thursday night is open to the public, and c:base has frequent talks etc.
+    - **Sisyphus**: Famous 6 story themed club. I thought this was curious to explore for an hour and then got boring.
+    - **Dark Matter**: This a place with a number of light-tech installations. My favorite was this massive outdoors structure with hundreds of light bars just above you that lit up synced to music at night, just outside Sisyphus.
     - **About:Blank**: Haven't been. Well reputed club.
-    - **Berghain**: Haven't been. Most famous club, much higher chance of getting in at odd midday times on non-Saturdays. Need to dress alternatively/preferably black to get past Sven, and speak a bit of German.
+    - **Berghain**: Most famous club, higher chance of getting in at odd midday times on non-Saturdays. Tried to dress all black to get past Sven and go at 4pm on a Sunday, but was immediately rejected.
 
 - ## Other International
   - Experiences
