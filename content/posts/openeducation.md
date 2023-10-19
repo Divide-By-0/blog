@@ -61,7 +61,7 @@ The best classes will have time-aligned lecture subtitles (for accessibility and
 
 2. Release as many courses' materials as possible, starting with advanced courses where accurate info is hard to find online. Quality is less of a concern, than just open sourcing as many materials as possible. Materials are automatically sorted and uploaded from existing professor courses, and they can edit anytime. This is the mission of [coursetexts.org](coursetexts.org).
 
-3. Invest in longer-term goals of releasing well organized class materials -- ideally with videos at scale with AI editing to make them compliant, high quality lecture notes (that we pay student notetakers for if they don't exist), and automatically fixed copyrighted material. This requires more time, and is the medium to long term vision of mitsoul.org, for which we are starting with the econ department at MIT.
+3. Invest in longer-term goals of releasing well organized class materials -- ideally with videos at scale with AI editing to make them compliant, high quality lecture notes (that we pay student notetakers for if they don't exist), and automatically fixed copyrighted material. This requires more time, and is the medium to long term vision of [mitsoul.org](https://mitsoul.org), for which we are starting with the econ department at MIT.
 
 Once this succeeds at a small scale, we hope it can help galvanize a self-sustaining community that operates to continue and expand this legacy. A non-profit is critical to keep it open access, and we think a small team of core operators is the most efficient structure.
 
