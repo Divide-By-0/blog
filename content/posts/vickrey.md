@@ -7,7 +7,7 @@ draft: false
 slug: "vickrey"
 category: "15 min read"
 tags: ["crypto"]
-description: "A writeup of the EthBogota hackathon project that me, real_philogy, and out.eth put together"
+description: "How abusing create2 enables anonymous Vickrey auctions on-chain: An EthBogota project by me, real_philogy, out.eth and 0xngmi."
 ---
 
 ## Intro to [vickrey.xyz](https://vickrey.xyz)

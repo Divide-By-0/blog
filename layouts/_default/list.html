@@ -6,7 +6,8 @@
             <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             {{ partial "metadata.html" . }}
             ||
-            {{ partial "summary" . }}
+            {{ .Description }}
+            <!-- {{ partial "summary" . }} -->
         </div>
     </p>
     {{ end }}
