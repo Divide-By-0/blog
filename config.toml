@@ -25,3 +25,5 @@ description = "Aayush's blog. Discusses zk cryptography including plume, zk emai
 [markup.goldmark.renderer]
   hardWraps = true
   unsafe = true
+[permalinks]
+  posts = "/:slug/"
