@@ -1,8 +1,8 @@
 ---
-title: "Open Education and New Orgs at MIT/Harvard"
+title: "The Future of Open Education at MIT/Harvard"
 date: 2023-10-17T22:12:03.284Z
 type: posts
-draft: true
+draft: false
 slug: "education"
 category: "30 min read"
 tags: ["education"]
@@ -15,12 +15,13 @@ aliases:
 math: true
 ---
 
-This is the manifesto I wrote for why I think open education is important basically exactly 2 years ago -- it is now updated to include my latest thoughts as of October 2023, but is still very incomplete.
-
 ## Introduction
-This summer, I was blown away to find that my European roommate was sharper than I on command line, more original with his mathematical research ideas, more curious with his physics questions, and had a deeper understanding of complex computer systems (even though I had taken 5+ systems classes at MIT under a math minor + cs major). I realized this depth came through access to high quality education materials — he had taken a significant number of online MIT courses and read many textbooks on his own. Combined with other notes and novels, he had made himself an expert on every subfield he was curious about. Imagine how many other students around the world there must be with the same drive to give themselves an MIT education: driven by true intellectual curiosity, not grades, mooc certificates, money, or grad school admissions. I met crazy ambitious student after student over the next few years -- a Canadian fusion founder who taught himself physics on OCW, a self-driving vehicle builder who learned machine learning online, someone building brain-computer interfaces who taught themselves physics by self-reading textbooks.
 
-If this is reproducible, it may well be the most impactful thing I do to empower these kids to do bigger and grander things, by sharing access to the (arguably) highest quality education materials in the world, especially for advanced topics that only a handful of people understand and know how to teach -- these things have no textbooks and aren't possible for generative AIs to replace right now. As AI changes how students learn and MOOCs are structured, I expect the bottleneck to be high quality training data for cutting edge research topics.
+In the summer of 2021, I was blown away to find that my European roommate was sharper than I on command line, more original with his mathematical research ideas, more curious with his physics questions, and had a deeper understanding of complex computer systems (even though I had taken 5+ systems classes at MIT under a math minor + cs major). I realized this depth came through access to high quality education materials — he had taken a significant number of online MIT courses and read many textbooks on his own. Combined with other notes and novels, he had made himself an expert on every subfield he was curious about.
+
+Imagine how many other students around the world there must be with the same drive to give themselves an MIT education: driven by true intellectual curiosity, not grades, mooc certificates, money, or grad school admissions. I met crazy ambitious student after student over the next few years -- a Canadian fusion founder who taught himself plasma physics on OCW, a self-driving vehicle builder who learned machine learning online, someone building brain-computer interfaces who taught themselves physics by self-reading textbooks.
+
+If this is reproducible, it may well be the most impactful thing I do to empower the most ambitious kids to do bigger and grander things, by sharing access to the (arguably) highest quality education materials in the world, especially for advanced topics that only a handful of people understand and know how to teach -- these things have no textbooks and aren't possible for generative AIs to replace right now. As AI changes how students learn and MOOCs are structured, I expect the bottleneck to be high quality training data for cutting edge research topics.
 
 ## Hasn't this been done?
 
@@ -55,3 +56,5 @@ The best classes will have time-aligned lecture subtitles (for accessibility and
 3. Focus on releasing well organized class materials -- ideally with videos at scale with AI editing to make them compliant, high quality lecture notes that we pay students for if they don't exist, and automatically fixed copyrighted material. This requires more time, and is the medium to long term vision of mitsoul.org, for which we are starting with the econ department at MIT.
 
 Once this succeeds at a small scale, we hope it can help galvanize a self-sustaining community that operates to continue and expand this legacy.
+
+*This is the manifesto I wrote for why I think open education is important basically exactly 2 years ago -- it is now updated to include my latest thoughts as of October 2023, but is still very incomplete.*
