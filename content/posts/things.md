@@ -87,7 +87,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Extremely Small Wallet Pen](https://amzn.to/41DjNJ2) - $7.** This ~1mm wide, ~4 inch pen fits in my wallet and is useful in a pinch or when geocaching.
 **[Spiderman Webshooters](https://www.jlaservideo.com/webshooter) - -$30**. Magnetically grab your keys from your couch (after aimming poorly 4 times). Fun gift.
 **[Pop-up Wallet with RFID Shielding](https://hacksmith.store/en-us/products/the-smith-wallet) - $42**. Click a button, and up to 6 cards pop up in order. Pretty nifty (unfortunately I carry a lot of weird stuff in my wallet like earplugs etc so I don't use it).
-**[Masterworks](masterworks.com) - $500**. Fractional investment into art pieces. This is mostly for fun, the money tends to stay about the same year over year.
+**[Masterworks](https://masterworks.com) - $500**. Fractional investment into art pieces. This is mostly for fun, the money tends to stay about the same year over year.
 
 My favorite board games are Decrypto (a word game that's way deeper than Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
 
