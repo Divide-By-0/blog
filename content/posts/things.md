@@ -8,6 +8,7 @@ category: "10 min read"
 tags: ["recs"]
 description: "Some useful physical items to improve your quality of life."
 aliases:
+  - /posts/things
   - /things
 ---
 

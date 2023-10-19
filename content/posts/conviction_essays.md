@@ -8,6 +8,7 @@ category: "5 min read"
 tags: ["advice"]
 description: "Essays about how you can't fake conviction -- how to recognize it, and how to stop it (and why doing this is the most important thing)."
 aliases:
+  - /posts/conviction_essays
   - /conviction2
 ---
 

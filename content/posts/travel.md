@@ -8,6 +8,7 @@ category: "10 min read"
 tags: ["recs"]
 description: "It's hard to surface really good travel recs, so I put my favorite experiences in this live document to help people exactly like me have crazy fun unique experiences."
 aliases:
+  - /posts/travel
   - /travel
 ---
 

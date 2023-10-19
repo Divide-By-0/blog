@@ -9,6 +9,7 @@ category: "15 min read"
 tags: ["crypto"]
 description: "How abusing create2 enables anonymous Vickrey auctions on-chain: An EthBogota project by me, real_philogy, out.eth and 0xngmi."
 aliases:
+  - /posts/vickrey
   - /vickrey
 ---
 

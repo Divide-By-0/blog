@@ -9,6 +9,7 @@ category: "30 min read"
 tags: ["crypto", "zk"]
 description: "A cool way to do server-free, mostly-trustless email subset verification on chain, and what that unlocks"
 aliases:
+  - /posts/zkemail
   - /zkemail
 ---
 

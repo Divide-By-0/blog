@@ -10,6 +10,7 @@ tags: ["crypto", "zk"]
 description: "Proof systems, ecosystems, proving stacks, and why we chose the ones we did."
 aliases:
   - /posts/takes
+  - /posts/zk
   - /takes
   - /zk
 math: true

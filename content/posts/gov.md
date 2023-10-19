@@ -8,6 +8,7 @@ category: "15 min read"
 tags: ["crypto"]
 description: "My opinions on the state of the government in crypto, how I think about regulatory compliance, and building tech that may be banned by governments."
 aliases:
+  - /posts/gov
   - /gov
 ---
 

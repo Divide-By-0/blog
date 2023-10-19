@@ -8,6 +8,7 @@ category: "5 min read"
 tags: ["recs"]
 description: "It's hard to surface really good TV show recs, so I put my favorites (and not-so-favorites) and upcoming shows in this live document!"
 aliases:
+  - /posts/tv
   - /tv
 ---
 

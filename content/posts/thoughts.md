@@ -7,7 +7,8 @@ slug: "thoughts"
 category: "20 min read"
 tags: ["thoughts", "musings"]
 description: "Takeaways from articles I've read or videos I've watched"
-aliases:
+aliases:  
+  - /posts/thoughts
   - /thoughts
 ---
 

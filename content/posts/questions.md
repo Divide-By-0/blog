@@ -8,6 +8,7 @@ category: "15 min read"
 tags: ["recs"]
 description: "I often read things then forget what my takeaways were, so this doc is meant to remind me and hopefully surface interesting ideas for others."
 aliases:
+  - /posts/questions
   - /questions
 ---
 
