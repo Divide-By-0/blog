@@ -207,3 +207,46 @@ a:hover {
 }
 
 /* End Dark Mode */
+
+.spoiler {
+  padding: 5px;
+  background-color: #838383 !important;
+  color: #838383 !important;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: color 0.5s ease;
+  border-radius: 4px;
+  padding: 15px;
+  position: relative; /* Needed to position the pseudo-element */
+}
+
+.spoiler::before {
+  color: #e6e1e1 !important;
+  content: "Click to Show";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  visibility: visible;
+  font-weight: bold;
+  z-index: 1; /* Display the text above the other content */
+  transition: color 0.5s ease;
+}
+
+.spoiler:active::before,
+.spoiler.active::before {
+  visibility: hidden;
+}
+
+.spoiler .reveal {
+  display: none;
+}
+
+.spoiler.active {
+  color: #e6e1e1 !important;
+}
+
+.spoiler.active .reveal {
+  display: block;
+}

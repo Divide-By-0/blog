@@ -53,5 +53,14 @@
         {{- partial "footer.html" . -}}
       </div>
     </main>
+    <script>
+      document.addEventListener('DOMContentLoaded', (event) => {
+        document.querySelectorAll('.spoiler').forEach(function(spoiler) {
+          spoiler.addEventListener('click', function() {
+            spoiler.classList.toggle('active');
+          });
+        });
+      });
+    </script>
   </body>
 </html>
