@@ -11,6 +11,7 @@ description: "Proof systems, ecosystems, proving stacks, and why we chose the on
 aliases:
   - /posts/takes
   - /takes
+  - /zk
 math: true
 ---
 

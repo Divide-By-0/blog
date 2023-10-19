@@ -12,6 +12,7 @@ aliases:
   - /openedu
   - /mitsoul
   - /coursetexts
+  - /edu
 math: true
 ---
 

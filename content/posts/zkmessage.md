@@ -8,7 +8,11 @@ slug: "zkmessage"
 category: "30 min read"
 tags: ["crypto", "zk"]
 description: "The first (that we know) message board with anonymous posting in ZK, and a socratic dialogue to build it up."
+aliases:
+  - /zkemail
 ---
+
+Originally posted on [Mirror](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY).
 
 ## Motivation/Why ZK
 

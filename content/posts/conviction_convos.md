@@ -7,6 +7,8 @@ slug: "conviction"
 category: "5 min read"
 tags: ["advice"]
 description: "Chats I've had with friends and mentors about how to decide what to do with your life, how to choose between a bunch of great options, optionality, and originality."
+aliases:
+  - /conviction
 ---
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format). I've reorganized some discussion notes/text chats that help start putting pen to paper and hopefully leave some helpful nuggets.

@@ -7,6 +7,8 @@ slug: "questions"
 category: "15 min read"
 tags: ["recs"]
 description: "I often read things then forget what my takeaways were, so this doc is meant to remind me and hopefully surface interesting ideas for others."
+aliases:
+  - /questions
 ---
 
 These are just extracts of the most interesting thoughts from conversations I have, or articles I read, or things I languidly think about. Hopefully this can serve as a place to record my response to things to both re-evaluate later and invite public discussion on to correct my takeaways, so I'd love hearing any feedback or related ideas! Title inspired by the incredible [rabbitholeathon](https://www.rabbitholeathon.com/). Usually phrased in the form of questions, as that's a fairly simple way for readers to critically come to their own ideas as well.

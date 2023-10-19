@@ -7,6 +7,8 @@ slug: "tv"
 category: "5 min read"
 tags: ["recs"]
 description: "It's hard to surface really good TV show recs, so I put my favorites (and not-so-favorites) and upcoming shows in this live document!"
+aliases:
+  - /tv
 ---
 
 It's hard to find a curated list of shows that I or my friends would like. I've tried to get my shows from Netflix before, or my friends -- even then, it's hard to isolate why people like specific shows with only spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite shows up so I could steal from that list instead. I'm trying to get more into anime as well! My reviews skew higher because I usually quickly stop watching shows that don't immediately hit, so shows I finish are more likely to be highly rated. See my similar [movie doc](https://blog.aayushg.com/posts/movies) for movie recs, or [my Goodreads](https://www.goodreads.com/yushg) for book recs.

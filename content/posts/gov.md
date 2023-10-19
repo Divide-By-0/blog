@@ -7,6 +7,8 @@ slug: "gov"
 category: "15 min read"
 tags: ["crypto"]
 description: "My opinions on the state of the government in crypto, how I think about regulatory compliance, and building tech that may be banned by governments."
+aliases:
+  - /gov
 ---
 
 As governments become increasingly skeptical of and take action against crypto, I think it's important to lay out a path forwards for how one might remain optimistic about the space. My opinions on the state of the government in crypto, how I think about how crypto can work with governments in ways that do not undermine the ideals nor insert backdoors, and building tech that may be banned by governments. Note that I am not an expert, this is mostly distilling information from conversations with people much smarter than I. A kudos to WIRED's consistent commitment to convey the truth about relevant initiatives and governmental overreach to the public -- it was hard to find reputable sources elsewhere about these topics.

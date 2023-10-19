@@ -7,6 +7,8 @@ slug: "we"
 category: "5 min read"
 tags: ["recs"]
 description: "Witness encryption is a fairly new cryptographic idea, sort of the flip side of zero knowledge. What is the state of research here, how does it work, and what can we do with it?"
+aliases:
+  - /we
 ---
 
 Underrated and interesting ideas in cryptography that haven't been extensively explored or applied (especially in blockchain) yet:

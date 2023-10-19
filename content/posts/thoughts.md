@@ -7,6 +7,8 @@ slug: "thoughts"
 category: "20 min read"
 tags: ["thoughts", "musings"]
 description: "Takeaways from articles I've read or videos I've watched"
+aliases:
+  - /thoughts
 ---
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.

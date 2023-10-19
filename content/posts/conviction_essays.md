@@ -7,6 +7,8 @@ slug: "fake_conviction"
 category: "5 min read"
 tags: ["advice"]
 description: "Essays about how you can't fake conviction -- how to recognize it, and how to stop it (and why doing this is the most important thing)."
+aliases:
+  - /conviction2
 ---
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. It's easier for me to publish bullet notes than essays, so I'm gonna try to approach this in a map vs territory kind of way: I point at a map and say look, that's the shape of that thing and here are some shapes that are not that thing, and hopefully it's enough for you to fill in my point yourself.

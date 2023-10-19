@@ -7,6 +7,8 @@ slug: "travel"
 category: "10 min read"
 tags: ["recs"]
 description: "It's hard to surface really good travel recs, so I put my favorite experiences in this live document to help people exactly like me have crazy fun unique experiences."
+aliases:
+  - /travel
 ---
 
 I thought it would be cool to share some of the cool spots/hidden gems from all the countries I've visited. I try to select spots that are really unique, especially in their vibe, experience, or culture ‒ the farther it is from anything I've experienced before, the higher it'll be on this list. I'll also try to list the "best" versions of things I've tried, like food types or libraries. I usually care much less about historical significance or aesthetics, and there are plenty of lists for that already. The best adventures will always be the unplanned spontaneous outings you risk yourself, so definitely don't lean too much on this list :)
