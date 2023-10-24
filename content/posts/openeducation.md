@@ -8,8 +8,11 @@ category: "30 min read"
 tags: ["education"]
 description: "Why I care so much about open education, and what inspired MIT SOUL and Course Texts."
 aliases:
+  - /posts/education
   - /posts/openedu
   - /openedu
+  - /posts/openeducation
+  - /openeducation
   - /mitsoul
   - /coursetexts
   - /edu
