@@ -10,6 +10,7 @@ tags: ["crypto", "zk"]
 description: "A signature scheme that enables zk applications with nullifiers on Ethereum addresses, like zk voting, zk airdrops, zk message boards, and zk proof of solvency."
 aliases:
   - /posts/plume
+  - /posts/nullifier
   - /plume
 math: true
 ---
