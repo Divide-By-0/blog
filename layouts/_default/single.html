@@ -4,6 +4,11 @@
       <h1>{{ .Title }}</h1>
     </header>
     {{ partial "metadata.html" . }}
+    {{ if .Params.toc }}
+    <div class="table-of-contents">
+        {{ .TableOfContents }}
+    </div>
+    {{ end }}
     <section>
       {{ .Content }}
     </section>

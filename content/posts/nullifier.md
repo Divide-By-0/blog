@@ -13,9 +13,10 @@ aliases:
   - /posts/nullifier
   - /plume
 math: true
+toc: true
 ---
 
-Thanks to Kobi Gurkan, Wei Jie Koh, Vivek Bhupatiraju, Remco, Wei Dai, Nalin, gubsheep, ludens, Blaine Bublitz, Prof. Kalai, Prof. Vaikuntanathan, Prof. Boneh, Richard Liu, Piotr Roslaniec, Lily Jordan, and Riad Wahby [and probably tons of other folks I'm missing, please dm me if I did!] for making this work possible :)
+Thanks to Kobi Gurkan, Wei Jie Koh, Vivek Bhupatiraju, Remco, Wei Dai, Nalin, gubsheep, ludens, Blaine Bublitz, Prof. Kalai, Prof. Vaikuntanathan, Prof. Boneh, Richard Liu, Piotr Roslaniec, Lily Jordan, Oren Yomtov, and Riad Wahby [and probably tons of other folks I'm missing, please dm me if I did!] for making this work possible :)
 
 ## Why do we want PLUMEs?
 
@@ -88,7 +89,7 @@ So we'll add this as a fourth property to our list:
 
 The user shouldn't have to take any additional actions other than generating a single nullifier.
 
-## A promising new standard
+## PLUME: A promising new standard
 
 With these criteria in mind, let’s try to combine the intuition around simple hash-based functions with our desire for unique signatures. What if a function like $\text{hash}[\text{message, }pk]^{sk}$, easy enough to calculate in a hardware wallet’s secure enclave, were possible to verify with only the public key? This is the key insight we can use to construct our nullifier, by deriving such a verification scheme and using this value as a signature.
 
@@ -147,7 +148,7 @@ I think that wallets that adopt this standard will enable their users to interac
 
 ## Next steps
 
-So far, we have the [Gupta-Gurkan nullifier paper proving all the security proofs](https://aayushg.com/thesis.pdf); a [repository](https://github.com/zk-nullifier-sig/zk-nullifier-sig/) with the deterministic signature calculation in Rust (Javascript in progress); all the components of the [Circom circuits](https://github.com/geometryresearch/secp256k1_hash_to_curve/) needed to do hashing to elliptic curves; and a [Metamask snap](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) to compute nullifiers.
+So far, we have the [Gupta-Gurkan nullifier paper proving all the security proofs](https://aayushg.com/thesis.pdf); a [repository](https://github.com/zk-nullifier-sig/zk-nullifier-sig/) with the deterministic signature calculation in Rust (Javascript in progress); all the components of the [Circom circuits](https://github.com/geometryresearch/secp256k1_hash_to_curve/) needed to do hashing to elliptic curves; and a [Metamask snap](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) to compute nullifiers. We have had one audit on the codebase, and have open PRs open to Taho Wallet and almost-finished work for Ledger.
 
 The spec is formalized in ERC-7524, and hope it can be used for private voting apps. We have already had one audit on the codebase. We are actively working on integrations into Taho Wallet, Aztec Noir, and Ledger to start gaining traction. We have an open PR into Metamask ([1](https://github.com/MetaMask/eth-json-rpc-middleware/pull/198), [2](https://github.com/MetaMask/api-specs/pull/120), [3](https://github.com/MetaMask/metamask-extension/pull/17482)), and plan to push the nullifier calculation into [burner wallets](https://github.com/austintgriffith/burner-wallet), [Ledger core](https://github.com/LedgerHQ/app-ethereum), and [Metamask core](https://github.com/MetaMask/metamask-extension). We also want to try benchmarking the proof in different languages like Halo2 or Nova that might be faster (for instance, by using lookups for SHA-256). If you’re interested in helping out or using the scheme for your project, reach out to [@yush_g](https://twitter.com/yush_g/) on Twitter for a grant! Thank you to Kobi for coming up with the scheme and coauthoring the paper with me, 0xPARC for brainstorming the scheme with me, Vivek for writing the proofs with me and making helpful suggestions for this post, Richard for contributing a ton of JS code for wallet integrations, Blake and Weijie for doing the circom ZK circuits, Lily Jordan for editing this post, PSE and Andy for helping to arrange an audit this scheme, and all of the teams who looked at and used this for the Nouns private voting contest!
 
@@ -201,3 +202,10 @@ V2 is useful on chains with sha precompiles where proving speed matters (i.e. in
 
 It turns out that we probably can edit the V1 spec to include the minimized V2 nullifier calculation, but we need to think about that.
 
+### Why is ZK voting even interesting?
+
+ZK voting is interesting since it enables fine-grained accountability. Voting is another interesting place where pseudonymity unlocks new functionality, and is intricately linked to both blockchains and zero knowledge (i.e. via semaphore or PLUME). In the current partisan system, representatives who don't vote along party lines are ostracized and booted from their own role in the community. A strategy of honesty is often self-defeating, and we see this tribalism play out in the highest levels of the government. On the other extreme, a completely anonymous system with no accountability means that people can selfishly vote for the option that personally benefits them the most, and the lack of accountability introduces a whole host of unwanted tragedies of the commons.
+
+I claim there's a middle ground. Imagine a voting system in the senate in which senators could prove that they were one of the say 10 senators from their region, and they voted a specific way. Or if they can prove that they are a Republican, and voted a specific way. Forcing only partial identity reveals keeps partial accountability (voters can know which general set of people to replace), but allows them to vote against party lines or state lines when needed (i.e. republicans who wanted to impeach Trump could express that without targeted retribution). You could even express arbitrarily complex votes like, "I vote no except in the case that 1/2 of other Democrats say yes, in which case I vote yes". I haven't seen this sort of voting experimented with in practice, and would be curious to see such systems in low-stakes tests (videogames, local orgs) to see if this actually improves governance outcomes.
+
+In order to test such systems with good anonymity, some of the best organizations to start with are Ethereum native: autonomous worlds and DAOs both run on Ethereum accounts, and being able to bootstrap private voting directly from their existing accounts is a really interesting primitive. PLUMEs let you ensure someone isn't voting twice. In addition, it's agnostic to proof systems: a zk proof of their vote itself can allow time-locked voting if you add a VDF, or encrypted voting where a centralized attester sees and collects all votes, or an even more complex system if desired.
