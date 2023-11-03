@@ -247,6 +247,10 @@ At this point and before, I watched mostly just mainstream movies.
 
 - **Inception**: 10/10. Another classic Nolan banger.
 
+### Earlier
+
+- **Green Hornet**: 10/10. Pretty sure this was like 13 year old me's favorite movie.
+
 ## Want To Watch
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
