@@ -18,6 +18,8 @@ toc: true
 
 Thanks to Kobi Gurkan, Wei Jie Koh, Vivek Bhupatiraju, Remco, Wei Dai, Nalin, gubsheep, ludens, Blaine Bublitz, Prof. Kalai, Prof. Vaikuntanathan, Prof. Boneh, Richard Liu, Piotr Roslaniec, Lily Jordan, Oren Yomtov, and Riad Wahby [and probably tons of other folks I'm missing, please dm me if I did!] for making this work possible :)
 
+View our progress, technical issues, and grant opportunities on [our Github](https://github.com/plume-sig/zk-nullifier-sig).
+
 ## Why do we want PLUMEs?
 
 The proliferation of advances in [zkSNARK](https://ethereum.org/en/zero-knowledge-proofs/) applications has created a useful new [privacy](https://vitalik.ca/general/2022/06/15/using_snarks.html) primitive: a user can prove statements _about_ their identity without revealing their full identity. If you can provide a zkSNARK demonstrating that you know the secret key for an account that is a leaf of the Merkle tree of Bored Ape owners, then you can prove that you own a Bored Ape without telling anyone who you are. Or you could prove that you're part of the group "liquidity providers on Uniswap in the last 24 hours", or maybe even one day that you're part of the group "people with a mutation in the XYZ gene".
