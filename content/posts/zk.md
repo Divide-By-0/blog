@@ -16,13 +16,12 @@ aliases:
 math: true
 ---
 
+<!-- # An Opinionated Overview of ZK Tooling and Proof Systems Right Now -->
+<!-- View [this post on my blog](https://blog.aayushg.com/posts/zk) for the most up-to-date version! -->
+
 When entering the ZK space, it's easy to be overwhelmed. Everyone is shilling their own protocol, and there are a ton of different proving standards and papers coming out every day. Folks often have similar questions on how to think about different ideas and protocols security, efficiency, and tradeoff wise. Unfortunately, its very hard to quickly distinguish what is worth investing into, and all of the precise security guarantees or undisclosed "gotchas". I will summarize how I am personally currently thinking about the space of ZK tech, especially as we make decisions for what to prioritize for our own code and protocols. I am not perfectly versed in all of the tradeoffs of all of the recent ideas, but this will be a live doc updated as I read and learn more, and folks comment corrections.
 
 This is NOT an indictment of the ideas/protocols I don't highlight or cover favorably, nor does this represent the opinions of anyone I cite or credit (they are my interpretations only). I am aiming to make an intellectually honest survey, and so if I misunderstand something, please tell me ([telegram](https://t.me/yush_g), [twitter](https://twitter.com/yush_g)) -- I am very open to continual changes and improvements, especially as the space and this tech rapidly evolves. You can leave comments on [this hackmd](https://hackmd.io/@yush/rJBqa1YC2/edit). Thanks to Nalin, John, Yi, Richard, Sora, Ratan, [ShuklaAyush](https://github.com/shuklaayush), and Vivek for thoughts on this post, in addition to the countless folks behind these protocols themselves, and folks who I've had conversations with regarding zk over the last 2 years! Thanks to Richard and Sachin for touching on many of these points in their [ZK Summit London talk](https://www.youtube.com/watch?v=gX6smLsA0ko) as well.
-
-## Places to Learn
-
-I usually recommend our lecture series at [zkiap.com](https://zkiap.com) to start writing your first ZK circuits in circom.
 
 ## ZK Proving Languages and Stacks
 
@@ -60,6 +59,12 @@ This landscape has a [great breakdown](https://flyingnobita.com/posts/2022/11/27
 
 I think it's clear that on-chain apps should be built in the Ethereum ecosystem for the time being -- we expect more things to be EVM compatible over time so this will be a good bet regardless. Other nascent zk ecosystems include Aztec, Mina, and Miden, but they inherently have less developers and ecosystem activity [and for the most part, have yet to adopt permissive OSS licenses for their end to end stack]. I am excited to see results, benchmarks, and progress from these teams, as they all have commendable and ambitious goals.
 
-For transparency, I have asked for and accepted grants from 0xPARC and the Ethereum Foundation PSE for my work. I sought them out and not the other way around, so I don't think it explicitly sways my thinking. However, it does give me an availability bias to the tech that I see people near me working on. They tend to choose their tech for a reason so I think it doesn't harm my opinions, but I acknowledge that it makes me less privvy to details of other ecosystems.
+## Places to Learn
+
+I usually recommend our lecture series at [zkiap.com](https://zkiap.com) to start writing your first ZK circuits in circom.
+
+---
+
+For transparency, I have asked for and accepted grants from 0xPARC and the Ethereum Foundation PSE for my work. I sought them out and not the other way around, so I don't think it explicitly sways my thinking. However, it does give me an availability bias to the tech that I see people near me working on. They are also optimizing for speed in an intellectually honest way that I think it doesn't sway my opinions, but I acknowledge that it makes me less privvy to details of other ecosystems.
 
 If you are excited by zk and want support to help get oriented in the space, I am happy to [answer any questions over Telegram](https://t.me/yush_g). If you're looking for ideas, we have open sourced our [best ideas for zk email](https://github.com/zkemail/) and [best ideas for noval projects in crypto generally](https://github.com/Divide-By-0/ideas-for-projects-people-would-use#Crypto), and will support any open source developer who wants to build them or any other ambitious idea.
