@@ -162,8 +162,9 @@ This alive document will be updated every time I travel.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
   - ### Turkey
+    - A local friend [sent his recommendations blog post](https://yigitkilicoglu.com/blog/istanbul/) which looks really good.
     - Experiences
-      - Curius to check out the street performers at Taksim Square/Galata Tower, the light show in the Cistern of Theodosius, or the [roofs](https://www.reddit.com/r/istanbul/comments/uj58hf/what_are_some_of_istanbuls_hidden_gems/i7l5l72/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of the grand bazaar. Doesn't seem to have a rich counterculture scene.
+      - Curius to check out the street performers at Taksim Square/Galata Tower, the light show in the Cistern of Theodosius, or the [roofs](https://www.reddit.com/r/istanbul/comments/uj58hf/what_are_some_of_istanbuls_hidden_gems/i7l5l72/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of the grand bazaar. There are small, hidden pockets of counterculture on the Asian side.
   - ### Egypt
     - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
     - Food/Experiences
