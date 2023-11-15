@@ -66,7 +66,7 @@ Public Inputs to ZK Proof:
 
 - the sender domain
 - the RSA modulus
-- the masked message
+- the character index in the email where the publicly revealed data starts
 
 Private Inputs to ZK Proof:
 
@@ -78,7 +78,13 @@ ZK Circuit Checks:
 
 - sha256 and RSA both verify
 - the message is structured as a valid DKIM-signed email (we use regex to confirm that it has the right signature structure and headers)
-- the chosen regex state matches the mask provided
+- the chosen public regex state starts at the character index provided
+
+ZK Circuit Outputs:
+- The publicly revealed data
+- The DKIM mailserver key
+- An (optional) nullifier i.e. hash(email signature)
+- The recipient address, to avoid being frontrun
 
 Contract Checks:
 
@@ -142,25 +148,23 @@ To maximize user privacy, we'd ideally like to generate proofs on the client sid
 
 We expect the most privacy-conscious users and applications to utilize client-side proving. But, to maximize user-friendliness, we can default to a permissionless network of relayers (including self-hosted ones) that generate proofs on the user's behalf. In this case, you have to trust your relayer, but in exchange you get speed: since the circom circuits range from one million constraints without body verification to 3-8+ million with body verification, these proofs can take minutes and several CPUs on a user's browser. The same proving on 128-core machines can take less than five seconds. Halo2 proofs of the same circuit in the browser take only 15 seconds, and open-source GPU aggregators server-side from Axiom + Delphinus Labs take around a minute.
 
-We can also utilize recursive halo2 proofs to reduce the burden on the client without giving up compression or privacy. We do this by generating a fast but uncompressed proof on the client side, so that the plaintext message doesn't have to leave the client, and then sending that proof to a generic halo2 aggregation machine (or a permissionless network of them) that recursively compresses that proof on a 64+ core computer in a matter of seconds; the result is a proof that's small enough to be verified on-chain efficiently but still costs less than cents per proof and preserves the privacy of the email. This is enabled by the PSE [snark-verifier](https://github.com/privacy-scaling-explorations/snark-verifier) library, and we use Axiom's variant for speed improvements. We expect the initial proof to take around 15 seconds to generate on a user's computer and the compression to take around ~2 minutes on the server. If you're excited to help us improve the recursive prover efficiency or contribute, we have lots of grants available!
+We can also utilize recursive halo2 proofs to reduce the burden on the client without giving up compression or privacy. We do this by generating a fast but uncompressed proof on the client side, so that the plaintext message doesn't have to leave the client, and then sending that proof to a generic halo2 aggregation machine (or a permissionless network of them) that recursively compresses that proof on a 64+ core computer in a matter of seconds; the result is a proof that's small enough to be verified on-chain efficiently but still costs less than cents per proof and preserves the privacy of the email. This is enabled by the PSE [snark-verifier](https://github.com/privacy-scaling-explorations/snark-verifier) library, and we use Axiom's variant for speed improvements. We expect the initial proof to take around 20 seconds to generate on a user's computer, and the compression to take around ~1.5 minutes on the server. If you're excited to help us improve the recursive prover efficiency or contribute, we have lots of grants available!
 
 ## What will you build, anon?
 
-So far, in addition to creating zk-email in circom, Sora and I are improving and shipping a version in halo2 that we're polishing up into an SDK that should make it far easier to write your own proofs. We've also:
+We've shipped audited circom V1 SDKs (primarily for server-side proofs) as well as halo2 SDKs (primarily for client-side proofs). You can find them linked on our site [prove.email](https://prove.email). We have a massive list of project ideas on our [Github README](https://github.com/zkemail/#coreinfrastructure-ideas), a few of which are here:
 
-- **Proof of Email Domain**: collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain.
+- **Proof of Email Domain**: Collaborated with [Nozee](https://github.com/sehyunc/nozee) (consisting of [Sehyun](https://github.com/sehyunc), [Kaylee](https://github.com/kayleegeorge), and [Emma](https://github.com/emmaguo13)) to adapt this to JWTs and make the first [email-address-based anonymous message board](https://nozee.xyz) that only reveals your email domain. Read more at [prove.email/blog/jwt](https://prove.email/blog/jwt).
 
-- **ZK Regex**: Created tooling to create your own ZK regex proofs easily with [Katat](https://katat.me/) and [Jern](https://www.linkedin.com/in/teeramet-jern-kunpittaya) via [zk-regex](https://github.com/zkemail/zk-email-verify/tree/main/libs/regex_to_circom)
-
-- **Anonymous KYC**: Mentored a decentralized anonymous KYC project in the 0xPARC Student Research Program, including a . A user proves they're a unique person by demonstrating that they've passed KYC checks from one or multiple sources -- for instance, Coinbase and/or Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission! You can also integrate KYC into your application by just verifying a single one, instead of setting up any of your own KYC infrastructure.
+- **Anonymous KYC**: Mentored a decentralized anonymous KYC project in the 0xPARC Student Research Program, including a . A user proves they're a unique person by demonstrating that they've passed KYC checks from one or multiple sources -- for instance, Coinbase and/or Airbnb. If your nullifier is both email signatures hashed together, Coinbase and Airbnb would have to collude in order to break your anonymity. Generalizing this construction gives us the ability to generate MPC-style assumptions over any set of email senders and/or companies now, even without their permission! You can also integrate KYC into your application by just verifying a single one, instead of setting up any of your own KYC infrastructure. This was [built](https://anonkyc.com/) and open sourced!
 
 - **Decentralized, Noncustodial Bridges**: Enabled the tech behind ZKP2P, the first [peer to peer Venmo to USDC bridge](https://devfolio.co/projects/zkpp-23ef)
 
-Here are a few more applications you could make using zk-email:
+Here are a few more unbuilt applications that you could make using zk-email:
 
 - **Identity Claims**: Prove you have at least a million dollars in their Chase bank account, or bought a degen call option on Robinhood, or have at least ten million Twitter followers, or are a Spotify Top Fan of some artist. Prove membership in arbitrary anonymity sets.
 
-- **Price Oracles**: A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock, instead of trusting escalating games from centralized providers like Chainlink.
+- **Price Oracles**: A decentralized oracle for price feeds: prove you received an email from Nasdaq telling you a certain price for a stock, instead of trusting centralized providers like Chainlink.
 
 - **Whistleblowing**: Edward Snowden-style whistleblowing or leaks, without revealing your real identity. Prove you can receive email at an address associated with a particular government organization, like the NSA.
 

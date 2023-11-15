@@ -9,6 +9,7 @@ tags: ["advice"]
 description: "Chats I've had with friends and mentors about how to decide what to do with your life, how to choose between a bunch of great options, optionality, and originality."
 aliases:
   - /posts/conviction_convos
+  - /posts/conviction
   - /conviction_convos
   - /conviction
 ---
