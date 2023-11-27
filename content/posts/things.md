@@ -148,3 +148,5 @@ I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback su
 These did not work for me.
 **[Hair Clipper with a Vacuum](https://amzn.to/43s9ngi) - $40**. I hate cleaning the sink every time I shave. Recommended by [this post](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use). It only vacuumed 30% of hair for me, was useless.
 **[Travel Battery Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Did not rotate like Oral-B, vibrated instead, which was more uncomfortable and not useful for cleaning.
+
+These are Amazon reflinks, but I will still link to a different site if it's cheaper there.

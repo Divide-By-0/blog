@@ -195,6 +195,7 @@ This alive document will be updated every time I travel.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
     - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.  
+    - **New Zealand: C1 Espresso**: This [cafe sends you food and drink](https://www.youtube.com/watch?v=YTHZLKFblKo) through pneumatic tubes.
 - ## Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
