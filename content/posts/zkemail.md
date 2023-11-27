@@ -3,7 +3,7 @@ title: "ZK Email"
 date: 2022-12-12T22:12:03.284Z
 authors: ["yush_g", "sora", "sampriti"]
 draft: false
-type: Post
+type: posts
 slug: "zkemail"
 category: "30 min read"
 tags: ["crypto", "zk"]
@@ -21,7 +21,7 @@ One of the main causes of this divide is the oracle problem: there's no trustles
 
 However, on the flip side of such attestations (third parties attesting to verifications) lies provenant data: self-attesting data that can be verified on-chain without any additional protocol acting as a verifying third party. If you can edit the parameters of this provenant data such that you only expose specific parts, you can make that provenant data programmably private. **Programmable provenance** is the holy grail of web2-web3 integration, and it's what zk-email enables.
 
-[Sampriti](https://github.com/sampritipanda/) and [I](https://twitter.com/yush_g) built the first scrappy MVP of zk-email, which has since been built on and expanded by [Sora](https://twitter.com/SoraSue77), Saleel, Rasul, Elo, Wataru, and I. We've had invaluable help from folks like the [ZKP2P team](https://twitter.com/zkp2p), [Vivek](https://twitter.com/viv_boop), Jason Morton, and Yi Sun, and have been lucky to have early support from 0xPARC and Gubsheep and ongoing support from PSE ([Tyler](https://twitter.com/atheartengineer) and Barry). Our repository is MIT-licensed and [open source](https://github.com/zkemail/), and has a robust set of [npm packages](https://www.npmjs.com/search?q=%40zk-email) that provide an easy SDK for the circuits, contracts, and the frontend.
+[Sampriti](https://github.com/sampritipanda/) and [I](https://twitter.com/yush_g) built the first MVP of zk-email, which has since been taken to production by [Sora](https://twitter.com/SoraSue77), Yush, Saleel, Rasul, Elo, and Wataru. We've had invaluable help from folks like the [ZKP2P team](https://twitter.com/zkp2p), [Vivek](https://twitter.com/viv_boop), Jason Morton, and Yi Sun, and have been lucky to have early support from 0xPARC and Gubsheep and ongoing support from PSE ([Tyler](https://twitter.com/atheartengineer) and Barry). Our repository is MIT-licensed and [open source](https://github.com/zkemail/), and has a robust set of [npm packages](https://www.npmjs.com/search?q=%40zk-email) that provide an easy SDK for the circuits, contracts, and the frontend.
 
 [Sora](https://twitter.com/SoraSue77) and [Yush](https://twitter.com/yush_g) also built a [halo2 SDK and circuits](https://github.com/zkemail/halo2-zkemail) to allow efficient, private client-side proofs along with an MIT-licensed SDK that anyone can build their own apps on top of. In addition, we open sourced [relayer infrastructure](https://github.com/zkemail/relayer) for people to run their own email servers with fast serverside proof generation using groth16 (less than 5 seconds and under a cent/proof on an autoscaled spot machine). 
 
