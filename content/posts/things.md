@@ -33,7 +33,7 @@ This alive document will be updated every time I buy something incredible or use
 # Household
 
 **[Molly's Suds Laundry Detergent Pods](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods. A little worried about [normal detergent inflamming my allergies/EoE](https://pubmed.ncbi.nlm.nih.gov/35899466/) so I decided to move away from standard detergent.
-**[Heated Japanese Kotatsu Table](https://amzn.to/3oupdYp) + [300W Adapter](https://amzn.to/3AflFvx) - $200.** Imagine a table with a heater inside and a comforter around it, but a flat surface to work on. It's incredibly warm and cozy, especially in the winter. Takes a few weeks to ship from Japan, but is totally worth it.
+**[Heated Japanese Kotatsu Table](https://www.amazon.co.jp/-/en/2017-Alpi-68140011/dp/B0756YH2PM) + [300W Adapter](https://amzn.to/3AflFvx) - $200.** Imagine a table with a heater inside and a comforter around it, but a flat surface to work on. It's incredibly warm and cozy, especially in the winter. Takes a few weeks to ship from Japan, but is totally worth it.
 **[Chromecast](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=chromecast&_sacat=0) - $30**. Only really useful to keep TV on ambient mode, flipping through Google Photos albums of me and all of my friends.
 
 # Bathroom

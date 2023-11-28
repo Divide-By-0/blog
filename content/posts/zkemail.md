@@ -13,7 +13,7 @@ aliases:
   - /zkemail
 ---
 
-{/* # <!-- [TOC] --> */}
+<!-- [TOC] -->
 
 The lack of trustless integration with web2 is one of the leading reasons that blockchains feel siloed from the rest of the world -- there's currently no way of trustlessly interoperating with the exabytes of existing information online, built up over decades by millions of users, that plug into every system we use every day. The resulting isolation of blockchains leads to fully contained apps and ecosystems: a great fit for DeFi or gaming, but a terrible fit for prosocial applications trying to weave themselves into our daily lives.
 
@@ -196,24 +196,18 @@ There are lots of interesting constructions you can experiment with, like puttin
 
 With initial support from 0xPARC and the Ethereum Foundation's Privacy & Scaling Explorations group, [Sora](https://github.com/SoraSuegami/) and I are leading a new research group called ZK Email in order to further the applications of trustless web2-web3 integrations with initial support from 0xPARC and EF PSE. There are signatures and emails like this hidden all over the internet, and we want to harness their power to bring all of web2 onto web3 without centralized oracles. Reach out if you want to build with us or collaborate on ways to expand the use of signed data on-chain -- we would love to talk with anyone excited about this tech and support them with the resources to build on it in public.
 
-{/* # <!-- Footnotes themselves at the bottom. --> */}
+<!-- Footnotes themselves at the bottom. -->
 
 ### Footnotes
 
-[^1] TLS-Notary
+[^1]: **TLS-Notary**
+&#160;&#160;&#160;&#160;You might think that all data online must be signed already, or else how would we trust that a website is who they say they are? Unfortunately, this is not the case -- HTTPS/TLS, the standard used to encrypt all web traffic, surprisingly lacks a signing feature because it uses symmetric encryption instead (meaning there are no private keys). This means that any server data we pull from these sessions can be forged by any client (the client and the server share the same key). TLS-Notary attempts to solve some of these problems, but requires users to communicate with websites not as themselves, but as individual shareholders in a multiparty computation protocol with a decentralized network of verifiers, who will ensure that the client is not forging messages. The compute cost and complexity of this solution (not to mention the non-collusion assumption on the MPC) make us yearn for a more elegant solution, one that is practical today on-chain. The worst part about non-collusion assumptions is that we have no idea if the parties colluded -- they can do that entirely off-line and out-of-system.
 
-  You might think that all data online must be signed already, or else how would we trust that a website is who they say they are? Unfortunately, this is not the case -- HTTPS/TLS, the standard used to encrypt all web traffic, surprisingly lacks a signing feature because it uses symmetric encryption instead (meaning there are no private keys). This means that any server data we pull from these sessions can be forged by any client (the client and the server share the same key). TLS-Notary attempts to solve some of these problems, but requires users to communicate with websites not as themselves, but as individual shareholders in a multiparty computation protocol with a decentralized network of verifiers, who will ensure that the client is not forging messages. The compute cost and complexity of this solution (not to mention the non-collusion assumption on the MPC) make us yearn for a more elegant solution, one that is practical today on-chain.
+[^2]: **DKIM Key Rotation**
+&#160;&#160;&#160;&#160;How do we handle the oracle problem of getting rotating DKIM keys on-chain? For the few sites using DNSSEC, we can verify that directly. Unfortunately, only about 200 in the Alexa top 100K sites use DNSSEC.<br/>
+For the ones not using it, we can use a fraud proving mechanism where if someone claims the key changed, anyone who makes a email with a later timestamp with the old key can kill that proposal. If the secret key was leaked when the key rotated, anyone who submits a raw private key can get a bounty and disable that public key (on the other hand, this also allows organizations to opt-out of zk-email, so we will consider whether or not this is worth implementing).<br/>
+Thusly the only attack is when the key rotates, someone claims it rotates to a different fake key, (their own) and that disagrees with the consensus. To avoid this, in final release, we intend to have a 3/4 system between the community majority, oracles like Uma/Chainlink, the developers of the protocol and key ecosystem players that use it, and past users who have historically submitted honest proofs. We'll start with a dev multisig for the beta release, and are considering one signer being a server whose instructions are authenticated with risc0 (the network request can obviously be spoofed so it's also imperfect). We are open to proposals on more secure ways to handle key rotation on-chain.
 
-[^2] DKIM Key Rotation
-
-  How do we handle the oracle problem of getting rotating DKIM keys on-chain? For the few sites using DNSSEC, we can verify that directly. Unfortunately, only about 200 in the Alexa top 100K sites use DNSSEC.
-
-  For the ones not using it, we can use a fraud proving mechanism where if someone claims the key changed, anyone who makes a email with a later timestamp with the old key can kill that proposal. If the secret key was leaked when the key rotated, anyone who submits a raw private key can get a bounty and disable that public key (on the other hand, this also allows organizations to opt-out of zk-email, so we will consider whether or not this is worth implementing).
-
-  Thusly the only attack is when the key rotates, someone claims it rotates to a different fake key, (their own) and that disagrees with the consensus. To avoid this, in final release, we intend to have a 3/4 system between the community majority, oracles like Uma/Chainlink, the developers of the protocol and key ecosystem players that use it, and past users who have historically submitted honest proofs. We'll start with a dev multisig for the beta release, and are considering one signer being a server whose instructions are authenticated with risc0 (the network request can obviously be spoofed so it's also imperfect). We are open to proposals on more secure ways to handle key rotation on-chain.
-
-[^3] Twitter ZK Circuit
-
-  So what exactly is going on in this ZK circuit? Well, as with every other email, we verify that the RSA signature in the DKIM holds. We verify that the escaped "from:" email is in fact `@twitter.com`. And we check the `\r\n` before `from` in the header to make sure no one's trying to stuff a fake `from` address in another field like the subject line.
-
-  Then, we check the body hash nested inside the hashed header. We save a ton of constraints by only regex-matching the string that precedes a Twitter username -- `email was meant for @` -- and then extracting the last match. (There is no user-generated text of more than 15 characters within this mask, so we know that the last match must be from Twitter itself.) We make just that username public, and verify that the hash holds by calculating the last three cycles of the Merkle-Damgard hash function, from the username match point onwards.
+[^3]: **Twitter ZK Circuit**
+&#160;&#160;&#160;&#160;So what exactly is going on in this ZK circuit? Well, as with every other email, we verify that the RSA signature in the DKIM holds. We verify that the escaped "from:" email is in fact `@twitter.com`. And we check the `\r\n` before `from` in the header to make sure no one's trying to stuff a fake `from` address in another field like the subject line.<br/>
+Then, we check the body hash nested inside the hashed header. We save a ton of constraints by only regex-matching the string that precedes a Twitter username -- `email was meant for @` -- and then extracting the last match. (There is no user-generated text of more than 15 characters within this mask, so we know that the last match must be from Twitter itself.) We make just that username public, and verify that the hash holds by calculating the last three cycles of the Merkle-Damgard hash function, from the username match point onwards.
