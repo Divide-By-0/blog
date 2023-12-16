@@ -66,6 +66,9 @@ Research is based on the premise that the pursuit of truth is noble. Unfortunate
 
 Anson has a documentary on this that I am very excited for. Given that optics seems to be more important for Republican lawmakers, I think that couching pro-climate legislation with benefits to workers and naming the bill after the benefits to the workers i.e. advocating for ev or solar development and promising new job offers from existing firms for those displaced workers seems useful. I think also that rebranding [meltdown-proof triso-based nuclear fuel](https://www.energy.gov/ne/articles/triso-particles-most-robust-nuclear-fuel-earth) as something like "supergas" would help avoid association with anti-nuclear sentiment due to meltdowns.
 
+## Audio Timestamping
+Turns out theres a [50 Hz background hum from power mains in all audio](https://www.youtube.com/watch?v=e0elNU0iOMY) with minor fluctuations that can be mapped back to the original power grid in order to precisely timestamp video, which is really interesting. This has use in catching fake speedrunners, but I wonder if it can be used for audio watermarking as well.
+
 ## Slate Star Codex Article Thoughts
 
 [Be Nice Until You Can Coordinate Meanness](https://slatestarcodex.com/2016/05/02/be-nice-at-least-until-you-can-coordinate-meanness/)

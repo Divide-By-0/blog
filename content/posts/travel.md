@@ -71,9 +71,10 @@ This alive document will be updated every time I travel.
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
       - **Action Burger**: I haven't been here, but it looks interesting ‒- it has a sci-fi theme and a bunch of videogames setup for patrons.
       - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
+      - **Cafe Flor**: A cozy cafe in Chelsea with tons of plants around the space.
     - Experiences
+      - **Sleep No More**: My favorite play of all time, and it ends in Feb 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
-      - **Sleep No More**: Haven't been yet, but I really want to go. It's a play where you move around a space and see different parts of the play as characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html).
       - **Book of Mormon**: Haven't seen yet. A good friend said this was one of the funniest shows they had ever watched. I'm hoping to catch their Broadway run!
       <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
@@ -141,22 +142,25 @@ This alive document will be updated every time I travel.
       - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's like $8 and very filling.
       - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.
       - **So Udon Shikokuya**: Haven't been yet. 85 year old grandma has a super tiny cluttered restaurant in Tokyo with tasty, homemade food.
+      - **RonRon/Dagashi Bar**: All you can eat sweets + candy of all different varieties!
     - Experiences
       - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
       - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
-      - **Ryokan/Akiya**: Haven't been yet, offers more authentic stays. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
+      - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
-      - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month.
+      - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month. Unfortunately, all 5 rooms of exhibits have no english captions, and you can't just Google Lens everything because they discourage phones / pics.
       - **Kojima Studio tour**: Haven't been yet. The guy that made Death Stranding has [a cool office](https://www.youtube.com/watch?v=txC5uq7U1eI).
       - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
-      - **Maid Cafe**: Some of them (we went to maidreamin) have more unique gimmicks like dancing and singing too.
+      - **Maid Cafe**: Some of them (we went to maidreamin) have more gimmicks like dancing and singing too.
       - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
+      - **TeamLabs**: Haven't been yet. This immersive art display is on the top of every Tokyo travel list ever.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
       - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
       - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: Haven't been yet. A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
       - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
+      - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
       - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Osaka comes with lots of unexpected experiments and was highly recommended.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
