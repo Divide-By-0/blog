@@ -65,7 +65,7 @@ This alive document will be updated every time I travel.
       - **Alexander Technique with Tommy**: Alexander Technique is predominantly learning to notice and release body tension you never knew you had, and embracing effortless non-doing to break out of bad habits. If this sounds like nonsense, here is a concrete data point: when I went, Tommy lightly tugged my feet and I felt an overwhelming sense of heaviness immediately in my neck -- it felt almost magical. I felt completely different walking out, and it almost felt weird to crane my neck down and look at my phone. Tommy is one of the experts in AT, and [he has been practicing here](https://www.easeofbeing.com/) for decades. Thanks to Max for the rec.
       - **Garment District**: On Saturday mornings, they restock; buy used clothes then the pound.
       - **[Lilypad Inman](https://www.lilypadinman.com/)**: Haven't been yet, but my friends have recommended their Wed night [open mic](https://www.lilypadinman.com/home/tlzahry4nns4whp).
-      - **lxm.house**: If you have a fun project you'd like to work on, [our house](https://lxm.house) would likely be down to host you for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule.
+      - **lxm.house**: [Our house](https://lxm.house) hosted friends and blog readers for free during 2022 and 2023! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule.
   - ### New York City, NY
     - Food
       - **Genki Omakase**: It's the most affordable omakase I've ever eaten at, for the same quality -- $70-100/person. There's a fun challenge where 5 social media likes gets you a free sushi too.
@@ -73,9 +73,9 @@ This alive document will be updated every time I travel.
       - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
       - **Cafe Flor**: A cozy cafe in Chelsea with tons of plants around the space.
     - Experiences
-      - **Sleep No More**: My favorite play of all time, and it ends in Feb 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
+      - **Sleep No More**: My favorite play of all time, and the last showing is in Feb 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
-      - **Book of Mormon**: Haven't seen yet. A good friend said this was one of the funniest shows they had ever watched. I'm hoping to catch their Broadway run!
+      - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for.
       <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
       - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.

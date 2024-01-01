@@ -69,4 +69,4 @@ The best classes will have time-aligned lecture subtitles (for accessibility and
 
 Once this succeeds at a small scale, we hope it can help galvanize a self-sustaining community that operates to continue and expand this legacy. A non-profit is critical to keep it open access, and we think a small team of core operators is the most efficient structure.
 
-*This is the manifesto I wrote for why I think open education is important basically exactly 2 years ago -- it is now updated to include my latest thoughts as of October 2023, but is still very incomplete. Joint work with Ashay, Selena, Raffi, and Milo. Put together with help from Brewster Kahle, Mary Lou Jepsen, SJ Klein, DC Posch, and Nate Foss.*
+*This is the manifesto I wrote for why I think open education is important basically exactly 2 years ago -- it is now updated to include my latest thoughts as of October 2023, but is still very incomplete. Joint work with Ashay, Selena, Raffi, and Milo. Thanks to conversations with Brewster Kahle, Mary Lou Jepsen, SJ Klein, DC Posch, and Nate Foss.*

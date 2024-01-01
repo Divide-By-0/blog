@@ -12,9 +12,11 @@ aliases:
   - /provenance
   - /posts/provenantdata
   - /provenantdata
-  - /posts/provenantdata
-  - /provenantdata
+  - /posts/attestations
+  - /attestations
 math: true
 ---
 
-Verifying off-chain data on-chain is extremely difficult. 
+Verifying off-chain data on-chain is usually fraught with problems; either 1) you verify data from the source, but then need to bootstrap a new network of people or cold-start a new opt-in system, or 2) you verify data from a third party attester, but then need to trust that third party, or 3) you verify real world cryptography on-chain, but in the process leak all of your anonymity.
+
+ZK is the perfect antidote to these -- you can verify off-chain real world cryptography from the source, not need to trust any third parties, and customize your level of anonymity. Verifying signatures is the  

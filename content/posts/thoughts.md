@@ -69,6 +69,29 @@ Anson has a documentary on this that I am very excited for. Given that optics se
 ## Audio Timestamping
 Turns out theres a [50 Hz background hum from power mains in all audio](https://www.youtube.com/watch?v=e0elNU0iOMY) with minor fluctuations that can be mapped back to the original power grid in order to precisely timestamp video, which is really interesting. This has use in catching fake speedrunners, but I wonder if it can be used for audio watermarking as well.
 
+## My Position on e/acc vs d/acc
+
+Andreessen (e/acc) correctly notes that we are not optimistic enough on technology, and we let short term concerns slow down long term losses. At the same time, Vitalik (d/acc) is right that we need this acceleration deeply in places like medicine (i.e. 10 people dying in a trial is a tragedy but 100K people dying because of a delayed drug is a statistic), but just accelerating indiscriminately in the direction that tech and capitalism take us can be destructive. He argues (and I agree) that we really do need to invest in defensive technologies at the same time, especially against tech-progressive ideas that the rest of the world will struggle to catch up to. I think this divide is well demonstrated in biosecurity, nuclear weapons, fracking, biological weapons, and human reproductive innovation (["tech is not inevitable"](https://maxlangenkamp.me/posts/tech_not_inevitable)) -- where defensive policies and technology defense was critical for those fields to not decimate humans. Overall, I think you can be d/acc but still be accelerationist -- you just believe that explicit, non-capitalist incentives are needed to accelerate technology on the best possible paths by incentivizing additional arms of technology.
+
+I think this dialogue mostly exists between powerful tech people and on Twitter, and the broader world will not know about it. However, it seems possible for the political divide to slightly shift for this dialogue to become one of the dominant qualities that lets you determine the rest of someone's stances. On a meta note, I am super hyped that Vitalik named d/acc defensive technology instead of deaccelerationism, to change the natural "foil" of e/acc to still be accelerationist but responsibly, thus still giving power to the best deaccelerationist counterarguments, bit without giving momentum to that likely destructive movement.
+
+## How to Clone Github on a New Computer
+
+I have had this problem an infinite number of times -- a new computer or ssh, and I need to clone a private repo. It's a massive pain to keep adding my ssh key to Github when all I want is a quick piece of software and I don't really care about Github security beyond a one time key.
+
+You have to:
+```
+git clone https://<USERNAME>@github.com/<USERNAME>/<REPO>
+```
+
+Putting username@ and using https means it won't error to ask for an ssh key. It will then query for a password (either when you first clone or when you git push), and in all these scenarios, put in a [personal access token](https://docs-github-com.translate.goog/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) instead of your password. I generated said token a while ago for all my ssh machines, and saved it in my Bitwarden. It's super weird that this process is completely undocumented, and I had to cobble it together from a bunch of random posts and answers -- it is admittedly lower security but marginally faster and higher convenience.
+
+## Quail Eggs, Laundry Detergent, and EoE
+
+There were a [few papers in 2018](https://www.nature.com/articles/s41598-018-19309-x) that showed consuming quail eggs reduced EoE-related inflammation. Apparently the ovomucuoid protein that is allergenic in chicken eggs is [mutated at all the allergenic binding sites](https://www.sciencedirect.com/science/article/pii/S2213453022002154), and in fact inhibits eosinophils in quail eggs. Quail eggs also have a specific 'serine protease inhibitor' which reduces abnormal antibody expression from EoE. I now very frequently eat them, but perhaps my intake should go from 5 once a week to 5 a day.
+
+In 2022 and 2023, there were [a flurry of papers](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=laundry+detergent+and+eoe&btnG=) tying laundry detergent to EoE. I now only use [Molly's Suds](https://amzn.to/3oznUYk) which doesn't have any of the harsh and possibly bad cleaning agents (likely SDS) in things like Tide.
+
 ## Slate Star Codex Article Thoughts
 
 [Be Nice Until You Can Coordinate Meanness](https://slatestarcodex.com/2016/05/02/be-nice-at-least-until-you-can-coordinate-meanness/)

@@ -20,7 +20,7 @@ This is Part 1 in a multiseries blog post about conviction. [Part 2, with more c
 
 ## Chat 1: Giving advice to N
 
-Summary: Navigating personal interests vs career paths, managing time on Twitter, maintaining conviction in one's chosen field, and accepting the unpredictable nature of future opportunities. Book recommendations as well.
+Summary: Navigating personal interests vs career paths, managing time on Twitter, maintaining conviction in one's chosen field (cryptography in this case), and accepting the unpredictable nature of future opportunities. Book recommendations as well.
 
 friend N -
 do you ever personally feel that twitter makes you more mimetic? i think life with twitter has made it so that when I hear about things going on in a field im not in anymore, i feel fomo towards it, and this feels so disingenuous
