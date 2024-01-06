@@ -35,6 +35,8 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 This year was marked by Japanese cinema. I spent the year steeped in the culture, from the music to the anime shows to the movies, and even working from Tokyo for a few weeks.
 
+- **Kiki's Delivery Service**: 8/10. This Ghibli film inspired a sense of whimsicality and definitely made you tear up during the last scene.
+
 - **Elemental**: 9/10. This film looked like Zootopia, Inside Out, and Soul all smashed into one -- those are my favorite animated movies, so I was particularly excited to watch. The movie did an incredible job with themes around immigrant families, relationships of dissimilar people, and emotional punches. Gags around element interactions kept even tropey scenes fresh, and the internationally inspired soundtrack fit really well. I didn't really get the sense that she was in love though, and there was one scene near the end that was a bit too cliche. The trailer was mid and early reviews were bad which caused poor performance, but I thought the film was far, far, better.
 
 - **Barbie**: 5/10. There were a few gags and Ken discovering patriarchy were pretty funny. It had some self-aware criticisms of Barbie, but the main events and conclusion of the movie fell flat for me. It felt icky how the women caused the men to get jealous of each other, and the final line offered a mid-tier joke in place of a satisfying conclusion -- I wish they had done more to actually address the good questions that the film raised.
@@ -256,6 +258,7 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
+- **Whisper of the Heart**: OG Miyazaki film recommended to me.
 - **Past Lives**: Two friends recommended this one to me very highly, and said I should go into it blind.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Drive my Car**: A Murukami classic.

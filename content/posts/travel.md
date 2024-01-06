@@ -74,7 +74,7 @@ This alive document will be updated every time I travel.
       - **Cafe Flor**: A cozy cafe in Chelsea with tons of plants around the space.
     - Experiences
       - **Sleep No More**: My favorite play of all time, and the last showing is in Feb 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
-      - **Wonderville NYC**: I don't usually like bars or clubs too much, but this queer club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
+      - **Wonderville NYC**: I don't usually like bars or clubs too much, but this club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
       - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for.
       <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
@@ -143,6 +143,7 @@ This alive document will be updated every time I travel.
       - **Akau**: [This udon place](https://goo.gl/maps/dTKfWheyxBjrBYrg8) north of Ueno has the criss cross pillows to sit on, and the homemade noodles come with quail egg and ume. Order an extra large, the portions are small.
       - **So Udon Shikokuya**: Haven't been yet. 85 year old grandma has a super tiny cluttered restaurant in Tokyo with tasty, homemade food.
       - **RonRon/Dagashi Bar**: All you can eat sweets + candy of all different varieties!
+      - **Capyba Cafe**: Haven't been yet. You eat food with capybaras.
     - Experiences
       - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
       - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
