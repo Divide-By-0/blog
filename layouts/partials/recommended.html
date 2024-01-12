@@ -1,0 +1,21 @@
+<div class="recommended-posts">
+  {{ $pages := where .Site.RegularPages "Params.recommended" true }}
+  <div>
+      <h2>Recommended Posts</h2>
+  </div>
+  {{ range $page := $pages }}
+      <div class="post" style="background-color: #f0f0f0;">
+          <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+          <div>
+              Tags:
+              {{ range $tag := $page.Params.tags }}
+                  <span>{{ $tag }}</span>
+              {{ end }}
+          </div>
+      </div>
+  {{ end }}
+  <div>
+    <br/>
+    <h2>All Posts</h2>
+  </div>
+</div>
