@@ -14,7 +14,7 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
-## Screensavers (Jan 2023)
+## Screensavers (Jan 2024)
 
 I think it's cool to have a Chromecast on a TV/projector in the background on ambient mode, streaming various photos from a Google Photos album to a TV. I set it up for my parents and grandparents, and it led them to remember a lot of fond memories. I wanted to also have videos for my own house, but with the Chromecast it requires [these adb commands](https://github.com/theothernt/AerialViews#chromecast-with-google-tv-users) and an external app ([1](https://play.google.com/store/apps/details?id=jp.dip.mukacho.picasadaydream), [2](https://play.google.com/store/apps/details?id=com.furnaghan.android.photoscreensaver)). [Folks say](https://www.reddit.com/r/googlephotos/comments/nmqhmk/google_photos_slideshow_with_videos/) it might work better with an Android TV enabled stick like Fire TV instead -- this setup will take me too long right now but I'm leaving this as a self-reminder for our new house.
 
