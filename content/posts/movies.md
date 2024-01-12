@@ -10,6 +10,7 @@ description: "It's hard to surface really good movie recs, so I put my favorites
 aliases:
   - /posts/movies
   - /movies
+recommended: true
 ---
 
 It's hard to find a curated list of movies that I or my friends would like. I've tried to get my movies from the Cannes Film Festival winners, or the A24 trailers, or from the IMDb top movies, or from the Oscar nominees, or my friends -- even then, it's hard to isolate why people like specific movies and stick to spoiler-free reviews. Personal recommendations are rare and treasured, and I wish there was a place that all my friends put their favorite movies up so I could steal from that list instead. I like indie and international movies especially -- classic Hollywood eschews controversy in favor of tropes and standard storytelling methods to maximize profit and agreeability at the box office; indie films tend to be a lot more unique and interesting. See my similar [TV doc](https://blog.aayushg.com/posts/tv) for TV recs, or [my Goodreads](https://www.goodreads.com/yushg) for book recs.

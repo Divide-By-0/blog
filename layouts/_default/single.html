@@ -5,7 +5,7 @@
     </header>
     {{ partial "metadata.html" . }}
     {{ if .Params.toc }}
-    <div class="table-of-contents">
+    <div class="table-of-contents" style="display: flex; align-items: flex-start;">
         {{ .TableOfContents }}
     </div>
     {{ end }}

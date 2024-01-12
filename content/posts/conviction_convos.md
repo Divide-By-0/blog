@@ -12,6 +12,7 @@ aliases:
   - /posts/conviction
   - /conviction_convos
   - /conviction
+recommended: true
 ---
 
 A friend a few years back to me said, "Conviction is the scarcest resource, not time." It's stuck with me, and I've developed a life philosophy around it. I struggle to write about it (though it's very easy for me to talk about it in a Q&A format). I've reorganized some discussion notes/text chats that help start putting pen to paper and hopefully leave some helpful nuggets.

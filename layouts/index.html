@@ -4,6 +4,7 @@
   <div class="description">
     <p class="text-center">aayush's blog. usually things I keep repeating that I wish I could just have a consistent, canonical post for. you probably came here after I answered your question with "actually I have a long post on my blog about this...".</p>
   </div>
+  {{ partial "recommended.html" . }}
   {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
   {{ range $posts.ByPublishDate.Reverse }}
   <p>

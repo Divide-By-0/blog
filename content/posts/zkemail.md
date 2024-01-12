@@ -11,9 +11,9 @@ description: "A cool way to do server-free, mostly-trustless email subset verifi
 aliases:
   - /posts/zkemail
   - /zkemail
+recommended: true
+toc: true
 ---
-
-<!-- [TOC] -->
 
 The lack of trustless integration with web2 is one of the leading reasons that blockchains feel siloed from the rest of the world -- there's currently no way of trustlessly interoperating with the exabytes of existing information online, built up over decades by millions of users, that plug into every system we use every day. The resulting isolation of blockchains leads to fully contained apps and ecosystems: a great fit for DeFi or gaming, but a terrible fit for prosocial applications trying to weave themselves into our daily lives.
 
@@ -156,7 +156,7 @@ We also need to deal with [malleability](https://zips.z.cash/protocol/protocol.p
 
 Finally, the data gets sent to a smart contract to verify the signature. Recall that we need a smart contract in order to ensure the integrity of the DNS keys.
 
-# Client-Side Privacy
+## Client-Side Privacy
 
 To maximize user privacy, we'd ideally like to generate proofs on the client side so users don't have to send the contents of their emails to an external server. But there are two other properties that trade off against privacy: speed and compression. We'd like to be able to generate proofs fast, and make them small enough to efficiently verify on-chain -- for privacy and data ownership, we want to do as much of the proving locally as is practical. Different users value these properties to different degrees, so our solution is to offer both slower, private clientside options and fast, less private serverside options.
 

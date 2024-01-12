@@ -17,7 +17,9 @@ aliases:
   - /coursetexts
   - /edu
 math: true
+recommended: true
 ---
+
 
 ## Introduction
 
