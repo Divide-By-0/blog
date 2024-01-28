@@ -93,6 +93,8 @@ This alive document will be updated every time I travel.
       - **Ginto Express**: $15 udon/curry bowls north of Mission, that taste just like they do in Japan.
       - **Dandelion Chocolate**: My roommate [recommends this place's hot/drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too.
       - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
+      - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
+      - Restaurants I want to try: Georgian Cheese Boat (Kachipuri is super tasty), Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.

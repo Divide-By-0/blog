@@ -14,6 +14,22 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Wifi Cracking (Jan 2024)
+
+In my recent exploration of the world of wifi hacking, I've realized that most tools use a pre-2018 way of thinking and make no sense. Here's a brief rundown of what I've learned:
+
+- This [resource](https://github.com/risinek/esp32-wifi-penetration-tool/blob/master/doc/ATTACKS_THEORY.md) is a good overview of the handshake function; basically, you are trying to reverse a hash with a small set of preimages.
+- Deauthentication is a common technique in Wifi hacking, but I didn't like it ethically. For instance, what happens to critical devices like pacemakers or IoT devices that might not reconnect after a quick drop?
+  - Pwngatochi, a tool I've been experimenting with, has a non-deauth mode. By disabling `personality.assossciate` and `personality.deauth`, you can operate without deauthentication.
+  - I thought it was cute that pwngatochi units can "talk" to each other when in close proximity, dividing available channels among them for optimal hacking. It's interesting that the tomagochi model is super prevalent in the hacking community; there's mini cat-shaped hashcat PCBs too.
+  - Another tool, Wifi Hash Monster, also offers a non-deauth mode, as discussed in this [Reddit thread](https://www.reddit.com/r/pwnagotchi/comments/ocoq25/comment/h3x1h1g/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+- Luckily, a vulnerability in the Robust Security Network allows for the exploitation of most wifi routers without de-auth! These routers assume secure passwords, so they expose the 'client-less PKMID attack', in which routers volunteer up their PMKID to unauthenticated users, enabling offline hash cracking without deauths. 
+  - This method is already used by Pwngatochi and can be enabled via silent mode on hcxdumptool. More details can be found [here](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/) and [by the attack creator here](https://hashcat.net/forum/thread-7717.html).
+  - None of the Macbook-friendly repos worked, including [pmkidcracker (no cracking functionality)](https://github.com/n0mi1k/pmkidcracker) and [WiFiBroot (broken dependencies)](https://github.com/hash3liZer/WiFiBroot). Trying [from scratch](https://softwaretester.info/crack-wpa2-with-pmkid-on-macos/).
+- Some fun wifi hacking pranks: you can rickroll people by creating a bunch of networks with the lyrics of "Never Gonna Give You Up", like this [GitHub repository](https://github.com/Jeija/esp32free80211) does.
+
+Of course, all of this information is for educational purposes only and only for responsible experimentation on networks you own.
+
 ## Screensavers (Jan 2024)
 
 I think it's cool to have a Chromecast on a TV/projector in the background on ambient mode, streaming various photos from a Google Photos album to a TV. I set it up for my parents and grandparents, and it led them to remember a lot of fond memories. I wanted to also have videos for my own house, but with the Chromecast it requires [these adb commands](https://github.com/theothernt/AerialViews#chromecast-with-google-tv-users) and an external app ([1](https://play.google.com/store/apps/details?id=jp.dip.mukacho.picasadaydream), [2](https://play.google.com/store/apps/details?id=com.furnaghan.android.photoscreensaver)). [Folks say](https://www.reddit.com/r/googlephotos/comments/nmqhmk/google_photos_slideshow_with_videos/) it might work better with an Android TV enabled stick like Fire TV instead -- this setup will take me too long right now but I'm leaving this as a self-reminder for our new house.

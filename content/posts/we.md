@@ -1,6 +1,6 @@
 ---
 title: "What is going on with witness encryption?"
-date: 2022-11-24T22:12:03.284Z
+date: 2023-11-24T22:12:03.284Z
 type: posts
 draft: false
 slug: "we"
@@ -14,7 +14,7 @@ aliases:
   - /witnessencryption
 ---
 
-Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Updated as of 11/9/2023.
+Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Originally written in Q4 2022.
 
 Witness encryption is a pretty underrated idea in cryptography that hasn't been extensively explored or applied (especially in blockchain) yet. Here are some "gradients" of witness encryption:
 - Witness ecnryption over NP. This has been proposed many times, but each paper introduces a novel mathematical theorem/assumption along with it (which is super sketchy since no one knows it this is sound) or has been broken, more information below.
@@ -33,10 +33,16 @@ If you relax the "all NP problems" requirement, this paper from Protocol Labs di
 
 A more open problem is whether more complex functions can be incorporated into the functional commitment. This is an approachable direction that I would recommend exploring. I hear rumors about WE from IPA but haven't seen anything concrete about it yet.
 
-A number of papers "fake" witness encryption by introducing multi-party computation (MPC) networks as assumptions -- [this one](https://eprint.iacr.org/2023/635.pdf) technically "works", but they as usual such a non-collusion,honest majority system undermines the whole idea. If you trust someone (MPC network) to decrypt, you might as well trust them with the data and verification too. Furthermore, the "honest majority" assumption means you have no idea if the committee cheated and read the data itself, making schemes like this questionable at best (even if the zk proof verification happens on-chain).
+A number of papers "fake" witness encryption by introducing multi-party computation (MPC) networks as assumptions -- [this one](https://eprint.iacr.org/2023/635.pdf) technically "works", but they as usual such a non-collusion, honest majority system undermines the whole idea. If you trust someone (MPC network) to decrypt, you might as well trust them with the data and verification too. Furthermore, the "honest majority" assumption means you have no idea if the committee cheated and read the data itself, making schemes like this questionable at best (even if the zk proof verification happens on-chain).
 
 A number of other papers combine witness encryption with IBE (identity based encryption). These also seem to defeat the purpose, as you have to know everyone's identity commitments before creating the witness encryption (correct me if I'm wrong).
 
 One interesting project idea is to build a trustless tinder type matching with this. First, everyone commits to, say, 5 people they are most interested in. Those 5 people should get only notified if they also commit to that person as one of their chosen 5 as well. So, after everyone commits, those commitments are used in the FC-WE scheme that everyone then runs, to publish a message only to their 5 folks only if they also had valid commitments (i.e. with them in it, while keeping it anonymous, which doesn't seem possible to me with vanilla zk proofs). Finally, in the reveal stage, everyone attempts to read every message and can only end up reading the ones that work for them.
 
-I can't imagine how to do this with any other tech including FHE, ZK, or on chain logic -- although socialist millionaire problem makes this possible (as the query function is just equality), WE also makes it possible and it seems like a fun early proof of concept.
+I can't imagine how to do this with any other tech including FHE, ZK, or on chain logic -- although socialist millionaire problem makes the tinder example possible (as the query function is just equality), WE also makes it possible and it seems like a fun early proof of concept. 
+
+Here's a smattering of other directions I think would be good to explore:
+- It would also be great to get a sense of if pseudo-randomness
+for smooth projective hash functions (the novel assumption introed in this paper) in the presence of proofs is true without relying on the generic group model to unlock this WE scheme over Groth Sahai proofs https://eprint.iacr.org/2015/1073.pdf. 
+- It would be cool to have a blog post or paper also describing a zeroing attack on the original MLM proposed in https://eprint.iacr.org/2013/258.pdf and implemented by Gavin Uberti, which we are confident can be broken but don’t have exact parameters for yet.
+- The evasive LWE assumption was introduced by https://eprint.iacr.org/2022/1140 and unlocks witness encryption with LWE, but we do not know any proof of it yet.
