@@ -17,6 +17,7 @@ aliases:
 Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Originally written in Q4 2022.
 
 Witness encryption is a pretty underrated idea in cryptography that hasn't been extensively explored or applied (especially in blockchain) yet. Here are some "gradients" of witness encryption:
+
 - Witness ecnryption over NP. This has been proposed many times, but each paper introduces a novel mathematical theorem/assumption along with it (which is super sketchy since no one knows it this is sound) or has been broken, more information below.
 - Witness encryption over a signature. Encrypting to someone who has a BLS signature (it's kind of a bootstrapped PKI based on pre-images of hashes, where you can just "give" anyone an easy and intuitive "encryption key" that you can also decrypt from, which could even be their raw ECDSA key). This exists!
 - Witness encryption over equality. Socialist millionaire's problem solves this.

@@ -230,3 +230,7 @@ V1 is useful on chains without sha precompiles or future proving systems with fa
 V2 is useful on chains with sha precompiles where proving speed matters (i.e. in browser applications with 2023 proving tech).
 
 It turns out that we probably can edit the V1 spec to include the minimized V2 nullifier calculation, but we need to think about that.
+
+## More Links
+
+Learn more from Blake's post on [ZK-ECDSA with PLUME nullifiers](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY).

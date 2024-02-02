@@ -169,7 +169,8 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
 
 #### The Importance of Fun and Simplicity
 
-- I asked about where should I work? I have all of these choices and don't know what to do.
+I asked about where should I work? I have all of these choices and don't know what to do.
+
 - Important technology often starts as toys or simple ideas (see the [Dream Machine](https://amzn.to/4385EUZ) for the history of computing, littered with examples of this)
 - Focusing on simple, fun projects can lead to significant achievements; a lot of companies started like this for a reason
 - Advancing humanity can also be achieved by having fun and staying focused on simple goals, and he prefers working on the set of problems for where this is true since there are so many problems, and "where I have the most fun" is a pretty good filtering function
@@ -179,9 +180,12 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
 
 #### Academia and Research Labs
 
-- Some people are comfortable publishing their work, but not everyone wants to write a giant academic paper and go through the grind to push out useful tech
+- Some people are comfortable publishing their work, but not everyone wants to write a giant academic paper and go through the grind to push out useful tech.
 - He's personally turned off by the culture of academia and the obscurity of most of the research -- most people say like, that's not what it's about, the system is a necessary evil to do good work, etc, but that's not the culture he wants to surround himself by for years
 - Big AI research labs like OpenAI and Deepmind can have politics and slow-moving processes; he knows a friend that quit Google Brain because of its lack of urgency
+- [Aayush post-chat addendum] This is sad, since research is often some of the most interesting work that leads to the most new, cool things in the world. There are ways to get the [benefits of cool research without the cultural baggage](https://web.archive.org/web/20240104211647/https://marleyx.com/2023/).
+  - My roommates reached out to the academic lab they respected most, offered to be a research assistant for pennies, and because they didn't have the pressure of a PhD, learned incredibly fast without any pressure to publish or perish -- and the lab loved it since they could run more experiments overall.
+  - I know a few cool teams who dug through fundamental research ideas in their spare time [using technical-leaning (but still sorta pop-sciency) sites like Ars Technica as hooks] or things like MIT Tech Review etc. That led them to finding a curious idea, then them trying to reproduce it, then that becoming a startup. Often, many ideas are incredibly promising but the prof/student is too obsessed with research to want to production-ize it, and just following your curiosity here can be very interesting.
 
 #### Personal Convictions and Focus
 
@@ -192,10 +196,13 @@ During this chat, I was mostly asking about choosing between a bunch of jobs -- 
 
 #### Work Environments and Company Culture
 
-- I asked again about all my choices for where to work, feeling I didn't get clarity on my specific choice yet.
-- People tend to make more progress when they're having fun and enjoying their work
-- Large companies may have a low bar for talent, making it unclear if you'll be matched with someone truly talented or someone who just studied hard once to past the interview -- if you're looking for mentorship, this is the wrong way
-- Most people in quant finance are focusing on climbing ranks and increasing salaries, but this ladder mentality is super unhealthy and focuses you on the wrong things long term
+I asked again about all my choices for where to work, feeling I didn't get clarity on my specific choice yet.
+
+- People tend to make more progress when they're having fun and enjoying their work. You'll see this in the vibes when you hear people talk about it, or when you see them work.
+- Large companies may have a low bar for talent, making it unclear if you'll be matched with someone truly talented or someone who just studied hard once to pass the interview -- if you're looking for mentorship, this is the wrong way unless you can guarantee you'll be matched with a specific kick-ass person.
+- Most people in quant finance are focusing on climbing ranks and increasing salaries, but this ladder mentality is super unhealthy and focuses you on the wrong things long term.
+  - [Aayush post-chat addendum] Many people opt to do this due to the excuse that finance for a few years will give them the money they need to quit then do what they **really** want to do. This is almost never what happens: you get locked into finance for way longer than you want due to salary incentives, the culture of these places changes you, and the optionality, attention, and responsibility of such vast money will likely distract you. How many great artists or people in your chosen "real" passion have a bio that says they started in finance? Most were just messing around with some friends and honing their craft -- finance first doesn't work empirically for a reason.
+  - Note that this advice does not apply if you have crushing student debt, your family relies on you for financial support, or if you salivate daily over the precise engine stats of the latest Maserati -- go chase that bag.
 
 ## Chat 4: Focus is the Superpower (A discussion with mentor 3)
 
