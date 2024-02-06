@@ -234,3 +234,5 @@ It turns out that we probably can edit the V1 spec to include the minimized V2 n
 ## More Links
 
 Learn more from Blake's post on [ZK-ECDSA with PLUME nullifiers](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY).
+
+Check out a concrete proposal for a ZK voting scheme with PLUME at [the ZKSnap whitepaper](https://linktr.ee/zksnap).
