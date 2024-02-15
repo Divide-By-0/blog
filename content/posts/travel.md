@@ -134,6 +134,7 @@ This alive document will be updated every time I travel.
     - Experiences
       - **Meerkat and Friends**: Play with meerkats, racoons, wallabies, and foxes ‒ the only place I know where you can really get up close to them. Alternatively, Zoo in the City seems new and equally as good.
       - **Teacup Animals Store**: A shop that breeds very miniscule pets, and ships them across the world. Absolutely adorable tiny cats and dogs that fit in your hand.
+      - **Perrotin Art Gallery**: Has [MSCHF's exhibition](https://www.perrotin.com/exhibitions/mschf-nothing-is-sacred/11276) on display till March 2024, which has a ton of cool pranks on display, including [games you can't play anywhere else](https://walzr.com/blog/2022/).
   - ### Thailand
     - Food
       - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
@@ -195,9 +196,9 @@ This alive document will be updated every time I travel.
     - **Dark Matter**: This a place with a number of light-tech installations. My favorite was this massive outdoors structure with hundreds of light bars just above you that lit up synced to music at night, just outside Sisyphus.
     - **About:Blank**: Haven't been. Well reputed club.
     - **Berghain**: Most famous club, higher chance of getting in at odd midday times on non-Saturdays. Tried to dress all black to get past Sven and go at 4pm on a Sunday, but was immediately rejected.
-
 - ## Other International
   - Experiences
+    - **Mexico: Luis Barragan's House**: This architect known for colorblock houses and buildings has an insane house open to the public, and many super-unique buildings around Mexico.
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
