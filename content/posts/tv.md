@@ -69,6 +69,7 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 
 - **Foundation**: Classic Asimov novel was adapted by Apple TV so no one seems to know about it, but friends seem to rate it highly.
 - **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
+- **Spy X Family (Anime)**: Wholesome and cute.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
 - **Abstract**: Profiles on famous artists like Olafur Elliason.
 - **Dr. Stone**: My Japanese friends say that this anime is for people who like science.
@@ -76,7 +77,6 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 - **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2.
 - **Bocchi the Rock (Anime)**: This is one of the most popular animes in my Japanese friend's Tokyo group, about an anxious-avoidant gradeschool girl who's really good at guitar, and has to reconcile the social needs of being in a band with her natural introversion.
 - **Tatami Galaxy (Anime)**: Seems to explore the disillusionment of exploring alternate school lives. Critically acclaimed with exaggerated style and absurd dark comedy, 11 episodes.
-- **Spy X Family (Anime)**: Wholesome and cute.
 - **Demon Slayer (Anime)**: The manifestation of curses is very similar to Jujutsu Kaisen, as is the duality of the main character. Seems like a curious one to try out, but many people say that it's inferior to Jujutsu Kaisen.
 - **Violet Evergarden (Anime)**: "the most beautiful animation out of any that I've seen." - My friend Ray. Unforunately, I really don't like war plots, so it's not high on the list.
 

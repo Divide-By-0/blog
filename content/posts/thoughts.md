@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Various Media I've Consumed [Live Post]"
-date: 2022-10-19T22:12:03.284Z
+date: 2023-12-19T22:12:03.284Z
 type: posts
 draft: false
 slug: "thoughts"
@@ -13,6 +13,10 @@ aliases:
 ---
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
+
+## The Blue LED (Feb 2024)
+
+This [Veritasium video](https://www.youtube.com/watch?v=AF8d72mA41M) on the creation of the blue LED is mind blowing -- it explains the physics of simple n/p semiconductors extremely well, it explains the cascading sequence of research and evolving thought super well, and it tells a really great story about the inventor getting royally screwed time and again by corporations. I was left both awestruck and inspired after this video.
 
 ## Wifi Cracking (Jan 2024)
 

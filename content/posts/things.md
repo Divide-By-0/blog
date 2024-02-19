@@ -76,6 +76,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Cheap Apple Pencil 2](https://amzn.to/3PJqPrc) - $30.** You give up variable pressure detection but and pay 5x less, still magnetically charges. Useful as a backup.
 **[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 **[Portable Credit Card Charger](https://amzn.to/3rqBVcz) - $60**. This is about 3 credit cards thick, and so fits in my wallet and charges my phone to 30% pretty quick. Useful backup to always have around.
+**[Airtag Card Holder](https://amzn.to/3I3ENk6) - $8**. Shaped like a card, with a circle in the middle to hold airtags. I use it to ensure airtags don't fall out of my passport cover and are easier to locate in my backpack.
 
 I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
 
@@ -92,7 +93,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Pop-up Wallet with RFID Shielding](https://hacksmith.store/en-us/products/the-smith-wallet) - $42**. Click a button, and up to 6 cards pop up in order. Pretty nifty (unfortunately I carry a lot of weird stuff in my wallet like earplugs etc so I don't use it).
 **[Masterworks](https://masterworks.com) - $500**. Fractional investment into art pieces. This is mostly for fun, the money tends to stay about the same year over year.
 
-My favorite board games are Decrypto (a word game that's way deeper than Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), and Hanabi (team communication game). I've been recommended Paleo, Terraforming Mars, Forbidden Desert, Cascadia, Fort, and 7 Wonders but haven't tried them.
+My favorite board games are [Decrypto](https://amzn.to/3uAHQ04) (a word game that's about communication, that's way deeper than Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), [Cascadia](https://amzn.to/48j0eIL) (a surprisingly complex wildlife placing game), and Hanabi (team communication game). Fort is also great. I've been recommended Paleo, Terraforming Mars, Forbidden Desert, and 7 Wonders but haven't tried them.
 
 # Clothing
 
@@ -100,7 +101,7 @@ My favorite board games are Decrypto (a word game that's way deeper than Codenam
 **[Prescription Glasses](https://amzn.to/3LLCmoN) - $20**. Turns out you can get prescription glasses super cheap on Amazon. These are a good fit for my slightly slimmer face and have blue light blocking, so I use them at night and as a backup travel pair.
 **[Carsickness Glasses](https://amzn.to/46CyDSt) - $15**. These look ridiculous and alien-like but two of my friends (and half of tiktok) swear that it works for bumpy car rides and carsickness, by aligning your sense of motion to your eyes.
 **[Shirt Stays](https://amzn.to/3N23Ckf) - $13.** Connect your dress shirt to your socks. Critical for formal dress shirts for me, to avoid it bunching up and look bad.
-**[Neck Gaiter](https://amzn.to/43PkT68) - $15.** Tighter and smaller than a scarf, critical in cold weather.
+**[Neck Gaiter](https://amzn.to/3SBFK8e) - $15.** Tighter and smaller than a scarf, super soft, and critical in cold weather.
 
 Favorite brands include ASOS Collusion, AliExpress finds, and Emma Atterbury's hats.
 
@@ -142,6 +143,8 @@ I have various smaller bash settings, brew packages, and Chrome experimental fla
 These are things I've stopped myself from buying so far, but they seem intriguing...
 **[Olfactory Water Bottle](https://uk.air-up.com/) - $25 + $6/15L.** Emits a smell near your nose, so that it feels like you're having flavored water. 3-pack pods only last for 15L of water, which is why there's the added unit cost.
 **[Space Saver Compression Bags](https://amzn.to/3CfC44b) - $13**. These bags have a one way vent when you compress them, so are useful to tightly pack clothes in suitcases. Good gift for people who travel a lot.
+**[Straight Pull Up Bar](https://amzn.to/3uCYvAe) - $25**. I didn't believe this stayed up, then saw it on a friend's door and was convinced. Unlike the around-the-doorframe ones that might not find a good hook, this one fits in every single doorframe.
+
 I also want [Kava powder](https://amzn.to/3He6HKo) as an alternative kickback substance.
 
 # Bad Things
