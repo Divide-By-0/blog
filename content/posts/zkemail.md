@@ -200,10 +200,15 @@ With initial support from 0xPARC and the Ethereum Foundation's Privacy & Scaling
 
 Given the widespread prevalence of spoofed emails and spam, it's natural to ask if this system can be completely broken or spoofed. Due to DKIM being the primary authentication method and not SMTP or other non-cryptographic methods, we believe our method is robust to the vast majority of exploits on traditional email infrastructure.
 
+### SMTP Smuggling
+
 For instance, SMTP smuggling is a [new attack](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/) as recently as 2023. While they can spoof SPF/SMTP from those domains, they cannot forge a DKIM signature from the sender's email address [even if spoofed via smtp smuggling], so zk email is secure.
 
 More technically, their method primarily changes SPF/SMTP checks. Their example (Figure 5) of breaking DKIM happens by changing the s= and d= field in the dkim signature as well, meaning they are NOT verifying with the sender's email domain (i.e. the part after the @ in the from field), which is what we check in ZK email. Note that all of their examples that pass DMARC have DKIM disabled, meaning you wouldn't be able to even make ZK email proofs of them. The only mailservers that even receive such bad emails without DKIM verification are Fastmail, Runbox, Postfix, Sendgrid, and Cisco Email Gateway - very few people use those clients [and even if they did receive the email, the DKIM would be bad and not usable in a ZK email proof]. Broadly most exploits cannot forge DKIM from the senders email, which is what we verify in ZK email.
-<!-- Footnotes themselves at the bottom. -->
+
+### SpamChannel MailChannel Spoofing
+
+This [DEFCON 31 talk](https://www.youtube.com/watch?v=NwnT15q_PS8) discussed how you can spoof over 2 million domains via MailChannels' garbage security practices. This attack depends on exploiting poor configs in ARC, SPF, and DMARC, in order to disable DKIM checking, and thus get fake emails into an inbox. Since ZK email only verifies DKIM, it is secure against this attack. Since Gmail now only accepts DKIM-passing emails, Gmail inboxes are also robust to this attack now.
 
 ### Footnotes
 
