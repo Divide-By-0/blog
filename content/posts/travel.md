@@ -117,6 +117,7 @@ This alive document will be updated every time I travel.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well!
   - ### Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
+    - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a very interesting group that manages to pull off extremely creative events.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
     - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas.
     - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
