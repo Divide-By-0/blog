@@ -73,7 +73,8 @@ This alive document will be updated every time I travel.
       - **Ichiran Ramen**: I haven't been here, but it seems interesting -- there's only one dish available, and you eat in solo booths.
       - **Cafe Flor**: A cozy cafe in Chelsea with tons of plants around the space.
     - Experiences
-      - **Sleep No More**: My favorite play of all time, and the last showing is in Feb 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
+      - **Sleep No More**: My favorite play of all time, and the last showing is in April 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
+      - **[Museum of Intrigue](https://www.intrigueandco.com/museum-of-intrigue)**: 9,000 sq. ft. museum-like space with interactive games in Syracuse, 3+ hour drive from Manhattan. Haven't been yet.
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
       - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for.
       <!-- Saffron recommended the above -->
@@ -88,15 +89,16 @@ This alive document will be updated every time I travel.
       - **[Index NYC](https://www.index-space.org/)**: Happenings and creative workshops.
       - **[Dia Art Museums](https://diaart.org/)**: The organization that funded Turrell has a lot of open, free museums of pretty interesting artists.
       - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).
-  - ### SF, California
+  - ### San Francisco, California
     - Food
       - **Ginto Express**: $15 udon/curry bowls north of Mission, that taste just like they do in Japan.
       - **Dandelion Chocolate**: My roommate [recommends this place's hot/drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too.
-      - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
+      - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?/person) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
       - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
       - Restaurants I want to try: Georgian Cheese Boat (Kachipuri is super tasty), Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
+      - **[Immersive Gamebox SF](https://immersivegamebox.com/locations/ca-stonestown-galleria-san-francisco/)**: Games enabled via projections -- lower physicality than Level99, but seems good for player vs player games.
       - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
       - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. My roommate [also recommends this place's hot chocolate](https://www.rhotter.com/posts/hot-chocolate).
@@ -119,7 +121,11 @@ This alive document will be updated every time I travel.
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a very interesting group that manages to pull off extremely creative events.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
-    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas.
+    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas. The art itself is very psychadelic and physically impressive, although I did feel the space didn't do as much as it could have with the space, the story, and the interactivity.
+    - **TimeMission**: A smaller-scale version of Level99 near Providence, Rhode Island.
+    - **[Activate](https://playactivate.com/)**: Less artistic, less mysterious, more formulaic version of mini challenge rooms spread throughout the USA and Canada.
+    - **BRKTHROUGH**: Challenge rooms like Level99 in Kansas.
+    - **District 57**: A lower-tech version of Level99 (more like BodaBorg) in Charlotte, NC -- unfortunately, the appeal is more flashing lights and less compelling technology.
     - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
 ## Asia
   - ### Maldives
@@ -184,6 +190,7 @@ This alive document will be updated every time I travel.
       - **Formal Dinner at Trinity/Cambridge**: If you're lucky enough to have a friend at a university, chances are they have dress-up formals where they serve you an incredible 5 course meal for $13 in a Harry Potter-style dinner hall. An old man even rings a gong and mumbles 20 seconds of unintelligible Latin!
       - **Camden Market**: I love Smorgasburg markets like these -- I ate here every day for like a week and never got sick of it.
     - Experiences
+      - **[Crystal Maze Experience](https://the-crystal-maze.com/)**: The UK version of Level99, my favorite place in the USA -- mini rooms where you collect crystals for challenges. Locations in London and Manchester.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well! They seem to do them only sporadically as announced to their mailing list.
       - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
@@ -203,7 +210,8 @@ This alive document will be updated every time I travel.
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
-    - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.  
+    - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
+    - **United Arab Emirates**: Has a permanent installation of [the rain room](https://en.wikipedia.org/wiki/Rain_Room), in which water parts as you walk.
     - **New Zealand: C1 Espresso**: This [cafe sends you food and drink](https://www.youtube.com/watch?v=YTHZLKFblKo) through pneumatic tubes.
 - ## Anywhere
   - Experiences
@@ -212,8 +220,7 @@ This alive document will be updated every time I travel.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
     - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
-- ### No Longer Exist/Recommended
+- ### No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.
-  - **Pachinko Parlors in Japan**: These still exist. I used to recommend this super intense gambling phenomenon in Japan. Unfortunately, I went briefly and frankly it was just mostly pretty depressing to see people addicted to these games. Would not recommend.

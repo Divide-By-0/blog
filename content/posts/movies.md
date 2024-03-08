@@ -285,6 +285,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
 - **Kahaani**: Hindi film.
+- **All the Rage: Saved by Sarno**: A movie about Sarno's methods for chronic pain and their impact.
 - **Petit Mamam**: French movie, more about feelings than dialogue
 - **Farewell My Concubine**: About two people growing up in opera during China's change.
 - **Yi Yi**: 2000 Taiwanese classic
