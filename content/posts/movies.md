@@ -32,11 +32,19 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ## Previous
 
+### 2024
+
+- **Dune 2**: 9/10. As usual, the visual sequences are stunning, the soundtrack is impactful, and the costumes were convincing. Reviews ([critical](https://www.reddit.com/r/TrueFilm/comments/1b6j3tu/dune_part_two_is_a_mess/), [positive](https://www.reddit.com/r/movies/comments/1b3jo9s/official_discussion_dune_part_two_spoilers/)) make good points. It's kind of insane to me that sci-fi that is so insanely beautiful and well-shot like this can be so mainstream, even after so much of the critical context from the book was cut for time reasons. I docked a point only because of the inherent limitations of a movie form of Dune and my favorite book parts that got cut.
+
+- **Attack on Titan, Season 4 Final Movie**: 10/10. See my [TV post](https://blog.aayushg.com/posts/tv#2024) for more details on why I loved this show. The final episode was perfect and beautiful -- it had an incredibly complete resolution, and left me obsessed, thinking and analyzing it for literally days after. There's a reason this is considered the a top 3 greatest anime of all time -- even though I usually hate fighting and action, I loved how the show evolved and ended.
+
+- **Promising Young Woman**: 10/10. This movie discussed rape and sexual assault in a way that didn't feel trite -- vigilante justice was both fun and tragic to watch. I think this movie conveyed the emotions that victims feel incredibly well without resorting to pity, and had multilayered symbolism throughout the plot that only the best indie movies have.
+
 ### 2023
 
 This year was marked by Japanese cinema. I spent the year steeped in the culture, from the music to the anime shows to the movies, and even working from Tokyo for a few weeks.
 
-- **Kiki's Delivery Service**: 8/10. This Ghibli classic imparted a sense of whimsicality, and definitely made me tear up a few times. Miyazaki's story changes definitely seemed for the better here.
+- **Kiki's Delivery Service**: 8/10. This Ghibli classic imparted a sense of whimsicality, and definitely made me tear up a few times. Miyazaki's story changes from the original written tale definitely seemed for the better here.
 
 - **Dungeons and Dragons Movie**: 7/10. It was more a comedy than a drama; it had a more mainstream brand of humor which I still enjoyed. The plot was formulaic so it wasn't like super standout, but I was impressed by the variety of scenes and stories they were able to cram into the runtime, and still have it not feel too rushed.
 
@@ -70,7 +78,7 @@ This year was marked by Japanese cinema. I spent the year steeped in the culture
 
 - **The Prestige**: 8/10. This had been on my list ever since watching 'Now You See Me'. This movie about two vengeful magicians is a magic trick itself, filled with clever misdirections. The portrayal of obsession was well motivated and captivating.
 
-- **Fight Club**: 9/10. Not at all what I thought it would be about from the name. It has the vibes of a cult classic -- zany characters do very strange but surprisingly understandable things, and it explores more complex themes than just pointless testosterone-fueled fighting. Has one of my favorite scenes of all time (the one with Raymond).
+- **Fight Club**: 9/10. I'd never watched this before because the name sounded unappealing, but it was not at all what I thought it would be about from the name. It has the vibes of a cult classic -- zany characters do very strange but surprisingly understandable things, and it explores more complex themes than just pointless testosterone-fueled fighting. Has one of my favorite scenes of all time (the one with Raymond).
 
 ### 2022
 
@@ -262,6 +270,7 @@ The notes for these movies are just summaries of what friends have told me about
 
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **The Last Five Years**: An Anna Kendrick musical that goes through a deteriorating relationship forwards and backwards in time, simultaneously. I found this dynamic in Tick Tick Boom fascinating so I think I would like this.
+- **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **Past Lives**: Two friends recommended this one to me very highly, and said I should go into it blind.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Hack, Punt, Tool**: Musical about MIT's hacking culture.

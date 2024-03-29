@@ -95,6 +95,7 @@ This alive document will be updated every time I travel.
       - **Dandelion Chocolate**: My roommate [recommends this place's hot/drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too.
       - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?/person) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
       - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
+      - **Japantown SF**: This mall really does feel like a Japanese mall, complete with the udon and ramen, the snack shops with samples, and the fake plastic food in front.
       - Restaurants I want to try: Georgian Cheese Boat (Kachipuri is super tasty), Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
@@ -110,10 +111,11 @@ This alive document will be updated every time I travel.
       - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around here!
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
     <!-- Reminder to self: Stay at Benji's parents backyard shed. -->
-  - ### LA Area, California
+  - ### Los Angeles Area, California
     - Food
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
     - Experiences
+      - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks in LA.
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well!
