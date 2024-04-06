@@ -99,7 +99,7 @@ every time I think about these things (every month or so recently when some frie
 
 yush —
 yup good takeaway, you need a full mental model from the ground up so only a book is gonna give u that
-(also I feel like ive had this similar kind of conviction convo like 100 times lol, do u mind if I anonymize + summarize it and stick it on my blog to link to ppl in the future)
+(also I feel like ive had this similar kind of conviction convo many many times lol, do u mind if I anonymize + summarize it and stick it on my blog to link to ppl in the future)
 
 friend N -
 please do, I would do the same if I was stable on a view on this topic
@@ -130,7 +130,7 @@ This was a conversation I had when I went to a mentor I trust and respect. I was
   - Evaluate opportunity and don't get hung up on regretting -- if you're only taking 100% shots, you're not aiming high enough, or else it means your bet sizing is too small
   - Do something that needs vested time/experience ‒ expertise is significantly less fungible than money
 - Clout
-  - The sorts of undergrads who read Techcrunch are very different from actually smart people
+  - The sorts of undergrads who read Techcrunch are very different from people who are reading papers or GitHub repos or making projects, because they are actually building knowledge and skill
   - Clout is a crutch -- there's no replacement for enthusiasm, and clout is the splenda for enthusiasm
   - Someone else has set up a system and engineered what seemed "good" to them and memed into being the highest clout
 - Principles
@@ -186,6 +186,7 @@ I asked about where should I work? I have all of these choices and don't know wh
 - [Aayush post-chat addendum] This is sad, since research is often some of the most interesting work that leads to the most new, cool things in the world. There are ways to get the [benefits of cool research without the cultural baggage](https://web.archive.org/web/20240104211647/https://marleyx.com/2023/).
   - My roommates reached out to the academic lab they respected most, offered to be a research assistant for pennies, and because they didn't have the pressure of a PhD, learned incredibly fast without any pressure to publish or perish -- and the lab loved it since they could run more experiments overall.
   - I know a few cool teams who dug through fundamental research ideas in their spare time [using technical-leaning (but still sorta pop-sciency) sites like Ars Technica as hooks] or things like MIT Tech Review etc. That led them to finding a curious idea, then them trying to reproduce it, then that becoming a startup. Often, many ideas are incredibly promising but the prof/student is too obsessed with research to want to production-ize it, and just following your curiosity here can be very interesting.
+  - The frontier of a field is littered with secrets and opportunities. Ask any researcher at the top of any field and they'll probably be able to give you dozens of ideas.
 
 #### Personal Convictions and Focus
 
@@ -206,7 +207,7 @@ I asked again about all my choices for where to work, feeling I didn't get clari
 
 ## Chat 4: Focus is the Superpower (A discussion with mentor 3)
 
-I was asking this mentor how to deal with accelerating my projects, and feeling like I hadn't done many concrete things the past few months even though I'd made progress on a bunch of projects, and so on.
+I was asking this mentor what to do post-college, how to deal with accelerating my projects, and feeling like I hadn't done many concrete things the past few months even though I'd made progress on a bunch of projects.
 
 #### Productivity and Output
 
