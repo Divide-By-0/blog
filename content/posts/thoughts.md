@@ -14,6 +14,11 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## April 2024
+
+- https://www.talentmobility.fund/ -- I've been advocating for a fund focused on O1 visas and high talent immigration for a while now, glad to see it exists! Wonder if there's a version of this for people who aren't invested to by the fund.
+- Getting PR previews on external PRs is really good for velocity of an OSS project, where you don't need any sensitive .env vars to check if the PR preview works. You can get this via Github Pages + [this Action](https://github.com/marketplace/actions/deploy-pr-preview) + [this patch](https://github.com/orgs/community/discussions/25217) it seems.
+
 ## The Blue LED (Feb 2024)
 
 This [Veritasium video](https://www.youtube.com/watch?v=AF8d72mA41M) on the creation of the blue LED is mind blowing -- it explains the physics of simple n/p semiconductors extremely well, it explains the cascading sequence of research and evolving thought super well, and it tells a really great story about the inventor getting royally screwed time and again by corporations. I was left both awestruck and inspired after this video.

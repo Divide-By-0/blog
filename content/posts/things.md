@@ -38,7 +38,7 @@ This alive document will be updated every time I buy something incredible or use
 
 # Bathroom
 
-**[Mint Shampoo and Conditioner](https://amzn.to/3MXzOVZ) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.
+**[Mint Shampoo and Conditioner](https://amzn.to/3U0YsXs) - $23.** Spent way too long finding hair products that were SLS-free, EWG-approved, and smelled good.
 **[Body Wash](https://amzn.to/3ox6j35) - $9.** Cheap and smells good, doesn't have SLS in it.
 **[The Softest Bathroom Mats](https://amzn.to/40pgfcg) - $20.** High pile and insanely soft and plush.
 **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** Feels super smooth even with just a little. Reddit recommended.
