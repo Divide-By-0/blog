@@ -34,6 +34,10 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2024
 
+- **Weathering with You**: 7/10. Like basically all critics on earth say, this movie was a lot worse than Your Name, an impossibly high standard for anyone to set for their future work.
+
+- **Portrait of a Lady on Fire**: 5/10. This movie seems to be critically acclaimed for its depiction of the female gaze, which I appreciated getting more of an insight into. It's languid (a bit too much for me), and focuses on shots with striking lighting and colors, and subtle character movements. The entire film felt like slow buildup to the last 15 minutes where the most emotionally punchy scenes happen. I'd be curious to compare how the female gaze here differs from the male gaze of a different popular lesbian movie, Blue Is the Warmest Colour.
+
 - **Dune 2**: 9/10. As usual, the visual sequences are stunning, the soundtrack is impactful, and the costumes were convincing. Reviews ([critical](https://www.reddit.com/r/TrueFilm/comments/1b6j3tu/dune_part_two_is_a_mess/), [positive](https://www.reddit.com/r/movies/comments/1b3jo9s/official_discussion_dune_part_two_spoilers/)) make good points. It's kind of insane to me that sci-fi that is so insanely beautiful and well-shot like this can be so mainstream, even after so much of the critical context from the book was cut for time reasons. I docked a point only because of the inherent limitations of a movie form of Dune and my favorite book parts that got cut.
 
 - **Attack on Titan, Season 4 Final Movie**: 10/10. See my [TV post](https://blog.aayushg.com/posts/tv#2024) for more details on why I loved this show. The final episode was perfect and beautiful -- it had an incredibly complete resolution, and left me obsessed, thinking and analyzing it for literally days after. There's a reason this is considered the a top 3 greatest anime of all time -- even though I usually hate fighting and action, I loved how the show evolved and ended.
@@ -262,6 +266,8 @@ At this point and before, I watched mostly just mainstream movies.
 
 ### Earlier
 
+- **Crazy, Stupid Love**: 8/10. Fun watch for a high schooler -- the only mainstream depiction of 'pickup' in media that I know of.
+
 - **Green Hornet**: 10/10. Pretty sure this was like 13 year old me's favorite movie.
 
 ## Want To Watch
@@ -270,8 +276,8 @@ The notes for these movies are just summaries of what friends have told me about
 
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **The Last Five Years**: An Anna Kendrick musical that goes through a deteriorating relationship forwards and backwards in time, simultaneously. I found this dynamic in Tick Tick Boom fascinating so I think I would like this.
-- **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **Past Lives**: Two friends recommended this one to me very highly, and said I should go into it blind.
+- **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Hack, Punt, Tool**: Musical about MIT's hacking culture.
 - **The End of the Tour**: A drama by and about David Foster Wallace, based on the book 'Although of Course You End Up Becoming Yourself' about a 5 day roadtrip with the man. I loved [his commencement speech](https://www.youtube.com/watch?v=DCbGM4mqEVw) so much that I think this would be a wonderfully relatable movie; at the very least, a great recommendation for others.

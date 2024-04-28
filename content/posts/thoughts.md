@@ -18,6 +18,7 @@ It's really hard to maintain any long-term takeaways from the content I read, an
 
 - https://www.talentmobility.fund/ -- I've been advocating for a fund focused on O1 visas and high talent immigration for a while now, glad to see it exists! Wonder if there's a version of this for people who aren't invested to by the fund.
 - Getting PR previews on external PRs is really good for velocity of an OSS project, where you don't need any sensitive .env vars to check if the PR preview works. You can get this via Github Pages + [this Action](https://github.com/marketplace/actions/deploy-pr-preview) + [this patch](https://github.com/orgs/community/discussions/25217) it seems.
+- I had a great 1-hour session with Adil discussing the competitiveness of different bacteria in our bodies. It turns out 
 
 ## The Blue LED (Feb 2024)
 

@@ -20,9 +20,13 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 ## Previous
 
+### 2024
+
+- **Spy X Family**: 7/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
+
 ### 2023
 
-This year I've basically exclusively watched anime, compared to almost none before.
+This year I've basically exclusively watched anime, compared to almost none before. I was almost immediately impressed by the excellence of storytelling.
 
 - ⭐ **Attack on Titan** ⭐: 6/10 Season 1, 9/10 Season 2, 10/10 Season 3, 10/10 Season 4. I think that season 4 is so masterful and beautiful that it is 100% worth continuing *especially* if you didn't like season 1 -- I have never felt deeper emotions while watching television. It is definitely worth it.
 
@@ -45,6 +49,7 @@ This year I've basically exclusively watched anime, compared to almost none befo
 - **Hunter x Hunter**: ??. I watched the first episode and liked it -- this was the anime that set all the tropes. Couldn't find anyone to watch with me so I chose another.
 
 ### 2022
+
 - **Westworld** 10/10 for Season 1. The world building and meta world building is absolutely insane -- both the out west parts and the futuristic parts. It delves really deep into some very interesting consciousness theories, which I've commented on [a bit more in my other posts](https://blog.aayushg.com/posts/questions#thoughts-from-articles). They slyly slip in a bunch of fun thought experiments about consciousness and AI that are remarkably thought provoking and unique -- Jonathan Nolan clearly dug deep for material. The characters are dynamic and multifaceted, and the plot is surprising and well done. People said it gets worse from season 2 and on, so I stopped watching.
 
 - **Atlanta**: ??. Watched the first 2 episodes or so. Wasn't super compelled; I don't think I was drawn to Community's humor either so it makes sense.
