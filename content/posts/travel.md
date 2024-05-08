@@ -51,8 +51,8 @@ This alive document will be updated every time I travel.
     - Food
       - **Yume Wo Katare**: This isn't just a ramen shop ‒ they brand themselves as a shop of dreams. You say a dream you have for yourself before your meal with everyone else, in the intimate 15 person setting. Very affordable (maybe $15/person), but make sure to get there just before they open to avoid waiting in a long line.
       - **Yume Ga Agakura**: Sister shop, the best udon in MA. They shout a rating for your meal at the end, based on the amount of the Udon you were able to finish. Also affordable ($15/per).
-      - **Life Alive**: The best vegetarian food I've ever eaten ‒ I hate vegetarian food and still really enjoy this place.
       - **Gene's Flatbread Cafe**: Incredible hand-pulled noodles in Boston. These are long, chewy, flavorful noodles with meat and vegetables, and probably my favorite food in all of Chinatown. This place is a hole in the wall.
+      - **Life Alive**: The best vegetarian food I've eaten ‒ I hate vegetarian food and still enjoy this chain. Less novel in general, but was novel to me.
     - Experiences
       - **Next Haunt at MIT**: An interactive, horror escape room with actors, built by students inside a dorm. If you have a friend going here able to get you a ticket, it's definitely one of the most unique experiences I've had.
       - **Level99**: This is my favorite arcade-style place in the world; only about a 30 minute drive from Boston. There are 40ish puzzle rooms, each with one minigame in it (walk the plank, the floor is lava, pvp games, etc) that rank you on completin from 0-3 stars. Your wristband tracks your total stars, and the place is super high tech. Everyone I've told about it has loved it. If you prefer a lower-tech version of this, I also love [Boda Borg](https://www.bodaborg.com/).
@@ -215,6 +215,7 @@ This alive document will be updated every time I travel.
     - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
     - **United Arab Emirates**: Has a permanent installation of [the rain room](https://en.wikipedia.org/wiki/Rain_Room), in which water parts as you walk.
     - **New Zealand: C1 Espresso**: This [cafe sends you food and drink](https://www.youtube.com/watch?v=YTHZLKFblKo) through pneumatic tubes.
+    - **Australia: MONA**: This comedian-turned-rich-gambler David Walsh opened an extremely troll sex and death museum with an app called [the O](https://play.google.com/store/apps/details?id=net.artprocessors.mona&hl=en&gl=US) where an art critic says a fancy thing about the piece, then he comes in and is like "oh I thought the hat looked funny" to explain why he bought the art. Apparently he takes an $8 million dollar loss per year on running the place, and it'll be underwater in a few decades.
 - ## Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
