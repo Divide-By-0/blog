@@ -174,7 +174,9 @@ This alive document will be updated every time I travel.
       - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: Haven't been yet. A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
       - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
       - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
-      - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Osaka comes with lots of unexpected experiments and was highly recommended.
+      - **Bar Nayuta**: This bar in Osaka has a hidden enterance and no menu: you tell them what kinds of things you like and get a custom drink just for you.
+      - **[Hiiragiya](https://www.hiiragiya.co.jp/en/)**: This was Steve Jobs' lodge of choice in Kyoto, hundreds of years old and steeped in traditional Japanese architecture and culture.
+      - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Kyoto comes with lots of unexpected experiments and was highly recommended.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.

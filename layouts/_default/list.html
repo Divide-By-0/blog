@@ -1,14 +1,17 @@
 {{ define "main" }}
+    {{ partial "recommended.html" . }}
     <h1>{{ .Title }}</h1>
     {{ range .Pages.ByPublishDate.Reverse }}
-    <p>
-        <div>
-            <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{ partial "metadata.html" . }}
-            ||
-            {{ .Description }}
-            <!-- {{ partial "summary" . }} -->
-        </div>
-    </p>
+        {{ if not (eq .Title nil) }} <!-- Check if the date is not nil -->
+        <p>
+            <div>
+                <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ partial "metadata.html" . }}
+                ||
+                {{ .Description }}
+                <!-- {{ partial "summary" . }} -->
+            </div>
+        </p>
+        {{ end }}
     {{ end }}
 {{ end }}
