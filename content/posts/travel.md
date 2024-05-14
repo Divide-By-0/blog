@@ -157,7 +157,8 @@ This alive document will be updated every time I travel.
       - **RonRon/Dagashi Bar**: All you can eat sweets + candy of all different varieties!
       - **Capyba Cafe**: Haven't been yet. You eat food with capybaras.
     - Experiences
-      - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: Haven't been yet, but is my #1 want to go. This quirky izakaya is inside a chef's messy home, and has mostly regulars. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854).
+      - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
+      - **Bar Call Me Tell Me**: Similar bar to Bar Nayuta, but looks newer. Curious about Italian walnut liquor and hot wine, which both sound cool.
       - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
       - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
@@ -166,15 +167,15 @@ This alive document will be updated every time I travel.
       - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
       - **Maid Cafe**: Some of them (we went to maidreamin) have more gimmicks like dancing and singing too.
       - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
+      - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: This quirky izakaya is inside a chef's messy home, and has mostly chatty regulars and two cats. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854). I went once on a Saturday night, but the owner was too drunk to cook. There are no reservations but seems to be open most evenings. Even though the space is a bit dirty, I think it's still quite interesting to get a sense of the kind of person runs such a thing, and get to talk to Japanese folks who actually want to socialize.
       - **TeamLabs**: Haven't been yet. This immersive art display is on the top of every Tokyo travel list ever.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
       - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
-      - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: Haven't been yet. A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989).
+      - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: Haven't been yet. A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989). Seems to be permanently closed.
       - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
       - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
-      - **Bar Nayuta**: This bar in Osaka has a hidden enterance and no menu: you tell them what kinds of things you like and get a custom drink just for you.
       - **[Hiiragiya](https://www.hiiragiya.co.jp/en/)**: This was Steve Jobs' lodge of choice in Kyoto, hundreds of years old and steeped in traditional Japanese architecture and culture.
       - **nokishita711 Liquid Cuisine**: Haven't been yet, but this gin and cocktail lab near Kyoto comes with lots of unexpected experiments and was highly recommended.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
