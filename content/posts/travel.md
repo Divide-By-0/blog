@@ -158,7 +158,7 @@ This alive document will be updated every time I travel.
       - **Capyba Cafe**: Haven't been yet. You eat food with capybaras.
     - Experiences
       - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
-      - **Bar Call Me Tell Me**: Similar bar to Bar Nayuta, but looks newer. Curious about Italian walnut liquor and hot wine, which both sound cool.
+      - **Hollow Bar/Bar Call Me Tell Me**: Similar bars to Bar Nayuta in Osaka, but with more modern vibes.
       - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
       - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
