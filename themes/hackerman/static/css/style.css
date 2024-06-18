@@ -153,6 +153,40 @@ blockquote {
   font-size: 1em !important;
 }
 
+/* Adjust the size of Feather icons in the header */
+.feather {
+  margin-bottom: 4px;
+  align-items: flex-end; /* Align items to the bottom */
+}
+
+.tag-btn {
+  align-items: center;  /* This will vertically center the contents */
+  margin-bottom: 4px;
+}
+
+.header-content {
+  display: flex; /* Use flexbox to align items in a row */
+  align-items: center; /* Center-align items vertically */
+  justify-content: space-between; /* Distributes space between and around content items */
+}
+
+.blog-title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#nav {
+  flex-grow: 1; /* Allows the nav to grow and occupy the remaining space */
+  justify-content: center; /* Keeps the nav links centered */
+}
+
+.twitter-link {
+  display: flex;
+  align-items: center;
+  font-size: 1.5em; /* Adjust size as needed */
+  color: #1DA1F2; /* Twitter blue color */
+}
+
 /* Dark Mode */
 
 main,
@@ -208,6 +242,7 @@ a:hover {
 
 /* End Dark Mode */
 
+/* Spoilers */
 .spoiler {
   padding: 5px;
   background-color: #838383 !important;

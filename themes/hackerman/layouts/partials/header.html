@@ -1,16 +1,22 @@
 <div id="nav-border" class="container">
-    <nav id="nav" class="nav justify-content-center">
-        {{ range .Site.Menus.main }}
-        {{ if .Identifier }} <a class="nav-link optional" href="{{ .URL }}">
-        {{ else }} <a class="nav-link" href="{{ .URL }}">
-        {{ end }}
-        {{ if .Pre }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-        {{ $icon }}
-        {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
+    <div class="header-content"> <!-- Wrap the title and nav in a flex container -->
+        <span class="blog-title">aayush's thoughts</span> <!-- Blog title -->
+        <nav id="nav" class="nav justify-content-center">
+            {{ range .Site.Menus.main }}
+                {{ if .Identifier }} <a class="nav-link optional" href="{{ .URL }}">
+                {{ else }} <a class="nav-link" href="{{ .URL }}">
+                {{ end }}
+                {{ if .Pre }}
+                    {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+                    {{ $icon }}
+                {{ end }}
+                {{ $text := print .Name | safeHTML }}
+                {{ $text }}
+                </a>
+            {{ end }}
+        </nav>
+        <a href="https://twitter.com/yush_g" class="twitter-link" target="_blank" aria-label="Follow on Twitter">
+            <i data-feather="twitter"></i>
         </a>
-        {{ end }}
-    </nav>
+    </div>
 </div>

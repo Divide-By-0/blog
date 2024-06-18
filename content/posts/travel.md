@@ -137,7 +137,7 @@ This alive document will be updated every time I travel.
 ## Asia
   - ### Maldives
     - Experiences
-      - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit -\*\*I recommend trying to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
+      - **Bodu Beru dancing**: This is a traditional dance where the drum beat puts dancers into a psychadelic state. The hotels tone it down a decent bit - I recommend putting in the extra effort to find a spontaneous one on the smaller islands, and jump in yourself! Mentioned in [Impro](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/).
       - **Undersea restaurant**: Food isn't worth the price, but being in a giant tube underwater while eating was pretty sick.
   - ### Singapore
     - Food
@@ -204,7 +204,7 @@ This alive document will be updated every time I travel.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well! They seem to do them only sporadically as announced to their mailing list.
       - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
-      - **Pagan Chaos Ceremony**: Haven't been yet. Every solstice (and on select holidays in between), a group of folks heads to an isolated park and participates in a structured yet spontaneous ritual.. There is primal screaming, flower burning, and ritualistic drumming as a door opens and chaos breaks loose. Not sure if the invite should be public, so dm me or the organizer [Gabriella](https://www.gabriellajeansart.com/) for the invite!
+      - **Pagan Chaos Ceremony**: Haven't been yet. Every solstice (and on select holidays in between), a group of folks heads to an isolated park and participates in a structured yet spontaneous ritual. There is primal screaming, flower burning, and ritualistic drumming as a door opens and chaos breaks loose. Not sure if the invite should be public, so dm me or the organizer [Gabriella](https://www.gabriellajeansart.com/) for the invite!
   - ### Berlin
     - **Trust/Moving Castles**: Coordination-based gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
     - **Moos**: This collective near Treptower park has beautiful, cheap co-living for renegade anarchist types and artists -- I stayed here for a month and loved it. There were always interesting things happening (climate cooperative negotiation board games, indie documentary screening about an alternative community, handpan soundbath sauna nights, etc).

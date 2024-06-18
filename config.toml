@@ -18,6 +18,7 @@ description = "Aayush's blog. Discusses zk cryptography including plume, zk emai
     weight = 2
   [[menu.main]]
     name = "Tags"
+    pre = "tag"
     url = "/tags/"
     weight = 4
 [params]
