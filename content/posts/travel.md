@@ -24,7 +24,10 @@ This alive document will be updated every time I travel.
 ---[Cambridge, MA](#cambridge-ma)
 ---[New York City, NY](#new-york-city-ny)
 ---[California](#california)
+    - [San Francisco Area](#san-francisco-california)
+    - [Los Angeles Area](#los-angeles-area-california)
 ---[Other USA](#other-usa)
+
 [Asia](#asia)
 ---[Maldives](#maldives)
 ---[Singapore](#singapore)
@@ -32,9 +35,11 @@ This alive document will be updated every time I travel.
 ---[Thailand](#thailand)
 ---[Japan](#japan)
 ---[Egypt](#egypt)
+
 [Europe](#europe)
 ---[London](#london)
 ---[Berlin](#berlin)
+
 [Other International](#other-international)
 [Anywhere](#anywhere)
 [No Longer Exist](#no-longer-exist)
@@ -159,7 +164,7 @@ This alive document will be updated every time I travel.
     - Experiences
       - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
       - **Hollow Bar/Bar Call Me Tell Me**: Similar bars to Bar Nayuta in Osaka, but with more modern vibes.
-      - **House of Light and Shadow**: Haven't been yet. 2-3 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 4-5 months in advance.
+      - **House of Light and Shadow**: 3-5 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 2-5 months in advance.
       - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
       - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month. Unfortunately, all 5 rooms of exhibits have no english captions, and you can't just Google Lens everything because they discourage phones / pics.
@@ -167,8 +172,8 @@ This alive document will be updated every time I travel.
       - **Shimokitazawa**: Haven't been yet, reportedly good thrift shopping district.
       - **Maid Cafe**: Some of them (we went to maidreamin) have more gimmicks like dancing and singing too.
       - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
-      - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: This quirky izakaya is inside a chef's messy home, and has mostly chatty regulars and two cats. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854). I went once on a Saturday night, but the owner was too drunk to cook. There are no reservations but seems to be open most evenings. Even though the space is a bit dirty, I think it's still quite interesting to get a sense of the kind of person runs such a thing, and get to talk to Japanese folks who actually want to socialize.
-      - **TeamLabs**: Haven't been yet. This immersive art display is on the top of every Tokyo travel list ever.
+      - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: This quirky izakaya is inside a chef's messy home, and has mostly chatty regulars and two cats. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854). I went once on a Saturday night, but the owner was too drunk to cook. There are no reservations but seems to be open most evenings. Even though the space is a bit dirty and I maybe wouldn't recommend the hygiene, I think it's still quite interesting to get a sense of the kind of person runs such a thing, and get to talk to Japanese folks who actually want to socialize.
+      - **TeamLabs**: This immersive art display is incredibly pretty and bold -- room-size mirrors, barefoot exhibits in water, and generally reactive and expansive art.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
@@ -226,6 +231,7 @@ This alive document will be updated every time I travel.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
     - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
+    - **Terpeca Escape Rooms**: The top escape room project lists the top 50 in the world as evaluated by thousands of enthusiasts, and I check this list whenever I go anywhere.
 - ### No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
