@@ -310,4 +310,4 @@ The notes for these movies are just summaries of what friends have told me about
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
 - **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
 
-Curious about Inside, The Man from Toronto, Minari, and Tunnel to Summer as well.
+Curious about Inside, The Man from Toronto, Minari, and Tunnel to Summer as well. Want to watch Moana 2 and Zootopia 2 when they come out!

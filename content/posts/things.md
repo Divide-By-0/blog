@@ -12,7 +12,7 @@ aliases:
   - /things
 ---
 
-Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), [Vitalik](https://vitalik.ca/general/2022/06/20/backpack.html), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon or eBay, but I've linked to the cheapest place online I've found it.
+Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use), [Vitalik](https://vitalik.ca/general/2022/06/20/backpack.html), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon or eBay, but I've linked to the cheapest place online I've found it.
 
 This alive document will be updated every time I buy something incredible or use wonderful software.
 
@@ -71,7 +71,8 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 
 # Backpack
 
-**[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $20**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
+**[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $15**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
+**[Laptop + Phone Charging Brick that Stores Power](https://amzn.to/3KZ2ueS) - $70**. This is pricier than other chargers, but incredibly convenient -- it charges itself while its in the wall, so you can keep using it even without an outlet around! Outputs 65W to quickly charge a Mac as well. Original rec from [Andrew Connor](https://andrewconner.com/things/).
 **[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
 **[Sidecar iPad Mount for Laptop](https://www.ebay.com/itm/125205702514) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
 **[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well and usually fall out when I sleep. These don't, are super cheap, and are softer than normal earplugs. I stopped needing melatonin to sleep after starting to use these.

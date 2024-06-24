@@ -24,7 +24,7 @@ When entering the ZK space, it's easy to be overwhelmed. ZK provides [succinctne
 
 This is NOT an indictment of the ideas/protocols I don't highlight or cover favorably, nor does this represent the opinions of anyone I cite or credit (they are my interpretations only). I am aiming to make an intellectually honest survey, and so if I misunderstand something, please tell me ([telegram](https://t.me/yush_g), [twitter](https://twitter.com/yush_g)) -- I am very open to continual changes and improvements, especially as the space and this tech rapidly evolves. You can leave comments on [this hackmd](https://hackmd.io/@yush/rJBqa1YC2/edit). Thanks to Nalin, John, Yi, Richard, Sora, Ratan, [ShuklaAyush](https://github.com/shuklaayush), and Vivek for thoughts on this post, in addition to the countless folks behind these protocols themselves, and folks who I've had conversations with regarding zk over the last 2 years! Thanks to Richard and Sachin for touching on many of these points in their [ZK Summit London talk](https://www.youtube.com/watch?v=gX6smLsA0ko) as well.
 
-Last updated Nov 5, 2023.
+Last updated Jun 20, 2024.
 
 ## ZK Proving Languages and Stacks
 
