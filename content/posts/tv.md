@@ -75,6 +75,7 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 - **Foundation**: Classic Asimov novel was adapted by Apple TV so no one seems to know about it, but friends seem to rate it highly.
 - **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
 - **Spy X Family (Anime)**: Wholesome and cute.
+- **Pantheon (Anime)**: Cancelled after one season and wrapped up in the second available on sketchy sites, but apparently good.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
 - **Abstract**: Profiles on famous artists like Olafur Elliason.
 - **Dr. Stone**: My Japanese friends say that this anime is for people who like science.
