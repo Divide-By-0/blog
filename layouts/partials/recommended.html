@@ -4,14 +4,14 @@
       <h2>Recommended Posts</h2>
   </div>
   {{ range $page := $pages }}
-      <div class="post" style="background-color: #f0f0f0; text-align: center;">
+      <div class="post" style="background-color: #262626; text-align: center;">
           <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
-          <div>
+          <!-- <div>
               Tags:
               {{ range $tag := $page.Params.tags }}
                   <span>{{ $tag }}</span>
               {{ end }}
-          </div>
+          </div> -->
       </div>
   {{ end }}
 </div>
