@@ -14,6 +14,19 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Sep 2024
+
+### Lucid Dreaming
+
+The rabbit hole is deep here, but I was curious about the current state of lucid dream science. I've been able to only lucid dream about 5 times, via dream journal every morning I can remember my dream for, and a simple lucidity tests of finger-through-palm that's easy for me to do during the day. I met someone once who meditates for an hour every day and lucid dreams every night, and now he *meditates in his lucid dreams*.
+
+It seems the best meta-review here is this paper:
+https://www.tesble.com/10.1016/j.concog.2012.07.003 - it discusses basically every lucid dreaming mechanism and analyzes all the literature for it. Light pulses and [WILD](https://www.reddit.com/r/LucidDreaming/comments/trz9z/beginners_wild_method_adjustments_tricks_and_tips/) is really good, and volume-increasing sounds are also pretty good. It also shows there were a bunch of methodology errors in the studies (i.e. [WBTB](https://www.reddit.com/r/LucidDreaming/comments/28x5fj/how_to_wbtb/) is most effective in the mornings, but many studies don't take this into account for other methods).
+
+Given that light/sound does so well, one can imagine that you can personally reproduce this via real time REM detection devices with APIs. It seems the only real time REM detection device I could find was this $1500 uncomfortable EEG style headset (called the zmax) that comes with a real time API hooked up to a pulsing light (that people on Reddit seem to think [does] [sort of](https://www.reddit.com/r/LucidDreaming/comments/guqeqa/comment/kqax757/) [work](https://www.reddit.com/r/LucidDreaming/comments/14jfxmw/comment/jpm9gwt) at least for the short term) and you can program it which is pretty nice. Ideally you could [hijack the Ultrahuman ring](https://www.reddit.com/r/Ultrahuman/comments/1fa2aqk/real_time_api_availability_in_order_to_induce/) or [Oura ring to get real time REM sleep pings](https://www.reddit.com/r/ouraring/comments/ds88f4/real_time_data/) but I don't think it's really possible right now. The Eight Sleep mattress signals, unlike the rings, does claim to real-time modify mattress temperature from sleep stage — unfortunately reverse engineering the mattress [1](https://github.com/lukas-clarke/eight_sleep), [2](https://github.com/bobobo1618/ninesleep) only gives you control of changing the mattress state, not reading sleep stages in real-time, though [the CEO seems open to custom mods](https://www.reddit.com/r/EightSleep/comments/1f7481h/comment/ll6ln1m/). Finally, you can theoretically detect REM sleep decently with microphones or with CV: https://github.com/lucidcode/Halovision-INSPEC -- which seems to have anecdotally worked for the creator.
+
+I think you don't need fancy/expensive tech like fNIRS or [tFUS](https://www.prophetic.com/technology) -- it seems that there's still a lot of unfinished research on simpler triggers that combine light/sound/temperature, and that direction seems more mass marketable anyways. It's fun to build these short term hacks for the young, but it's interesting that the only consistent people to do this long-term are meditation masters.
+
 ## May 2024
 
 - Recently got a sore throat/fever for a few days just after having 4 drinks in one night, vs having just sips for basically two years consecutively beforehand (the bar was really good). Apparently alcohol disables your immune system for 24 hours, so I'm guessing that + sleeping with the window open was a bad combination. I wonder if there's something I could have done (electrolytes?) to reverse this...
