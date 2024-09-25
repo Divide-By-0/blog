@@ -227,6 +227,8 @@ This alive document will be updated every time I travel.
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
+    <!-- is this on numundo? -->
+    - **Portugal: [The Garden](http://thegarden.pt)**: A billionaire's pet project to create a vibey, coliving and coworking residency space with intentional artistic and multidisciplinary community.
     - **India: Bunkd Hostel Anjuna**: Hippie hostel recommended to me by a friend.
     - **United Arab Emirates**: Has a permanent installation of [the rain room](https://en.wikipedia.org/wiki/Rain_Room), in which water parts as you walk.
     - **New Zealand: C1 Espresso**: This [cafe sends you food and drink](https://www.youtube.com/watch?v=YTHZLKFblKo) through pneumatic tubes.

@@ -14,6 +14,16 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Oct 2024
+
+### https://ground.news/
+
+Interesting news site that shows how often the headline topic appears on left vs right news websites.
+
+### Long Covid
+
+I met a few folks with long covid, and dug a bit through Reddit to see why, to figure out what to prioritize for myself. It seems that not resting during infection ([empirical notes](https://www.reddit.com/r/LongCovid/comments/19de0qf/what_do_you_wish_you_did_to_avoid_long_covid/), [research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10502447/)) increased odds for having long COVID empirically. It seems vaccines (by around ~40-50%), [consistent sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10502447/) and [Vitamin D supplementation](https://pubmed.ncbi.nlm.nih.gov/35166850/) helps decrease long covid occurrence rate, which luckily I already mostly do.
+
 ## Sep 2024
 
 ### Lucid Dreaming
