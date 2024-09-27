@@ -301,7 +301,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Song of the Sea**: Scottish film with Anime vibes.
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
-- **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://thecinemaholic.com/confusing-movies-finally-get-explained/).
+- **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://web.archive.org/web/20240226090219/https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
 - **Kahaani**: Hindi film.
 - **All the Rage: Saved by Sarno**: A movie about Sarno's methods for chronic pain and their impact.

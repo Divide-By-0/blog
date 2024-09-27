@@ -115,7 +115,7 @@ These are all based off of others' ideas, including Justin, Max, Saffron, and Sh
 
 ## Personal Reflection Thoughts
 
-- I often give myself a hard time after screwing up. [This article recommends compassion instead](https://kofibaah.com/posts/hard-time/) -- the example of being late and beating yourself up over it (and not changing) feels relatable. I like the [Alexander Technique](https://www.michaelashcroft.org/courses)-esque practice of expanding awareness in such situations, with the goal of becoming an observer of your mental loops rather than mired in them.
+- I often give myself a hard time after screwing up. [This article recommends compassion instead](https://kofibaah.com/posts/hard-time/) -- the example of being late and beating yourself up over it (and not changing) feels relatable. I like the [Alexander Technique](https://expandingawareness.org/courses/)-esque practice of expanding awareness in such situations, with the goal of becoming an observer of your mental loops rather than mired in them.
 
 ## Other Thoughts
 

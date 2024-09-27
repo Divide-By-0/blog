@@ -12,7 +12,7 @@ aliases:
   - /things
 ---
 
-Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use), [Vitalik](https://vitalik.ca/general/2022/06/20/backpack.html), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon or eBay, but I've linked to the cheapest place online I've found it.
+Thought it would be fun to share useful things that I've bought for myself, as inspired by [Andrew Connor](https://andrewconner.com/things/), [Alexey Guzey](https://guzey.com/tools-gear/), [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use), [Vitalik](https://vitalik.eth.limo/general/2022/06/20/backpack.html), and nudging from [Vivek](https://twitter.com/viv_boop). Many other lists online are also quite comprehensive and I have taken many things from them. Most stuff is from Amazon or eBay, but I've linked to the cheapest place online I've found it.
 
 This alive document will be updated every time I buy something incredible or use wonderful software.
 
