@@ -35,6 +35,8 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2024
 
+- **Jawan**: 8/10. Watched because I enjoy feel-good Robinhood revenge plots like Now You See Me. The slow motion and color grading gave the movie a really interesting look. I enjoyed that it was a take on Krishna's story, and that all of the revenge plots were based on real events in Indian history.Docked points because there was too much action (i.e. the truck scene felt drawn out) and I didn't feel the villain's team was well explained.
+
 - **Past Lives**: 7/10. Two friends recommended this one to me very highly, and said I should go into it blind. This movie takes one very simple idea, the idea of pursuing a past what-if in the present day, and lives out the crazy fantasy we surely play out about our own pasts. There are a number of great one-liners, and I think offers the characters closure in a way that even I felt closure over it.
 
 - **Inside Out 2**: 10/10. Admittedly Inside Out was my favorite Pixar movie of all time, so I was biased. Most of the new characters in this one were not deeply explored, but I felt that it was intentional to background them (unlike the first movie) to more strongly focus on Anxiety. The movie made me appreciate my own depth of emotions more, as well as understand both my and others' anxieties better.
