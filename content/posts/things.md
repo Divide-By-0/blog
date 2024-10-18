@@ -24,7 +24,7 @@ This alive document will be updated every time I buy something incredible or use
 [Clothing](#clothing)
 [Sleep](#sleep)
 [Backpack](#backpack)
-[Other](#other)
+[Travel](#travel)
 [Fun](#fun)
 [Small PC Build](#small-pc-build)
 [Software](#software)
@@ -32,8 +32,10 @@ This alive document will be updated every time I buy something incredible or use
 
 # Household
 
-**[Molly's Suds Laundry Detergent](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods, and uses cleaner ingredients without any noticable quality difference. Since I'm worried about [normal detergent inflamming my allergies/EoE](https://pubmed.ncbi.nlm.nih.gov/35899466/), I decided to move away from standard harsh detergent ingredients.
 **[Heated Japanese Kotatsu Table](https://www.amazon.co.jp/-/en/2017-Alpi-68140011/dp/B0756YH2PM) + [300W Adapter](https://amzn.to/3AflFvx) - $200.** Imagine a table with a heater inside and a comforter around it, but a flat surface to work on. It's incredibly warm and cozy, especially in the winter. Takes a few weeks to ship from Japan, but is totally worth it.
+**[Candle Warming Lamp](https://amzn.to/3UekNBL) - $15.** Makes candles last a lot longer, but keeps the scent just as strong. You also don't need to rummage for a match to start your candle.
+**[Heated Mosquito Bite Healer](https://amzn.to/3UgowPh) - $25.** This is probably the only mosquito treatment that works for me -- it just applies extremely strong heat briefly, which theoretically denatures the protein in mosquito saliva and stops the itch.
+**[Molly's Suds Laundry Detergent](https://amzn.to/3oznUYk) - $20.** Cheaper than tide pods, and uses cleaner ingredients without any noticable quality difference. Since I'm worried about [normal detergent inflamming my allergies/EoE](https://pubmed.ncbi.nlm.nih.gov/35899466/), I decided to move away from standard harsh detergent ingredients.
 **[Chromecast](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=chromecast&_sacat=0) - $30**. Only really useful to keep TV on ambient mode, flipping through Google Photos albums of me and all of my friends.
 
 # Bathroom
@@ -44,10 +46,11 @@ This alive document will be updated every time I buy something incredible or use
 **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** Feels super smooth even with just a little. Reddit recommended.
 **[Double Line Floss Picks](https://amzn.to/3KAEMGg) - $15.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and you can see all your tooth gunk stuck between the two strings. Normal floss cuts off circulation to my finger and so I never do it, and water flossers are too annoying to refill and carry around. PFAS-free too.
 **[Sekkisui Face Sunscreen](https://www.ebay.com/itm/323874987084?hash=item4b68741c4c:g:oKkAAOSwrHRdRLKA) - $20.** Non greasy, nice smelling, easy to apply sunscreen from /r/AsianBeauty. Half price in any convenience store in Asia.
-**[Biore UV Sunscreen](https://www.ebay.com/itm/374606941467?hash=item5738504d1b:g:1zsAAOSwtOFkemhm&amdata=enc%3AAQAIAAAA4GoyZdPABhixZGlvMnf7wzOVMT19QTG6XvgGkIfRqfVrZzHFxU3xk8moSyZDZlkBe5wujCVqaiAu8WxOPz1%2BvVi6W1sF9coUYuPDXbzWMhxc5TISlKEGNP0YDNWwLg4uG2%2F7QVu6XMt%2BCvhiMRw0mfPD1PNw6KQpEk%2FKNbz0Ko6cbQJEZZSmd29b3V4lByGmweb%2BJt4wsAh6BR4yANvOEFS7Hx53xA2PpSfGxvuVyzMORx149Gnpgr2fQtIEKBcxy011bUa0vwBfTCL%2BV7LP4Q8zC0w8b2e7AOy1WcELLUeu%7Ctkp%3ABFBMrKSS75Ji) - $15**. I use this as a body and face sunscreen, since more comes out per squeeze than the Sekkisui. Half price at any convenience store in Japan. Recommended by [Andrew Connor](https://andrewconner.com/things/).
+**[Biore UV Sunscreen](https://www.ebay.com/itm/374606941467) - $15**. I use this as a body and face sunscreen, since more comes out per squeeze than the Sekkisui. Half price at any convenience store in Japan. Recommended by [Andrew Connor](https://andrewconner.com/things/).
 **[Travel Toiletry Kit](https://amzn.to/40ulyHn)([Cheaper 3 Pack](https://amzn.to/41sF48x)) - $15/$6.** I dump shampoo/conditioner/bodywash in here before I travel, since I prefer to use my own.
 **[Stannous Fluoride Toothpaste](https://amzn.to/3WQULox) - $15**. Stannous flouride and hydroxyapatite has repeatedly [been shown](https://now.tufts.edu/2013/03/20/other-fluoride-benefits-stannous-fluoride) to be more effective than normal toothpaste at cavity prevention. This Crest toothpaste is basically the same price and texture so should be a no-brainer toothpaste replacement. Thanks to [Rob Wiblin for the rec](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68).
 **[Aluminum Shower Caddy with Tension Rod](https://amzn.to/3P7y0cp) - $45**. Most "rust free" products on Amazon are all made with stainless steel that does rust, and the reviews reflect that. Since this is all aluminum, it can't rust, and all the reviews confirm that it never rusts. Bought "like new" so it was 25% off.
+**[MUJI Nail Clipper with Case](https://amzn.to/3Ys9iJB) - $10**. Has a plastic case to keep all your nails inside the clippers.
 
 # Kitchen
 
@@ -72,7 +75,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 # Backpack
 
 **[Portable Charger with Cables Built In](https://amzn.to/43tsg2s) - $15**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
-**[Laptop + Phone Charging Brick that Stores Power](https://amzn.to/3KZ2ueS) - $70**. This is pricier than other USB-C/USB to wall outlets, but incredibly convenient -- it charges itself while its in the wall, so you can keep using it even without an outlet around! Outputs 65W to quickly charge a Mac as well. Original rec from [Andrew Connor](https://andrewconner.com/things/).
+**[Laptop + Phone Charging Brick that Stores Power](https://amzn.to/3KZ2ueS) - $70**. This is pricier than other USB-C/USB to wall outlets, but incredibly convenient -- it charges itself while its in the wall, so you can keep using it even without an outlet around! Outputs 65W to quickly charge a Mac as well (but only when it's plugged in, which is annoying but probably still state-of-the-art charging tech). Original rec from [Andrew Connor](https://andrewconner.com/things/).
 **[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
 **[Sidecar iPad Mount for Laptop](https://www.ebay.com/itm/125205702514) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
 **[Contoured Ear Plugs](https://amzn.to/3KUaSMu) - $18.** Normal earplugs don't fit me that well and usually fall out when I sleep. These don't, are super cheap, and are softer than normal earplugs. I stopped needing melatonin to sleep after starting to use these.
@@ -84,6 +87,12 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 **[Airtag Card Holder](https://amzn.to/3I3ENk6) - $8**. Shaped like a card, with a circle in the middle to hold airtags. I use it to ensure airtags don't fall out of my passport cover and are easier to locate in my backpack.
 
 I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and extra pockets, and a Kindle Paperwhite Kids for distraction-free books. I use Calibre on my laptop to format and load in arbitrary epubs and mobis from online. I also have an M1 Pro, but since Jony Ive left Apple, they've been getting heavier so I might grab an Air next time I upgrade.
+
+# Travel
+**[Portable Stool](https://amzn.to/3BNVeS1) - $18**. Fits in a large pocket or under your jacket, and folds out into a full stool that is very useful at concerts, in trains, or any other useful long travel where you might want to sit.
+**[Portable Jump Starter](https://amzn.to/4e83s4V) - $20.** I keep this in my car trunk for in case I need to jump start my car, and also to charge my phone/laptop if I'm in a pinch.
+**[Foldable Bed Mosquito Net](https://amzn.to/48ea9kz) - $35.** Goes over your bed, and you sleep inside -- mosquitos can't get you at night, and when you wake up they will all be on the surface and you can eliminate them from inside. Also folds to be roughly the size of a single pair of pants.
+**[Car Phone Charging Mount](https://amzn.to/3Yt5Luv) - $20.** Goes on your car AC vent, and the USB port plugs into the mount itself so that your phone can wirelessly charge; no more fiddling with wires when driving.
 
 # Fun
 
