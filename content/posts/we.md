@@ -46,6 +46,12 @@ I can't imagine how to do this with any other tech including FHE, ZK, or on chai
 
 A more open problem is whether more complex functions can be incorporated into the functional commitment. This is an approachable direction that I would recommend exploring. I hear rumors about WE from IPA but haven't seen anything concrete about it yet.
 
+## Nathan's Research
+
+I worked with Nathan last summer on some demos and writeups, and he produced this excellent [writeup](https://hackmd.io/@novus677/ryouyz810) that builds up a technical intuition for witness encryption -- it's very well written and I recommend reading it as the next step.
+
+## Interesting Directions
+
 Here's a smattering of other directions I think would be good to explore:
 
 - It would also be great to get a sense of if pseudo-randomness
