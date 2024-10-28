@@ -148,7 +148,9 @@ This server can read the plaintext and headers of all the emails you receive, an
 
 If you're using zk-email for semi-anonymity (to prove that you're some member of a set, without revealing which member), note that if you post a message on-chain containing a nullifier derived from the email, like a body hash, then the receiving mailserver will be able to associate you with your nullifier, which would link your on-chain message to your identity. For this reason, there's a fundamental tradeoff between being undoxxable to your mailserver and being able to prove the uniqueness of your pseudonymous identity. If you're using an application that uses nullifiers and you're worried about your mailserver reading your mail and de-anonymizing you, you should use an encrypted email provides like Skiff or Protonmail to ensure privacy. We expect existing expectations (i.e. your email provider doesn't snoop through your email) and privacy legislation to be a temporary preventative mechanism until encrypted email providers are more widely adopted, but it shouldn't be relied on for anonymity-critical applications.
 
-However, if you use the email wallet SDK to do anonymous transactions, you can have users put encrypted values in their email subjects, keeping content private from the email provider itself (and delay an acceptable amount for the mail server to not be able to cross-correlate).
+Note that it is impossible to do proofs of mails sent to Protonmail because they mangle the delimiters by [adding a random 128 bit hex value](https://github.com/ProtonMail/mimemessage.js/blob/d822999942ba10d504b9d0214314ff508517009f/lib/Entity.js#L175). You can see that they [decrypt with a fixed random string](https://github.com/ProtonMail/protoncore_ios/blob/38bda3e7b171049eba3ac57917d1c20bb733e8a5/libraries/Features/Sources/MailSending%2BBuilder.swift#L283) as well. Unfortunately, the best we can recommend is a self-hosted version of Skiff pre-acquisition instead.
+
+However, note that if you use the email wallet SDK to do anonymous transactions, you can have users put encrypted values in their email subjects, keeping content private from the email provider itself (and delay an acceptable amount for the mail server to not be able to cross-correlate).
 
 ## How Serverless ZK Twitter Verification Works
 
@@ -237,9 +239,11 @@ We have lookup-based regex code in Halo2 that performs much better than our Circ
 from: "User Set Name" <test@gmail.com>;<br/>
 from: User Set Name <test@gmail.com>;<br/>
 from: <test@gmail.com>;<br/>
+from: "<faketest@test.com>" <test@gmail.com>;<br/>
+from: "&lt; faketest@test.com&gt;" &lt;test@gmail.com&gt;;<br/>
 from: "test@gmail.com";<br/>
 from: test@gmail.com;<br/><br/>
 
-I couldn't find any concrete examples of the last 2 after checking a couple of emails, but they are in spec and I can imagine that it would pass your incoming spam filter. At this point, you might be able to see where we are going with this. We would need 5 different string match patterns for each suffix and prefix, and then to assert additionally certain character values to ensure that the user was not trying to be clever with escaped quotes or < signs in their name. You're effectively special casing a few concrete paths through a regex DFA, and the special-cased code would become exceedingly hard to maintain and verify.<br/>
+I couldn't find any concrete examples of the last 2 after checking a couple of emails, but they are in spec and I can imagine that it would pass your incoming spam filter. The first 3 are common and you can reproduce the fourth/fifth pattern via mail.ru. At this point, you might be able to see where we are going with this. We would need 7 different string match patterns for each suffix and prefix, and then to assert additionally certain character values to ensure that the user was not trying to be clever with escaped quotes or < signs in their name. You're effectively special casing a few concrete paths through a regex DFA, and the special-cased code would become exceedingly hard to maintain and verify.<br/>
 
 Another good question we get sometimes is, how can you possibly parse body HTML with a regular expression, if HTML is explicitly a non-regular expression (i.e. can contain recursive structure)? The answer is that we expect message body parsing to be roughly constant between emails -- you can imagine that two payment confirmation emails effectively differ in a handful of characters, and the rest are held constant. So unless you are parsing highly customized HTML, most HTML can be modelled as a series of constant substrings with variable strings in between them -- which can be parsed by a regex.

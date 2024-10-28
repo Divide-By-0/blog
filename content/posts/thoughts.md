@@ -16,6 +16,14 @@ It's really hard to maintain any long-term takeaways from the content I read, an
 
 ## Oct 2024
 
+### DEFCON Talks
+
+I really want to go here next year. Till then, here's the crazy cool stuff I saw and what I thought:
+
+- [Samy Kamkar on Laser Keystroke Tracking](https://www.youtube.com/watch?v=R5nMqju6crY) - Insanely cool both breakdown of his personal journey through getting deeper into understanding technology and physics, and all sorts of different remote reading exploits, along with simple wrappers to re-ground watchers. Samy is one of the first people who made the impression on me that hacking was incredibly creative, you can do really cool things open source, and you can just sort of have fun as your job and it's fine. It's awesome that every year he puts out bangers. I was also excited that there was a place for me in physics even after all the cool software then hardware things I want to do :) He also lists a bunch of dope ideas like being able to automatically detect the iphone LIDAR infrared grid then emit a sound when a picture is being taken -- great way for excited, sharp people to get into the field.
+
+- [Joseph Cox on FBI Encrypted Phone Tapping](https://www.youtube.com/watch?v=uFyk5UOyNqI) - Joseph is one of the best tech journalists, is totally independent, and very good at finding information that seems impossible to get. This breakdown of how the FBI tapped what seemed like a legitimate anonymous phone company through and through, was super scary and well reported on.
+
 ### https://ground.news/
 
 Interesting news site that shows how often the headline topic appears on left vs right news websites.
