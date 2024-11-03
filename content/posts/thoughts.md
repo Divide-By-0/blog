@@ -1,6 +1,6 @@
 ---
 title: "Thoughts for Curious Rabbit-holers Like Me [Live Post]"
-date: 2023-12-19T22:12:03.284Z
+date: 2024-11-03T22:12:03.284Z
 type: posts
 draft: false
 slug: "thoughts"
@@ -14,7 +14,7 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
-## Oct 2024
+## Nov 2024
 
 ### Sleep Tools
 
@@ -24,7 +24,9 @@ Personally I'm much more excited about people hacking the colmi r02 (https://git
 
 ### Blogging Tools
 
-I really want something to automatically summarize my blog's diff over the last month then make a draft update for all my subscribers. Hmm.
+I really want a simple AI tool to automatically summarize my blog + Github's diff over the last month then make a draft update for all my subscribers. I just made a [simple script to get the commit names off an org](https://gist.github.com/Divide-By-0/c27819bd530b441445285818b5a5be2c) -- I can modify this to get all commits from my Github account, then use AI to summarize both the messages and diffs and see which is better.
+
+## Oct 2024
 
 ### DEFCON Talks
 
