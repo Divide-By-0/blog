@@ -1,5 +1,5 @@
 ---
-title: "Recent Thoughts and Rabbitholes [Live Post]"
+title: "Thoughts for Curious Rabbit-holers Like Me [Live Post]"
 date: 2023-12-19T22:12:03.284Z
 type: posts
 draft: false
@@ -20,7 +20,7 @@ It's really hard to maintain any long-term takeaways from the content I read, an
 
 I'm not as excited about [Elemind and Stimscience](https://www.wsj.com/podcasts/tech-news-briefing/wearable-tech-that-could-help-you-sleep-better/e0933b45-b850-4d5a-98d9-a64ea73aaf5f) due to the reliance on EEG and poor study endpoints. I get to sleep in 10 min (according to my Oura) so Elemind wouldn't help. Stimscience testing 'sleeping longer' seems useless to me, why not just... set ur alarm 20 min later? I'm not convinced Lumos is better for timezone transfer than adjusting your meal schedule a day or two ahead of time.
 
-Personally im much more excited about people hacking the colmi r02 (https://github.com/tahnok/colmi_r02_client) to replicate oura's platform open source (and therefore give real time sleep help + accurate lucid dreaming cues without brain reading needed). I'm cautiously optimistic on remspace showing two way within-dream communication, and still unsure if prophetic is promising (I think meditation is probably better for lucid dreaming than their focused ultrasound technique which seems oddly forceful).
+Personally I'm much more excited about people hacking the colmi r02 (https://github.com/tahnok/colmi_r02_client), a $20 Oura clone, to replicate Oura's platform open source (and therefore give real time sleep help + accurate lucid dreaming cues without brain reading needed). I'm cautiously optimistic on remspace showing two way within-dream communication, and still unsure if prophetic is promising (I think meditation is probably better for lucid dreaming than their focused ultrasound technique which seems oddly forceful).
 
 ### Blogging Tools
 
