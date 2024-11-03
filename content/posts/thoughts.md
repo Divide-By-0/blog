@@ -1,12 +1,12 @@
 ---
-title: "Thoughts on Various Media I've Consumed [Live Post]"
+title: "Recent Thoughts and Rabbitholes [Live Post]"
 date: 2023-12-19T22:12:03.284Z
 type: posts
 draft: false
 slug: "thoughts"
 category: "15 min read"
 tags: ["thoughts", "musings"]
-description: "Takeaways from rabbit holes I've dived into, articles I've read, or videos I've watched"
+description: "Takeaways from rabbit holes I've dived into, articles I've read, or videos I've watched. Actually a way to make concrete my takeaways from late night binging."
 aliases:  
   - /posts/thoughts
   - /thoughts
@@ -22,11 +22,15 @@ I'm not as excited about [Elemind and Stimscience](https://www.wsj.com/podcasts/
 
 Personally im much more excited about people hacking the colmi r02 (https://github.com/tahnok/colmi_r02_client) to replicate oura's platform open source (and therefore give real time sleep help + accurate lucid dreaming cues without brain reading needed). I'm cautiously optimistic on remspace showing two way within-dream communication, and still unsure if prophetic is promising (I think meditation is probably better for lucid dreaming than their focused ultrasound technique which seems oddly forceful).
 
+### Blogging Tools
+
+I really want something to automatically summarize my blog's diff over the last month then make a draft update for all my subscribers. Hmm.
+
 ### DEFCON Talks
 
 I really want to go here next year. Till then, here's the crazy cool stuff I saw and what I thought:
 
-- [Samy Kamkar on Laser Keystroke Tracking](https://www.youtube.com/watch?v=R5nMqju6crY) - Insanely cool both breakdown of his personal journey through getting deeper into understanding technology and physics, and all sorts of different remote reading exploits, along with simple wrappers to re-ground watchers. Samy is one of the first people who made the impression on me that hacking was incredibly creative, you can do really cool things open source, and you can just sort of have fun as your job and it's fine. It's awesome that every year he puts out bangers. I was also excited that there was a place for me in physics even after all the cool software then hardware things I want to do :) He also lists a bunch of dope ideas like being able to automatically detect the iphone LIDAR infrared grid then emit a sound when a picture is being taken -- great way for excited, sharp people to get into the field.
+- [Samy Kamkar on Keystroke Tracking via Lasers](https://www.youtube.com/watch?v=R5nMqju6crY) - I've seen various flavors of side channel attacks before, but this is the longest-range one I've seen so far. Insanely cool both breakdown of his personal journey through getting deeper into hardware and physics from software, and all sorts of different remote reading exploits. Samy is one of the first people who made the impression on me ~10 years ago that hacking was incredibly creative, you can do really cool things open source, and you can just sort of have fun as your job and it's fine. It's awesome that every year he puts out bangers. I was also excited that it's possible to transition from software/hacking to hardware/physics, even after all the cool software then hardware things I want to do :) He also lists a bunch of dope ideas like being able to automatically detect the iphone LIDAR infrared grid then emit a sound when a picture is being taken -- what a nerdsnipe, would love to hack on that or see someone else do it.
 
 - [Joseph Cox on FBI Encrypted Phone Tapping](https://www.youtube.com/watch?v=uFyk5UOyNqI) - Joseph is one of the best tech journalists, is totally independent, and very good at finding information that seems impossible to get. This breakdown of how the FBI tapped what seemed like a legitimate anonymous phone company through and through, was super scary and well reported on.
 
