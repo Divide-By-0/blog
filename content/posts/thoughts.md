@@ -12,7 +12,7 @@ aliases:
   - /thoughts
 ---
 
-It's really hard to maintain any long-term takeaways from the content I read, and I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
+It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
 ## Nov 2024
 
@@ -24,7 +24,7 @@ Personally I'm much more excited about people hacking the colmi r02 (https://git
 
 ### Blogging Tools
 
-I really want a simple AI tool to automatically summarize my blog + Github's diff over the last month then make a draft update for all my subscribers. I just made a [simple script to get the commit names off an org](https://gist.github.com/Divide-By-0/c27819bd530b441445285818b5a5be2c) -- I can modify this to get all commits from my Github account, then use AI to summarize both the messages and diffs and see which is better. 
+I really want a simple AI tool to automatically summarize my blog + Github's diff over the last month then make a draft update for all my subscribers. I just made a [simple script to get the commit names off an org](https://gist.github.com/Divide-By-0/c27819bd530b441445285818b5a5be2c) -- I can modify this to get all commits from my Github account, then use AI to summarize both the messages and diffs and see which is better.
 
 ## Oct 2024
 
