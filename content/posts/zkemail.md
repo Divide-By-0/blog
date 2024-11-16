@@ -243,7 +243,5 @@ from: "<faketest@test.com>" <test@gmail.com>;<br/>
 from: "&lt; faketest@test.com&gt;" &lt;test@gmail.com&gt;;<br/>
 from: "test@gmail.com";<br/>
 from: test@gmail.com;<br/><br/>
-
 I couldn't find any concrete examples of the last 2 after checking a couple of emails, but they are in spec and I can imagine that it would pass your incoming spam filter. The first 3 are common and you can reproduce the fourth/fifth pattern via mail.ru. At this point, you might be able to see where we are going with this. We would need 7 different string match patterns for each suffix and prefix, and then to assert additionally certain character values to ensure that the user was not trying to be clever with escaped quotes or < signs in their name. You're effectively special casing a few concrete paths through a regex DFA, and the special-cased code would become exceedingly hard to maintain and verify.<br/>
-
 Another good question we get sometimes is, how can you possibly parse body HTML with a regular expression, if HTML is explicitly a non-regular expression (i.e. can contain recursive structure)? The answer is that we expect message body parsing to be roughly constant between emails -- you can imagine that two payment confirmation emails effectively differ in a handful of characters, and the rest are held constant. So unless you are parsing highly customized HTML, most HTML can be modelled as a series of constant substrings with variable strings in between them -- which can be parsed by a regex.
