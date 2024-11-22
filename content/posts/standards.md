@@ -2,12 +2,12 @@
 title: "Advancing Standards for ZK and Provenance"
 date: 2024-11-12T22:12:03.284Z
 authors: ["yush_g"]
-draft: true
+draft: false
 type: posts
 slug: "standards"
 category: "30 min read"
 tags: ["crypto", "zk", "signatures"]
-description: "rt"
+description: "I discuss my takeaways from the IETF standards conference, and what we can do to advance standards for signatures and provenance."
 aliases:
   - /posts/standards
   - /standards
