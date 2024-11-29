@@ -226,6 +226,7 @@ This alive document will be updated every time I travel.
     - **Mexico: Luis Barragan's House**: This architect known for colorblock houses and buildings has an insane house open to the public, and many super-unique buildings around Mexico.
     - **Phillipines: International Pyromusical Competition**: Every year, there's a massive series of musically choreographed fireworks shows here, where all the big companies come and show off.
     - **France: French Red Wine Slides**: Somewhere in Paris they claim to have humans ride down these mid-party...
+    - **Brazil: Azul Airlines**: This airline uses the Steffen Perfect method to board passengers, the [theoretically optimal](https://www.youtube.com/watch?v=oAHbLRjF0vo) boarding method.
     - **Portugal: Waking Life**: Burning Man style music [festival](https://linktr.ee/wakinglife) in Portugal. No cameras, psychadelic vibe, near a lake.
     <!-- is this on numundo? -->
     - **Portugal: [The Garden](http://thegarden.pt)**: A billionaire's pet project to create a vibey, coliving and coworking residency space with intentional artistic and multidisciplinary community.
