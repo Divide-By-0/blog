@@ -5,7 +5,7 @@ type: posts
 draft: false
 slug: "we"
 category: "5 min read"
-tags: ["recs"]
+tags: ["crypto"]
 description: "Witness encryption is a fairly new cryptographic idea, sort of the flip side of zero knowledge. What is the state of research here, how does it work, and what can we do with it?"
 aliases:
   - /posts/we

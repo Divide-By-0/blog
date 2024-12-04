@@ -5,7 +5,7 @@ type: posts
 draft: false
 slug: "roommate"
 category: "15 min read"
-tags: ["recs"]
+tags: ["advice"]
 description: "How my personality and direction totally changed after living with someone for a summer."
 aliases:
 - /posts/justin
