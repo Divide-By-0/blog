@@ -14,6 +14,12 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Dec 2024
+
+### Emergent Civilizations and Coordination in Games
+
+Because in-game time progresses so much faster than real world time, it's fascinating to see the emergent behavior of players on massive servers even over the course of a few days. There's civilization-scale political maneuvers, moving orators affecting nuts mobilization, mega projects, religious rites, and nearly fiction-novel levels of stories embedded in them. Some like *real* civilization building experiments like [this guy who only makes an insanely high-quality video or two a year, created a surprisingly well-told one in Minecraft](https://www.youtube.com/watch?v=N3XJqDGmanE) with super savvy leaders, or the [stories of 2b2t](https://www.youtube.com/watch?v=maMpMOnIJDE) and the insane engineering that players had to pull off, for both the exploits and the patches. I hear that Eve Online has similar emergent behavior, and I still think its highly compelling for people to test-drive new technology in these environments.
+
 ## Nov 2024
 
 ### Sleep Tools
