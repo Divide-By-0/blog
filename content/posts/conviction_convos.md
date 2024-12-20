@@ -30,7 +30,7 @@ yush —
 Yeah twitters bad for focus
 It's always fun hearing about the cool stuff but every minute of that takes away from ur own work and your own cool ideas.
 Twitters also like, 3 months behind on everything
-I usually keep twitter to a few min/day -- try to replace twitter with ethresearch or even like a tv show or something
+I usually keep twitter to a few min/day -- try to replace twitter with ethresearch or even like reading a book or something
 After spending time around certain people, I just very strongly feel like, the real crypto discussions about the future are not happening on twitter lol
 
 friend N -
