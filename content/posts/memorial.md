@@ -2,7 +2,7 @@
 title: "My Memorial to Suchir Balaji"
 date: 2024-12-31T22:12:03.284Z
 type: posts
-draft: true
+draft: false
 slug: "memorial"
 category: "5 min read"
 tags: [""]
