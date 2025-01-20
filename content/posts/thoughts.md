@@ -14,11 +14,23 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Jan 2025
+
+### Balisong for ADHD
+
+[Butterfly knife flipping](https://www.youtube.com/watch?v=15D_LWIguL8) was introduced to me by my college roommate Jason, but I never picked it up till now. I usually feel fidget toys don't have enough of a learning curve, but flips are both beautiful, have high skill ceilings, and can be fidgeted with discreetly during conversations. I bought a [$13 comb](https://amzn.to/42krsPR) to be able to carry it through the TSA and it's been great to be able to pay more attention in conversations.
+
 ## Dec 2024
 
 ### Emergent Civilizations and Coordination in Games
 
 Because in-game time progresses so much faster than real world time, it's fascinating to see the emergent behavior of players on massive servers even over the course of a few days. There's civilization-scale political maneuvers, moving orators affecting nuts mobilization, mega projects, religious rites, and nearly fiction-novel levels of stories embedded in them. Some like *real* civilization building experiments like [this guy who only makes an insanely high-quality video or two a year, created a surprisingly well-told one in Minecraft](https://www.youtube.com/watch?v=N3XJqDGmanE) with super savvy leaders, or the [stories of 2b2t](https://www.youtube.com/watch?v=maMpMOnIJDE) and the insane engineering that players had to pull off, for both the exploits and the patches. I hear that Eve Online has similar emergent behavior, and I still think its highly compelling for people to test-drive new technology in these environments.
+
+### plasticlist.org
+
+I'm such a huge fan of this initiative and initiatives like this. Even if it doesn't drive immediate lifestyle changes (other than avoid Boba Guys), I feel there's a lot of value in individual-driven, well executed citizen science. My friend AY suggested next steps could be going one step up the chain and determining which specific ingredients are causing the issue so consumers have actionable things to boycott and force companies to replace. You could even go an additional step up the chain and check at which step in the manufacturing process introduces the microplastics, then give federal agencies a clear actionable to ban that step (or decrease subsidies or whatever). He also suggested to test foods that have clear sourcing already established in USDA's food databases, thus allowing to detect overlapping ingredients that might be good targets.
+
+Another cool (more scientific) next step could be to fund a competition to build RNA that can bind to the too-small microplastics then amplify them as well, so that you can detect the ones that broke down due to heat or other degradation.
 
 ## Nov 2024
 
@@ -26,7 +38,7 @@ Because in-game time progresses so much faster than real world time, it's fascin
 
 I'm not as excited about [Elemind and Stimscience](https://www.wsj.com/podcasts/tech-news-briefing/wearable-tech-that-could-help-you-sleep-better/e0933b45-b850-4d5a-98d9-a64ea73aaf5f) due to the reliance on EEG and poor study endpoints. I get to sleep in 10 min (according to my Oura) so Elemind wouldn't help. Stimscience testing 'sleeping longer' seems useless to me, why not just... set ur alarm 20 min later? I'm not convinced Lumos is better for timezone transfer than adjusting your meal schedule a day or two ahead of time.
 
-Personally I'm much more excited about people hacking the colmi r02 (https://github.com/tahnok/colmi_r02_client), a $20 Oura clone, to replicate Oura's platform open source (and therefore give real time sleep help + accurate lucid dreaming cues without brain reading needed). I'm cautiously optimistic on remspace showing two way within-dream communication, and still unsure if prophetic is promising (I think meditation is probably better for lucid dreaming than their focused ultrasound technique which seems oddly forceful).
+Personally I'm much more excited about people hacking the colmi r02 ([github.com/tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client)), a $20 Oura clone, to replicate Oura's platform open source (and therefore give real time sleep help + slightly less accurate lucid dreaming cues without brain reading needed). I'm cautiously optimistic on remspace showing two way within-dream communication, and still unsure if prophetic is promising (I think meditation is probably better for lucid dreaming than their focused ultrasound technique which seems oddly forceful).
 
 ### Blogging Tools
 

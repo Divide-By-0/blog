@@ -22,11 +22,13 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 ### 2024
 
-- **Spy X Family**: 7/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
+- **Arcane**: 10/10. I was pleasantly surprised by how insanely good Arcane was, even if I had no experience with League of Legends nor any desire to play it. Most animated shows take 2 years to create, but the first season took 6 years. The animation is beautiful, the symbolism has all the elite moviemaker motifs, and the plot represents "the wrong outcome for the right reasons" incredibly well. [This thread (with season 1 spoilers)](https://www.reddit.com/r/arcane/comments/t53vwh/spoilers_ep9_how_arcane_uses_diagonals_to_tell_a/) had some incredible analysis.
+
+- **Spy X Family**: 6/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
 
 ### 2023
 
-This year I've basically exclusively watched anime, compared to almost none before. I was almost immediately impressed by the excellence of storytelling.
+This year I've basically exclusively watched anime, compared to almost none before. I was almost generally impressed by the excellence of storytelling in anime as compared to traditional American shows.
 
 - ⭐ **Attack on Titan** ⭐: 6/10 Season 1, 9/10 Season 2, 10/10 Season 3, 10/10 Season 4. I think that season 4 is so masterful and beautiful that it is 100% worth continuing *especially* if you didn't like season 1 -- I have never felt deeper emotions while watching television. It is definitely worth it.
 
@@ -42,9 +44,9 @@ This year I've basically exclusively watched anime, compared to almost none befo
 
 - **Made in Abyss**: 7/10 first season. This anime seems to be [Gwern's favorite anime](https://gwern.net/review/anime) and seemed promising; the premise and world building of the first episode felt really fascinating to me, and it's only 13 episodes. However, as I watched the next 6 or so episodes, I thought the pacing was pretty poor: it was simultaneously too fast to give time to each place, and too slow to develop major plot points. Too much time was spent on the landscape, and too little on the lore or the history. In addition, the characters were pretty simple and one-dimensional, and the villains weren't particularly cunning or interesting.
 
-  I really liked the season 1 finale, but imo it wasn't worth 9 episodes of buildup. The two movies (journeys dawn and wandering twilight) cut a lot of the crappy slow plots out, added some fun scenes, and seem overall better. I'd recommend just watching the movies piecemeal over the anime. I think if you prefer pretty worldbuilding to fighting scenes and are willing to wait for plot, only then it's a good fit.
+  I really liked the season 1 finale, but imo it wasn't worth 9 episodes of buildup. The two movies (journeys dawn and wandering twilight) cut a lot of the crappy slow plots out, added some fun scenes, and seem overall better. I'd recommend just watching the movies piecemeal over the anime. I think if you prefer pretty worldbuilding to fighting scenes and are willing to wait for plot, only then is the show a good fit.
 
-- **Code Geass**: Maybe 6/10 for the first 5 episodes. The villainization of invaders is pretty one sided, the main character seems to win no matter what, and I don't like the animation style much or lack of clearly developed characters and backstory. The school scenes are alright though. I hear it gets better but I thought it would be more enjoyable to try another anime instead.
+- **Code Geass**: Maybe 6/10 for the first 5 episodes. The villainization of invaders felt pretty one sided, the main character seems to win no matter what, and I don't like the animation style much or lack of clearly developed characters and backstory. The school scenes are alright though. I hear it gets better but I thought it would be more enjoyable to try another anime instead.
 
 - **Hunter x Hunter**: ??. I watched the first episode and liked it -- this was the anime that set all the tropes. Couldn't find anyone to watch with me so I chose another.
 
@@ -74,15 +76,15 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 
 - **Foundation**: Classic Asimov novel was adapted by Apple TV so no one seems to know about it, but friends seem to rate it highly.
 - **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
-- **Spy X Family (Anime)**: Wholesome and cute.
 - **Pantheon (Anime)**: Cancelled after one season and wrapped up in the second available on sketchy sites, but apparently good.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
+- **Three Body Problem**: Apparently extremely well adapted from and faithful to the books.
 - **Abstract**: Profiles on famous artists like Olafur Elliason.
 - **Dr. Stone**: My Japanese friends say that this anime is for people who like science.
-- **Stein's Gate (Anime)**: Apparently this is a really good one about a time travelling microwave (seems a little absurd to me, but I'm willing to give it a shot) -- a friend said this is the anime he most wishes he could rewatch with fresh eyes.
 - **Promised Neverland (Anime)**: Season 1 is "impressive, leaves you stunned, the world building is so good". Rec'd by a friend who also didn't like AoT season 1 but liked season 2.
-- **Bocchi the Rock (Anime)**: This is one of the most popular animes in my Japanese friend's Tokyo group, about an anxious-avoidant gradeschool girl who's really good at guitar, and has to reconcile the social needs of being in a band with her natural introversion.
+- **Stein's Gate (Anime)**: Apparently this is a really good one about a time travelling microwave (seems a little absurd to me, but I'm willing to give it a shot) -- a friend said this is the anime he most wishes he could rewatch with fresh eyes.
 - **Tatami Galaxy (Anime)**: Seems to explore the disillusionment of exploring alternate school lives. Critically acclaimed with exaggerated style and absurd dark comedy, 11 episodes.
+- **Bocchi the Rock (Anime)**: This is one of the most popular animes in my Japanese friend's Tokyo group, about an anxious-avoidant gradeschool girl who's really good at guitar, and has to reconcile the social needs of being in a band with her natural introversion.
 - **Demon Slayer (Anime)**: The manifestation of curses is very similar to Jujutsu Kaisen, as is the duality of the main character. Seems like a curious one to try out, but many people say that it's inferior to Jujutsu Kaisen.
 - **Violet Evergarden (Anime)**: "the most beautiful animation out of any that I've seen." - My friend Ray. Unforunately, I really don't like war plots, so it's not high on the list.
 

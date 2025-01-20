@@ -286,6 +286,8 @@ The notes for these movies are just summaries of what friends have told me about
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Nightcrawler**: Apparently a very motivational movie and top rated thriller; one of my friends' favorite movies.
+- **Blade Runner 2049**: Denis Villeneuve cyberpunk masterpiece, with the same insane artistic shots as Dune.
+- **Mad Max Fury Road**: This had no screenplay; just George Miller spending months in a room with a bunch of brilliant storyboard artists, before a single line was written. Movie theory darling.
 - **The Last Five Years**: An Anna Kendrick musical that goes through a deteriorating relationship forwards and backwards in time, simultaneously. I found this dynamic in Tick Tick Boom fascinating so I think I would like this.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
 - **Sugarcane**: Award winning documentary about the genocide and cultural erasure in Canadian Indian residential schools.

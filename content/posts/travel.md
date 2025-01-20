@@ -1,6 +1,6 @@
 ---
 title: "Travel Recommendations for Novelty-Seekers Like Me [Live Post]"
-date: 2022-10-19T22:12:03.284Z
+date: 2025-01-12T22:12:03.284Z
 type: posts
 draft: false
 slug: "travel"
@@ -48,6 +48,7 @@ This alive document will be updated every time I travel.
   - ### Seattle, WA
     - Food
       - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
+      - **Atoma**: Haven't been yet, but an ex-Canlis sous-chef opened a molecular gastronomy restaurant near UW.
     - To-do
       - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
       - **The Gorge**: [Rave style experiences](https://pnw.beyondwonderland.com/) in a naturally-formed amphitheatre in the rock.
@@ -102,6 +103,7 @@ This alive document will be updated every time I travel.
       - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
       - **Japantown SF**: This mall really does feel like a Japanese mall, complete with the udon and ramen, the snack shops with samples, and the fake plastic food in front.
       - Restaurants I want to try: Georgian Cheese Boat (Kachipuri is super tasty), Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
+      - **Hilda and Jesse**: This place has garbage Google reviews due to their overpriced breakfast, but their dinner course is super underrated. It's about ~$100/person and extremely good.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **[Immersive Gamebox SF](https://immersivegamebox.com/locations/ca-stonestown-galleria-san-francisco/)**: Games enabled via projections -- lower physicality than Level99, but seems good for player vs player games.
@@ -120,20 +122,21 @@ This alive document will be updated every time I travel.
     - Food
       - **B Sweeet**: Haven't been yet. In LA, a bread pudding shop with 40 flavors.
     - Experiences
-      - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks in LA.
       - **Mars College**: Haven't been yet. One of my close friends' favorite alternative communes.
       - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well!
+      - **Boba Bear Arcane Pop-up**: Haven't been yet. Pop-up experience with all sorts of real-life versions of things from the Arcane TV show and themed drinks.
   - ### Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
     - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a very interesting group that manages to pull off extremely creative events.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
-    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas. The art itself is very psychadelic and physically impressive, although I did feel the space didn't do as much as it could have with the space, the story, and the interactivity.
+    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas. The art itself is very psychadelic and physically impressive, although I did feel the space didn't do as much as it could have with the story and the interactivity.
     - **TimeMission**: A smaller-scale version of Level99 near Providence, Rhode Island.
     - **[Activate](https://playactivate.com/)**: Less artistic, less mysterious, more formulaic version of mini challenge rooms spread throughout the USA and Canada.
     - **BRKTHROUGH**: Challenge rooms like Level99 in Kansas.
     - **District 57**: A lower-tech version of Level99 (more like BodaBorg) in Charlotte, NC -- unfortunately, the appeal is more flashing lights and less compelling technology.
     - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
+    - **Round1**: A Japanese arcade chain with single-floor versions throughout the USA (including Seattle, SF, LA, NYC). The claw games are unique and many are actually winnable, and the ones I went to have really fun DDR machines and variants.
 ## Asia
   - ### Maldives
     - Experiences
@@ -213,6 +216,7 @@ This alive document will be updated every time I travel.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
       - **Pagan Chaos Ceremony**: Haven't been yet. Every solstice (and on select holidays in between), a group of folks heads to an isolated park and participates in a structured yet spontaneous ritual. There is primal screaming, flower burning, and ritualistic drumming as a door opens and chaos breaks loose. Not sure if the invite should be public, so dm me or the organizer [Gabriella](https://www.gabriellajeansart.com/) for the invite!
   - ### Berlin
+    - **Eispatisserie Hokey Pokey Ice Cream**: Super creamy and reputed to be the best ice cream in the city.
     - **Trust/Moving Castles**: Coordination-based gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
     - **Moos**: This collective near Treptower park has beautiful, cheap co-living for renegade anarchist types and artists -- I stayed here for a month and loved it. There were always interesting things happening (climate cooperative negotiation board games, indie documentary screening about an alternative community, handpan soundbath sauna nights, etc).
     - **Kitkatclub**: Famous kink club -- we went on a psytrace night so it was less kinky (I hear foreplay night is also focused on vibes over kink). The place itself is this insane labyrinth with tons of little hidden rooms, and it is definitely worth going to at least once.
@@ -246,3 +250,4 @@ This alive document will be updated every time I travel.
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.
+  - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks -- one was in LA and one was in South Korea, but they're both closed now.

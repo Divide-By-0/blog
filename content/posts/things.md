@@ -99,6 +99,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[EarOS One Concert Earplugs](https://amzn.to/3X1Rvqj) - $40**. Developed with the MIT Acoustic Lab, this gives far higher quality audio than jamming foam earplugs into my ears. [The crowd agrees with me, and one-off reviews say it's better than the popular alternatives](https://amzn.to/45QheGc).
 **[90° Prism Glasses](https://amzn.to/45rJLC4) - $15**. Let you look forwards and see downwards, making using your phone much less taxing on your neck.
 **[Proxmark 3 RFID Cloner](https://amzn.to/3GZSBfo) - $75.** Designed by the veritable and prolific [Samy Kamkar](https://twitter.com/samykamkar). Quick to setup and it clones basically all cards I throw at it. The popular Flipper is substantially worse at accurately cloning and emulating cards.
+**[Glass Pixelator](https://amzn.to/3DLWl5C) - $40**. A small piece of glass that when you look through it, pixelates naturally whatever's on the other side. You can find a cheaper plastic one on Aliexpress: [Plastic for $30 on AliExpress](https://aliexpress.us/item/3256807302882690.html)
 **[RFID Ring](https://amzn.to/3AhjojO) - $30.** Clone any card onto this, then just tap with your finger to use it. Rumor is Oura Gen 4 will have this.
 **[Colored Flame Birthday Candles](https://amzn.to/41qsCGh) - $7.** Cheap, simple, and cool on birthdays. You can also get [them for bonfires](https://amzn.to/4c5uZDx).
 **[Joycon Controller Grips](https://amzn.to/3AgnbO9)- $10.** Turn each Nintendo Switch joycon into a mini controller for cheap.
