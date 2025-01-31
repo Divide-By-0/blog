@@ -17,7 +17,7 @@ recommended: false
 toc: true
 ---
 
-*Thanks to Eric Rescorla, Justin Richer, Digital Bazaar, Mark Nottingham, Martin Thompson, Vivek B, Jason Morton, Crema Labs, Dan Boneh, and Desec for their time and insights!*
+*Thanks to Eric Rescorla, Justin Richer, Digital Bazaar, Mark Nottingham, Martin Thompson, Vivek Bhupatiraju, Jason Morton, Crema Labs, Dan Boneh, and Desec for their time and insights!*
 
 Going to the IETF standards conference for a week, reading more RFCs than most 24 year olds should be reading, and talking to several RFC authors has given me a decent sense of what needs to happen in standards and adoption to maximally advance the ZK, cryptography, and signatures space. Here are my thoughts, along with links to the raw info. Note that this is currently in progress and being actively edited and written -- please give feedback to @yush_g on [X](https://x.com/yush_g) or [Telegram](https://t.me/yush_g)!
 

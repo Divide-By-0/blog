@@ -48,6 +48,7 @@ This alive document will be updated every time I travel.
   - ### Seattle, WA
     - Food
       - **U:Don**: Chipotle for udon ‒ build your own udon bowl. Incredibly tasty, best low-price meal I had in Seattle. Possibly ties with Yume for best udon I've ever had.
+      - **Chocolati Cafe**: Artsy and indie chocolate cafe that features rotating art from local artists as well. I enjoy their Euro drinking chocolate, especially with an extra scoop of chocolate.
       - **Atoma**: Haven't been yet, but an ex-Canlis sous-chef opened a molecular gastronomy restaurant near UW.
     - To-do
       - **Twice Sold Tales**: This is a very tight space with cats, rare books, and a lot of really fun lore about all of the books and knicknacks.
