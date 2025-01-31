@@ -1,6 +1,6 @@
 ---
 title: "Travel Recommendations for Novelty-Seekers Like Me [Live Post]"
-date: 2025-01-12T22:12:03.284Z
+date: 2024-12-12T22:12:03.284Z
 type: posts
 draft: false
 slug: "travel"
