@@ -99,7 +99,6 @@ This alive document will be updated every time I travel.
   - ### San Francisco, California
     - Food
       - **Ginto Express**: $15 udon/curry bowls north of Mission, that taste just like they do in Japan.
-      - **Dandelion Chocolate**: My roommate [recommends this place's hot/drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too.
       - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?/person) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
       - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
       - **Japantown SF**: This mall really does feel like a Japanese mall, complete with the udon and ramen, the snack shops with samples, and the fake plastic food in front.
@@ -107,16 +106,17 @@ This alive document will be updated every time I travel.
       - **Hilda and Jesse**: This place has garbage Google reviews due to their overpriced breakfast, but their dinner course is super underrated. It's about ~$100/person and extremely good.
     - Experiences
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
-      - **[Immersive Gamebox SF](https://immersivegamebox.com/locations/ca-stonestown-galleria-san-francisco/)**: Games enabled via projections -- lower physicality than Level99, but seems good for player vs player games.
-      - **Noisebridge**: Haven't been yet, an [open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that seems interesting.
+      - **Noisebridge**: An [indie, open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that is nearly completely self-funded and community-run.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
-      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. My roommate [also recommends this place's hot chocolate](https://www.rhotter.com/posts/hot-chocolate).
-      - **[Studio 45](https://www.workatthestudio.com/)**: Free daily coworking in the Mission in SF, the upstairs coworking area is littered with architecture drawings and has a maker/creative vibe.
+      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. My roommate [also recommends this place's drinking chocolate](https://www.rhotter.com/posts/hot-chocolate).
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
       - **Monument/Dory**: Haven't been yet. A creative, art-tech [group house](http://www.monument.house/) out of a SoMa warehouse.
       - **City Lights Bookstore**: Haven't been yet. A friend recommended it to me.
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
-      - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around here!
+      - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around Golden Gate Park! Sunset is the best time to go.
+      - **[Immersive Gamebox SF](https://immersivegamebox.com/locations/ca-stonestown-galleria-san-francisco/)**: Haven't been yet. Has games enabled via projections -- lower physicality than Level99, but seems good for player vs player games.
+      - **[Studio 45](https://www.workatthestudio.com/)**: Free daily coworking in the Mission in SF, the upstairs coworking area is littered with architecture drawings and has a maker/creative vibe. Not better than a cafe or Noisebridge though to be honest.
+      - **[LXM](https://lxm.house)**: Our house for creative, mischievous scientists hosts friends and blog readers for free! If you've gotten this far in this post, we'd probably get along -- [dm me](https://twitter.com/yush_g) to schedule.
     <!-- Neogenesis House: Removed due to association with Genesis house. -->
     <!-- Reminder to self: Stay at Benji's parents backyard shed. -->
   - ### Los Angeles Area, California
@@ -252,3 +252,4 @@ This alive document will be updated every time I travel.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.
   - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks -- one was in LA and one was in South Korea, but they're both closed now.
+  - **Dandelion Chocolate in SF**: My roommate [used to recommend this place's Euro drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too; unfortunately they apparently no longer serve that.
