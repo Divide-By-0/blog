@@ -108,8 +108,9 @@ This alive document will be updated every time I travel.
       - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
       - **Noisebridge**: An [indie, open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that is nearly completely self-funded and community-run.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
-      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. My roommate [also recommends this place's drinking chocolate](https://www.rhotter.com/posts/hot-chocolate).
+      - **Dandelion Chocolate in SF**: My roommate with excellent chocolate taste [recommends this place's Euro drinking chocolate](https://www.rhotter.com/posts/hot-chocolate) and I also think it's excellent. The interior is also super cute and creative.
       - **Topos House**: Haven't been yet. Intellectual, life-long learning style [group house](https://topos.house/) with [interesting events like the Antidisciplinarathon](http://hypotext.co/antidisciplinarathon).
+      - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. They no longer have [drinking chocolate, but it used to be very good](https://www.rhotter.com/posts/hot-chocolate).
       - **Monument/Dory**: Haven't been yet. A creative, art-tech [group house](http://www.monument.house/) out of a SoMa warehouse.
       - **City Lights Bookstore**: Haven't been yet. A friend recommended it to me.
       - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
@@ -252,4 +253,3 @@ This alive document will be updated every time I travel.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.
   - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks -- one was in LA and one was in South Korea, but they're both closed now.
-  - **Dandelion Chocolate in SF**: My roommate [used to recommend this place's Euro drinking chocolate](https://www.rhotter.com/posts/hot-chocolate), and I thought the interior was pretty cute too; unfortunately they apparently no longer serve that.

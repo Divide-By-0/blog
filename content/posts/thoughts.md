@@ -14,11 +14,25 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Feb 2025
+
+### Things I Wish Someone Told Me Before Scuba Diving
+
+Scuba diving feels like the closest you can get to being on a completely different planet. The matter around you is foreign, the sounds are different, your body movements are different; everything changes. This is only a list of things I couldn't find online or in the PADI class, that I wish I knew.
+
+- Your first discovery dive can be used for your certification later; definitely start there.
+- Call ahead and ask if a team member can bring a GoPro into the ocean to record your dive. The place I went seemed surprisingly nice about this. Better someone else record so you are in the shot!
+- Shave your facial hair before you go. The more airtight, the better.
+  - Your googles are actually not completely tight, and you can breathe out of your nose – this is how you get the water out of your goggles. For people like me with a bad gag reflex, this was a lifesaver.
+  - I popped my ears probably like every foot going up and down the ocean. As long as you go slow and follow the instructor on the rope, you almost certainly won't explode your lungs.
+- Memorizing all the hand signals is pretty important; otherwise, you literally will not be able to communicate down there or know which fish you're seeing. Probably good to take a peek at some before you go. I also bring a cheap underwater slate and pencil on Amazon, and a little metal underwater bell.
+- All the heavy tank weight disappears in the ocean! I guess this should have been obvious but I didn't realize how easy it is to maneuver around.
+
 ## Jan 2025
 
 ### Balisong for ADHD
 
-[Butterfly knife flipping](https://www.youtube.com/watch?v=15D_LWIguL8) was introduced to me by my college roommate Jason, but I never picked it up till now. I usually feel fidget toys don't have enough of a learning curve, but flips are both beautiful, have high skill ceilings, and can be fidgeted with discreetly during conversations. I bought a [$13 comb](https://amzn.to/42krsPR) to be able to carry it through the TSA and it's been great to be able to pay more attention in conversations.
+[Butterfly knife flipping](https://www.youtube.com/watch?v=15D_LWIguL8) was introduced to me by my college roommate Jason, but I never picked it up till now. I usually feel fidget toys don't have enough of a learning curve, but balisong is beautiful, has a high skill ceiling, and can be fidgeted with without looking at it during conversations. I bought a [$13 comb](https://amzn.to/42krsPR) to be able to carry it through the TSA (though sometimes they seize it), and it's been great to be able to pay more attention in conversations.
 
 ## Dec 2024
 
