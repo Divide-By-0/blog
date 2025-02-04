@@ -240,6 +240,7 @@ This alive document will be updated every time I travel.
     - **United Arab Emirates**: Has a permanent installation of [the rain room](https://en.wikipedia.org/wiki/Rain_Room), in which water parts as you walk.
     - **New Zealand: C1 Espresso**: This [cafe sends you food and drink](https://www.youtube.com/watch?v=YTHZLKFblKo) through pneumatic tubes.
     - **Australia: MONA**: This comedian-turned-rich-gambler David Walsh opened an extremely troll sex and death museum with an app called [the O](https://play.google.com/store/apps/details?id=net.artprocessors.mona&hl=en&gl=US) where an art critic says a fancy thing about the piece, then he comes in and is like "oh I thought the hat looked funny" to explain why he bought the art. Apparently he takes an $8 million dollar loss per year on running the place, and it'll be underwater in a few decades.
+    - **Nairobi, Kenya: Nai Nami**: Ex-gang leaders and street kids who pivoted their life after prison to create oppertunities for their city and now are hailed as heroes, and lead these tours of the inner city. The thing that convinced me was the last few min of [this video](https://youtu.be/9c3s17NvX5M?t=824) about one of the tour guide's incredible stories.
 - ## Anywhere
   - Experiences
     - **Sensory Deprivation Tanks**: Haven't tried one yet, but looks fun as long as you have constant oversight/some type of safe word/short hair or very well tied long hair.
