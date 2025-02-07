@@ -16,7 +16,7 @@ aliases:
 
 *Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Originally written in Q4 2022.*
 
-Witness encryption is a pretty underrated idea in cryptography that hasn't been extensively explored or applied (especially in blockchain) yet. Witness encryption is the idea that you can encrypt not to a person or public/private key pair, but to anyone with some "proof". This can be people with a certain signature, or possibly even a certain ZK proof! This is powerful -- this means I could be able to send a message i.e. all people who ever tap my jubmoji card in the future could see, or who ever get an email from a certain party, or anyone who sends some transaction on the EVM (via a storage proof).
+Witness encryption is a pretty underrated idea in cryptography that hasn't been extensively explored or applied (especially in blockchain contexts) yet. Witness encryption is the idea that you can encrypt not to a person or public/private key pair, but to anyone with *any witness* (aka satisfying statement) that satisfies some constraint. This can be people with a certain signature, or possibly even a certain ZK proof! This is powerful -- this means I could be able to send a message i.e. all people who ever tap my [jubmoji card](https://vivs.wiki/Jubmoji) in the future could see, or who ever [get a confirmation email](https://zk.email) from a certain party, or anyone who sends some transaction on the EVM (via a storage proof). The most powerful thing is that this can happen noninteractively -- meaning you can post this "witness encrypted" data on i.e. a blockchain, as well as the kind of data that can be used to unlock it.
 
 Here are some "gradients" of witness encryption, by power:
 
@@ -32,7 +32,7 @@ As of mid-2023, there is no known algorithm for witness encryption that is crypt
 
 A number of papers "fake" witness encryption by introducing multi-party computation (MPC) networks as assumptions -- [this one](https://eprint.iacr.org/2023/635.pdf) technically "works", but they as usual such a non-collusion, honest majority system undermines the whole idea. If you trust someone (MPC network) to decrypt, you might as well trust them with the data and verification too. Furthermore, the "honest majority" assumption means you have no idea if the committee cheated and read the data itself, making schemes like this questionable at best (even if the zk proof verification happens on-chain).
 
-A number of other papers combine witness encryption with IBE (identity based encryption). These also seem to defeat the purpose, as you have to know everyone's identity commitments before creating the witness encryption (correct me if I'm wrong).
+A number of other papers combine witness encryption with IBE (identity based encryption). These also seem to mostly defeat the purpose, as you have to know everyone's identity commitments before creating the witness encryption.
 
 ## Open Directions
 
@@ -42,7 +42,7 @@ However, one interesting project idea is to build a trustless tinder type matchi
 
 First, everyone commits to, say, 5 people they are most interested in. Those 5 people should get only notified if they also commit to that person as one of their chosen 5 as well. So, after everyone commits, those commitments are used in the FC-WE scheme that everyone then runs, to publish a message only to their 5 folks only if they also had valid commitments (i.e. with them in it, while keeping it anonymous, which doesn't seem possible to me with vanilla zk proofs). Finally, in the reveal stage, everyone attempts to read every message and can only end up reading the ones that work for them.
 
-I can't imagine how to do this with any other tech including FHE, ZK, or on chain logic -- although socialist millionaire problem makes the tinder example possible (as the query function is just equality), WE also makes it possible and it seems like a fun early proof of concept.
+I can't imagine how to do this with any other tech including FHE, ZK, or on chain logic. However, you can do this with the socialist millionaire construction makes the tinder example possible (as the query function is just equality). However, WE also makes it possible and it seems like a fun early proof of concept, and you might be able to extend it in ways that the socialist millionaire construction doesn't support.
 
 A more open problem is whether more complex functions can be incorporated into the functional commitment. This is an approachable direction that I would recommend exploring. I hear rumors about WE from IPA but haven't seen anything concrete about it yet.
 
@@ -50,13 +50,17 @@ A more open problem is whether more complex functions can be incorporated into t
 
 I worked with Nathan last summer on some demos and writeups, and he produced this excellent [writeup](https://hackmd.io/@novus677/ryouyz810) that builds up a technical intuition for witness encryption -- it's very well written and I recommend reading it as the next step.
 
+## Trinity
+
+Turns out you can use KZG witness encryption to build fast and noninteractive (or minimal interaction) 2PC. More details [here](https://github.com/cursive-team/trinity-v0).
+
 ## Interesting Directions
 
 Here's a smattering of other directions I think would be good to explore:
 
 - It would also be great to get a sense of if pseudo-randomness
 for smooth projective hash functions (the novel assumption introed in this paper) in the presence of proofs is true without relying on the generic group model to unlock this WE scheme over Groth Sahai proofs https://eprint.iacr.org/2015/1073.pdf. 
-- It would be cool to have a blog post or paper also describing a zeroing attack on the original MLM proposed in https://eprint.iacr.org/2013/258.pdf and implemented by Gavin Uberti, which we are confident can be broken but don’t have exact parameters for yet. 
+- It would be cool to have a blog post or paper also describing a zeroing attack on the original MLM proposed in https://eprint.iacr.org/2013/258.pdf and implemented by Gavin Uberti, which we are confident can be broken but don’t have exact parameters for yet.
   - There is no specific existing code or paper for a zeroing attack on the specific curve parameters that Guberti's WE implementation uses. We have consulted with two professors who have developed such attacks, and both believe it is likely feasible on those curves as well, but not worth their time to implement. This could be a fun direction and way to get to understand some of these schemes and attacks!
   - One potential strategy to incentivize the breaking of that curve (or any other witness encryption assumption) is to lock up funds in a scheme secured by it. This could also be applied to other WE papers, incentivizing the breaking of each of the novel mathematical assumptions. Talking to a few folks indicates that small monetary incentives are not sufficient to motivate math PhD students and professors to shift their research focus, but I still think it's a cool way to incentivize mathematical research.
 - The evasive LWE assumption was introduced by https://eprint.iacr.org/2022/1140 and unlocks witness encryption with LWE, but we do not know any proof of it yet.
