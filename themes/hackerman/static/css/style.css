@@ -292,7 +292,7 @@ a:hover {
   opacity: .07;
   pointer-events: none;
   mix-blend-mode: hard-light;
-  background-image: url("/media/noise.jpg");
+  background-image: url("../../media/noise.jpg");
   background-position: 0 0;
   background-size: 100px 100px;
   flex: 1 0 auto;
