@@ -46,7 +46,7 @@ I can't imagine how to do this with any other tech including FHE, ZK, or on chai
 
 A more open problem is whether more complex functions can be incorporated into the functional commitment. This is an approachable direction that I would recommend exploring. I hear rumors about WE from IPA but haven't seen anything concrete about it yet.
 
-## Nathan's Research
+## Building a Technical Intuition
 
 I worked with Nathan last summer on some demos and writeups, and he produced this excellent [writeup](https://hackmd.io/@novus677/ryouyz810) that builds up a technical intuition for witness encryption -- it's very well written and I recommend reading it as the next step.
 
@@ -64,4 +64,5 @@ for smooth projective hash functions (the novel assumption introed in this paper
   - There is no specific existing code or paper for a zeroing attack on the specific curve parameters that Guberti's WE implementation uses. We have consulted with two professors who have developed such attacks, and both believe it is likely feasible on those curves as well, but not worth their time to implement. This could be a fun direction and way to get to understand some of these schemes and attacks!
   - One potential strategy to incentivize the breaking of that curve (or any other witness encryption assumption) is to lock up funds in a scheme secured by it. This could also be applied to other WE papers, incentivizing the breaking of each of the novel mathematical assumptions. Talking to a few folks indicates that small monetary incentives are not sufficient to motivate math PhD students and professors to shift their research focus, but I still think it's a cool way to incentivize mathematical research.
 - The evasive LWE assumption was introduced by https://eprint.iacr.org/2022/1140 and unlocks witness encryption with LWE, but we do not know any proof of it yet.
+- I want someone to create large, 100K+ bounties for breaking novel cryptographic assumptions -- this could justify a math student to actually work on that for a year.
 - There's super crazy shit you can cook up like [Octopus](https://ethresear.ch/t/octopus-contract-and-its-applications/17844), where combining witness encryption with one-time programs, FHE, and garbled circuits gets you private smart contracts.
