@@ -5,11 +5,13 @@
     </header>
     {{ partial "metadata.html" . }}
     {{ if .Params.toc }}
-    <div class="table-of-contents" style="display: flex; align-items: flex-start;">
+    <div style="padding-bottom: 1rem;"></div>
+    <div class="table-of-contents" style="text-align: left;">
         {{ .TableOfContents }}
     </div>
     {{ end }}
     <section>
+      <div style="padding-bottom: 1.5rem;"></div>
       {{ .Content }}
     </section>
 </article>

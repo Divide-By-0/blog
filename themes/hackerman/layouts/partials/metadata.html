@@ -5,5 +5,5 @@
 {{ with .Params.tags }}
 <i data-feather="tag"></i>
 {{ range . }} {{ $href := print (absURL "tags/") (urlize .) }}
-<a class="btn btn-sm btn-outline-light tag-btn" href="{{ $href }}">{{ . }}</a>
+<a class="btn btn-sm btn-outline-light tag-btn" href="{{ $href }}" style="padding: 0.05rem 0.5rem 0.15rem 0.5rem; border-radius: 12px;">{{ . }}</a>
 {{ end }} {{ end }}

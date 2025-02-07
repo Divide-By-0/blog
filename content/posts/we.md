@@ -14,7 +14,7 @@ aliases:
   - /witnessencryption
 ---
 
-Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Originally written in Q4 2022.
+*Thanks to Sora Suegami, Vivek Bhupatiraju, Gavin Uberti, Yi Sun, Jonathan Wang, Flynn, and Florent for thoughts on witness encryption. Originally written in Q4 2022.*
 
 Witness encryption is a pretty underrated idea in cryptography that hasn't been extensively explored or applied (especially in blockchain) yet. Witness encryption is the idea that you can encrypt not to a person or public/private key pair, but to anyone with some "proof". This can be people with a certain signature, or possibly even a certain ZK proof! This is powerful -- this means I could be able to send a message i.e. all people who ever tap my jubmoji card in the future could see, or who ever get an email from a certain party, or anyone who sends some transaction on the EVM (via a storage proof).
 

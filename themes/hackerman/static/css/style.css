@@ -13,6 +13,7 @@ body {
   /* color: black; */
 
   /* --background-block: #eee; */
+  font-family: "EB Garamond", serif;
 }
 
 /* body {
@@ -20,8 +21,8 @@ body {
 } */
 
 main {
-  padding: 0 1rem 2rem 1rem;
-  max-width: 800px;
+  /* padding: 0 1rem 2rem 1rem; */
+  max-width: 1000px;
   min-height: 100%;
   /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
   font-family: "EB Garamond", serif;
@@ -38,10 +39,10 @@ main {
 }
 
 nav {
-  flex-grow: 0.2;
+  flex-grow: 0;
   display: flex;
   justify-content: flex-end;
-  padding: 2rem;
+  padding: 2rem 0;
 }
 
 .nav-link {
@@ -49,7 +50,7 @@ nav {
 }
 
 a {
-  color: white;
+  color: #e5e7eb;
   text-decoration: underline;
 }
 
@@ -57,13 +58,13 @@ a:hover {
   text-decoration: underline;
 }
 .table {
-  color: #fff;
+  color: #e5e7eb;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
-  color: #fff;
+  color: #e5e7eb;
   text-align: center;
 }
 
@@ -165,19 +166,22 @@ blockquote {
 }
 
 .header-content {
-  display: flex; /* Use flexbox to align items in a row */
-  align-items: center; /* Center-align items vertically */
-  justify-content: space-between; /* Distributes space between and around content items */
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .blog-title {
   font-weight: bold;
   font-size: 1.2em;
+  padding-left: 0;
 }
 
 #nav {
-  flex-grow: 1; /* Allows the nav to grow and occupy the remaining space */
-  justify-content: center; /* Keeps the nav links centered */
+  flex-grow: 0;
+  justify-content: flex-end;
+  margin-left: auto;
 }
 
 .twitter-link {
@@ -192,8 +196,8 @@ blockquote {
 main,
 body,
 textarea {
-  background-color: #121416;
-  color: #e6e1e1;
+  /* background-color: #121416; */
+  color: #e5e7eb;
 }
 
 h1,
@@ -202,11 +206,12 @@ h3,
 h4,
 h5,
 h6 {
-  color: #e6e1e1;
+  color: #e5e7eb;
+  font-family: "EB Garamond", serif;
 }
 
 a {
-  color: #007bff;
+  color: #e5e7eb;
 }
 
 a:hover {
@@ -229,10 +234,7 @@ a:hover {
 
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.active:focus,
-.navbar-light .navbar-nav .nav-link.active:hover,
-.navbar-light .navbar-nav .show > .nav-link,
-.navbar-light .navbar-nav .show > .nav-link:focus,
-.navbar-light .navbar-nav .show > .nav-link:hover {
+.navbar-light .navbar-nav .nav-link.active:hover {
   color: #fff;
 }
 
@@ -257,7 +259,7 @@ a:hover {
 }
 
 .spoiler::before {
-  color: #e6e1e1 !important;
+  color: #e5e7eb !important;
   content: "Click to Show";
   position: absolute;
   top: 50%;
@@ -279,9 +281,77 @@ a:hover {
 }
 
 .spoiler.active {
-  color: #e6e1e1 !important;
+  color: #e5e7eb !important;
 }
 
 .spoiler.active .reveal {
   display: block;
+}
+
+.noise-layer {
+  opacity: .07;
+  pointer-events: none;
+  mix-blend-mode: hard-light;
+  background-image: url("/media/noise.jpg");
+  background-position: 0 0;
+  background-size: 100px 100px;
+  flex: 1 0 auto;
+  width: 100vw;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.noise-container {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 800px;
+  padding: 0 5rem;
+  margin: 0 auto;
+}
+
+.grid-container {
+  min-height: 100%;
+  height: fit-content;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  background-color: #161616;
+}
+
+.grid-container:before {
+  content: "";
+  background-color: transparent;
+  /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='110' height='110'%3E%3Crect width='40' height='40' fill='%2300000000' /%3E%3Crect x='50%' width='0.5' height='100%' fill='grey' /%3E%3Crect y='50%' width='100%' height='0.5' fill='grey' /%3E%3C/svg%3E%0A"); */
+  background-repeat: repeat;
+  opacity: 0.12;
+  top: 0;
+  left: 0;
+  position: absolute;
+  min-height: 100%;
+  height: fit-content;
+  width: 100vw;
+}
+
+.table-of-contents {
+  max-width: 200px;
+  overflow-y: auto;
+}
+
+/* Style the ToC nav menu items to have less spacing */
+.table-of-contents nav {
+  padding: 0;
+}
+
+.table-of-contents ul {
+  padding-left: 1rem;
+  margin: 0.25rem 0;
+}
+
+.table-of-contents li {
+  margin: 0.25rem 0;
 }

@@ -5,7 +5,6 @@ type: posts
 draft: false
 slug: "memorial"
 category: "5 min read"
-tags: [""]
 description: "A memorial to Suchir Balaji."
 aliases:
   - /posts/memorial

@@ -24,10 +24,9 @@ This alive document will be updated every time I travel.
 ---[Cambridge, MA](#cambridge-ma)
 ---[New York City, NY](#new-york-city-ny)
 ---[California](#california)
-    - [San Francisco Area](#san-francisco-california)
-    - [Los Angeles Area](#los-angeles-area-california)
+------ [San Francisco Area](#san-francisco-california)
+------ [Los Angeles Area](#los-angeles-area-california)
 ---[Other USA](#other-usa)
-
 [Asia](#asia)
 ---[Maldives](#maldives)
 ---[Singapore](#singapore)
@@ -35,11 +34,9 @@ This alive document will be updated every time I travel.
 ---[Thailand](#thailand)
 ---[Japan](#japan)
 ---[Egypt](#egypt)
-
 [Europe](#europe)
 ---[London](#london)
 ---[Berlin](#berlin)
-
 [Other International](#other-international)
 [Anywhere](#anywhere)
 [No Longer Exist](#no-longer-exist)
