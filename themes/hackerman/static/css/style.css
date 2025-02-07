@@ -338,7 +338,7 @@ a:hover {
 }
 
 .table-of-contents {
-  max-width: 200px;
+  max-width: 300px;
   overflow-y: auto;
 }
 
@@ -354,4 +354,15 @@ a:hover {
 
 .table-of-contents li {
   margin: 0.25rem 0;
+}
+
+.recommended-post {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+@media (min-width: 600px) {
+  .recommended-post {
+    margin: 0.3rem 0;
+  }
 }

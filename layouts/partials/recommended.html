@@ -1,10 +1,10 @@
-<div class="text-center" style="width: 70%; margin: 0 auto; border: 1px solid #e6e1e1; padding: 1rem; border-radius: 4px;">
+<div class="text-center" style="margin: 0 auto; border: 1px solid #e6e1e1; padding: 1rem; border-radius: 4px; width: 100%; @media (min-width: 640px) { width: 70%; }">
   {{ $pages := where .Site.RegularPages "Params.recommended" true }}
   <div>
       <h2>Recommended Posts</h2>
   </div>
   {{ range $page := $pages }}
-      <div class="post" style="text-align: center; margin: 0.3rem 0;">
+      <div class="recommended-post">
           <a href="{{ $page.Permalink }}" style="color: #e5e7eb;">{{ $page.Title }}</a>
           <!-- <div>
               Tags:
