@@ -90,6 +90,7 @@ This alive document will be updated every time I travel.
       - **Grand Central Terminal Whispering Gallery**: Haven't been yet. An oval room on the lower floor where standing on the foci of the room 30 ft apart means you can hear each other whispering to each other, even with multiple loud people in between.
       - **ARTECHOUSE, SuperReal, ZeroSpace**: Haven't been yet, but these are all large cutting edge art tech exhibits.
       - **Spyscape Museum**: Haven't been yet, but you pretend to be a spy?
+      - **[NYC Builder Underground](https://x.com/fishlooker_/status/1888021510368972926)**: A bunch of cozy maker/side project communities that seem fun.
       - **[Index NYC](https://www.index-space.org/)**: Happenings and creative workshops.
       - **[Dia Art Museums](https://diaart.org/)**: The organization that funded Turrell has a lot of open, free museums of pretty interesting artists.
       - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).

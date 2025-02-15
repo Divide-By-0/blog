@@ -28,11 +28,13 @@ However, it's important to note that all witness encryption algorithms over NP, 
 
 As of mid-2023, there is no known algorithm for witness encryption that is cryptographically secure. Several papers have proposed such algorithms, but each introduces a novel and unproven mathematical assumption. One exception is the Witness Encryption (WE) from general indistinguishability obfuscation (iO), as discussed in a 2020 paper. However, this approach is highly inefficient, with several gigabytes of overhead per bit.
 
-## IBE is not Witness Encryption
+## How does it work?
 
-A number of papers "fake" witness encryption by introducing multi-party computation (MPC) networks as assumptions -- [this one](https://eprint.iacr.org/2023/635.pdf) technically "works", but they as usual such a non-collusion, honest majority system undermines the whole idea. If you trust someone (MPC network) to decrypt, you might as well trust them with the data and verification too. Furthermore, the "honest majority" assumption means you have no idea if the committee cheated and read the data itself, making schemes like this questionable at best (even if the zk proof verification happens on-chain).
+Imagine someone defined some proof, let's say a [ZK Email](https://zk.email) proof that you got an email invite to a party. This is a bit convoluted but let's say the owner wants to share their door code with all invitees now and into the future, so they witness encrypt it to this "proof".
 
-A number of other papers combine witness encryption with IBE (identity based encryption). These also seem to mostly defeat the purpose, as you have to know everyone's identity commitments before creating the witness encryption.
+Now, anyone who has any valid proof can decrypt the door code. Why? Their satisfying witness neatly fits some sort of puzzle, for which only having a satisfying set of numbers can neatly zero out all the levels of hiding, applied by the the witness encryption process wherein the structure of the proof is applied on top of the data to be encrypted. This doesn't mathematically explain how it works, but perhaps I'll edit this post later to explain how the failed multilinear map scheme worked, or how the BLS signature version works.
+
+<!-- Add mental model of how it works -->
 
 ## Open Directions
 
@@ -66,3 +68,9 @@ for smooth projective hash functions (the novel assumption introed in this paper
 - The evasive LWE assumption was introduced by https://eprint.iacr.org/2022/1140 and unlocks witness encryption with LWE, but we do not know any proof of it yet.
 - I want someone to create large, 100K+ bounties for breaking novel cryptographic assumptions -- this could justify a math student to actually work on that for a year.
 - There's super crazy shit you can cook up like [Octopus](https://ethresear.ch/t/octopus-contract-and-its-applications/17844), where combining witness encryption with one-time programs, FHE, and garbled circuits gets you private smart contracts.
+
+## IBE is not Witness Encryption
+
+A number of papers "fake" witness encryption by introducing multi-party computation (MPC) networks as assumptions -- [this one](https://eprint.iacr.org/2023/635.pdf) technically "works", but they as usual such a non-collusion, honest majority system undermines the whole idea. If you trust someone (MPC network) to decrypt, you might as well trust them with the data and verification too. Furthermore, the "honest majority" assumption means you have no idea if the committee cheated and read the data itself, making schemes like this questionable at best (even if the zk proof verification happens on-chain).
+
+A number of other papers combine witness encryption with IBE (identity based encryption). These also seem to mostly defeat the purpose, as you have to know everyone's identity commitments before creating the witness encryption.
