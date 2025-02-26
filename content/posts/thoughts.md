@@ -16,6 +16,14 @@ It's really hard to maintain any long-term takeaways from the content I read, so
 
 ## Feb 2025
 
+### Second Phone Number
+
+My Google Voice VOIP number has started getting blocked on most platforms due to it being a VOIP number, and is also not anonymous at all since enough people listed it as my main number in their contacts, so now contact scraping sites can identify my name from it. I spent forever looking for an e-sim that's as cheap as possible per year, and not a VOIP number (nearly all the burner apps on Android are). I settled on Tello, which gives you a USA e-sim with 100 minutes and unlimited texts for $60/year. They claim it works internationally too and just charges as needed, but I haven't tried it yet.
+
+### Microgrant Culture
+
+One of the coolest events in SF I've ever seen was [an emergent scavenger hunt of homegrown experiences around the city](https://www.instagram.com/reel/DGJWxP_S8DW/) funded by an [Awesome Foundation](https://www.awesomefoundation.org/en/projects/321120-bonds-behind-bars) microgrant. Each $1K monthly grant is funded by 10 trustees who each put $100/month, then put in the time to choose -- its a cool way to get both financial and time commitment from the community that cares most. They've granted to over 6000 projects which is millions of dollars and completely insane.
+
 ### Things I Wish Someone Told Me Before Scuba Diving
 
 Scuba diving feels like the closest you can get to being on a completely different planet. The matter around you is foreign, the sounds are different, your body movements are different; everything changes. This is only a list of things I couldn't find online or in the PADI class, that I wish I knew.
