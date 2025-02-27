@@ -32,13 +32,23 @@ As of mid-2023, there is no known algorithm for witness encryption that is crypt
 
 Imagine someone defined some proof, let's say a [ZK Email](https://zk.email) proof that you got an email invite to a party. This is a bit convoluted but let's say the owner wants to share their door code with all invitees now and into the future, so they witness encrypt it to this "proof".
 
-Now, anyone who has any valid proof can decrypt the door code. Why? Their satisfying witness neatly fits some sort of puzzle, for which only having a satisfying set of numbers can neatly zero out all the levels of hiding, applied by the the witness encryption process wherein the structure of the proof is applied on top of the data to be encrypted. This doesn't mathematically explain how it works, but perhaps I'll edit this post later to explain how the failed multilinear map scheme worked, or how the BLS signature version works.
+Now, anyone who has any valid proof can decrypt the door code. Why? Their satisfying witness neatly fits some sort of puzzle, for which only having a satisfying set of numbers can neatly zero out all the levels of hiding, applied by the the witness encryption process wherein the structure of the proof is applied on top of the data to be encrypted.
 
-<!-- Add mental model of how it works -->
+## Building a Technical Intuition
+
+I worked with Nathan last summer on some demos and writeups, and he produced this excellent [writeup](https://hackmd.io/@novus677/ryouyz810) that builds up a technical intuition for BLS witness encryption -- it's very well written and I recommend reading it as the next step.
+
+I might edit this post at a later point to explain how the old, broken schemes for NP witness encryption with multilinear maps worked -- there's a great repo implementing them [here](https://github.com/guberti/witness-encryption-demos), for which solving the sudoku and decrypting still have $4 of prize money to claim (and breaking the witness encryption scheme has $20 left to claim, which seems doable by the zeroing attack).
+
+## Trinity
+
+You can build KZG witness encryption by exploiting pairings not to differently from expanding the BLS witness encrcyption scheme. Turns out you can use KZG witness encryption to build laconic OT, which lets you do private database lookups faster and with less round trips than normal OT. This lets you do fast and noninteractive (or minimal interaction) 2PC, like how [Trinity implements it here](https://github.com/cursive-team/trinity-v0).
 
 ## Open Directions
 
-If you relax the "all NP problems" requirement, this paper from Protocol Labs discusses WE from functional commitments ([paper](https://eprint.iacr.org/2022/1510), [code](https://github.com/vicsn/witness-encryption-functional-commitment)), and is quite promising. It uses Lipmaa and Pavlyk’s functional commitment scheme -- it's unclear to me how general or efficient these functional commitments really are; they require a bilinear pairing scheme at least so might actually be quite interoperable with zk proofs. Geometry has a great short writeup about how other different functional commitment schemes can in fact handle arbitrary circuits (https://geometry.xyz/notebook/functional-commitments-zk-under-a-different-lens). If you can further relax the succinctness requirement (i.e. don't require linearity), then you might be able to expand the number of admissible functional commitment schemes e.g. 4.2 in this paper could work as well: (https://eprint.iacr.org/2021/1423.pdf) i.e. via garbled circuits and oblivious transfer. I think it's possible to get a r1cs-based proof working in one of these schemes, and I think is the most promising next step. You still have to commit to some values ahead of time, so it's broadly unclear how useful these functional commitments are.
+If you relax the "all NP problems" requirement, this paper from Protocol Labs discusses WE from functional commitments ([paper](https://eprint.iacr.org/2022/1510), [code](https://github.com/vicsn/witness-encryption-functional-commitment)), and is quite promising. It uses Lipmaa and Pavlyk’s functional commitment scheme -- it's unclear to me how general or efficient these functional commitments really are, since you need the commitments ahead of time to witness encrypt to valid openings. 
+
+They require a bilinear pairing scheme at least so might actually be quite interoperable with zk proofs. Geometry has a great short writeup about how other different functional commitment schemes can in fact handle arbitrary circuits (https://geometry.xyz/notebook/functional-commitments-zk-under-a-different-lens). If you can further relax the succinctness requirement (i.e. don't require linearity), then you might be able to expand the number of admissible functional commitment schemes e.g. 4.2 in this paper could work as well: (https://eprint.iacr.org/2021/1423.pdf) i.e. via garbled circuits and oblivious transfer. I think it's possible to get a r1cs-based proof working in one of these schemes, and I think is the most promising next step. You still have to commit to some values ahead of time, so it's broadly unclear how useful these functional commitments are.
 
 However, one interesting project idea is to build a trustless tinder type matching with this. Edit: This has been built [open-source](https://github.com/novus677/witness-encrypt-tinder) by Nathan [demo](https://oblivious-site.onrender.com)!
 
@@ -48,14 +58,6 @@ I can't imagine how to do this with any other tech including FHE, ZK, or on chai
 
 A more open problem is whether more complex functions can be incorporated into the functional commitment. This is an approachable direction that I would recommend exploring. I hear rumors about WE from IPA but haven't seen anything concrete about it yet.
 
-## Building a Technical Intuition
-
-I worked with Nathan last summer on some demos and writeups, and he produced this excellent [writeup](https://hackmd.io/@novus677/ryouyz810) that builds up a technical intuition for witness encryption -- it's very well written and I recommend reading it as the next step.
-
-## Trinity
-
-Turns out you can use KZG witness encryption to build fast and noninteractive (or minimal interaction) 2PC. More details [here](https://github.com/cursive-team/trinity-v0).
-
 ## Interesting Directions
 
 Here's a smattering of other directions I think would be good to explore:
@@ -64,10 +66,11 @@ Here's a smattering of other directions I think would be good to explore:
 for smooth projective hash functions (the novel assumption introed in this paper) in the presence of proofs is true without relying on the generic group model to unlock this WE scheme over Groth Sahai proofs https://eprint.iacr.org/2015/1073.pdf. 
 - It would be cool to have a blog post or paper also describing a zeroing attack on the original MLM proposed in https://eprint.iacr.org/2013/258.pdf and implemented by Gavin Uberti, which we are confident can be broken but don’t have exact parameters for yet.
   - There is no specific existing code or paper for a zeroing attack on the specific curve parameters that Guberti's WE implementation uses. We have consulted with two professors who have developed such attacks, and both believe it is likely feasible on those curves as well, but not worth their time to implement. This could be a fun direction and way to get to understand some of these schemes and attacks!
-  - One potential strategy to incentivize the breaking of that curve (or any other witness encryption assumption) is to lock up funds in a scheme secured by it. This could also be applied to other WE papers, incentivizing the breaking of each of the novel mathematical assumptions. Talking to a few folks indicates that small monetary incentives are not sufficient to motivate math PhD students and professors to shift their research focus, but I still think it's a cool way to incentivize mathematical research.
+  - Gavin's [implementation incentivizes](https://github.com/guberti/witness-encryption-demos?tab=readme-ov-file#prize-public-keys) the breaking of that curve (or any other witness encryption assumption) by locking up about $20 in a wallet whose private key is witness encrypted by it. This could also be applied to other WE papers, incentivizing the breaking of each of the novel mathematical assumptions. Talking to a few folks indicates that small monetary incentives are not sufficient to motivate math PhD students and professors to shift their research focus, but I still think it's a cool way to incentivize mathematical research.
 - The evasive LWE assumption was introduced by https://eprint.iacr.org/2022/1140 and unlocks witness encryption with LWE, but we do not know any proof of it yet.
+  - I think it would still be compelling to implement this! Evasive LWE has appeared in a few paper since then and may be a decent new candidate assumption.
 - I want someone to create large, 100K+ bounties for breaking novel cryptographic assumptions -- this could justify a math student to actually work on that for a year.
-- There's super crazy shit you can cook up like [Octopus](https://ethresear.ch/t/octopus-contract-and-its-applications/17844), where combining witness encryption with one-time programs, FHE, and garbled circuits gets you private smart contracts.
+- There's super crazy shit you can cook up like [Octopus](https://ethresear.ch/t/octopus-contract-and-its-applications/17844), where combining witness encryption with one-time programs, FHE, and garbled circuits to get private smart contracts.
 
 ## IBE is not Witness Encryption
 
