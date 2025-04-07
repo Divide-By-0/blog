@@ -41,6 +41,8 @@ I worked with Nathan last summer on some demos and writeups, and he produced thi
 
 I might edit this post at a later point to explain how the old, broken schemes for NP witness encryption with multilinear maps worked -- there's a great repo implementing them [here](https://github.com/guberti/witness-encryption-demos), for which solving the sudoku and decrypting still have $4 of prize money to claim (and breaking the witness encryption scheme has $20 left to claim, which seems doable by the zeroing attack).
 
+<!-- Ask sora to make public then add to witness encryption post: https://hackmd.io/@SoraSuegami/Hk_-_FW_p -->
+
 ## Trinity
 
 You can build KZG witness encryption by exploiting pairings not to differently from expanding the BLS witness encrcyption scheme. Turns out you can use KZG witness encryption to build laconic OT, which lets you do private database lookups faster and with less round trips than normal OT. This lets you do fast and noninteractive (or minimal interaction) 2PC, like how [Trinity implements it here](https://github.com/cursive-team/trinity-v0).
