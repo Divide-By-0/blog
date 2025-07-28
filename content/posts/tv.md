@@ -20,11 +20,21 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 ## Previous
 
+### 2025
+
+- **Rick and Morty Season 8**: 7/10. Season 8 episode 1 and 8 were stellar, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left.
+
+- **Pantheon**: 9/10 Season 1. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well; had a very solid grounding in what could be technically possible and what shouldn't. Docked a point because I had to much more clearly delineate for myself what capabilities actually made sense vs didn't.
+
+- ⭐ **Black Mirror** ⭐: 10/10 Eulogy, 10/10 USS Callister (1 and 2), and 10/10 White Christmas. Seems extremely variable which episodes are good. I quit halfway through for Bette Noir, Common People, and a few others that felt clumsier.
+
+- **When Life Gives You Tangerines**: 5/10 so far, only 2 two episodes in. It's a bit slow.
+
 ### 2024
 
-- **Arcane**: 10/10 Season 1, 8/10 Season 2. I was pleasantly surprised by how insanely good Arcane was, even if I had no experience with League of Legends nor any desire to play it. Most animated shows take 2 years to create, but the first season took 6 years. The animation is beautiful, the symbolism has all the elite moviemaker motifs, and the plot represents "the wrong outcome for the right reasons" incredibly well. [This thread (with season 1 spoilers)](https://www.reddit.com/r/arcane/comments/t53vwh/spoilers_ep9_how_arcane_uses_diagonals_to_tell_a/) had some incredible analysis, well written characters, a complex plot. Season 2 episodes 6 and 7 were some of the most moving episodes of any show I've seen, even though afterwards (and even to a slight extent during those episodes), it felt a bit rushed -- apparently they cut a ton of scenes.
+- ⭐ **Arcane** ⭐: 10/10 Season 1, 9/10 Season 2. I was pleasantly surprised by how insanely good Arcane was, even if I had no experience with League of Legends nor any desire to play it. Most animated shows take 2 years to create, but the first season took 6 years. The animation is beautiful, the symbolism has all the elite moviemaker motifs, and the plot represents "the wrong outcome for the right reasons" incredibly well. [This thread (with season 1 spoilers)](https://www.reddit.com/r/arcane/comments/t53vwh/spoilers_ep9_how_arcane_uses_diagonals_to_tell_a/) had some incredible analysis, well written characters, a complex plot. Season 2 episodes 6 and 7 were some of the most moving episodes of any show I've seen, even though afterwards (and even to a slight extent during those episodes), it felt a bit rushed -- apparently they cut a ton of scenes. I upgraded season 2 from an 8/10 to a 9/10 after watching all of [Schnee's analysis videos](https://www.youtube.com/watch?v=hML-FGHGEN4) -- this specific YouTuber took film courses in college, is extremely original, and has the best Arcane analysis on the Internet by a mile.
 
-- **Spy X Family**: 6/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
+- **Spy X Family**: 5/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
 
 ### 2023
 
@@ -76,7 +86,6 @@ The notes for these movies are just summaries of what friends/Reddit have told m
 
 - **Foundation**: Classic Asimov novel was adapted by Apple TV so no one seems to know about it, but friends seem to rate it highly.
 - **Your Lie in April (Anime)**: Highly recommended dramatic romance about human connection. "Most moving anime" according to a friend.
-- **Pantheon (Anime)**: Cancelled after one season and wrapped up in the second available on sketchy sites, but apparently good.
 - **Hormiya (Anime)**: One season, 13 episode anime about a high school romance. Best Romance of the year in 6th annual Crunchyroll awards.
 - **Three Body Problem**: Apparently extremely well adapted from and faithful to the books.
 - **Abstract**: Profiles on famous artists like Olafur Elliason.

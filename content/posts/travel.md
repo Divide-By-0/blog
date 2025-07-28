@@ -80,8 +80,7 @@ This alive document will be updated every time I travel.
       - **Sleep No More**: My favorite play of all time, and the last showing is in April 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
       - **[Museum of Intrigue](https://www.intrigueandco.com/museum-of-intrigue)**: 9,000 sq. ft. museum-like space with interactive games in Syracuse, 3+ hour drive from Manhattan. Haven't been yet.
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
-      - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for.
-      <!-- Saffron recommended the above -->
+      - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for. <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
       - **Nitehawk Cinema**: This was a small indie theatre, where the fun part was that they served dinner to your seat and showed really quirky films. All theatres should have seat service like this, it was a lot of fun.
       - **Subway shows**: On the longer segments (i.e. across the bridges), performers often do a little speech or rap or dance bit, and it's usually strange enough to be entertaining. Hard to plan, but you'll inevitably run into a few if you take the long subway segments often.
@@ -93,6 +92,7 @@ This alive document will be updated every time I travel.
       - **[NYC Builder Underground](https://x.com/fishlooker_/status/1888021510368972926)**: A bunch of cozy maker/side project communities that seem fun.
       - **[Index NYC](https://www.index-space.org/)**: Happenings and creative workshops.
       - **[Dia Art Museums](https://diaart.org/)**: The organization that funded Turrell has a lot of open, free museums of pretty interesting artists.
+      - **[Drago's Castle](https://5-wits.com/adventure/dragos-castle/)**: Interactive castle-like escape room made by the same people who made Level99.
       - There is additionally an excellently curated set of comments that list very interesting places [here](https://www.facebook.com/groups/bountiedrationality/posts/3524298594480845/).
   - ### San Francisco, California
     - Food
@@ -100,10 +100,12 @@ This alive document will be updated every time I travel.
       - **Campton Place Bar and Bistro**: This place had super unique Indian-inspired food, and lunch was actually surprisingly affordable ($25ish?/person) and easy to reserve -- cheapest two Michelin stars I've ever eaten.
       - **Trestle**: At $60 for 3 course meal and $75 total for 4 courses (I think it's worth it for the 4th very tasty pasta), it's probably one of the more affordable fine dining places I've been to in SF. We booked our table that morning and it was the only one available.
       - **Japantown SF**: This mall really does feel like a Japanese mall, complete with the udon and ramen, the snack shops with samples, and the fake plastic food in front.
-      - Restaurants I want to try: Georgian Cheese Boat (Kachipuri is super tasty), Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
+      - **Georgian Cheese Boat**: I love Georgian food and the Kachipuri here was classic and tasty (albeit a bit Americanized!).
+      - Restaurants I want to try: Jack & Remi are Michelin starred pastry chefs running an ice cream shop, Che Fico has a [famous sourdough pineapple pizza and tasty looking pasta](https://thebolditalic.com/che-fico-is-a-restaurant-reborn-post-pandemic-6e39351d9973), Noodle in a Haystack is ramen-inspired tasting menus, Dalida has a Turkish tasting menu with pomegranate in their Manti sauce, Mattina has chocolate bruschetta and balsamic ravioli, and Kiln was made by the people who made Sons and Daughters.
       - **Hilda and Jesse**: This place has garbage Google reviews due to their overpriced breakfast, but their dinner course is super underrated. It's about ~$100/person and extremely good.
     - Experiences
-      - **The Interval at Long Now**: Haven’t been yet, but it's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking.
+      - **The Interval at Long Now**: It's a café, bar, museum, and the home of The Long Now Foundation, which fosters long-term thinking and so has a lot of very interesting books and exhibitions.
+      - **Acme Klein Bottle**: I haven't been yet but desperately want to go. This whimsical man Chris Stoll runs the most incredible handmade Klein bottle warehouse in Berkeley, and has a very personalized space (including a robot he built himself to grab your Klein bottle for you!). The bottle I ordered had the most delightful unpacking experience I've ever had -- it's clear that every part of it was made with attention and love.
       - **Noisebridge**: An [indie, open hackerspace](https://www.noisebridge.net/wiki/Noisebridge?curius=1419,1274,30) that is nearly completely self-funded and community-run.
       - **SF Commons**: A very cozy [third space](https://thesfcommons.com) in San Francisco with beautiful decor, free weekly public hours, and individual work-focus vibe during the day.
       - **Dandelion Chocolate in SF**: My roommate with excellent chocolate taste [recommends this place's Euro drinking chocolate](https://www.rhotter.com/posts/hot-chocolate) and I also think it's excellent. The interior is also super cute and creative.
@@ -111,7 +113,7 @@ This alive document will be updated every time I travel.
       - **The Center**: A tea house in SF, staffed by people from the group house above it! Meditative, focused vibes for coworking and fun events focused on meditation and communication. They no longer have [drinking chocolate, but it used to be very good](https://www.rhotter.com/posts/hot-chocolate).
       - **Monument/Dory**: Haven't been yet. A creative, art-tech [group house](http://www.monument.house/) out of a SoMa warehouse.
       - **City Lights Bookstore**: Haven't been yet. A friend recommended it to me.
-      - **Black Box VR Gym**: Haven't been yet. A gym where you exercise in VR.
+      - **Tomales Bay Bioluminescent Kayaking**: Kayak and watch the phytoplankton light up every time you hit the water; you have to plan to go on nights without full moons to be able to see it though.
       - **James Turrell Skyspace Near Exploratorium**: There's a skyspace around Golden Gate Park! Sunset is the best time to go.
       - **[Immersive Gamebox SF](https://immersivegamebox.com/locations/ca-stonestown-galleria-san-francisco/)**: Haven't been yet. Has games enabled via projections -- lower physicality than Level99, but seems good for player vs player games.
       - **[Studio 45](https://www.workatthestudio.com/)**: Free daily coworking in the Mission in SF, the upstairs coworking area is littered with architecture drawings and has a maker/creative vibe. Not better than a cafe or Noisebridge though to be honest.
@@ -128,6 +130,7 @@ This alive document will be updated every time I travel.
       - **Boba Bear Arcane Pop-up**: Haven't been yet. Pop-up experience with all sorts of real-life versions of things from the Arcane TV show and themed drinks.
   - ### Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
+    - **[Sherlock Home](https://solvethesherlockhome.com/) in San Antonio, TX**: This Airbnb operates also as a ~4 hour private escape room??
     - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a very interesting group that manages to pull off extremely creative events.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
     - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas. The art itself is very psychadelic and physically impressive, although I did feel the space didn't do as much as it could have with the story and the interactivity.
@@ -145,6 +148,7 @@ This alive document will be updated every time I travel.
   - ### Singapore
     - Food
       - **Labyrinth**: This chef takes you through a Michelin-starred whirlwind story of his childhood -- including street food, candles made of lard that you eat with the meal, and a custom printed cereal box. Felt very personal in a way that no other meal ever has.
+      - **Absurdities SG**: Crawl through various rooms to get your next course of the meal.
   - ### Seoul, South Korea
     - Food
       - **Shin Migyeong Hongdae Dakgalbi**: Dakgalbi is incredible, and ths was the place I happened to stumble upon: the best chicken I've ever eaten.
@@ -157,7 +161,9 @@ This alive document will be updated every time I travel.
       - **100 Mahaseth**: Really incredible Thai-inspired meats, sauces, and dishes. Recommended by a local, only like $15/person.
   - ### Japan
     - Food
-      - Theres a number of extremely tasty Soba places, noodle spots, and curry restaurants that were tasty and cheap; most homemade noodles will probably be excellent, even if it's a chain. My favorite chef/bartender from nokshita711 lists top tier bar, flea market, and set menu recs at [en.nokishita.net/recommend](https://en.nokishita.net/recommend).
+      - Theres a number of extremely tasty Soba places, noodle spots, and curry restaurants that were tasty and cheap; most homemade noodles will probably be excellent, even if it's a chain. 
+      - My favorite chef/bartender from nokshita711 lists top tier bar, flea market, and set menu recs at [en.nokishita.net/recommend](https://en.nokishita.net/recommend).
+      - A friend who spent a lot of time in Japan sent a [large, organized food map](https://www.google.com/maps/d/u/0/edit?hl=en&mid=19T8lQ9GiaqVQZm_b9aYpL_GQa6FUTU4a&ll=35.67294964381094%2C139.72403478467868&z=12) that has a number of meta resources as well.
       - **nokishita711 Liquid Cuisine**: This cocktail lab in Kyoto has only 4 seats, serves highly experimental food and cocktails in super quirky custom dishware and decor, and was my favorite meal so far in Japan.
       - **Dipping Ramen**: I find noodles in ordinary ramen a bit too thin, but dipping noodles are perfect. The noodles at [Menya Ramen](https://goo.gl/maps/kofV2AjRpDszm8fr6) were thick and had body, and the black sauce was super tasty -- this is pretty representative of most Tsukumen places.
       - **Minatoya**: [This place](https://goo.gl/maps/3TPGPJS6SvkAc6FaA) in Ameyoko is known for its Takoyaki, but I actually preferred the $10 seafood bowls with small scallop, small shrimp, roe, echinoid (think lower quality Uni), and so on -- it's like $8 and very filling.
@@ -169,6 +175,7 @@ This alive document will be updated every time I travel.
       - **Dolce Takubo**: Has the best financier pastries apparently. Only sells 5 things. Haven't been yet.
       - **2121designsight**: Issey Miyake and Tadao Ando, the legendary Japanese fashion designer and architect respectively, made this very pretty mueseum in Tokyo. Haven't been yet.
       - **Pizza Marumo**: Apparently the best pizza in the world, in Tokyo. Haven't been yet.
+      - **RURU Cafe**: Plates served in water. Haven't been.
     - Experiences
       - Echigo Tsumari seem to have a number of super solid recommendations for interesting houses and places as well.
       - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
@@ -184,6 +191,8 @@ This alive document will be updated every time I travel.
       - **Maid Cafe**: Some of them (we went to maidreamin) have more gimmicks like dancing and singing too.
       - **Womb Shibuya**: Haven't been yet. I'm not usually a club or party sort of guy, but a friend said that this spot has the most insane club lighting setup he's ever seen.
       - **[Space Nekoana](https://goo.gl/maps/sinckUSKNY4EzNf88)**: This quirky izakaya is inside a chef's messy home, and has mostly chatty regulars and two cats. Found via [this video about Kyoto](https://youtu.be/7zZLSdO8Of4?t=854). I went once on a Saturday night, but the owner was too drunk to cook. There are no reservations but seems to be open most evenings. Even though the space is a bit dirty and I maybe wouldn't recommend the hygiene, I think it's still quite interesting to get a sense of the kind of person runs such a thing, and get to talk to Japanese folks who actually want to socialize.
+      - **TOH**: I've not been here yet, but there's apparently a store you can legally "steal" stuff from if you're really quiet.
+      - **Immersive Fort Tokyo**: Horror themed interactive theatre found [here](https://www.instagram.com/reel/DCyykMHvdXU/). Haven't been yet.
       - **TeamLabs**: This immersive art display is incredibly pretty and bold -- room-size mirrors, barefoot exhibits in water, and generally reactive and expansive art.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
@@ -192,18 +201,21 @@ This alive document will be updated every time I travel.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
       - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
       - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
+      - **Tokyo Joypolis**: Has a walk through Attack on Titan experience and a number of creative rides. Found [here](https://www.instagram.com/reel/C66AaP0yaJQ/?igsh=MWQ1ZGUxMzBkMA==).
       - **[Hiiragiya](https://www.hiiragiya.co.jp/en/)**: This was Steve Jobs' lodge of choice in Kyoto, hundreds of years old and steeped in traditional Japanese architecture and culture.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
   - ### Turkey
     - A local friend [sent his recommendations blog post](https://yigitkilicoglu.com/blog/istanbul/) which looks really good.
-    - Experiences
+    - Food/Experiences
+      - **Bilice Kebap**: They serve each table a massive metal tray with tons of sides, a ton of kebabs, and plenty of lavash. The tastiest family style meal I had; I went back like 3 times. (found via TripAdvisor)
+      - **Asmali Mescit Durumcu**: The best wrap I had the whole month I was in Istanbul. (found via TripAdvisor)
       - Curius to check out the street performers at Taksim Square/Galata Tower, the light show in the Cistern of Theodosius, or the [roofs](https://www.reddit.com/r/istanbul/comments/uj58hf/what_are_some_of_istanbuls_hidden_gems/i7l5l72/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of the grand bazaar. There are small, hidden pockets of counterculture on the Asian side.
   - ### Egypt
     - Overall, my trip was pretty lacking: there wasn't a ton of super fun or unique stuff beyond the Pyramids.
     - Food/Experiences
-      - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The Airbnb was designed from sandstone by a French designer as well, and came with a cat! With plugin mosquito repellent, it was a great local stay.
+      - **This Specific Luxor Airbnb**: This [Airbnb I stayed in](https://www.airbnb.com/rooms/53538538) had incredible homemade food, the best food I had in Egypt. The local stay was designed from sandstone by a French designer, and came with a cat! A lot of mosquitos so I'd recommend bringing a mosquito bednet or plug in mosquito repellent.
 - ## Europe
   - ### London
     - Food
@@ -215,6 +227,7 @@ This alive document will be updated every time I travel.
       - **Immersive Gatsby**: I haven't been, but it looks interesting. A real life great gatsby party, where you dress like it's prohibition and actors act the play amongst you.
       - **St. Pauls Whispering Gallery**: Haven't been yet. Paul's cathedral is a dome where two people stand at the two foci of the oval room and can hear each other whisper.
       - **Pagan Chaos Ceremony**: Haven't been yet. Every solstice (and on select holidays in between), a group of folks heads to an isolated park and participates in a structured yet spontaneous ritual. There is primal screaming, flower burning, and ritualistic drumming as a door opens and chaos breaks loose. Not sure if the invite should be public, so dm me or the organizer [Gabriella](https://www.gabriellajeansart.com/) for the invite!
+      - **[Phantom Peak](https://www.phantompeak.com/)**: Haven't been yet. A Westworld-style live action open-world immersive 'town' inside London, where people interact with different storylines to help the 'townspeople'. Seems super cool.
   - ### Berlin
     - **Eispatisserie Hokey Pokey Ice Cream**: Super creamy and reputed to be the best ice cream in the city.
     - **Trust/Moving Castles**: Coordination-based gaming collective who ran the game that [we ran a cult](https://aayushg.com/#cult) in. Has some of the coolest games of all time in my opinion, like [half earth](https://play.half.earth/).
@@ -252,3 +265,6 @@ This alive document will be updated every time I travel.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.
   - **[Perrotin MSCHF Gallery](https://art2.mschf.com)**: A massive MSCHF gallery with tons of pranks -- one was in LA and one was in South Korea, but they're both closed now.
+  - **Madcap Motel**: Fully interactive motel run by Paige Solomon in LA, but unfortunately closed due to building code nonsense after just a few months. We really can't have nice things here... I am curious what her 'Good Enough Productions' is up to next!
+  - **Santu Deliria**: Full-contact immersive horror where *you* become involved and have to inflict horror on the next random guest as they did to you; the [description](https://www.haunting.net/santu-deliria-inductio-recollection/) felt it veered on psychological experimentation. Unclear why it shut down but the creator Sean Adams seems to have 0 online presence except for a short interview with his new wife who also does immersive horror in LA.
+  - **Black Box VR Gym SF**: Haven't been yet. A gym where you exercise in VR. Closed down their SF location before I could try it, unfortunately.

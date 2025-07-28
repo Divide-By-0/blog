@@ -14,6 +14,30 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## July 2025
+
+- This aligns with my experience in crypto: https://blog.kirill.cc/p/whats-wrong-with-crypto
+- Important data for reasoning or understanding, that has not yet been trained on:
+  - 1) understanding how credible papers actually are; LLMs seem to interpret them literally, but much of the value of a research group or a PhD lies in being able to dissect which promising looking papers are not worth pursuing. i wonder if you could pay research groups to record their reading groups for this? or hyperscale data collection via recording advanced paper reading grad classes
+  - 2) information that if public, would ruin someone's edge. these could be as hardearned as trading strategies or as simple as your favorite seat on a plane and why. but *these* are the edges!
+  - 3) real-time info, like the poker tables in Vegas that look like they have fish (i.e. number of bottles on the table)
+
+## June 2025
+
+### Scaling Companies and Inertia
+
+It seems the best way for a founder to scale a company is to find a thing they spend way too much time on, find a team to delegate it to, spend a few weeks to months going to all the meetings and making sure they can be directionally roughly correct, then moving onto the next most important thing that's being neglected. The problem here is that if the people you delegate to don't have the foresight to pivot when things aren't working and reach out to people to help them through that process, then they will keep doing that forever and company progress will go into maintenance mode and stall.
+
+### Open Source
+
+Saw someone from Foresight intro themselves as having coined 'open source', and it turns out that while they may have thought of it themselves on the spot independently, they simply [didn't](https://lunduke.substack.com/p/who-really-coined-the-term-open-source) acknowledge all the folks who used it beforehand? I don't know how much to generalize from this -- does it indicate a general lack of thorough research for historical precedence on behalf of that institute, or was it just a silly mistake that no one's ever told them about the history?
+
+## May 2025
+
+### Biological Causality
+
+I always found it unsatisfying that so much of the genome is unexpressed, and SNPs seem to predict surprisingly little, and the answer we have to this seems to be that most properties are the result of many genes not just SNPs, and we don't have enough data. This [paper](https://royalsocietypublishing.org/doi/10.1098/rsfs.2011.0067) claims systems biology is needed to understand. It seems today's implementation of this is Perturb-Seq (ex vivo and in vivo!), in which gene networks and causality can be understood by changing expression of a single gene, then measuring how all the RNA changes via single cell RNA seq. RNA is not that stable so you miss some information, ones that bind to proteins define how long they are stable and create major confounders, and you get a ton of data that needs to get processed + aligned at scale, and biases come from amplification disproportionately affecting different RNA. So you can see the impact of small changes, and perhaps reverse engineer both predictive models for the gene interaction network, and perhaps even causality. So can we define these gene interaction networks without RNA Seq? Maybe defining correlation networks on many genomes of many organisms can be interesting? What if you defined an eval for DNA prediction based on RNA Seq that only had a genome + environmental conditions as an input? Maybe one experiment could be betting that covariance of genes is sufficient to predict protein protein interaction networks, and you could train a model that maps protein representations of a genome to calculate covariances based on locality and BERT-like masking, to predict protein protein interactions.
+
 ## Feb 2025
 
 ### Second Phone Number

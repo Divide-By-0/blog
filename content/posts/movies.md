@@ -35,7 +35,7 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2024
 
-- **Jawan**: 8/10. Watched because I enjoy feel-good Robinhood revenge plots like Now You See Me. The slow motion and color grading gave the movie a really interesting pace and look. I enjoyed that it was a take on Krishna's story, and that all of the revenge plots were based on real events in Indian history.Docked points because there was too much action (i.e. the truck scene felt drawn out) and I didn't feel the villain's team was well explained.
+- **Jawan**: 7/10. Watched because I enjoy feel-good Robinhood revenge plots like Now You See Me. The slow motion and color grading gave the movie a really interesting pace and look. I enjoyed that it was a take on Krishna's story, and that all of the revenge plots were based on real events in Indian history. Docked points because there was too much action (i.e. the truck scene felt drawn out) and I didn't feel the villain's team was well explained. My Indian friends didn't seem to think this represented Indian cinema well.
 
 - **Past Lives**: 7/10. Two friends recommended this one to me very highly, and said I should go into it blind. This movie takes one very simple idea, the idea of pursuing a past what-if in the present day, and lives out the crazy fantasy we surely play out about our own pasts. There are a number of great one-liners, and I think offers the characters closure in a way that even I felt closure over it.
 
@@ -285,6 +285,9 @@ The notes for these movies are just summaries of what friends have told me about
 - **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
+- **Sinners**: Top movie of 2025.
+- **Him**: New Peele movie to release in September 2025.
+- **Anora**: Palmes D'Or and Academy Awards sweeper.
 - **Nightcrawler**: Apparently a very motivational movie and top rated thriller; one of my friends' favorite movies.
 - **Blade Runner 2049**: Denis Villeneuve cyberpunk masterpiece, with the same insane artistic shots as Dune.
 - **Mad Max Fury Road**: This had no screenplay; just George Miller spending months in a room with a bunch of brilliant storyboard artists, before a single line was written. Movie theory darling.
