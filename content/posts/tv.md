@@ -22,7 +22,7 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 ### 2025
 
-- **Rick and Morty Season 8**: 7/10. Season 8 episode 1 and 8 were stellar, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left.
+- **Rick and Morty Season 8**: 7/10. Season 8 episode 1, 8, and 10 were stellar 10/10s, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left.
 
 - **Pantheon**: 9/10 Season 1. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well; had a very solid grounding in what could be technically possible and what shouldn't. Docked a point because I had to much more clearly delineate for myself what capabilities actually made sense vs didn't.
 

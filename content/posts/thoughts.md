@@ -48,7 +48,7 @@ My Google Voice VOIP number has started getting blocked on most platforms due to
 
 One of the coolest events in SF I've ever seen was [an emergent scavenger hunt of homegrown experiences around the city](https://www.instagram.com/reel/DGJWxP_S8DW/) funded by an [Awesome Foundation](https://www.awesomefoundation.org/en/projects/321120-bonds-behind-bars) microgrant. Each $1K monthly grant is funded by 10 trustees who each put $100/month, then put in the time to choose -- its a cool way to get both financial and time commitment from the community that cares most. They've granted to over 6000 projects which is millions of dollars and completely insane.
 
-### Things I Wish Someone Told Me Before Scuba Diving
+### Get Into Scuba Diving
 
 Scuba diving feels like the closest you can get to being on a completely different planet. The matter around you is foreign, the sounds are different, your body movements are different; everything changes. This is only a list of things I couldn't find online or in the PADI class, that I wish I knew.
 
@@ -68,7 +68,7 @@ Scuba diving feels like the closest you can get to being on a completely differe
 
 ## Dec 2024
 
-### Emergent Civilizations and Coordination in Games
+### Emergent Coordination in Games
 
 Because in-game time progresses so much faster than real world time, it's fascinating to see the emergent behavior of players on massive servers even over the course of a few days. There's civilization-scale political maneuvers, moving orators affecting nuts mobilization, mega projects, religious rites, and nearly fiction-novel levels of stories embedded in them. Some like *real* civilization building experiments like [this guy who only makes an insanely high-quality video or two a year, created a surprisingly well-told one in Minecraft](https://www.youtube.com/watch?v=N3XJqDGmanE) with super savvy leaders, or the [stories of 2b2t](https://www.youtube.com/watch?v=maMpMOnIJDE) and the insane engineering that players had to pull off, for both the exploits and the patches. I hear that Eve Online has similar emergent behavior, and I still think its highly compelling for people to test-drive new technology in these environments.
 
@@ -133,11 +133,14 @@ I think you don't need fancy/expensive tech like fNIRS or [tFUS](https://www.pro
 - The Future of Bacteria Treatments and Probiotics: I had a great 1-hour session with Adil discussing the competitiveness of different bacteria in our bodies, in the context of Lactaid and Bactose. It turns out that most of these ingested probiotics/bacteria/enzymes don't actually work that well because your body switches between highly acidic and highly basic states in the digestive system to neutralize anything that might kill you, which inevitably kills or denatures most enzymes before they can reach your gut. So it's easier to neutralize lactose outside the body, which is why food mixed with Lactaid is actually probably much better than having a pill. This is also why mouth bacteria like Lantern Bioworks might work much better than most probiotics. Even if these bacteria were to reach the gut, say via anal insertion or a robust casing (which lactose pills do not have), they would then still face competition from the antifragile equilibrium of your gut bacterium, that have been honed over years to resist any sort of strain in any direction. So most likely, they would be outcompeted and die quite fast. One interesting way around this might be to insert your desired plasmids into existing bacterial strains from inside a person's body instead of E. Coli, which might potentially be extremely destructive -- so they perform both the original duty of the original bacteria and the new duty of the new plasmid, thus being more likely to keep equilibrium.
 - [Colin and Samir Interview Mr Beast](https://youtu.be/4FRYox-sPP8?t=1409) - I found this video interesting for a few reasons. I thought 23:30-28:30 was quite interesting to me -- like even the best people in the world have to "prove" themselves in order to get creative control. I also found it interesting the information he doesn't reveal. Working in open-source makes me naturally high transparency, and of course someone like Mr Beast who has his whole life on video is super high transparency. But there's information he intentionally omits -- not just about future unreleased content, but about meetings with high profile people, or deals he's made in the past, or details of negotiations, or of parties that he turned down, or exact amounts of money (to avoid misconceptions about expendable wealth), or just generally future things that he doesn't want to create an inflated impression of.I think in adopting more of an open source or streamer mindset, I often forget that even with high transparency, there are things that are good to keep private. I also thought it was interesting how he says he learns from his ripoffs/copycats -- that kind of humility is great to have for my own projects too. I think the recursive self-improvement, even at the top is always fascinating to me as well.
 
-## The Blue LED (Feb 2024)
+## Feb 2024
+
+### The Blue LED
 
 This [Veritasium video](https://www.youtube.com/watch?v=AF8d72mA41M) on the creation of the blue LED is mind blowing -- it explains the physics of simple n/p semiconductors extremely well, it explains the cascading sequence of research and evolving thought super well, and it tells a really great story about the inventor getting royally screwed time and again by corporations. I was left both awestruck and inspired after this video.
 
-## Wifi Cracking (Jan 2024)
+## Jan 2024
+### Wifi Cracking
 
 In my recent exploration of the world of wifi hacking, I've realized that most tools use a pre-2018 way of thinking and make no sense. Here's a brief rundown of what I've learned:
 
@@ -162,11 +165,15 @@ In my recent exploration of the world of wifi hacking, I've realized that most t
 
 Of course, all of this information is for educational purposes only and only for responsible experimentation on networks you own.
 
-## Screensavers (Jan 2024)
+## Jan 2024
+
+### Screensavers
 
 I think it's cool to have a Chromecast on a TV/projector in the background on ambient mode, streaming various photos from a Google Photos album to a TV. I set it up for my parents and grandparents, and it led them to remember a lot of fond memories. I wanted to also have videos for my own house, but with the Chromecast it requires [these adb commands](https://github.com/theothernt/AerialViews#chromecast-with-google-tv-users) and an external app ([1](https://play.google.com/store/apps/details?id=jp.dip.mukacho.picasadaydream), [2](https://play.google.com/store/apps/details?id=com.furnaghan.android.photoscreensaver)). [Folks say](https://www.reddit.com/r/googlephotos/comments/nmqhmk/google_photos_slideshow_with_videos/) it might work better with an Android TV enabled stick like Fire TV instead -- this setup will take me too long right now but I'm leaving this as a self-reminder for our new house.
 
-## My Position on e/acc vs d/acc (Dec 2023)
+## Dec 2023
+
+### My Position on e/acc vs d/acc
 
 Andreessen (e/acc) correctly notes that we are not optimistic enough on technology, and we let short term concerns slow down long term losses. At the same time, Vitalik (d/acc) is right that we need this acceleration deeply in places like medicine (i.e. 10 people dying in a trial is a tragedy but 100K people dying because of a delayed drug is a statistic), but just accelerating indiscriminately in the direction that tech and capitalism take us can be destructive. He argues (and I agree) that we really do need to invest in defensive technologies at the same time, especially against tech-progressive ideas that the rest of the world will struggle to catch up to. I think this divide is well demonstrated in biosecurity, nuclear weapons, fracking, biological weapons, and human reproductive innovation (["tech is not inevitable"](https://maxlangenkamp.me/posts/tech_not_inevitable)) -- where defensive policies and technology defense was critical for those fields to not decimate humans. Overall, I think you can be d/acc but still be accelerationist -- you just believe that explicit, non-capitalist incentives are needed to accelerate technology on the best possible paths by incentivizing additional arms of technology.
 
@@ -183,19 +190,23 @@ git clone https://<USERNAME>@github.com/<USERNAME>/<REPO>
 
 Putting username@ and using https means it won't error to ask for an ssh key. It will then query for a password (either when you first clone or when you git push), and in all these scenarios, put in a [personal access token](https://docs-github-com.translate.goog/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) instead of your password. I generated said token a while ago for all my ssh machines, and saved it in my Bitwarden. It's super weird that this process is completely undocumented, and I had to cobble it together from a bunch of random posts and answers -- it is admittedly lower security but marginally faster and higher convenience.
 
-## Audio Timestamping (Nov 2023)
+## Nov 2023
+
+### Audio Timestamping
 
 Turns out theres a [50 Hz background hum from power mains in all audio](https://www.youtube.com/watch?v=e0elNU0iOMY) with minor fluctuations that can be mapped back to the original power grid in order to precisely timestamp video, which is really interesting. This has use in catching fake speedrunners, but I wonder if it can be used for audio watermarking as well.
 
-## Ethics in Consent and Truth in Research (Sept 2023)
+## Sept 2023
 
-Research is based on the premise that the pursuit of truth is noble. Unfortunately, this directly contradicts different cultures, like when an [Indian tribe's blood was used for non-consenual research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5310710/) to determine their origin (among other things), which went against their traditions and tribal knowledge, and resulted in decreased group cohesion. This study (and then Rick and Morty Season 7 Episode 4) both had me thinking about cases in which telling the trust was counterproductive or even disrespectful.
+### Ethics in Consent and Truth in Research
 
-## UBI (Sept 2023)
+Research is based on the premise that the pursuit of truth is noble. Unfortunately, this directly contradicts different cultures, like when an [Indian tribe's blood was used for non-consenual research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5310710/) to determine their origin (among other things), which went against their traditions and tribal knowledge, and resulted in decreased group cohesion. This study (and then Rick and Morty Season 7 Episode 4) both had me thinking about cases in which telling the truth was counterproductive or even disrespectful.
+
+### UBI
 
 I think a lot about UBI in the context of tech like [email wallet](https://sendeth.org) that enables currency transfer to any email address and redemption via zk proofs behind the scenes, and in the context of blockchains where I'm not sure if it makes sense as an application. Below is my attempt to analyze existing experiments and determine the best path forwards for UBI.
 
-### The [Mumbuca Currency Experiment](https://www.maricabasicincome.com/en/about-the-study)
+#### The [Mumbuca Currency Experiment](https://www.maricabasicincome.com/en/about-the-study)
 
 The Mumbuca is a currency backed 1:1 by the Brazilian Real, but only spendable within the local city and with an additional 1% tax on redemption to Reals during 25 days of each month. The backing is funded by oil found off of the coast of the city, and this is effectively its choice public good. The tax only affects those who want liquidity immediately, and the restrictions on redemption keep spending from the UBI completely domestic. The tax funds a UBI for additional Mumbucas to be distributed to poor families of the local city, and has led to a claimed employment increase during the pandemic, compared to a decrease elsewhere. The study design is mentioned on the linked page, but I'm most curious to see a few answers.
 
@@ -204,23 +215,23 @@ The Mumbuca is a currency backed 1:1 by the Brazilian Real, but only spendable w
 
 If the local-only nature of the currency really did change spending patterns, then I am curious if it makes proof-of-location via zk email or zk proofs of helium hotspots or zk proofs of attested gps, a more valuable proof to have.
 
-### Finland's UBI Experiment
+#### Finland's UBI Experiment
 
 Finland's UBI experiment was marked as a failure, and they reformed the system (notes below). However, the [actual results](https://www.weforum.org/agenda/2023/06/children-care-guaranteed-income/) seem to paint a different picture -- the goal of the program was directly to reduce unemployment in the short term, but doesn't seem to have led to immediate changes in that aspect. Critics rightfully say the effects weren't measured on a long enough timescale (the premise being better mental health and education only leads to more employment later down the line). It seems to primarily [be because](https://yle.fi/a/74-20033917) part time jobs are sufficient to maintain a lifestyle and so people don't look for full-time work, and the expectations on how getting a job might change someone's eligibility for the program are unclear. The proposed solution was to restruct UBI to people who do not show 4 job applications per month and who reject job offers, but I can't find any information online with the results of this restriction. The UBI only increased existing benefits by $50 per month, and saved benefactors from the paperwork of reporting income. Of course, this means that you can no longer scale UBI sub-linearly with income (i.e. at higher incomes, you still have benefits, but less; so for instance, each $1 of income will reduce your benefits by 10 cents). It seems to me like the UBI should end after a specific period of time as to only be temporary support (which seems to have been the case, as the trial was only run for a year), and I'm dubious of self-reported data: there seems to be a bias for people to claim that their mental health got better regardless of the truth, in order to continue to receive the benefits as the government rules it a success.
 
-### [Norway's UBI Requirements](https://worldpopulationreview.com/country-rankings/countries-with-universal-basic-income)
+#### [Norway's UBI Requirements](https://worldpopulationreview.com/country-rankings/countries-with-universal-basic-income)
 
 Norway gives UBIs conditional on public participation, including participating in elections and paying taxes. I think this makes sense, and seems hard to do with a crypto-based UBI scheme.
 
-### Bolsa Familia ([Page 43 here](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf))
+#### Bolsa Familia ([Page 43 here](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf))
 
 This scheme is also dependent on completed vaccinations and school enrollment for children, which I like.
 
-### [India's UBI Results](https://worldpopulationreview.com/country-rankings/countries-with-universal-basic-income)
+#### [India's UBI Results](https://worldpopulationreview.com/country-rankings/countries-with-universal-basic-income)
 
 If the primary result of UBI is increased schooling, then one would actually expect to see a temporary hit to employment in favor of education, and only see benefits many years later. I think analyses of the effects of UBI need to also consider the change in education rates, and factor the net long term effects into the success metric of the experiment.
 
-### Takeaway on UBI
+#### Takeaway on UBI
 
 I'm no longer quite as convinced that existing UBI mechanisms are as effective as people claim, though I do think that we should increase the number of experiments trying different schemes, and that a small percent of public revenue should go towards local experiments on it. I also think that much of the criteria relies on things that can't efficiently be verified on chain, and blockchains are only useful as payment substrates, not entire backbones (and even then, taxes on blockchain-based UBI often hurt the community and help the UBI company and its venture capitalists).
 
@@ -228,18 +239,20 @@ The PSI pro-Union org released a [report](http://www.world-psi.org/sites/default
 
 I like their job guarantee proposal, in that the money is instead given to an organization to create a new job and pay the person that much, increasing employment and helping local businesses. Their cautions with four day workweeks also makes sense; it's reasonably opposed by low paid workers, and implementing it for only high-paid jobs only increases inequality in health etc due to disparities in disposable time.
 
-### Metacomment on studies
+#### Metacomment on studies
 It's unusual that [so many schemes have been tried](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf) but documents [like this](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf) are unable to make any concrete policy decisions or have takeaways since the schemes (like ReCivitas or Marica's) are not paired with rigorous studies. I also think that studies based on self-reporting might be biased by people saying they went better than they did to try to keep benefits, and not reporting employment due to fear of having to pay taxes on that income. I can see anonymous zero knowledge-enabled reporting i.e. via semaphore nullifiers to be valuable here.
 
-### Universal Basic Services
+#### Universal Basic Services
 
-The Institute for Global Prosperity at University College London is trying to spread this meme, which says that public goods like health, education, housing and domestic utilities, childcare, adult social care, and transport and digital communications.
+The Institute for Global Prosperity at University College London defines public goods as just these services like health, education, housing and domestic utilities, childcare, adult social care, and transport and digital communications.
 
-## Bipartisan Climate Change (Aug 2023)
+## Aug 2023
+
+### Bipartisan Climate Change
 
 Anson has a documentary on this that I am very excited for. Given that optics seems to be more important for Republican lawmakers, I think that couching pro-climate legislation with benefits to workers and naming the bill after the benefits to the workers i.e. advocating for ev or solar development and promising new job offers from existing firms for those displaced workers seems useful. I think also that rebranding [meltdown-proof triso-based nuclear fuel](https://www.energy.gov/ne/articles/triso-particles-most-robust-nuclear-fuel-earth) as something like "supergas" would help avoid association with anti-nuclear sentiment due to meltdowns.
 
-## Quail Eggs, Laundry Detergent, and EoE (Aug 2023)
+### Quail Eggs, Laundry Detergent, and EoE
 
 There were a [few papers in 2018](https://www.nature.com/articles/s41598-018-19309-x) that showed consuming quail eggs reduced EoE-related inflammation. Apparently the ovomucuoid protein that is allergenic in chicken eggs is [mutated at all the allergenic binding sites](https://www.sciencedirect.com/science/article/pii/S2213453022002154), and in fact inhibits eosinophils in quail eggs. Quail eggs also have a specific 'serine protease inhibitor' which reduces abnormal antibody expression from EoE. I now very frequently eat them, but perhaps my intake should go from 5 once a week to 5 a day.
 
