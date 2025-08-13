@@ -6,6 +6,7 @@ draft: false
 slug: "thoughts"
 category: "15 min read"
 tags: ["thoughts", "musings"]
+toc: true
 description: "Takeaways from rabbit holes I've dived into, articles I've read, or videos I've watched. Actually a way to make concrete my takeaways from late night binging."
 aliases:  
   - /posts/thoughts
@@ -16,11 +17,14 @@ It's really hard to maintain any long-term takeaways from the content I read, so
 
 ## July 2025
 
-- This aligns with my experience in crypto: https://blog.kirill.cc/p/whats-wrong-with-crypto
+### New Training Data
 - Important data for reasoning or understanding, that has not yet been trained on:
   - 1) understanding how credible papers actually are; LLMs seem to interpret them literally, but much of the value of a research group or a PhD lies in being able to dissect which promising looking papers are not worth pursuing. i wonder if you could pay research groups to record their reading groups for this? or hyperscale data collection via recording advanced paper reading grad classes
   - 2) information that if public, would ruin someone's edge. these could be as hardearned as trading strategies or as simple as your favorite seat on a plane and why. but *these* are the edges!
   - 3) real-time info, like the poker tables in Vegas that look like they have fish (i.e. number of bottles on the table)
+
+### Misc Readings
+- This aligns with my experience in crypto: https://blog.kirill.cc/p/whats-wrong-with-crypto
 
 ## June 2025
 
@@ -100,7 +104,7 @@ I really want to go here next year. Till then, here's the crazy cool stuff I saw
 
 - [Joseph Cox on FBI Encrypted Phone Tapping](https://www.youtube.com/watch?v=uFyk5UOyNqI) - Joseph is one of the best tech journalists, is totally independent, and very good at finding information that seems impossible to get. This breakdown of how the FBI tapped what seemed like a legitimate anonymous phone company through and through, was super scary and well reported on.
 
-### https://ground.news/
+### ground.news
 
 Interesting news site that shows how often the headline topic appears on left vs right news websites.
 
@@ -179,7 +183,9 @@ Andreessen (e/acc) correctly notes that we are not optimistic enough on technolo
 
 I think this dialogue mostly exists between powerful tech people and on Twitter, and the broader world will not know about it. However, it seems possible for the political divide to slightly shift for this dialogue to become one of the dominant qualities that lets you determine the rest of someone's stances. On a meta note, I am super hyped that Vitalik named d/acc defensive technology instead of deaccelerationism, to change the natural "foil" of e/acc to still be accelerationist but responsibly, thus still giving power to the best deaccelerationist counterarguments, bit without giving momentum to that likely destructive movement.
 
-## How to Clone Github on a New Computer (Dec 2023)
+## Dec 2023
+
+### Quickly Cloning Git Repos on a New Computer
 
 I have had this problem an infinite number of times -- a new computer or ssh, and I need to clone a private repo. It's a massive pain to keep adding my ssh key to Github when all I want is a quick piece of software and I don't really care about Github security beyond a one time key.
 
@@ -198,7 +204,7 @@ Turns out theres a [50 Hz background hum from power mains in all audio](https://
 
 ## Sept 2023
 
-### Ethics in Consent and Truth in Research
+### Research Ethics on Consent for Truth
 
 Research is based on the premise that the pursuit of truth is noble. Unfortunately, this directly contradicts different cultures, like when an [Indian tribe's blood was used for non-consenual research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5310710/) to determine their origin (among other things), which went against their traditions and tribal knowledge, and resulted in decreased group cohesion. This study (and then Rick and Morty Season 7 Episode 4) both had me thinking about cases in which telling the truth was counterproductive or even disrespectful.
 
@@ -254,7 +260,7 @@ Anson has a documentary on this that I am very excited for. Given that optics se
 
 ### Quail Eggs, Laundry Detergent, and EoE
 
-There were a [few papers in 2018](https://www.nature.com/articles/s41598-018-19309-x) that showed consuming quail eggs reduced EoE-related inflammation. Apparently the ovomucuoid protein that is allergenic in chicken eggs is [mutated at all the allergenic binding sites](https://www.sciencedirect.com/science/article/pii/S2213453022002154), and in fact inhibits eosinophils in quail eggs. Quail eggs also have a specific 'serine protease inhibitor' which reduces abnormal antibody expression from EoE. I now very frequently eat them, but perhaps my intake should go from 5 once a week to 5 a day.
+There were a [few papers in 2018](https://www.nature.com/articles/s41598-018-19309-x) that showed consuming quail eggs reduced EoE-related inflammation. Apparently the ovomucuoid protein that is allergenic in chicken eggs is [mutated at all the allergenic binding sites](https://www.sciencedirect.com/science/article/pii/S2213453022002154), and in fact inhibits eosinophils in quail eggs. Quail eggs also have a specific 'serine protease inhibitor' which reduces abnormal antibody expression from EoE. I now very frequently eat them, but perhaps my intake should go from 5 a week to 5 a day.
 
 In 2022 and 2023, there were [a flurry of papers](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=laundry+detergent+and+eoe&btnG=) tying laundry detergent to EoE. I now only use [Molly's Suds](https://amzn.to/3oznUYk) which doesn't have any of the harsh and possibly bad cleaning agents (likely SDS) in things like Tide.
 
