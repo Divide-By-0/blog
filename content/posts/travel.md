@@ -6,6 +6,7 @@ draft: false
 slug: "travel"
 category: "10 min read"
 tags: ["recs"]
+toc: true
 description: "It's hard to surface really good travel recs, so I put my favorite experiences in this live document to help people exactly like me have crazy fun unique experiences."
 aliases:
   - /posts/travel
@@ -17,29 +18,6 @@ I thought it would be cool to share some of the cool spots/hidden gems from all 
 These are surprisingly hard to surface ‒ Atlas Obscura is alright but seems more geared to places than experiences, and TikTok #hiddengems and Reddit are just alright, and unfortunately often prioritize instagrammable places (I assign very low weight to instagrammability in contrast). Personal recommendations seem to be the only way that really works for me -- apps like Fever purport to systematize this (I haven't tried it), but I think my brand of novelty is more open and idiosyncratic than most people's tastes. For instance, I love bizarre rituals where you can participate, technical displays I have no idea how they pulled off, and counterculture that doesn't exist anywhere else. There's a useful repository of community living and transformational experiences at [NuMundo](https://numundo.org/) that I reference before booking accommodation.
 
 This alive document will be updated every time I travel.
-
-## Table of Contents
-[USA](#usa)
----[Seattle, WA](#seattle-wa)
----[Cambridge, MA](#cambridge-ma)
----[New York City, NY](#new-york-city-ny)
----[California](#california)
------- [San Francisco Area](#san-francisco-california)
------- [Los Angeles Area](#los-angeles-area-california)
----[Other USA](#other-usa)
-[Asia](#asia)
----[Maldives](#maldives)
----[Singapore](#singapore)
----[Seoul, South Korea](#seoul-south-korea)
----[Thailand](#thailand)
----[Japan](#japan)
----[Egypt](#egypt)
-[Europe](#europe)
----[London](#london)
----[Berlin](#berlin)
-[Other International](#other-international)
-[Anywhere](#anywhere)
-[No Longer Exist](#no-longer-exist)
 
 - ## USA
   - ### Seattle, WA
@@ -260,7 +238,7 @@ This alive document will be updated every time I travel.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
     - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
     - **Terpeca Escape Rooms**: The top escape room project lists the top 50 in the world as evaluated by thousands of enthusiasts, and I check this list whenever I go anywhere.
-- ### No Longer Exist
+- ## No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
   - **Carpe Diem Finger Food**: [This fine dining-vibe place](https://www.frommers.com/destinations/salzburg/restaurants/carpe-diem) in Salzburg, serves each meal in a set of tiny cones. Was my trip highlight but is now closed.

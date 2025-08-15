@@ -1,19 +1,24 @@
 {{ define "main" }}
-<article>
-    <header>
-      <h1>{{ .Title }}</h1>
-    </header>
-    {{ partial "metadata.html" . }}
+<div class="post-container">
     {{ if .Params.toc }}
-    <div style="padding-bottom: 1rem;"></div>
-    <div class="table-of-contents" style="text-align: left;">
+    <div class="table-of-contents desktop-toc">
         {{ .TableOfContents }}
     </div>
     {{ end }}
-    <section>
-      <div style="padding-bottom: 1.5rem;"></div>
-      {{ .Content }}
-    </section>
-</article>
+    <article>
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+        {{ partial "metadata.html" . }}
+        {{ if .Params.toc }}
+        <div class="table-of-contents mobile-toc">
+            {{ .TableOfContents }}
+        </div>
+        {{ end }}
+        <section>
+            {{ .Content }}
+        </section>
+    </article>
+</div>
 <br /><br />
 {{ end }}

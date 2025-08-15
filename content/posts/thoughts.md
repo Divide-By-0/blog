@@ -72,7 +72,7 @@ Scuba diving feels like the closest you can get to being on a completely differe
 
 ## Dec 2024
 
-### Emergent Coordination in Games
+### Coordination in Games
 
 Because in-game time progresses so much faster than real world time, it's fascinating to see the emergent behavior of players on massive servers even over the course of a few days. There's civilization-scale political maneuvers, moving orators affecting nuts mobilization, mega projects, religious rites, and nearly fiction-novel levels of stories embedded in them. Some like *real* civilization building experiments like [this guy who only makes an insanely high-quality video or two a year, created a surprisingly well-told one in Minecraft](https://www.youtube.com/watch?v=N3XJqDGmanE) with super savvy leaders, or the [stories of 2b2t](https://www.youtube.com/watch?v=maMpMOnIJDE) and the insane engineering that players had to pull off, for both the exploits and the patches. I hear that Eve Online has similar emergent behavior, and I still think its highly compelling for people to test-drive new technology in these environments.
 
@@ -185,9 +185,9 @@ I think this dialogue mostly exists between powerful tech people and on Twitter,
 
 ## Dec 2023
 
-### Quickly Cloning Git Repos on a New Computer
+### Quick Git Repo Clone
 
-I have had this problem an infinite number of times -- a new computer or ssh, and I need to clone a private repo. It's a massive pain to keep adding my ssh key to Github when all I want is a quick piece of software and I don't really care about Github security beyond a one time key.
+I have had this problem an infinite number of times -- I'm on a new computer or ssh, and I just need to quickly clone a private repo. It's a massive pain to keep adding my ssh key to Github when all I want is a quick piece of software and I don't really care about Github security beyond a one time key.
 
 You have to:
 ```
@@ -204,7 +204,7 @@ Turns out theres a [50 Hz background hum from power mains in all audio](https://
 
 ## Sept 2023
 
-### Research Ethics on Consent for Truth
+### Ethics of Truth
 
 Research is based on the premise that the pursuit of truth is noble. Unfortunately, this directly contradicts different cultures, like when an [Indian tribe's blood was used for non-consenual research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5310710/) to determine their origin (among other things), which went against their traditions and tribal knowledge, and resulted in decreased group cohesion. This study (and then Rick and Morty Season 7 Episode 4) both had me thinking about cases in which telling the truth was counterproductive or even disrespectful.
 
@@ -258,7 +258,7 @@ The Institute for Global Prosperity at University College London defines public 
 
 Anson has a documentary on this that I am very excited for. Given that optics seems to be more important for Republican lawmakers, I think that couching pro-climate legislation with benefits to workers and naming the bill after the benefits to the workers i.e. advocating for ev or solar development and promising new job offers from existing firms for those displaced workers seems useful. I think also that rebranding [meltdown-proof triso-based nuclear fuel](https://www.energy.gov/ne/articles/triso-particles-most-robust-nuclear-fuel-earth) as something like "supergas" would help avoid association with anti-nuclear sentiment due to meltdowns.
 
-### Quail Eggs, Laundry Detergent, and EoE
+### Quail Eggs, Detergent, and EoE
 
 There were a [few papers in 2018](https://www.nature.com/articles/s41598-018-19309-x) that showed consuming quail eggs reduced EoE-related inflammation. Apparently the ovomucuoid protein that is allergenic in chicken eggs is [mutated at all the allergenic binding sites](https://www.sciencedirect.com/science/article/pii/S2213453022002154), and in fact inhibits eosinophils in quail eggs. Quail eggs also have a specific 'serine protease inhibitor' which reduces abnormal antibody expression from EoE. I now very frequently eat them, but perhaps my intake should go from 5 a week to 5 a day.
 
