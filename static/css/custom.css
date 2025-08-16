@@ -25,38 +25,20 @@
 }
 
 /* Desktop styles */
-@media (min-width: 1400px) {
+@media (min-width: 1024px) {
     .desktop-toc {
         display: block;
         position: fixed;
-        left: calc(50vw - 500px - 280px);
         top: 2rem;
+        /* Place TOC in the left margin when there is room; otherwise pin to --toc-min-left */
+        left: clamp(
+            var(--toc-min-left),
+            calc((100vw - var(--content-max)) / 2 - (var(--toc-width) + var(--toc-gap))),
+            100vw
+        );
         height: fit-content;
         max-height: calc(100vh - 4rem);
-        width: 250px;
-        z-index: 5;
-    }
-
-    .mobile-toc {
-        display: none;
-    }
-}
-
-/* For screens that have some margin but not enough for full left positioning */
-@media (min-width: 1024px) and (max-width: 1399px) {
-    .desktop-toc {
-        display: block;
-        position: fixed;
-        left: 20px;
-        top: 2rem;
-        height: fit-content;
-        max-height: calc(100vh - 4rem);
-        width: 200px;
-        background-color: transparent;
-        backdrop-filter: none;
-        padding: 1rem;
-        border-radius: 8px;
-        border: none;
+        width: var(--toc-width);
         z-index: 5;
     }
 
@@ -143,4 +125,57 @@ div.table-of-contents ul {
     list-style: none !important;
     list-style-image: none !important;
     padding-left: 1rem !important;
+}
+
+/* Add near the top of custom.css */
+:root {
+    --content-max: 1000px;   /* matches theme's main max-width */
+    --toc-width: 250px;
+    --toc-gap: 30px;         /* space between content and TOC */
+    --toc-min-left: 20px;    /* never go closer than this to viewport edge */
+}
+
+/* Dark scrollbars for TOC (Chrome/Edge/Safari + Firefox) */
+.table-of-contents {
+    scrollbar-color: #4b5563 #111827; /* thumb, track */
+    scrollbar-width: thin;
+}
+
+.table-of-contents::-webkit-scrollbar {
+    width: 8px;
+}
+
+.table-of-contents::-webkit-scrollbar-track {
+    background: #111827;
+}
+
+.table-of-contents::-webkit-scrollbar-thumb {
+    background-color: #4b5563;
+    border-radius: 8px;
+    border: 2px solid #111827;
+}
+
+.table-of-contents::-webkit-scrollbar-thumb:hover {
+    background-color: #6b7280;
+}
+
+/* Global dark scrollbars */
+html, body {
+    scrollbar-color: #4b5563 #111827;
+    scrollbar-width: thin;
+}
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+    background: #111827;
+}
+html::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+    background-color: #4b5563;
+    border-radius: 8px;
+    border: 2px solid #111827;
 }

@@ -1,5 +1,8 @@
 *.DS_Store
 *.exe
 build/
+public/
+node_modules/
+*.log
 
 node_modules.nosync
