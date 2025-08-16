@@ -211,7 +211,7 @@ html, body {
     max-width: 100%;
     overflow-x: clip;
     overflow-y: auto; /* ensure scrollbar area paints over page background */
-    background-color: #111827; /* dark backdrop so any gutter/track is dark */
+    background-color: #171717; /* dark backdrop so any gutter/track is dark */
     /* Reserve gutter to prevent layout shift and account for scrollbar space */
     scrollbar-gutter: stable both-edges;
 }
