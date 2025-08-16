@@ -229,7 +229,9 @@ Finland's UBI experiment was marked as a failure, and they reformed the system (
 
 Norway gives UBIs conditional on public participation, including participating in elections and paying taxes. I think this makes sense, and seems hard to do with a crypto-based UBI scheme.
 
-#### Bolsa Familia ([Page 43 here](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf))
+#### Bolsa Familia 
+
+Decsribed on ([Page 43 here](http://www.world-psi.org/sites/default/files/documents/research/en_ubi_full_report_2019.pdf)).
 
 This scheme is also dependent on completed vaccinations and school enrollment for children, which I like.
 

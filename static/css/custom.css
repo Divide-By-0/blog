@@ -5,6 +5,7 @@
 .table-of-contents {
     max-width: 250px;
     overflow-y: auto;
+    overflow-x: hidden;
     margin-bottom: 2rem;
 }
 
@@ -25,6 +26,9 @@
 }
 
 /* Desktop styles */
+/* Only show the fixed desktop TOC when there is enough horizontal room to avoid overlap.
+   Threshold ≈ content-max + 2 * (toc-min-width + toc-gap) → 1000 + 2*(180 + 30) = 1420px.
+   No. */
 @media (min-width: 1024px) {
     .desktop-toc {
         display: block;
@@ -32,13 +36,31 @@
         top: 2rem;
         /* Place TOC in the left margin when there is room; otherwise pin to --toc-min-left */
         left: clamp(
-            var(--toc-min-left),
-            calc((100vw - var(--content-max)) / 2 - (var(--toc-width) + var(--toc-gap))),
-            100vw
+            max(var(--toc-min-left)),
+            calc(
+                /* left edge of content */
+                (100% - min(var(--content-max), 100%)) / 2
+                /* minus gap and actual (possibly clamped) TOC width */
+                - ( var(--toc-gap) + clamp(
+                        var(--toc-min-width),
+                        calc((100% - min(var(--content-max), 100%)) / 2 - var(--toc-gap)),
+                        var(--toc-width)
+                    )
+                  )
+            ),
+            100%
         );
         height: fit-content;
         max-height: calc(100vh - 4rem);
-        width: var(--toc-width);
+        width: clamp(
+            var(--toc-min-width),
+            calc((100% - min(var(--content-max), 100%)) / 2 - var(--toc-gap) + clamp(
+                var(--toc-min-width),
+                calc((100% - min(var(--content-max), 100%)) / 2 - var(--toc-gap)),
+                var(--toc-width)
+            )),
+            var(--toc-width)
+        );
         z-index: 5;
     }
 
@@ -131,8 +153,11 @@ div.table-of-contents ul {
 :root {
     --content-max: 1000px;   /* matches theme's main max-width */
     --toc-width: 250px;
+    --toc-min-width: 180px;  /* allows graceful shrink to fit margin */
     --toc-gap: 30px;         /* space between content and TOC */
     --toc-min-left: 20px;    /* never go closer than this to viewport edge */
+    color-scheme: dark;
+    scrollbar-gutter: stable; /* avoid extra right-side gutter */
 }
 
 /* Dark scrollbars for TOC (Chrome/Edge/Safari + Firefox) */
@@ -178,4 +203,36 @@ body::-webkit-scrollbar-thumb {
     background-color: #4b5563;
     border-radius: 8px;
     border: 2px solid #111827;
+}
+
+/* Prevent horizontal scrollbar across devices/browsers */
+html, body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+    overflow-y: auto; /* ensure scrollbar area paints over page background */
+    background-color: #111827; /* dark backdrop so any gutter/track is dark */
+    /* Reserve gutter to prevent layout shift and account for scrollbar space */
+    scrollbar-gutter: stable both-edges;
+}
+@supports not (overflow: clip) {
+    html, body { overflow-x: hidden; }
+}
+
+/* Avoid horizontal overflow from 100vw backgrounds/overlays in theme */
+.grid-container:before,
+.noise-layer {
+    width: 100%;
+}
+
+/* Safari/Chrome WebKit: use transparent tracks and corners to avoid visible light blocks */
+.table-of-contents::-webkit-scrollbar-track,
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+    background: transparent;
+}
+.table-of-contents::-webkit-scrollbar-corner,
+html::-webkit-scrollbar-corner,
+body::-webkit-scrollbar-corner {
+    background: transparent;
 }
