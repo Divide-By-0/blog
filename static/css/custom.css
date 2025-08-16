@@ -1,0 +1,146 @@
+.post-container {
+    position: relative;
+}
+
+.table-of-contents {
+    max-width: 250px;
+    overflow-y: auto;
+    margin-bottom: 2rem;
+}
+
+/* Normalize Hugo's inner #TableOfContents wrapper */
+#TableOfContents {
+    margin: 0;
+    padding: 0;
+}
+
+/* Hide desktop TOC on mobile */
+.desktop-toc {
+    display: none;
+}
+
+/* Show mobile TOC on mobile */
+.mobile-toc {
+    display: block;
+}
+
+/* Desktop styles */
+@media (min-width: 1400px) {
+    .desktop-toc {
+        display: block;
+        position: fixed;
+        left: calc(50vw - 500px - 280px);
+        top: 2rem;
+        height: fit-content;
+        max-height: calc(100vh - 4rem);
+        width: 250px;
+        z-index: 5;
+    }
+
+    .mobile-toc {
+        display: none;
+    }
+}
+
+/* For screens that have some margin but not enough for full left positioning */
+@media (min-width: 1024px) and (max-width: 1399px) {
+    .desktop-toc {
+        display: block;
+        position: fixed;
+        left: 20px;
+        top: 2rem;
+        height: fit-content;
+        max-height: calc(100vh - 4rem);
+        width: 200px;
+        background-color: transparent;
+        backdrop-filter: none;
+        padding: 1rem;
+        border-radius: 8px;
+        border: none;
+        z-index: 5;
+    }
+
+    .mobile-toc {
+        display: none;
+    }
+}
+
+/* Style the ToC nav menu items - Override theme defaults */
+.table-of-contents nav {
+    padding: 0;
+    display: block !important;
+}
+
+.table-of-contents nav > ul {
+    display: block !important;
+}
+
+/* Force remove all list styling with high specificity */
+.table-of-contents ul,
+.table-of-contents nav ul,
+.table-of-contents nav > ul,
+#TableOfContents ul,
+#TableOfContents > ul,
+div.table-of-contents ul {
+    padding-left: 1rem;
+    margin: 0.25rem 0;
+    list-style-type: none !important;
+    list-style: none !important;
+    list-style-image: none !important;
+}
+
+.table-of-contents li {
+    margin: 0.25rem 0;
+    font-size: 0.95rem;
+}
+
+.table-of-contents a {
+    text-decoration: none;
+    color: #e5e7eb;
+    opacity: 0.7;
+    transition: opacity 0.2s, font-weight 0.2s;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.4;
+}
+
+.table-of-contents a:hover {
+    opacity: 1;
+    text-decoration: none;
+}
+
+.table-of-contents a.active {
+    opacity: 1;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+/* (removed) TOC toggle styles */
+
+/* Mobile: slightly reduce list indents so nested items aren't too compressed */
+@media (max-width: 600px) {
+    article ul,
+    article ol {
+        padding-inline-start: 1.1rem;
+        margin-inline-start: 0;
+    }
+
+    article ul ul,
+    article ol ol,
+    article ul ol,
+    article ol ul {
+        padding-inline-start: 0.9rem;
+    }
+}
+
+/* Additional TOC overrides to ensure no bullet points appear - highest specificity */
+.post-container .table-of-contents ul,
+.post-container .table-of-contents nav ul,
+.post-container #TableOfContents ul {
+    list-style-type: none !important;
+    list-style: none !important;
+    list-style-image: none !important;
+    padding-left: 1rem !important;
+}

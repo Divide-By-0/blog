@@ -26,7 +26,15 @@ $XDG_CACHE_HOME/hugo version
 
 # Render sets IS_PULL_REQUEST to true for PR previews.
 if [ "${IS_PULL_REQUEST:-}" = "true" ]; then
-    $XDG_CACHE_HOME/hugo --gc -e preview
+    if [ "${BUILD_DRAFTS:-}" = "true" ]; then
+        $XDG_CACHE_HOME/hugo --gc -e preview --buildDrafts
+    else
+        $XDG_CACHE_HOME/hugo --gc -e preview
+    fi
 else
-    $XDG_CACHE_HOME/hugo --gc --minify
+    if [ "${BUILD_DRAFTS:-}" = "true" ]; then
+        $XDG_CACHE_HOME/hugo --gc --minify --buildDrafts
+    else
+        $XDG_CACHE_HOME/hugo --gc --minify
+    fi
 fi
