@@ -162,7 +162,7 @@ div.table-of-contents ul {
 
 /* Dark scrollbars for TOC (Chrome/Edge/Safari + Firefox) */
 .table-of-contents {
-    scrollbar-color: #4b5563 #111827; /* thumb, track */
+    scrollbar-color: #4b5563 #171717; /* thumb, track */
     scrollbar-width: thin;
 }
 
@@ -171,13 +171,13 @@ div.table-of-contents ul {
 }
 
 .table-of-contents::-webkit-scrollbar-track {
-    background: #111827;
+    background: #171717;
 }
 
 .table-of-contents::-webkit-scrollbar-thumb {
     background-color: #4b5563;
     border-radius: 8px;
-    border: 2px solid #111827;
+    border: 2px solid #171717;
 }
 
 .table-of-contents::-webkit-scrollbar-thumb:hover {
@@ -186,7 +186,7 @@ div.table-of-contents ul {
 
 /* Global dark scrollbars */
 html, body {
-    scrollbar-color: #4b5563 #111827;
+    scrollbar-color: #4b5563 #171717;
     scrollbar-width: thin;
 }
 html::-webkit-scrollbar,
@@ -196,13 +196,13 @@ body::-webkit-scrollbar {
 }
 html::-webkit-scrollbar-track,
 body::-webkit-scrollbar-track {
-    background: #111827;
+    background: #171717;
 }
 html::-webkit-scrollbar-thumb,
 body::-webkit-scrollbar-thumb {
     background-color: #4b5563;
     border-radius: 8px;
-    border: 2px solid #111827;
+    border: 2px solid #171717;
 }
 
 /* Prevent horizontal scrollbar across devices/browsers */
