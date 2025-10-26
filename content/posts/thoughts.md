@@ -15,6 +15,12 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## August 2025
+
+### Allergies
+
+Allergies probably cause me the most pain, shame, and frustration in my life, and cause a great deal of general emotional unrest. I've been spending a good chunk of this month trying to rid myself of my allergies via seeing a bodywork specialist with legendary reputation for simply curing allergies??? I saw him on my first appointment for orange and didn't expect much, then learned I was no longer allergic to it -- the problem was, I hadn't really tried orange in about a year and a half so it may have naturally disappeared. I've been A/B testing since then by recording my symptoms beforehand for each food (which I've done for both red bean and banana, and am currently testing banana).
+
 ## July 2025
 
 ### New Training Data
@@ -76,11 +82,19 @@ Scuba diving feels like the closest you can get to being on a completely differe
 
 Because in-game time progresses so much faster than real world time, it's fascinating to see the emergent behavior of players on massive servers even over the course of a few days. There's civilization-scale political maneuvers, moving orators affecting nuts mobilization, mega projects, religious rites, and nearly fiction-novel levels of stories embedded in them. Some like *real* civilization building experiments like [this guy who only makes an insanely high-quality video or two a year, created a surprisingly well-told one in Minecraft](https://www.youtube.com/watch?v=N3XJqDGmanE) with super savvy leaders, or the [stories of 2b2t](https://www.youtube.com/watch?v=maMpMOnIJDE) and the insane engineering that players had to pull off, for both the exploits and the patches. I hear that Eve Online has similar emergent behavior, and I still think its highly compelling for people to test-drive new technology in these environments.
 
+I also think the [Rich vs Poor Minecraft civilization](https://www.youtube.com/watch?v=ef568d0CrRY) is one of the most insane arcs I've ever seen -- there were two civilizations of 500 people each and fostered insane emergent dynamics. At only 10 minutes in, it's actually quite unclear what's going to happen -- the poor nation seems to have enough to subsist off and maybe the creativity will drive them to do interesting things; at the same time, the strongest determinations of survival are still diamond count, fighting skill, and escape evasiveness. More indepth thoughts with spoilers:
+
+<div class="spoiler">
+There were lots of strong personalities -- people who started societies immediately, people who betrayed their leaders, people who held ideological stances, people who adopted funny accents and stories, people who used music to unite others, people who report news, people who get bribed, people who self-isolate (and as a result are trusted to lead the meetings), and warmongerers. No-nonsense leadership is still popular and backhanded dealings like hiring assassins, putting traps and framing people, revenge, and scapegoating are still extremely recurrent. There were so many interesting ways you could see the motivations of powerful people so much clearer -- a savvy and violent murderer backed into a corner pulled all sorts of tricks including a last-second forced leadership in order to become immune to crimes. And how harboring a single bad person makes you a magnet for bad people again and again. And wow the character arcs were so insane, I'm shocked by the story coming together in such a beautiful way.
+</div>
+
 ### plasticlist.org
 
 I'm such a huge fan of this initiative and initiatives like this. Even if it doesn't drive immediate lifestyle changes (other than avoid Boba Guys), I feel there's a lot of value in individual-driven, well executed citizen science. My friend AY suggested next steps could be going one step up the chain and determining which specific ingredients are causing the issue so consumers have actionable things to boycott and force companies to replace. You could even go an additional step up the chain and check at which step in the manufacturing process introduces the microplastics, then give federal agencies a clear actionable to ban that step (or decrease subsidies or whatever). He also suggested to test foods that have clear sourcing already established in USDA's food databases, thus allowing to detect overlapping ingredients that might be good targets.
 
 Another cool (more scientific) next step could be to fund a competition to build RNA that can bind to the too-small microplastics then amplify them as well, so that you can detect the ones that broke down due to heat or other degradation.
+
+I'm pretty impressed that [https://laboratory.love](laboratory.love) got the attention it deserved, with multiple funded items! I would not have predicted that.
 
 ## Nov 2024
 

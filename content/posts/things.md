@@ -55,6 +55,7 @@ This alive document will be updated every time I buy something incredible or use
 # Kitchen
 
 **[Water Bottle Cleaning Tablets](https://amzn.to/3An9LQh) - $8.** Put into your water bottle for 15 min to clean out the gunk.
+**[Clear Whey](https://amzn.to/3VJgZZW) - $44.** Invented just this year, this clear whey perfectly dissolves into water and has very little taste (a tinge of sour, but nowhere near as strong or thick as whey). Incredible.
 **[Electric Dish Wand](https://amzn.to/4ctvhEl) - $15.** Makes it fun to handwash the dishes before putting them in the dishwasher. I previously recommended a [$4 handheld dishwand](https://amzn.to/3KYDxQm).
 **[Kitchen Torch](https://amzn.to/3UWvcBy) + [Fuel](https://www.ebay.com/itm/265590758223?var=565381517406) - $16.** Way more fun than a lighter or matchbox for all things fire. The [Hacksmith minisaber](https://hacksmith.store/en-us/products/hacksmith-mini-saber) also works here if you want to shell out an additional $30 for better aesthetics.
 **[Gooseneck Kettle](https://amzn.to/4etzTw0) - $35**. All-metal kettle that sparks joy (we hate microplastics).
@@ -74,7 +75,7 @@ I also use Athletic Greens each morning and have gazpacho in the fridge for a qu
 
 # Backpack
 
-**[Portable Charger with Cables Built In](https://amzn.to/4hp0ZpB) - $15**. The same price and capacity as the Anker equivalent, but comes with cables. Recommended by [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
+**[Portable Charger with Cables + Outlet Built In](https://amzn.to/4mLM8Xn) - $25**. The same price and capacity as the Anker equivalent, but comes with cables and an outlet. I initially recommended [a $15 cable-only one](https://amzn.to/4hp0ZpB) from [Sam Bowman](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use).
 **[Laptop + Phone Charging Brick that Stores Power](https://amzn.to/3KZ2ueS) - $70**. This is pricier than other USB-C/USB to wall outlets, but incredibly convenient -- it charges itself while its in the wall, so you can keep using it even without an outlet around! Outputs 65W to quickly charge a Mac as well (but only when it's plugged in, which is annoying but probably still state-of-the-art charging tech). Original rec from [Andrew Connor](https://andrewconner.com/things/).
 **[Osprey Talon 22](https://www.rei.com/product/177573/osprey-talon-22-pack-mens) - $160.** Backpacking backpack that I use everyday. It has a few key straps that make the weight feel a lot lighter, especially above-the-shoulder and hip straps. One disadvantage is that there's no dedicated laptop pocket, so I have to use my [tablet sleeve](https://amzn.to/3UXD3yr) to separate it from my other things.
 **[Sidecar iPad Mount for Laptop](https://www.ebay.com/itm/125205702514) - $35.** Lets you mount your iPad on the side of your laptop as an extended display. Useful for traveling without a monitor. Shoutout to [Vivek](https://twitter.com/viv_boop) for the rec.
@@ -116,6 +117,7 @@ My favorite board games are [Decrypto](https://amzn.to/3uAHQ04) (a word game tha
 # Clothing
 
 **[Enro Face Masks](https://enro.com/collections/adults) - $20**. [Wirecutter tested](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/) face masks for filtration and comfort, and this won both hands down. It claims a PM0.1 filter, and tested consistently with that claim. It also maintains high filtration for a few washes (but becomes half as effective at 50 washes; I usually lose mine before 10). I use it in any place with asbestos risk as well; it's not a cure-all but it's better than any other mask for that.
+**[Lactose Intolerance Underwear](https://amzn.to/42Nkm5O) and [Filters](https://amzn.to/3ICtcfY) - $50**. These make the farts way less intense, but I found that the separate filters are more effective than the built-in filters. I'd love the ability to have an underwear with a custom pocket in the back or way better adhesive than the filters, which don't really stay on. ChatGPT recommends [Shreddies](https://www.shreddiesusa.com/products/mens-activated-carbon-hipster-underwear) instead as well.
 **[Prescription Glasses](https://amzn.to/3Xs1vvp) - $25 for 3**: Turns out you can get prescription glasses (and sunglasses) super cheap on Amazon. These are a good fit for my slightly slimmer face.
 **[Elastic Laces](https://amzn.to/4b51tfX) - $10 for 2 pairs**: These make it really easy to take off and put on shoes, and look identical to normal laces. Lifesaver for my sneakers.
 **[Carsickness Glasses](https://amzn.to/46CyDSt) - $15**. These look ridiculous and alien-like but two of my friends (and half of tiktok) swear that it works for bumpy car rides and carsickness, by aligning your sense of motion to your eyes.

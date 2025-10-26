@@ -106,12 +106,15 @@ This alive document will be updated every time I travel.
       - **Dream Catcher**: Haven't been yet. This Janet Echelman art piece is permanently on display in West Hollywood, and I think her art is particularly interesting.
       - **Secret Cinema**: Haven't tried yet. Immersive theatre where you become an actor as well!
       - **Boba Bear Arcane Pop-up**: Haven't been yet. Pop-up experience with all sorts of real-life versions of things from the Arcane TV show and themed drinks.
+  - ### Santa Fe, NM
+    - **Chokola** in Taos: Raffi's favorite hot chocolate for good reason. It was excellent, and the guy loved geeking out about chocolate and sourced his own bars.
+    - 
   - ### Other USA
     - **McKamey Manor in Summertown, Tennessee**: I haven't been, and wouldn't recommend it. It's a real-life torture haunted house, where you say a 40 page waiver document out loud and then the guy running it tortures you. It's definitely toeing the line of sadistic and illegal (though reportedly there is a safe word that works most of the time), but it is novel nevertheless and thus makes the cut here.
-    - **[Sherlock Home](https://solvethesherlockhome.com/) in San Antonio, TX**: This Airbnb operates also as a ~4 hour private escape room??
-    - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a very interesting group that manages to pull off extremely creative events.
+    - **[Sherlock Home](https://solvethesherlockhome.com/) in San Antonio, TX**: This Airbnb operates also as a ~4 hour private escape room?? Pretty awesome.
+    - **[Invisible City](https://invisiblecity.com/) in Denver, CO**: I haven't tried it yet, but they seem to be a hub of creative events.
     - **Akron Ohio Haunted Schoolhouse**: I haven't been, but this looks interesting ‒ much more benign than a real-life torture chamber, but the online reviews rave about the quality of scares and actors.
-    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, and Las Vegas. The art itself is very psychadelic and physically impressive, although I did feel the space didn't do as much as it could have with the story and the interactivity.
+    - **Meow Wolf**: Large scale immersive art and lighting experiences in Denver, Santa Fe, Houston, Dallas, and Las Vegas (and soon LA and NYC). The art itself is very psychadelic and physically impressive, although I did feel the Denver space didn't do as much as it could have with the story and the interactivity. I felt the Vegas one was excellent though, and the Santa Fe one was also quite top tier.
     - **TimeMission**: A smaller-scale version of Level99 near Providence, Rhode Island.
     - **[Activate](https://playactivate.com/)**: Less artistic, less mysterious, more formulaic version of mini challenge rooms spread throughout the USA and Canada.
     - **BRKTHROUGH**: Challenge rooms like Level99 in Kansas.
@@ -215,7 +218,7 @@ This alive document will be updated every time I travel.
     - **Sisyphus**: Famous 6 story themed club. I thought this was curious to explore for an hour and then got boring.
     - **Dark Matter**: This a place with a number of light-tech installations. My favorite was this massive outdoors structure with hundreds of light bars just above you that lit up synced to music at night, just outside Sisyphus.
     - **About:Blank**: Haven't been. Well reputed club.
-    - **Berghain**: Most famous club, higher chance of getting in at odd midday times on non-Saturdays. Tried to dress all black to get past Sven and go at 4pm on a Sunday, but was immediately rejected.
+    - **Berghain**: Most famous club, higher chance of getting in at odd midday times on non-Saturdays. Tried to dress all black to get past Sven and go at 4pm on a Sunday, but was immediately rejected. I recommend to go solo. Would recommend to find a mutual friend to dress you (I know a few folks).
 - ## Other International
   - Experiences
     - **Mexico: Luis Barragan's House**: This architect known for colorblock houses and buildings has an insane house open to the public, and many super-unique buildings around Mexico.
@@ -237,7 +240,7 @@ This alive document will be updated every time I travel.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
     - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
-    - **Terpeca Escape Rooms**: The top escape room project lists the top 50 in the world as evaluated by thousands of enthusiasts, and I check this list whenever I go anywhere.
+    - **Terpeca Escape Rooms**: The top escape room project lists the top 200 in the world as evaluated by thousands of enthusiasts, and I check this list whenever I go anywhere.
 - ## No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
   - **Jules' Jamaican Pop Up**: This secret tent used to appear on weekend afternoons in Central, and served huge and tasty portions of jerk chicken. May move to a larger location soon?
