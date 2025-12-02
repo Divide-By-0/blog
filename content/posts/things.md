@@ -26,8 +26,8 @@ This alive document will be updated every time I buy something incredible or use
 [Backpack](#backpack)
 [Travel](#travel)
 [Fun](#fun)
-[Small PC Build](#small-pc-build)
 [Software](#software)
+[Small PC Build](#small-pc-build)
 [Things I Want](#things-i-want)
 
 # Household
@@ -127,16 +127,6 @@ My favorite board games are [Decrypto](https://amzn.to/3uAHQ04) (a word game tha
 
 Favorite brands include ASOS Collusion, AliExpress finds, and Emma Atterbury's hats.
 
-# Small PC Build
-
-**[32GB DDR5 RAM](https://amzn.to/41ISugm) - $80.** Standard RAM.
-**[Mini ITX Motherboard](https://amzn.to/3GWQ7OL) - $200.** This is what will determine if you have a small (ITX), medium (ATX) or big PC.
-**[SF750 Power Supply](https://amzn.to/41ovLXd) - $165.** Enough to comfortably run a high end GPU with everything else.
-**[i5 12400F IBM CPU](https://amzn.to/3MXDiI3) - $160.** You are optimizing for heat; the bigger and later gen CPUs run hotter, and this is extremely fast, better than lower tier i7s, and doesn't need any extra cooling.
-**[2TB NVMe](https://amzn.to/3LkgG3j) - $140.** Fast and cheap SSD that directly attaches to your motherboard.
-
-I also use a 4070 Super and a Dan A4 Case. [Build video and more detailed part breakdowns here](https://docs.google.com/document/d/1eNvCDBKa5C32xioyYf02mZgIgCG_GFZHWnw0rGWRPzs/edit).
-
 # Software
 **[Mullvad VPN](https://mullvad.net)**: Cheap at $5/mo, and the VPN that all my privacy-conscious security expert friends use. They are committed to not logging data, and have [successfully resisted search warrants in the past](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/), and is the only such VPN with this kind of privacy record except for Proton.
 **[Bitwarden](https://bitwarden.com/)**: Free and open-source password manager. Has pretty good UI and integrations, and one-click switching from any other password manager. Has never been hacked.
@@ -159,6 +149,16 @@ chrome://flags/#username-first-flow
 ```
 
 I have various smaller bash settings, brew packages, and Chrome experimental flags that are really useful on my [dev setup Github repo](https://github.com/Divide-By-0/mac-dev-setup/) as well.
+
+# Small PC Build
+
+**[32GB DDR5 RAM](https://amzn.to/41ISugm) - $80.** Standard RAM.
+**[Mini ITX Motherboard](https://amzn.to/3GWQ7OL) - $200.** This is what will determine if you have a small (ITX), medium (ATX) or big PC.
+**[SF750 Power Supply](https://amzn.to/41ovLXd) - $165.** Enough to comfortably run a high end GPU with everything else.
+**[i5 12400F IBM CPU](https://amzn.to/3MXDiI3) - $160.** You are optimizing for heat; the bigger and later gen CPUs run hotter, and this is extremely fast, better than lower tier i7s, and doesn't need any extra cooling.
+**[2TB NVMe](https://amzn.to/3LkgG3j) - $140.** Fast and cheap SSD that directly attaches to your motherboard.
+
+I also use a 4070 Super and a Dan A4 Case. [Build video and more detailed part breakdowns here](https://docs.google.com/document/d/1eNvCDBKa5C32xioyYf02mZgIgCG_GFZHWnw0rGWRPzs/edit).
 
 # Things I Want
 
