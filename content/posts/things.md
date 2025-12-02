@@ -97,6 +97,7 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Portable Jump Starter](https://amzn.to/4e83s4V) - $20.** I keep this in my car trunk for in case I need to jump start my car, and also to charge my phone/laptop if I'm in a pinch.
 **[Foldable Bed Mosquito Net](https://amzn.to/48ea9kz) - $35.** Goes over your bed, and you sleep inside -- mosquitos can't get you at night, and when you wake up they will all be on the surface and you can eliminate them from inside. Also folds to be roughly the size of a single pair of pants.
 **[Car Phone Charging Mount](https://amzn.to/3Yt5Luv) - $20.** Goes on your car AC vent, and the USB port plugs into the mount itself so that your phone can wirelessly charge; no more fiddling with wires when driving.
+**[Switch-compatible USB-C <> HDMI Hub](https://amzn.to/4ryk6T4) - $15.** This HDMI/USB hub for your USB C port also doubles as a dock-less way to mirror a Nintendo Switch to a projector without a dock (which isn't possible with most adapters).
 
 # Fun
 
@@ -109,10 +110,9 @@ I also have an iPad Air + [Tablet Sleeve](https://amzn.to/3UXD3yr) for notes and
 **[Stained Glass Umbrella](https://amzn.to/4cpQsa9) - $20.** Makes a cool pattern in light sun.
 **[Kava powder](https://amzn.to/3He6HKo) - $20.** An alternative kickback substance that does not have the same GAB-B receptor binding as alcohol, so does not cause hangovers.
 **3Blue1Brown Sugar Demo - $40**. With [this 1.5ft vase](https://amzn.to/3XtJw7U) and these [two polarizers](https://amzn.to/3XnmjUJ) with a bike flashlight, you can recreate [the beautiful light spiral from his video](https://www.youtube.com/watch?v=QCX62YJCmGk).
-**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook from a clotheshanger so it works on all handles.
 **[Extremely Small Wallet Pen](https://amzn.to/41DjNJ2) - $7.** This ~1mm wide, ~4 inch pen fits in my wallet and is useful in a pinch or when geocaching.
-**[Spiderman Webshooters](https://www.jlaservideo.com/webshooter) - -$30**. Magnetically grab your keys from your couch (after aimming poorly 4 times). Completely impractical but fun gift.
-**[Pop-up Wallet with RFID Shielding](https://hacksmith.store/en-us/products/the-smith-wallet) - $42**. Click a button, and up to 6 cards pop up in order. Pretty nifty (unfortunately I carry a lot of weird stuff in my wallet like earplugs etc so I don't use it).
+**[Under the Door Tool](https://lockpicktools.com/under-the-door-tool/) - $35.** Open any door. Useful to retrofit with a hook from a clotheshanger so it works on all handles.
+**[UV Coverage Mirror](https://amzn.to/4itKrNS) - $40.** Use to see where UV damage on your skin is (only if you have light skin) and if you applied sunscreen well enough.
 
 My favorite board games are [Decrypto](https://amzn.to/3uAHQ04) (a word game that's about communication, that's way deeper than Codenames), Smallworld (vaguely like Risk, but way more dynamic and fun), [Cascadia](https://amzn.to/48j0eIL) (a surprisingly complex wildlife placing game), and Hanabi (team communication game). Fort is also great. I've been recommended Paleo, Terraforming Mars, Forbidden Desert, and 7 Wonders but haven't tried them.
 
@@ -170,6 +170,8 @@ These are things I've stopped myself from buying so far, but they seem intriguin
 These did not work for me.
 **[Hair Clipper with a Vacuum](https://amzn.to/43s9ngi) - $40**. I hate cleaning the sink every time I shave. Recommended by [this post](https://forum.effectivealtruism.org/posts/BnnDRy2yFzJqJ4Mvz/things-i-recommend-you-buy-and-use). It only vacuumed 30% of hair for me, was useless.
 **[Vibrating Electric Toothbrush](https://amzn.to/3P1b7Jc) - $20**. Lasts for 180 brushes per AA, doesn't require traveling with a bulky toothbrush charger. Did not rotate like Oral-B, vibrated instead, which was more uncomfortable and not useful for cleaning.
+**[Spiderman Webshooters](https://www.jlaservideo.com/webshooter) - -$30**. Magnetically grab your keys from your couch (after aimming poorly 4 times). Completely impractical but fun gift.
+**[Pop-up Wallet with RFID Shielding](https://hacksmith.store/en-us/products/the-smith-wallet) - $42**. Click a button, and up to 6 cards pop up in order. Pretty nifty (unfortunately I carry a lot of weird stuff in my wallet like earplugs etc so I don't use it).
 **[Masterworks](https://masterworks.com) - $500**. Fractional investment into art pieces. This is fun but you should only buy on secondaries; there's very little liquidity and the discount on secondaries is frequently 50%+. You will lose a lot of money.
 
-These are Amazon reflinks, but I will still link to a different site if it's cheaper there.
+These are Amazon reflinks, but I don't let that influence my recommendations, and I will still link to a different site if it's cheaper there.
