@@ -48,22 +48,21 @@ This alive document will be updated every time I buy something incredible or use
 **[The Softest Bathroom Mats](https://amzn.to/40pgfcg) - $20.** High pile and insanely soft and plush.
 **[Double Line Floss Picks](https://amzn.to/3KAEMGg) - $15.** These make flossing fun and are useful on the go -- it's super easy to grab on your way out, and you can see all your tooth gunk stuck between the two strings. Normal floss cuts off circulation to my finger and so I never do it, and water flossers are too annoying to refill and carry around. Humble Co is the only PFAS-free one I found.
 **[Mint Shampoo and Conditioner](https://amzn.to/3U0YsXs) - $23.** Spent way too long finding hair products that were SLS-free (not too harsh), EWG-approved (no bad ingredients), and smelled good.
-<!-- **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** Feels super smooth even with just a little. Reddit recommended. -->
-**[Travel Toiletry Kit](https://amzn.to/40ulyHn)([Cheaper 3 Pack](https://amzn.to/41sF48x)) - $15/$6.** I dump shampoo/conditioner/bodywash in here before I travel, since I prefer to use my own.
 **[Stannous Fluoride Toothpaste](https://amzn.to/3WQULox) - $15**. Stannous flouride and hydroxyapatite has repeatedly [been shown](https://now.tufts.edu/2013/03/20/other-fluoride-benefits-stannous-fluoride) to be more effective than normal toothpaste at cavity prevention. This Crest toothpaste is basically the same price and texture so should be a no-brainer toothpaste replacement. Thanks to [Rob Wiblin for the rec](https://medium.com/@robertwiblin/things-i-recommend-you-buy-and-use-rob-edition-1d7b2ce27d68).
+**[Travel Toiletry Kit](https://amzn.to/40ulyHn)([Cheaper 3 Pack](https://amzn.to/41sF48x)) - $15/$6.** I dump shampoo/conditioner/bodywash in here before I travel, since I prefer to use my own.
 **[Aluminum Shower Caddy with Tension Rod](https://amzn.to/3P7y0cp) - $45**. Most "rust free" products on Amazon are all made with stainless steel that does rust, and the reviews reflect that. Since this is all aluminum, it can't rust, and all the reviews confirm that it actually never rusts.
 
 # Kitchen
 
-**[Water Bottle Cleaning Tablets](https://amzn.to/3An9LQh) - $8.** Put into your water bottle for 15 min to clean out the gunk.
 **[Clear Whey](https://amzn.to/3VJgZZW) - $44.** Released on the market just this year (and invented ~4 years ago), this clear whey perfectly dissolves into water and has very little taste (a tinge of sour, but nowhere near as strong or thick as whey). Incredible.
-**[Electric Dish Wand](https://amzn.to/4ctvhEl) - $15.** Makes it fun to handwash the dishes before putting them in the dishwasher. I previously recommended a [$4 handheld dishwand](https://amzn.to/3KYDxQm).
 **[Kitchen Torch](https://amzn.to/3UWvcBy) + [Fuel](https://www.ebay.com/itm/265590758223?var=565381517406) - $16.** Way more fun than a lighter or matchbox for all things fire. The [Hacksmith minisaber](https://hacksmith.store/en-us/products/hacksmith-mini-saber) also works here if you want to shell out an additional $30 for better aesthetics.
+**[Water Bottle Cleaning Tablets](https://amzn.to/3An9LQh) - $8.** Put into your water bottle for 15 min to clean out the gunk.
+**[Electric Dish Wand](https://amzn.to/4ctvhEl) - $15.** Makes it fun to handwash the dishes before putting them in the dishwasher. I previously recommended a [$4 handheld dishwand](https://amzn.to/3KYDxQm).
 **[Gooseneck Kettle](https://amzn.to/4etzTw0) - $35**. All-metal kettle that sparks joy (we hate microplastics).
 **[Ramen Bowls](https://amzn.to/3AeNuEo) - $40.** Sparks joy, useful for most soupy foods.
 **[Brita Longlast Filters](https://amzn.to/4esWjNJ) - $35 for 2**. Little known scam is that the white Brita filters are just for taste and only filter microplastics not metals, you need to get the blue ones. Lab testing report explained [here](https://www.nytimes.com/wirecutter/reviews/best-water-filter-pitcher/).
 
-I also use Omega 3 + Vitamin D each morning, and Magnesium Glycinate each night (it helps me sleep ~30 min less per night roughly). I use Cookunity for meal delivery but I've heard Locale is better and will switch to it soon.
+I also use Omega 3 + Vitamin D each morning, Magnesium Glycinate each night (it helps me sleep ~30 min less per night roughly), and dissolvable Psyllium Husk ideally daily to help with fiber for cholesterol and gut health. I use Cookunity for meal delivery but I've heard Locale is better and will switch to it soon.
 
 # Sleep
 
@@ -173,5 +172,6 @@ These did not work for me.
 **[Spiderman Webshooters](https://www.jlaservideo.com/webshooter) - -$30**. Magnetically grab your keys from your couch (after aimming poorly 4 times). Completely impractical but fun gift.
 **[Pop-up Wallet with RFID Shielding](https://hacksmith.store/en-us/products/the-smith-wallet) - $42**. Click a button, and up to 6 cards pop up in order. Pretty nifty (unfortunately I carry a lot of weird stuff in my wallet like earplugs etc so I don't use it).
 **[Masterworks](https://masterworks.com) - $500**. Fractional investment into art pieces. This is fun but you should only buy on secondaries; there's very little liquidity and the discount on secondaries is frequently 50%+. You will lose a lot of money.
+<!-- **[Snail Trail Bee Venom Face Moisturizer](https://amzn.to/3AiZx3I) - $25.** Feels super smooth even with just a little. Reddit recommended. -->
 
 These are Amazon reflinks, but I don't let that influence my recommendations, and I will still link to a different site if it's cheaper there.
