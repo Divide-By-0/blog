@@ -94,7 +94,7 @@ I'm such a huge fan of this initiative and initiatives like this. Even if it doe
 
 Another cool (more scientific) next step could be to fund a competition to build RNA that can bind to the too-small microplastics then amplify them as well, so that you can detect the ones that broke down due to heat or other degradation.
 
-I'm pretty impressed that [https://laboratory.love](laboratory.love) got the attention it deserved, with multiple funded items! I would not have predicted that.
+I'm pretty impressed that [laboratory.love](https://laboratory.love) got the attention it deserved, with multiple funded items! I would not have predicted that.
 
 ## Nov 2024
 
@@ -136,7 +136,7 @@ It seems the best meta-review here is this paper: https://www.tesble.com/10.1016
 
 Given that light/sound does so well, one can imagine that you can personally reproduce this via real time REM detection devices with APIs. The best way to do this is probably the Colmi R02 (low budget open source Oura clone). Before that came out, the options were surprisingly scant: the only real time REM detection device I could find was this $1500 uncomfortable EEG style headset (called the zmax) that comes with a real time API hooked up to a pulsing light (that people on Reddit seem to think [does] [sort of](https://www.reddit.com/r/LucidDreaming/comments/guqeqa/comment/kqax757/) [work](https://www.reddit.com/r/LucidDreaming/comments/14jfxmw/comment/jpm9gwt) at least for the short term) and you can program it which is pretty nice. Ideally you could [hijack the Ultrahuman ring](https://www.reddit.com/r/Ultrahuman/comments/1fa2aqk/real_time_api_availability_in_order_to_induce/) or [Oura ring to get real time REM sleep pings](https://www.reddit.com/r/ouraring/comments/ds88f4/real_time_data/) but I don't think it's really possible right now. The Eight Sleep mattress signals, unlike the rings, does claim to real-time modify mattress temperature from sleep stage — unfortunately reverse engineering the mattress [1](https://github.com/lukas-clarke/eight_sleep), [2](https://github.com/bobobo1618/ninesleep) only gives you control of changing the mattress state, not reading sleep stages in real-time, though [the CEO seems open to custom mods](https://www.reddit.com/r/EightSleep/comments/1f7481h/comment/ll6ln1m/). Finally, you can theoretically detect REM sleep decently with microphones or with CV: https://github.com/lucidcode/Halovision-INSPEC -- which seems to have anecdotally worked for the creator but is not going to be as good as an Oura ring.
 
-I think you don't need fancy/expensive tech like fNIRS or [tFUS](https://www.prophetic.com/technology) -- it seems that there's still a lot of unfinished research on simpler triggers that combine light/sound/temperature, and that direction seems more mass marketable anyways. It's fun to build these short term hacks for the young, but it's interesting that the only consistent people to do this long-term are meditation masters.
+I think you don't need fancy/expensive tech like fNIRS or [tFUS](https://www.prophetic.com/) -- it seems that there's still a lot of unfinished research on simpler triggers that combine light/sound/temperature, and that direction seems more mass marketable anyways. It's fun to build these short term hacks for the young, but it's interesting that the only consistent people to do this long-term are meditation masters.
 
 ## May 2024
 

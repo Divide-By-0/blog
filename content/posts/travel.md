@@ -56,7 +56,6 @@ This alive document will be updated every time I travel.
       - **Cafe Flor**: A cozy cafe in Chelsea with tons of plants around the space.
     - Experiences
       - **Sleep No More**: My favorite play of all time, and the last showing is in April 2024! It's a play where you move around a space and see different actors and scenes of your choosing -- the characters act in real time in different nooks and crannies of a mansion. [NYT article here](https://www.nytimes.com/2022/02/09/theater/sleep-no-more-reopens.html). Alone worth a flight to New York.
-      - **[Museum of Intrigue](https://www.intrigueandco.com/museum-of-intrigue)**: 9,000 sq. ft. museum-like space with interactive games in Syracuse, 3+ hour drive from Manhattan. Haven't been yet.
       - **Wonderville NYC**: I don't usually like bars or clubs too much, but this club had a fantastic live-coded algorave performance on the night I went. The dance floor is lined with locally-created bespoke arcade machines, and the bar had a hacking CTF going on at the same time -- I couldn't get enough.
       - **Book of Mormon**: I wasn't excited by the title, but then I heard it was made by the South Park creators. A good friend said this was one of the funniest Broadway shows they had ever watched -- I thought it was funny, even though I think the humor was a lot more basic than I was hoping for. <!-- Saffron recommended the above -->
       - **Union Square Cyphers**: On Friday nights 8pm-midnight, a group assembles to do spontaneous rap battles on the Southeast corner. Really fun energy, and definitely a goal to one day be good enough to join in :)
@@ -162,7 +161,7 @@ This alive document will be updated every time I travel.
       - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
       - **Hollow Bar/Bar Call Me Tell Me**: Similar bars to Bar Nayuta in Osaka, but with more modern vibes.
       - **House of Light and Shadow**: 3-5 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 2-5 months in advance.
-      - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [akiya.world](https://www.akiya.world/) which offers creative residencies in Akiyas that seem fun.
+      - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [Akiya Collective](https://x.com/AkiyaCollective) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
       - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month. Unfortunately, all 5 rooms of exhibits have no english captions, and you can't just Google Lens everything because they discourage phones / pics.
       - **Naoshima Art Island**: An island filled with different kinds of art. Haven't been yet.
@@ -188,7 +187,7 @@ This alive document will be updated every time I travel.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
   - ### Turkey
-    - A local friend [sent his recommendations blog post](https://yigitkilicoglu.com/blog/istanbul/) which looks really good.
+    - A local friend [sent his recommendations blog post](https://web.archive.org/web/20240716182148/https://yigitkilicoglu.com/blog/istanbul/) which looks really good.
     - Food/Experiences
       - **Bilice Kebap**: They serve each table a massive metal tray with tons of sides, a ton of kebabs, and plenty of lavash. The tastiest family style meal I had; I went back like 3 times. (found via TripAdvisor)
       - **Asmali Mescit Durumcu**: The best wrap I had the whole month I was in Istanbul. (found via TripAdvisor)
@@ -239,7 +238,7 @@ This alive document will be updated every time I travel.
     - **Scuba Diving Certification**: Make sure to bring your own GoPro (I use [this $70 budget one](https://amzn.to/3VIt4Mv) with this [$8 chest strap](https://amzn.to/3WVOwOS), charged batteries, and a microSD). You can get a provisional 90 day, 12 meter deep license by finishing 2 dives and 3 modules of the [Open Water e-course on PADI](https://www.padi.com/courses/open-water-diver). If you do the introductory Discover Scuba course that everyone offers instead, make sure to still buy the open water course, so you can get credit for your first dive.
     - **Homestay.com**: Stay with a host family for a short time for a similar price to an Airbnb. Get a more authentic, hosted experience.
     - **James Turrell's Art**: This light and space pioneer was the inspiration for the Hotline Bling video -- his exhibitions at Mass MoCA had one of the most personally artistic and technically awe-inspiring impacts on me, and [there is an incomplete map of his exhibitions here](https://www.google.com/maps/d/embed?mid=1miwGPF5luCct4-H6qqc4JwRh4cQ&ll=-3.81666561775622e-14%2C16.079644013885286&z=1).
-    - **[Janet Echelman's Art](https://www.echelman.com/about)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
+    - **[Janet Echelman's Art](https://www.echelman.com/work)**: A past visiting artist at MIT, she has massive colored string installations in various cities including "Porto (Portugal), Gwanggyo (South Korea), Vancouver, San Francisco, West Hollywood, Phoenix, Eugene, Greensboro, Philadelphia, Seattle, and St. Petersburg (FL)."
     - **Terpeca Escape Rooms**: The top escape room project lists the top 200 in the world as evaluated by thousands of enthusiasts, and I check this list whenever I go anywhere.
 - ## No Longer Exist
   - A good reminder of why you should go to these places soon -- nothing is promised forever.
@@ -249,3 +248,4 @@ This alive document will be updated every time I travel.
   - **Madcap Motel**: Fully interactive motel run by Paige Solomon in LA, but unfortunately closed due to building code nonsense after just a few months. We really can't have nice things here... I am curious what her 'Good Enough Productions' is up to next!
   - **Santu Deliria**: Full-contact immersive horror where *you* become involved and have to inflict horror on the next random guest as they did to you; the [description](https://www.haunting.net/santu-deliria-inductio-recollection/) felt it veered on psychological experimentation. Unclear why it shut down but the creator Sean Adams seems to have 0 online presence except for a short interview with his new wife who also does immersive horror in LA.
   - **Black Box VR Gym SF**: Haven't been yet. A gym where you exercise in VR. Closed down their SF location before I could try it, unfortunately.
+  - **[Museum of Intrigue](https://www.intrigueandco.com/museum-of-intrigue)**: 9,000 sq. ft. museum-like space with interactive games in Syracuse, 3+ hour drive from Manhattan. Haven't been yet.
