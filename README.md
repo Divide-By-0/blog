@@ -20,3 +20,18 @@ git push origin main
 
 Now, you can do `hugo serve` on the command line which will generate a /build folder. Making a project on [render.com](https://render.com) and pointing it to your repo should just work.
 
+## External Link Posts
+
+To create a post that redirects to an external URL:
+
+1. Add `external_url: "https://example.com/post"` to your post's frontmatter
+2. The post will automatically redirect to that URL when visited
+
+Example:
+```yaml
+---
+title: "External Post Title"
+external_url: "https://example.com/post"
+---
+```
+

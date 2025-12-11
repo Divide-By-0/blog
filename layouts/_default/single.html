@@ -16,7 +16,16 @@
         </div>
         {{ end }}
         <section>
+            {{ if .Params.external_url }}
+            <script>
+                window.location.href = "{{ .Params.external_url }}";
+            </script>
+            <noscript>
+                <p>Redirecting to <a href="{{ .Params.external_url }}">{{ .Params.external_url }}</a>...</p>
+            </noscript>
+            {{ else }}
             {{ .Content }}
+            {{ end }}
         </section>
     </article>
 </div>
