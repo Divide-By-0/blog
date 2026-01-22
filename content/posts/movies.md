@@ -21,7 +21,8 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ## Table of Contents
 
-- [2024](#2024)
+- [2026](#2026)
+- [2025](#2025)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
@@ -33,15 +34,23 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ## Previous
 
+### 2026
+
 ### 2025
 
 I've spent most of this year watching [shows](https://blog.aayushg.com/tv) instead.
+
+- **Knives Out 3**: 6/10. A classic murder mystery with a great ending. While I never would have chosen a movie with such a strong church theme, I thought they executed it relatively well. I thought the Lexus partnership was a bit too heavy handed and came out of nowhere.
+
+- **Merrily We Roll Along**: 9/10. A friend said this movie did a great job of showing the degradation of friendship due to ambition over time. I found it quite sad -- people can seem like lifelong friends with strong ambitions early on, but if they want different things and misunderstand each other, these relationships can end up counterproductive for everyone involved.
+
+- **Zootopia 2**: 9/10. This movies main theme was the perils of partnership between two dissimilar people -- both platonically in projects and in relationships. I found that exploration extremely relatable and well done, surprisingly something I've not seen much of in movies. But, I found its depiction of Burning Man a bit untasteful and one dimensional.
 
 - ⭐ **Nightcrawler** ⭐: 10/10. Recommended from a friend as their favorite movie. I was really impressed by this film -- the premise was really interesting, the character was incredibly well acted, and the message about society was really interesting and wasn't too heavy handed. After hearing [Jake Gyllenhaal's interviews](https://www.youtube.com/watch?v=niWDYC3naJ4) about the film, I was also incredibly blown away by his taste, his ability to credit and think about the other people on set, and the process by which he prepares and acts and the things he likes about it. This is also SUCH a good portrayal of high agency (and its downsides).
 
 - **KPop Demon Hunters**: 7/10. This date night was proposed by my partner, and I initially made fun of the movie for being bland and pop-like. But I actually really liked how its main arc revolved around the main character's shame and how she comes to accept that as part of herself -- a ["movie with a cute premise that's actually about generational trauma"](https://www.reddit.com/r/movies/comments/1lghony/comment/myxt8xv/). There were a lot of places though where I felt the 1.5 hour runtime really hurt, especially the resolution around accepting her own shame continuing to be a rejection of Jinu's shame by reclosing the Honmoon ([this Reddit post](https://www.reddit.com/r/TrueFilm/comments/1lx2eta/kpop_demon_hunters_misses_its_own_point/) explains more why that climax felt like a letdown and [this comment](https://www.reddit.com/r/TrueFilm/comments/1lx2eta/comment/n2lxy8l) proposed a better one). I also was confused about Rumi's parents (I liked [this theory](https://www.reddit.com/r/KpopDemonhunters/comments/1lj5dhf/comment/mzj906g) from Reddit). Sidenote: it's pretty interesting how random Reddit commenters can have better ideas than the writers; I wonder if AI can serve a kind of function like recognizing weak points and injecting creative ideas like this to improve screenwriting moving forwards. Or perhaps AI movie remixing becomes a thing as it becomes easy to fork content and people only start watching the best forks? And maybe writers and directors even start endorsing certain forks??
 
-- **Rich vs Poor: Minecraft Civilization**: 9/10. Okay hear me out. This YouTuber releases a 1-2 hour film once every 1-2 years with ~thousand people in an interesting civilization experiment, and people naturally create fascinating emergent societies, goals, and personalities that interacted with each other in really fun ways. The level of craft and story was absolutely immersive, and I spent hours after digging into the lore. Docked a point for a slight lack of context in the main video that was only filled in in side video, which admittedly is also a stylistic choice on their end to focus on the main story.
+- **[Rich vs Poor: Minecraft Civilization](https://www.youtube.com/watch?v=ef568d0CrRY)**: 9/10. Okay hear me out. This YouTuber releases a 1-2 hour film once every 1-2 years with  ~thousand people in an interesting civilization experiment, and people naturally create fascinating emergent societies, goals, and personalities that interacted with each other in really fun ways. The level of craft and story was absolutely immersive, and I spent hours after digging into the lore. Docked a point for a slight lack of context in the main video that was only filled in in side video, which admittedly is also a stylistic choice on their end to focus on the main story.
 
 ### 2024
 
@@ -310,6 +319,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Mad Max Fury Road**: This had no screenplay; just George Miller spending months in a room with a bunch of brilliant storyboard artists, before a single line was written. Movie theory darling.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
 - **Sugarcane**: Award winning documentary about the genocide and cultural erasure in Canadian Indian residential schools.
+- Children Who Chase Lost Voices, Castle in the Sky, Nausicca of the Valley of the Wind
 - **Drive my Car**: A Murukami classic.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
 - **The End of the Tour**: A drama by and about David Foster Wallace, based on the book 'Although of Course You End Up Becoming Yourself' about a 5 day roadtrip with the man. I loved [his commencement speech](https://www.youtube.com/watch?v=DCbGM4mqEVw) so much that I think this would be a wonderfully relatable movie; at the very least, a great recommendation for others.
@@ -338,4 +348,4 @@ The notes for these movies are just summaries of what friends have told me about
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
 - **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
 
-Curious about Inside, The Man from Toronto, Minari, and Tunnel to Summer as well. Want to watch Moana 2 and Zootopia 2 when they come out!
+Curious about Inside, The Man from Toronto, Minari, and Tunnel to Summer as well. 

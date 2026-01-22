@@ -186,6 +186,21 @@ This alive document will be updated every time I travel.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
       - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
       - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
+  - ### Taipei
+    - Food
+      - **Unnamed Clay Oven Roll, Lao Shan Dong, Yi Jia Zi, Wang's Broth, Fuzhou Pepper Buns, and Ay-Chung Flour-Rice Noodle**: The Michelin Guide recommended for $-$$ actually shines in Taipei. These were my favorite places, but there are so many others great on a budget -- including soups, pork belly baos, and beef noodle soups that are the best I've ever had.
+      - **Xiao Chu is Flying (Cafe)**: Cafe culture broadly shines here -- this random one had a beautiful handdrawn postcard ordering system, several resident cats, and multiple floors with interactive handdrawn art stations. I also wanted to visit **Halfway Coffee**, one of the main anarchist/punk cafes.
+    - Experiences
+      - **New Taipei City Yingge Ceramics Museum**: The top 1-2 floors had this incredible exhibition of the winners of some creative international pottery competition, and the pieces were not forms I expected ceramics to be in; beautiful hybrids with resin, pottery flowing in the shapes of flowing dresses, and fractal microdetails.
+      - **Jiufen**: A popular hillside neighborhood littered in red lanterns that's very beautiful to just walk around, and often blanketed in rain. Would recommend planning your trip up based on a non-rainy time if you can.
+  - ### China
+    - Food
+      - Jianbing is super tasty.
+    - Experiences
+      - **Gentle Monster store** - they dump all their marketing budget into art and it shows; the stores are beautiful and filled with insane statues and the best clothing stores I found in the city. Highly recommend.
+      - **Huaqiangbei** has 10,000+ electronics stalls. Most are the same slop (many receipt printing cameras priced up 2-3x from Taobao/Aliexpress, many fake iPhones running Android), but there are a handful of gems, many on the [map](https://scalablehci.com/HQB-map/) (the microscope shop on the ground floor of Seg, the AR glasses booths with all the different models you can try, the drone/fixed wing showrooom above 16, the LED store at A2, the store with $20 hackable health rings with displays, and Rokid AR glasses that are 40% off compared to the USA pricing). You can ask random stores (especially LED ones) to visit their factory which can be quite interesting.
+      - **Skyscraper light show**: We climbed up to the Deng Xiaoping statue in Lianhuashan Park at nighttime on the weekend to see it. Highly recommend, it is a feat of coordination. Watching from Civic Center is also cool because it's all around you (and has less stairs).
+      - **Marisfrolg Building** in Shenzhen cost a billion yuan to build and uses bizarre nature inspired architecture. Haven't been yet.
   - ### Turkey
     - A local friend [sent his recommendations blog post](https://web.archive.org/web/20240716182148/https://yigitkilicoglu.com/blog/istanbul/) which looks really good.
     - Food/Experiences
