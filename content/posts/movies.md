@@ -36,13 +36,17 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2026
 
+- **The Worst Person in the World**: 9/10. There were two scenes in this movie about halfway through that were brilliantly done and left a real impression on me. They did a great job of making modern relationships and career confusion relatable. They both had you empathize and almost be disappointed in the main character -- unable to commit to anything, impulsive and destructive, aloof in the face of others' pain, yet fundamentally human.
+
+- **The Thing**: 4/10. Watched this for horror night as it had no jump scares and I was convinced by the idea that it gave an interesting perspective for what society will look like when you can't tell LLMs and humans apart. I thought that was a bit of a stretch -- it was fun but got a bit repetitive, ended up zoning out in and out.
+
 ### 2025
 
 I've spent most of this year watching [shows](https://blog.aayushg.com/tv) instead.
 
-- **Knives Out 3**: 6/10. A classic murder mystery with a great ending. While I never would have chosen a movie with such a strong church theme, I thought they executed it relatively well. I thought the Lexus partnership was a bit too heavy handed and came out of nowhere.
+- **Knives Out 3**: 8/10. A classic murder mystery with a great ending. While I never would have chosen a movie with such a strong church theme, I thought they executed it relatively well. I thought the Lexus partnership was a bit too heavy handed and came out of nowhere.
 
-- **Merrily We Roll Along**: 9/10. A friend said this movie did a great job of showing the degradation of friendship due to ambition over time. I found it quite sad -- people can seem like lifelong friends with strong ambitions early on, but if they want different things and misunderstand each other, these relationships can end up counterproductive for everyone involved.
+- **Merrily We Roll Along**: 8/10. A friend said this movie did a great job of showing the degradation of friendship due to ambition over time. I found it quite sad -- people can seem like lifelong friends with strong ambitions early on, but if they want different things and misunderstand each other, these relationships can end up counterproductive for everyone involved.
 
 - **Zootopia 2**: 9/10. This movies main theme was the perils of partnership between two dissimilar people -- both platonically in projects and in relationships. I found that exploration extremely relatable and well done, surprisingly something I've not seen much of in movies. But, I found its depiction of Burning Man a bit untasteful and one dimensional.
 
@@ -50,7 +54,7 @@ I've spent most of this year watching [shows](https://blog.aayushg.com/tv) inste
 
 - **KPop Demon Hunters**: 7/10. This date night was proposed by my partner, and I initially made fun of the movie for being bland and pop-like. But I actually really liked how its main arc revolved around the main character's shame and how she comes to accept that as part of herself -- a ["movie with a cute premise that's actually about generational trauma"](https://www.reddit.com/r/movies/comments/1lghony/comment/myxt8xv/). There were a lot of places though where I felt the 1.5 hour runtime really hurt, especially the resolution around accepting her own shame continuing to be a rejection of Jinu's shame by reclosing the Honmoon ([this Reddit post](https://www.reddit.com/r/TrueFilm/comments/1lx2eta/kpop_demon_hunters_misses_its_own_point/) explains more why that climax felt like a letdown and [this comment](https://www.reddit.com/r/TrueFilm/comments/1lx2eta/comment/n2lxy8l) proposed a better one). I also was confused about Rumi's parents (I liked [this theory](https://www.reddit.com/r/KpopDemonhunters/comments/1lj5dhf/comment/mzj906g) from Reddit). Sidenote: it's pretty interesting how random Reddit commenters can have better ideas than the writers; I wonder if AI can serve a kind of function like recognizing weak points and injecting creative ideas like this to improve screenwriting moving forwards. Or perhaps AI movie remixing becomes a thing as it becomes easy to fork content and people only start watching the best forks? And maybe writers and directors even start endorsing certain forks??
 
-- **[Rich vs Poor: Minecraft Civilization](https://www.youtube.com/watch?v=ef568d0CrRY)**: 9/10. Okay hear me out. This YouTuber releases a 1-2 hour film once every 1-2 years with  ~thousand people in an interesting civilization experiment, and people naturally create fascinating emergent societies, goals, and personalities that interacted with each other in really fun ways. The level of craft and story was absolutely immersive, and I spent hours after digging into the lore. Docked a point for a slight lack of context in the main video that was only filled in in side video, which admittedly is also a stylistic choice on their end to focus on the main story.
+- **[Rich vs Poor: Minecraft Civilization](https://www.youtube.com/watch?v=ef568d0CrRY)**: 9/10. Okay hear me out. This YouTuber releases a 1-2 hour film once every 1-2 years with  ~thousand people in an interesting civilization experiment, and people naturally create fascinating emergent societies, goals, and personalities that interacted with each other in really fun ways. The level of craft and story was absolutely immersive, and I spent hours after digging into the lore. Multiple other content creators said this was the best video on Youtube in 2025, which I would agree with.
 
 ### 2024
 
@@ -306,11 +310,15 @@ The notes for these movies are just summaries of what friends have told me about
 - **Before Trilogy**: Long running Richard Linklater series shot 9 years apart that focuses on real romantic connection.
 - **Boyhood**: Long running Richard Linklater film shot over 12 years.
 - **Prisoners**: Denis Villeneuve and Jake Gyllenhaal?!? The trailer (at least the first minute) looked really interesting.
+- **All of Us Strangers**: A movie about grief and love and emotions, told in a way that seems to universally leave audiences awestruck and in silence.
 - **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
+- **Strange Days**: OG sci-fi thriller ahead of it's time
 - **Velvet Buzzsaw**: Another Dan Gilroy and Jake Gyllenhaal collab?? Nightcrawlers with them was so good and the trailer was pretty fascinating.
-- **ROMAN J. ISRAEL, ESQ.**: Looks like another underrated Dan Gilroy banger.
+- **Mickey 17**: Boon Jong Ho's latest movie.
+- **The Drama**: Movie buff friend said this was a top film of 2026.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
+- **Source Code**: Recommended to me by Adil. Jake Gyllenhaal movie.
 - **Meow Wolf Origin Story ([Link](https://meowwolf.com/about/origin-story))**: SXSW winner detailing their rocky early days.
 - **Sinners**: Top movie of 2025.
 - **Anora**: Palmes D'Or and Academy Awards sweeper.
@@ -331,17 +339,18 @@ The notes for these movies are just summaries of what friends have told me about
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
-- **Donnie Darko**: Jake Gyllenhaal classic.
+- **ROMAN J. ISRAEL, ESQ.**: Looks like another underrated Dan Gilroy banger. Adil didn't finish it though.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
 - **Song of the Sea**: Scottish film with Anime vibes.
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
-- **Hack, Punt, Tool**: Musical about MIT's hacking culture.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://web.archive.org/web/20240226090219/https://thecinemaholic.com/confusing-movies-finally-get-explained/).
+- **Hack, Punt, Tool**: Musical about MIT's hacking culture.
 - **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
 - **Kahaani**: Hindi film.
 - **All the Rage: Saved by Sarno**: A movie about Sarno's methods for chronic pain and their impact.
 - **Petit Mamam**: French movie, more about feelings than dialogue
+- **Donnie Darko**: Jake Gyllenhaal classic.
 - **Farewell My Concubine**: About two people growing up in opera during China's change.
 - **Yi Yi**: 2000 Taiwanese classic
 - **2001: A Space Odyssey**: 60s sci-fi classic.

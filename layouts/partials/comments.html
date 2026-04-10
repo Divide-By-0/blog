@@ -1,0 +1,48 @@
+{{/*
+  COMMENTS SECTION
+  ================
+  Requires a Google Apps Script backend. See /static/js/comments-backend-setup.js
+  for the script code and setup instructions.
+
+  Once deployed, add to config.toml:
+    [params]
+      commentsEndpoint = "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec"
+*/}}
+
+{{ if .Site.Params.commentsEndpoint }}
+<div class="comments-section" id="comments-section" data-slug="{{ .RelPermalink }}"
+     data-endpoint="{{ .Site.Params.commentsEndpoint }}">
+
+    <h2>Comments</h2>
+    <p class="comments-note">
+        You can also leave comments & highlights on <a href="https://curius.app" target="_blank" rel="noopener">Curius</a>.
+    </p>
+
+    <div id="comments-list" class="comments-list">
+        <p class="comments-loading">Loading comments&hellip;</p>
+    </div>
+
+    <div class="comment-form-wrapper" id="comment-form-wrapper">
+        <h3>Leave a comment</h3>
+        <form id="comment-form" class="comment-form">
+            <div class="comment-form-row">
+                <input type="text" name="name" placeholder="Name (optional)">
+                <input type="email" name="email" placeholder="Email (optional, shown publicly)">
+            </div>
+            <textarea name="comment" placeholder="Your comment..." required></textarea>
+            <!-- NOTE: Honeypot field for spam prevention. Bots fill this in; real users never see it. -->
+            <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off">
+            <input type="hidden" name="parentId" value="">
+            <div class="comment-form-actions">
+                <button type="submit">Post Comment</button>
+                <button type="button" id="cancel-reply" class="cancel-reply-btn" style="display:none">Cancel Reply</button>
+            </div>
+            <p class="comment-form-status" id="comment-form-status"></p>
+        </form>
+    </div>
+</div>
+
+<script src="/js/comments.js"></script>
+{{ else }}
+<!-- NOTE: Comments disabled — set params.commentsEndpoint in config.toml after deploying the Apps Script backend -->
+{{ end }}

@@ -15,11 +15,16 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## Feb 2026
+
+As of Jan 28, I feel that Claude's Deep Research tasks have more depth and specificity to them, vs ChatGPT's seem to make assumptions and come up with lower quality fits.
+<!-- The above was specifically for the copyright pipeline marketing task. -->
+
 ## August 2025
 
 ### Allergies
 
-Allergies probably cause me the most pain, shame, and frustration in my life, and cause a great deal of general emotional unrest. I've been spending a good chunk of this month trying to rid myself of my allergies via seeing a bodywork specialist with legendary reputation for simply curing allergies??? I saw him on my first appointment for orange and didn't expect much, then learned I was no longer allergic to it -- the problem was, I hadn't really tried orange in about a year and a half so it may have naturally disappeared. I've been A/B testing since then by recording my symptoms beforehand for each food (which I've done for both red bean and banana, and am currently testing banana).
+Allergies probably cause me the most pain, shame, and frustration in my life, and cause a great deal of general emotional unrest. I've been spending a good chunk of this month trying to rid myself of my allergies via seeing a bodywork specialist with legendary reputation for simply curing allergies??? I saw him on my first appointment for orange and didn't expect much, then suddenly I was no longer allergic to it -- the problem was, I hadn't really tried orange in about a year and a half so it may have naturally disappeared. I've been A/B testing since then by recording my symptoms beforehand for each food. In the next few sessions, I wasn't able to make progress on my oral allergy syndrome (which was quite distinct from my orange allergy, and involved foods like banana). However, I seem to no longer be sensitive to black beans. I suspect there's something very interesting happening here for EoE.
 
 ## July 2025
 

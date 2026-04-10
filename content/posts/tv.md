@@ -20,19 +20,25 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 ## Previous
 
+### 2026
+
+- **Alice in Borderlands, Season 1-2**: 8/10. After season 1, episode 3, I nearly quit, then upon being urged to continue, I did. I found the ending of season 2 satisfying.
+
+- **Beast Games, Seasons 1-2**: 6/10. I was really frustrated that he reused a lot of the same games from season 1 in season 2 -- I felt the final episode's games had the intended emotional impact, but I wish it was more creative, since there's such a huge variety of great games that they could have done.
+
 ### 2025
 
-- **Rick and Morty Season 8**: 7/10. Season 8 episode 1, 8, and 10 were stellar 10/10s, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left.
+- **Rick and Morty Season 8**: 7/10. Season 8 episode 1, 8, and 10 were stellar 10/10s, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left. I still think Season 7 Episode 10 (Fear no Mort) is one of the greatest episodes of TV ever made ([episode explanation](https://youtu.be/aV9FyFtP5-o) once you've seen it).
 
-- **Pantheon**: 9/10 Season 1. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well; had a very solid grounding in what could be technically possible and what shouldn't. Docked a point because I had to much more clearly delineate for myself what capabilities actually made sense vs didn't.
+- ⭐ **Pantheon** ⭐: 9/10 Season 1, 10/10 Season 2. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well. I know multiple companies working on this tech already and we will have to reckon with the consequences. I loved how grounded yet optimistic the story was. Docked a point because I felt a few scenes (especially {{< spoil character mistakes>}}) in the second season felt inauthentic, but I loved the ending. Apple did a horrible job advritising this show.
 
-- ⭐ **Black Mirror** ⭐: 10/10 Eulogy, 10/10 USS Callister (1 and 2), and 10/10 White Christmas. Seems extremely variable which episodes are good. I quit halfway through for Bette Noir, Common People, and a few others that felt clumsier.
+- **Black Mirror**: 10/10 Eulogy, 10/10 USS Callister (1 and 2), and 10/10 White Christmas. Seems extremely variable which episodes are good. I quit halfway through for Bette Noir, Common People, and a few others that felt clumsier.
 
 - **When Life Gives You Tangerines**: 5/10 so far, only 2 two episodes in. It's a bit slow.
 
 ### 2024
 
-- ⭐ **Arcane** ⭐: 10/10 Season 1, 9/10 Season 2. I was pleasantly surprised by how insanely good Arcane was, even if I had no experience with League of Legends nor any desire to play it. Most animated shows take 2 years to create, but the first season took 6 years. The animation is beautiful, the symbolism has all the elite moviemaker motifs, and the plot represents "the wrong outcome for the right reasons" incredibly well. [This thread (with season 1 spoilers)](https://www.reddit.com/r/arcane/comments/t53vwh/spoilers_ep9_how_arcane_uses_diagonals_to_tell_a/) had some incredible analysis, well written characters, a complex plot. Season 2 episodes 6 and 7 were some of the most moving episodes of any show I've seen, even though afterwards (and even to a slight extent during those episodes), it felt a bit rushed -- apparently they cut a ton of scenes. I upgraded season 2 from an 8/10 to a 9/10 after watching all of [Schnee's analysis videos](https://www.youtube.com/watch?v=hML-FGHGEN4) -- this specific YouTuber took film courses in college, is extremely original, and has the best Arcane analysis on the Internet by a mile.
+- ⭐ **Arcane** ⭐: 10/10 Season 1, 9/10 Season 2. I was pleasantly surprised by how insanely good Arcane was, even if I had no experience with League of Legends nor any desire to play it. Most animated shows take 2 years to create, but the first season took 6 years. The animation is beautiful and moving, the symbolism is multilayered, the characters are extremely well-done and relatable, the music has well known artists making some of their biggest hits just for the show, and the plot uses narrative tools masterfully. It's almost impossible to say anything bad about the first season. [This thread (with season 1 spoilers)](https://www.reddit.com/r/arcane/comments/t53vwh/spoilers_ep9_how_arcane_uses_diagonals_to_tell_a/) had some incredible analysis, well written characters, a complex plot. Season 2 episodes 6 and 7 were some of the most moving episodes of any show I've seen, even though afterwards (and even to a slight extent during those episodes), it felt a bit rushed -- apparently they cut a ton of scenes due to budget. I upgraded season 2 from an 8/10 to a 9/10 after watching all of [Schnee's analysis videos](https://www.youtube.com/watch?v=hML-FGHGEN4) -- this specific YouTuber took film courses in college, is extremely original, and has the best Arcane analysis on the Internet by a mile.
 
 - **Spy X Family**: 5/10. Heart warming story about family with a hilarious little girl. The plot is not very deep nor is it particularly insightful, but it's a relaxing and comedic show.
 

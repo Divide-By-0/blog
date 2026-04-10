@@ -119,6 +119,7 @@ This alive document will be updated every time I travel.
     - **BRKTHROUGH**: Challenge rooms like Level99 in Kansas.
     - **District 57**: A lower-tech version of Level99 (more like BodaBorg) in Charlotte, NC -- unfortunately, the appeal is more flashing lights and less compelling technology.
     - **Sofar Sounds and Donttell Comedy**: Singers and comedians respectively perform in people's living rooms (you can volunteer your living room too!).
+    - **Watching Kīlauea erupt**: Would love to see an active volcano erupt -- this has been happening since 2024.
     - **Round1**: A Japanese arcade chain with single-floor versions throughout the USA (including Seattle, SF, LA, NYC). The claw games are unique and many are actually winnable, and the ones I went to have really fun DDR machines and variants.
 ## Asia
   - ### Maldives
@@ -157,10 +158,10 @@ This alive document will be updated every time I travel.
       - **Pizza Marumo**: Apparently the best pizza in the world, in Tokyo. Haven't been yet.
       - **RURU Cafe**: Plates served in water. Haven't been.
     - Experiences
-      - Echigo Tsumari seem to have a number of super solid recommendations for interesting houses and places as well.
+      - Echigo Tsumari seem to have a number of super solid recommendations for interesting  houses and places as well.
       - **Bar Nayuta**: This bar in Osaka has a hidden entrance and no menu: you tell them what kinds of things you like and get a custom drink just for you. This is my favorite bar experience; the bartenders are really artists -- even curveballs like 'wasabi', or 'chocolate', or 'pad thai' give incredible drinks.
-      - **Hollow Bar/Bar Call Me Tell Me**: Similar bars to Bar Nayuta in Osaka, but with more modern vibes.
       - **House of Light and Shadow**: 3-5 hours from Tokyo is a James Turrell house with tons of built in skyspaces and insane lighting. It's the only Turrell piece that offers public overnight stays [reservation](https://www.hikarinoyakata.com/english/reserve/), with booking required 2-5 months in advance.
+      - **Custom Pillow Store: [Nihonbashi Nishikawa](https://www.nihonbashi-nishikawa.com/shinsaibashi/)**: This [custom pillow store](https://www.instagram.com/reel/DUN8Thuk67q/) takes detailed measurements and makes you a custom pillow, and teaches you more about ideal sleep ergonomics for yourself.
       - **Ryokan/Akiya**: Haven't been yet, but staying in an Akiya is cheaper and more authentic. A friend runs [Akiya Collective](https://x.com/AkiyaCollective) which offers creative residencies in Akiyas that seem fun.
       - **Metal Gear Solid escape room**: Haven't been yet; there are physical guards you have to sneak around apparently, which sounds really cool.
       - **Studio Ghibli Museum**: Haven't been yet. Is booked out a month in advance -- make sure to book on the 9th of the month for seeing spots during the next month. Unfortunately, all 5 rooms of exhibits have no english captions, and you can't just Google Lens everything because they discourage phones / pics.
@@ -177,15 +178,16 @@ This alive document will be updated every time I travel.
       - **Replica Food Experience**: I haven't tried this yet, but I'm obsessed with how all the restaurants have realistic 3D plastic clones of their meals. Apparently you can make some of your own at [places like this near Asakusa](https://goo.gl/maps/k2tZZiz4cJcSn9u8A?coh=178572&entry=tt).
       - **[Nara Deer Park](https://goo.gl/maps/qMaEzcbdeaBJ4hC36?coh=178572&entry=tt)**: Haven't been yet, apparently you can hang out with hundreds of deer here that bow back to you. [Thanks to this random video for the rec](https://youtu.be/sgO555H0XFk?t=129).
       - **[Zauo Fishing Restaurant](https://youtu.be/sgO555H0XFk?t=183)**: Haven't been yet, apparently you fish your own fish and hand it to the server to cook.
+      - **Hollow Bar/Bar Call Me Tell Me**: Similar bars to Bar Nayuta in Osaka, but with more modern vibes. I haven't been.
       - **[Muraya](https://goo.gl/maps/9Uzn9sf5ho51gbee6)**: Haven't been yet. A quirky Kyoto bar chaotically decorated with scraps, with lots of cool lighting all over. Found via [this video](https://youtu.be/7zZLSdO8Of4?t=989). Seems to be permanently closed.
       - **Ueno Cat Van**: Haven't been yet. Apparently in Tokyo at night, outside the Monument to Kushibuchi Nobumoto around 9-11pm, there is a van labeled "The Cat Van" (in Japanese) that parks there, and a ton of cats just wander around the temple grounds.
-      - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
-      - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
       - **Tokyo Joypolis**: Has a walk through Attack on Titan experience and a number of creative rides. Found [here](https://www.instagram.com/reel/C66AaP0yaJQ/?igsh=MWQ1ZGUxMzBkMA==).
+      - **[Henn Na Hotel](https://group.hennnahotel.com/)**: Haven't been yet, apparently animatronic dinos and robots check you in. They have branches all over Japan and in NY too.
+      - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
+      - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
+      - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
       - **[Hiiragiya](https://www.hiiragiya.co.jp/en/)**: This was Steve Jobs' lodge of choice in Kyoto, hundreds of years old and steeped in traditional Japanese architecture and culture.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
-      - **Red Tokyo Tower**: Haven't been yet. A Level 99 reminiscent place with games where you have to use your whole body to play everything.
-      - **[Yunessun Baths](https://www.yunessun.com/global/en/spa/)**: Haven't been yet. Red wine baths, sake baths, coffee baths, and dozens of others. Near Mt. Fuji.
   - ### Taipei
     - Food
       - **Unnamed Clay Oven Roll, Lao Shan Dong, Yi Jia Zi, Wang's Broth, Fuzhou Pepper Buns, and Ay-Chung Flour-Rice Noodle**: The Michelin Guide recommended for $-$$ actually shines in Taipei. These were my favorite places, but there are so many others great on a budget -- including soups, pork belly baos, and beef noodle soups that are the best I've ever had.

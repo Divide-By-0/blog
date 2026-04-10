@@ -13,45 +13,18 @@
           <div class="mainPage">
             <div id="content">{{- block "main" . }}{{- end }}</div>
           </div>
-          <!-- 
-            TODO (ChatGPT): You can create a lighter weight and more aesthetic form using HTML and JavaScript. This form will send a POST request to a Google Apps Script Web App, which will then store the email addresses in a Google Sheet.
-
-            Here's how to do it:
-
-            1. Create a new Google Sheet to store the email addresses.
-            2. Click on Extensions -> Apps Script.
-            3. Delete any code in the script editor and replace it with the following:
-            
-            ```
-            var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Sheet1');
-
-            function doPost(e) {
-              var email = e.parameter.email;
-              sheet.appendRow([email]);
-              return ContentService.createTextOutput('Success').setMimeType(ContentService.MimeType.TEXT);
-            }
-            ```
-
-            4. Click on Deploy -> New Deployment.
-            5. Choose Web App in the Select type dropdown.
-            6. Under "Who has access", select "Anyone".
-            7. Click on Deploy and copy the Web App URL.
-
-            Now, you can create a form in your Hugo template:
-            
-            ```
-            <form id="subscribe-form" action="YOUR_WEB_APP_URL" method="post">
-              <input type="email" name="email" placeholder="Your email" required>
-              <button type="submit">Subscribe</button>
-            </form>
-            ```
-
-            Replace YOUR_WEB_APP_URL with the URL you copied earlier.
-
-            You can style this form using CSS to make it more aesthetic. When users submit the form, their email addresses will be stored in the Google Sheet.
-           -->
-          <div class="subscribe-form" style="display: flex; justify-content: center; width: 100%;">
-              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIgM1SOXC8f_Y6-44A2zFYJw6fF8MeNWdESHZAVkE_qJtGZw/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <div class="subscribe-section">
+              <p class="subscribe-label">Subscribe for new posts</p>
+              <form id="subscribe-form"
+                    action="https://docs.google.com/forms/d/e/1FAIpQLSeIgM1SOXC8f_Y6-44A2zFYJw6fF8MeNWdESHZAVkE_qJtGZw/formResponse"
+                    method="POST" target="subscribe-iframe">
+                  <input type="email" name="emailAddress" placeholder="your@email.com" required>
+                  <input type="text" name="entry.1258567013" class="subscribe-feedback" placeholder="Questions / feedback (optional)">
+                  <button type="submit">Subscribe</button>
+              </form>
+              <!-- NOTE: Hidden iframe receives the Google Form redirect so the page doesn't navigate away -->
+              <iframe name="subscribe-iframe" id="subscribe-iframe" style="display:none"></iframe>
+              <p class="subscribe-success" id="subscribe-success" style="display:none">Thanks for subscribing!</p>
           </div>
           <div class="mainPage">
             {{- partial "footer.html" . -}}
@@ -66,6 +39,19 @@
             spoiler.classList.toggle('active');
           });
         });
+
+        var subForm = document.getElementById('subscribe-form');
+        if (subForm) {
+          subForm.addEventListener('submit', function() {
+            // NOTE: We can't read the Google Form response (cross-origin iframe),
+            // so we show success after a short delay. The form POST still goes through.
+            // Google Form auto-records the Timestamp column — no need to send it.
+            setTimeout(function() {
+              subForm.style.display = 'none';
+              document.getElementById('subscribe-success').style.display = 'block';
+            }, 500);
+          });
+        }
       });
     </script>
     <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>

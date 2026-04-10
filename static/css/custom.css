@@ -236,3 +236,328 @@ html::-webkit-scrollbar-corner,
 body::-webkit-scrollbar-corner {
     background: transparent;
 }
+
+/* Inline spoilers (one-line shortcode) */
+.spoiler.spoiler-inline {
+    display: inline-block;
+    margin: 0 0.15em;
+    padding: 0 0.35em;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    background-color: #838383 !important;
+    color: #838383 !important;
+    position: relative;
+    cursor: pointer;
+    vertical-align: baseline;
+}
+
+.spoiler.spoiler-inline::before {
+    content: "spoiler";
+    position: static;
+    top: auto;
+    left: auto;
+    transform: none;
+    visibility: visible;
+    font-weight: 600;
+    font-size: 0.75em;
+    line-height: 1;
+    z-index: auto;
+}
+
+.spoiler.spoiler-inline.active .reveal {
+    display: inline;
+}
+
+/* ---- Subscribe Form ---- */
+
+.subscribe-section {
+    max-width: 700px;
+    margin: 2.5rem auto 1.5rem;
+    text-align: center;
+}
+
+.subscribe-label {
+    font-size: 1rem;
+    opacity: 0.6;
+    margin-bottom: 0.6rem;
+}
+
+#subscribe-form {
+    display: flex;
+    gap: 0.5rem;
+    align-items: stretch;
+}
+
+#subscribe-form input[type="email"],
+.subscribe-feedback {
+    flex: 1;
+    padding: 0.45rem 0.75rem;
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    background: transparent;
+    border: 1px solid rgba(229, 231, 235, 0.25);
+    border-radius: 4px;
+    color: #e5e7eb;
+    outline: none;
+    transition: border-color 0.2s;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#subscribe-form input[type="email"]:focus,
+.subscribe-feedback:focus {
+    border-color: rgba(229, 231, 235, 0.55);
+}
+
+#subscribe-form input[type="email"]::placeholder,
+.subscribe-feedback::placeholder {
+    color: rgba(229, 231, 235, 0.35);
+}
+
+#subscribe-form button {
+    padding: 0.45rem 1.25rem;
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    background: rgba(229, 231, 235, 0.08);
+    border: 1px solid rgba(229, 231, 235, 0.25);
+    border-radius: 4px;
+    color: #e5e7eb;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s;
+    white-space: nowrap;
+}
+
+#subscribe-form button:hover {
+    background: rgba(229, 231, 235, 0.18);
+    border-color: rgba(229, 231, 235, 0.45);
+}
+
+.subscribe-success {
+    font-size: 1rem;
+    opacity: 0.7;
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 600px) {
+    #subscribe-form {
+        flex-direction: column;
+    }
+}
+
+/* ---- Comments Section ---- */
+
+.comments-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(229, 231, 235, 0.12);
+}
+
+.comments-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.comments-note {
+    font-size: 0.9rem;
+    opacity: 0.5;
+    margin-bottom: 1.5rem;
+}
+
+.comments-note a {
+    opacity: 0.8;
+}
+
+.comments-loading,
+.comments-empty {
+    font-size: 0.95rem;
+    opacity: 0.5;
+    font-style: italic;
+}
+
+/* Individual comment */
+.comment {
+    padding: 0.9rem 0;
+    border-bottom: 1px solid rgba(229, 231, 235, 0.07);
+}
+
+.comment:last-child {
+    border-bottom: none;
+}
+
+.comment-meta {
+    font-size: 0.82rem;
+    opacity: 0.55;
+    margin-bottom: 0.35rem;
+}
+
+.comment-meta .comment-name {
+    opacity: 1;
+    font-weight: 500;
+    color: #e5e7eb;
+}
+
+.comment-body {
+    font-size: 1rem;
+    line-height: 1.55;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.comment-reply-btn {
+    background: none;
+    border: none;
+    color: #e5e7eb;
+    opacity: 0.4;
+    cursor: pointer;
+    font-family: "EB Garamond", serif;
+    font-size: 0.82rem;
+    padding: 0.2rem 0;
+    margin-top: 0.15rem;
+    text-decoration: none;
+}
+
+.comment-reply-btn:hover {
+    opacity: 0.75;
+    text-decoration: underline;
+}
+
+/* Threaded replies */
+.comment-replies {
+    margin-left: 1.25rem;
+    padding-left: 1rem;
+    border-left: 1px solid rgba(229, 231, 235, 0.1);
+}
+
+.comment-replies .comment {
+    padding: 0.6rem 0;
+}
+
+/* Comment form */
+.comment-form-wrapper {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(229, 231, 235, 0.08);
+}
+
+.comment-form-wrapper h3 {
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-bottom: 0.9rem;
+}
+
+.comment-form-row {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.comment-form input[type="text"],
+.comment-form input[type="email"],
+.comment-form textarea {
+    width: 100%;
+    padding: 0.45rem 0.75rem;
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    background: transparent;
+    border: 1px solid rgba(229, 231, 235, 0.2);
+    border-radius: 4px;
+    color: #e5e7eb;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.comment-form input::placeholder,
+.comment-form textarea::placeholder {
+    color: rgba(229, 231, 235, 0.3);
+}
+
+.comment-form input:focus,
+.comment-form textarea:focus {
+    border-color: rgba(229, 231, 235, 0.5);
+}
+
+.comment-form textarea {
+    min-height: 90px;
+    resize: vertical;
+    margin-bottom: 0.75rem;
+}
+
+/* NOTE: Honeypot field — must be invisible but not display:none (bots skip display:none) */
+.comment-form .hp-field {
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+
+.comment-form-actions {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.comment-form button[type="submit"] {
+    padding: 0.45rem 1.5rem;
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    background: rgba(229, 231, 235, 0.08);
+    border: 1px solid rgba(229, 231, 235, 0.25);
+    border-radius: 4px;
+    color: #e5e7eb;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s;
+}
+
+.comment-form button[type="submit"]:hover {
+    background: rgba(229, 231, 235, 0.18);
+    border-color: rgba(229, 231, 235, 0.45);
+}
+
+.comment-form button[type="submit"]:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.cancel-reply-btn {
+    background: none;
+    border: none;
+    color: #e5e7eb;
+    opacity: 0.5;
+    cursor: pointer;
+    font-family: "EB Garamond", serif;
+    font-size: 0.9rem;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.cancel-reply-btn:hover {
+    opacity: 0.8;
+}
+
+.comment-form-status {
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+.comment-form-status.success {
+    opacity: 0.7;
+}
+
+.comment-form-status.error {
+    color: #f87171;
+    opacity: 0.9;
+}
+
+@media (max-width: 500px) {
+    .comment-form-row {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .comment-replies {
+        margin-left: 0.75rem;
+        padding-left: 0.75rem;
+    }
+}
