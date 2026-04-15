@@ -306,10 +306,10 @@ At this point and before, I watched mostly just mainstream movies.
 
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
+- **One Battle After Another**: 3 friends really liked it — seems like a unique artistic project.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **Before Trilogy**: Long running Richard Linklater series shot 9 years apart that focuses on real romantic connection.
 - **Boyhood**: Long running Richard Linklater film shot over 12 years.
-- **Prisoners**: Denis Villeneuve and Jake Gyllenhaal?!? The trailer (at least the first minute) looked really interesting.
 - **All of Us Strangers**: A movie about grief and love and emotions, told in a way that seems to universally leave audiences awestruck and in silence.
 - **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **Strange Days**: OG sci-fi thriller ahead of it's time
@@ -323,6 +323,7 @@ The notes for these movies are just summaries of what friends have told me about
 - **Sinners**: Top movie of 2025.
 - **Anora**: Palmes D'Or and Academy Awards sweeper.
 - **The Last Five Years**: An Anna Kendrick musical that goes through a deteriorating relationship forwards and backwards in time, simultaneously. I found this dynamic in Tick Tick Boom fascinating so I think I would like this.
+- **Children of Men**: Adil, Will, and Vivek really liked it — they said it constructed great characters and had a lack of obvious flaws.
 - **Blade Runner 2049**: Denis Villeneuve cyberpunk masterpiece, with the same insane artistic shots as Dune.
 - **Mad Max Fury Road**: This had no screenplay; just George Miller spending months in a room with a bunch of brilliant storyboard artists, before a single line was written. Movie theory darling.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
@@ -338,10 +339,14 @@ The notes for these movies are just summaries of what friends have told me about
 - **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
 - **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
+- **Memories of Murder**: Bong Joon-ho banger.
+- **Incendies**: Denis Villeneuve; people say it left them speechless and emotionally touched.
 - **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **ROMAN J. ISRAEL, ESQ.**: Looks like another underrated Dan Gilroy banger. Adil didn't finish it though.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
+- **In the Mood for Love**: Striking emotional film.
+- **Prisoners** (Denis Villeneuve): Good mystery/thriller.
 - **Song of the Sea**: Scottish film with Anime vibes.
 - **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://web.archive.org/web/20240226090219/https://thecinemaholic.com/confusing-movies-finally-get-explained/).

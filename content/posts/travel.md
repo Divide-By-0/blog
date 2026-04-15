@@ -188,6 +188,7 @@ This alive document will be updated every time I travel.
       - **Sunshine City Mall**: Mall with an amusement park, massive pokemon stores, and eel flavored ice cream.
       - **[Hiiragiya](https://www.hiiragiya.co.jp/en/)**: This was Steve Jobs' lodge of choice in Kyoto, hundreds of years old and steeped in traditional Japanese architecture and culture.
       - **[Moomin Cafe](https://www.cnn.com/travel/article/japan-moomin-cafe/index.html)**: Haven't been yet; if there's an empty seat at your cafe table, you fill it with a giant plushie. Honestly I don't know why all cafes don't do this.
+      - **[Chureito Pagoda viewpoint](https://x.com/heart_/status/2042927055474458639)**: Haven't been yet.
   - ### Taipei
     - Food
       - **Unnamed Clay Oven Roll, Lao Shan Dong, Yi Jia Zi, Wang's Broth, Fuzhou Pepper Buns, and Ay-Chung Flour-Rice Noodle**: The Michelin Guide recommended for $-$$ actually shines in Taipei. These were my favorite places, but there are so many others great on a budget -- including soups, pork belly baos, and beef noodle soups that are the best I've ever had.

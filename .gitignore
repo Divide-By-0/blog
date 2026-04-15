@@ -6,3 +6,19 @@ node_modules/
 *.log
 
 node_modules.nosync
+
+# Local scratch/drafts not for version control
+node_modules
+oct_changes.txt
+transfersveth.png
+convert_lipoker_feedback.py
+extract_ratings.py
+content/posts/addendum.md
+content/posts/crypto_and_vc.md
+content/posts/medicine.md
+content/posts/money.md
+content/posts/q1_2024update.md
+content/posts/raw_sachin_yush.md
+content/posts/sha.md
+content/posts/taboothoughts.md
+content/posts/zkdraft.md
