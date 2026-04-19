@@ -307,57 +307,56 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **One Battle After Another**: 3 friends really liked it — seems like a unique artistic project.
+- **The Drama**: Movie buff friend said this was a top film of 2026.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **Before Trilogy**: Long running Richard Linklater series shot 9 years apart that focuses on real romantic connection.
-- **Boyhood**: Long running Richard Linklater film shot over 12 years.
 - **All of Us Strangers**: A movie about grief and love and emotions, told in a way that seems to universally leave audiences awestruck and in silence.
 - **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
+- **Mickey 17**: Boon Jong Ho's latest movie.
 - **Strange Days**: OG sci-fi thriller ahead of it's time
 - **Velvet Buzzsaw**: Another Dan Gilroy and Jake Gyllenhaal collab?? Nightcrawlers with them was so good and the trailer was pretty fascinating.
-- **Mickey 17**: Boon Jong Ho's latest movie.
-- **The Drama**: Movie buff friend said this was a top film of 2026.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie.
 - **The Secret and Their Eyes (original Argentinian version)**: Action thriller with plot intricacies to endlessly discuss. Personally recommended to me due to plot.
 - **Source Code**: Recommended to me by Adil. Jake Gyllenhaal movie.
-- **Meow Wolf Origin Story ([Link](https://meowwolf.com/about/origin-story))**: SXSW winner detailing their rocky early days.
-- **Sinners**: Top movie of 2025.
-- **Anora**: Palmes D'Or and Academy Awards sweeper.
+- **Sinners**: Friends are split on this; one called it their movie of 2025 and another found the twin acting confusing and flat.
 - **The Last Five Years**: An Anna Kendrick musical that goes through a deteriorating relationship forwards and backwards in time, simultaneously. I found this dynamic in Tick Tick Boom fascinating so I think I would like this.
+- **Drive my Car**: A Murukami classic.
+- **Boyhood**: Long running Richard Linklater film shot over 12 years.
 - **Children of Men**: Adil, Will, and Vivek really liked it — they said it constructed great characters and had a lack of obvious flaws.
 - **Blade Runner 2049**: Denis Villeneuve cyberpunk masterpiece, with the same insane artistic shots as Dune.
 - **Mad Max Fury Road**: This had no screenplay; just George Miller spending months in a room with a bunch of brilliant storyboard artists, before a single line was written. Movie theory darling.
 - **City of God**: IMDb darling. Seems to have an interesting premise, portraying two communities of youth in a violent neighborhood.
 - **Sugarcane**: Award winning documentary about the genocide and cultural erasure in Canadian Indian residential schools.
 - Children Who Chase Lost Voices, Castle in the Sky, Nausicca of the Valley of the Wind
-- **Drive my Car**: A Murukami classic.
 - **Amores Perros**: A car crash from three different storylines that affect each other in really interesting ways.
+- **Meow Wolf Origin Story ([Link](https://meowwolf.com/about/origin-story))**: SXSW winner detailing their rocky early days.
 - **The End of the Tour**: A drama by and about David Foster Wallace, based on the book 'Although of Course You End Up Becoming Yourself' about a 5 day roadtrip with the man. I loved [his commencement speech](https://www.youtube.com/watch?v=DCbGM4mqEVw) so much that I think this would be a wonderfully relatable movie; at the very least, a great recommendation for others.
 - **Whisper of the Heart**: OG Miyazaki film recommended to me.
 - **Primer**: "Primer is on the Most Complicated Films IMDb list, thanks to Time Travel, Second Hand Storytelling, and a case of The Ending Changes Everything. There is an explanation for almost everything that happens, but you have to watch the movie at least twice to put all the clues together."
-- **Rope**: Film shot as if it was a single scene, with a fun suspenseful premise.
-- **A Man Called Otto**: Both the original and the remake seem to be really well received movies.
-- **Weathering with You**: Movie by the same director and similar animation style as 'Your Name'
-- **PK**: Bollywood movie that seems to be about an alien but is really about being human.
-- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **Memories of Murder**: Bong Joon-ho banger.
+- **Rope**: Film shot as if it was a single scene, with a fun suspenseful premise.
 - **Incendies**: Denis Villeneuve; people say it left them speechless and emotionally touched.
-- **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
-- **ROMAN J. ISRAEL, ESQ.**: Looks like another underrated Dan Gilroy banger. Adil didn't finish it though.
+- **A Man Called Otto**: Both the original and the remake seem to be really well received movies.
+- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
+- **PK**: Bollywood movie that seems to be about an alien but is really about being human.
 - **Children of Heaven**: Iranian film about lost pair of shoes that was nominated for Academy Awards. This was my film teacher's favorite movie of all time.
 - **Enemy**: Denis Villeneuve psychological thriller with scary ending, exploring themes of the subconscious and mistakes.
-- **In the Mood for Love**: Striking emotional film.
 - **Prisoners** (Denis Villeneuve): Good mystery/thriller.
-- **Song of the Sea**: Scottish film with Anime vibes.
-- **Grave of the Fireflies**: Studio Ghibli classic. Supposed to be very sad.
+- **Donnie Darko**: Jake Gyllenhaal classic.
+- **In the Mood for Love**: Striking emotional film.
+- **Ghost in the Shell**: A classic sci-fi film, recommended alongside Akira.
 - **Birdman**: 2014 film with enough magical realism that it takes a while to decipher what the ending actually meant. From [here](https://web.archive.org/web/20240226090219/https://thecinemaholic.com/confusing-movies-finally-get-explained/).
 - **Hack, Punt, Tool**: Musical about MIT's hacking culture.
 - **Deadpool 3 (2024)**: Deadpool 1 and 2 were staples of my childhood; Ryan Reynolds has a great sense of humor.
+- **Song of the Sea**: Scottish film with Anime vibes.
+- **Anora**: Palmes D'Or and Academy Awards sweeper.
 - **Kahaani**: Hindi film.
+- **ROMAN J. ISRAEL, ESQ.**: Looks like another underrated Dan Gilroy banger. Adil didn't finish it though.
 - **All the Rage: Saved by Sarno**: A movie about Sarno's methods for chronic pain and their impact.
 - **Petit Mamam**: French movie, more about feelings than dialogue
-- **Donnie Darko**: Jake Gyllenhaal classic.
-- **Farewell My Concubine**: About two people growing up in opera during China's change.
 - **Yi Yi**: 2000 Taiwanese classic
+- **Farewell My Concubine**: About two people growing up in opera during China's change.
+- **Tar**: One filmmaker I met said that this was one of the most interesting and culturally relevant films she's ever seen, and that the director was directly mentored by Kubrick -- surprisingly high praise for such a recent film. I watched the first 10 minutes and couldn't stand the pretentiousness of it.
 - **2001: A Space Odyssey**: 60s sci-fi classic.
 - **Silent Voice**: Anime with mute girl, touching movie with themes of forgiveness
 - **Mindf\*ck Movies**: [Nick Sweeting's Movies doc](https://docs.sweeting.me/s/movies-to-watch) > Mindf\*ck section
