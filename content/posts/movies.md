@@ -36,6 +36,14 @@ This alive doc will be updated every time I watch a movie, and is in reverse chr
 
 ### 2026
 
+- **The Drama**: 7/10. There was some great symbolism {{< spoil "around her [being deaf and not really listening](https://www.reddit.com/r/A24/comments/1upcl31/another_the_drama_interpretation/) to others' concerns, and how that juxtaposed with her honesty. I enjoyed seeing her internal process of changing from the event and her friends' lack of recognition of it, this tension around being understood feels quite universal as well. I loved Pattinson's acting, I thought he nailed very subtle scenes like the photo shoot. I also enjoyed seeing his resentment building as he lies and represses his discomfort. I liked how they showed how the characters had to both change themselves in order to be with/understand the other, and it shows up in how differently they treat the dance coordinator at the end compared to how they did in the beginning." >}} I thought the secret itself was a bit underwhelming, but the character reactions were great. They clearly wanted the audience to be uncomfortable by the ending, and it worked -- I had to look away/pause from the awkwardness. I enjoyed the [themes of performative-ness](https://www.reddit.com/r/A24/comments/1siy6uz/comment/ofoy1j9/), and their portrayal of a relationship.
+
+- **The Wind Rises**: 6/10. I found this movie an interesting character portrayal of an ambitious person deeply in love with what they do. It was cool seeing his influences and the historical accuracy of the film, and how beautifully engineering could be portrayed. At the same time, I felt the time with the relationship was short, and the story less compelling than Miyazaki's other films.
+
+- **My Neighbor Totoro**: 8/10. I found this movie whimsical and enjoyable. It had no real plot per-se, but the appeal of the dreamt up characters and the childrens' impulses was so delightful that it almost didn't matter.
+
+- **Project Hail Mary**: 7/10. There were some truly beautiful parts of this movie -- the visualizations in space, the ending sequence of events, the depiction of scientific discovery, and the spaceships. At the same time, I felt the actor was a bit too comedic, the inside of the second spaceship was disappointing, and there were a few inconsistencies around {{< spoil "how the alien interacts with" >}} the environment of the ship.
+
 - **The Worst Person in the World**: 9/10. There were two scenes in this movie about halfway through that were brilliantly done and left a real impression on me. They did a great job of making modern relationships and career confusion relatable. They both had you empathize and almost be disappointed in the main character -- unable to commit to anything, impulsive and destructive, aloof in the face of others' pain, yet fundamentally human.
 
 - **The Thing**: 4/10. Watched this for horror night as it had no jump scares and I was convinced by the idea that it gave an interesting perspective for what society will look like when you can't tell LLMs and humans apart. I thought that was a bit of a stretch -- it was fun but got a bit repetitive, ended up zoning out in and out.
@@ -62,7 +70,7 @@ I've spent most of this year watching [shows](https://blog.aayushg.com/tv) inste
 
 - **Jawan**: 7/10. Watched because I enjoy feel-good Robinhood revenge plots like Now You See Me. The slow motion and color grading gave the movie a really interesting pace and look. I enjoyed that it was a take on Krishna's story, and that all of the revenge plots were based on real events in Indian history. Docked points because there was too much action (i.e. the truck scene felt drawn out) and I didn't feel the villain's team was well explained. My Indian friends didn't seem to think this represented Indian cinema well.
 
-- **Past Lives**: 7/10. Two friends recommended this one to me very highly, and said I should go into it blind. This movie takes one very simple idea, the idea of pursuing a past what-if in the present day, and lives out the crazy fantasy we surely play out about our own pasts. There are a number of great one-liners, and I think offers the characters closure in a way that even I felt closure over it. It was a bit slow overall, but did a good job exploring a very strong and simple theme.
+- **Past Lives**: 7/10. Two friends recommended this one to me very highly, and said I should go into it blind. This movie takes one very simple idea, the idea of pursuing a past what-if in the present day, and lives out the crazy fantasy we surely play out about our own pasts. There are a number of great one-liners, and I think offers the characters closure in a way that even I felt closure over it. It was a bit slow overall, but did a good job taking a simple theme and exploring it deeply. There's a deep longing to know what your other lives would have looked like and a deep grief assosciated with that that's really well explored.
 
 - ⭐ **Inside Out 2** ⭐: 10/10. Admittedly Inside Out was my favorite Pixar movie of all time, so I was biased. Most of the new characters in this one were not deeply explored, but I felt that it was intentional to background them (unlike the first movie) to more strongly focus on Anxiety. The movie made me appreciate my own depth of emotions more, as well as understand both my and others' anxieties better.
 
@@ -307,12 +315,14 @@ At this point and before, I watched mostly just mainstream movies.
 The notes for these movies are just summaries of what friends have told me about. Approximately ranked with most-want-to-watch at the top.
 
 - **One Battle After Another**: 3 friends really liked it — seems like a unique artistic project.
+- **Monster by Hirokazu Kore-eda**: From the director of shoplifters; a friend said it reveals details that make you reconfigure your understanding of the entire situation, which I love.
 - **The Drama**: Movie buff friend said this was a top film of 2026.
 - **Shoplifters**: Director is very good, and this one won a number of international film festivals. Usually recommended for people who liked Parasite.
 - **Before Trilogy**: Long running Richard Linklater series shot 9 years apart that focuses on real romantic connection.
 - **All of Us Strangers**: A movie about grief and love and emotions, told in a way that seems to universally leave audiences awestruck and in silence.
 - **The Secret Life of Walter Mitty**: This seems to have the same indie vibe as others I've liked, and people rave about how it made them feel.
 - **Mickey 17**: Boon Jong Ho's latest movie.
+- **Sentimental Value**: Followup to worst person in the world.
 - **Strange Days**: OG sci-fi thriller ahead of it's time
 - **Velvet Buzzsaw**: Another Dan Gilroy and Jake Gyllenhaal collab?? Nightcrawlers with them was so good and the trailer was pretty fascinating.
 - **Handmaiden**: Korean, sexual mystery, gripping and edgy themes, strange straightforward romantic movie.

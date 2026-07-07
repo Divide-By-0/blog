@@ -237,35 +237,65 @@ body::-webkit-scrollbar-corner {
     background: transparent;
 }
 
-/* Inline spoilers (one-line shortcode) */
-.spoiler.spoiler-inline {
-    display: inline-block;
-    margin: 0 0.15em;
-    padding: 0 0.35em;
-    border-radius: 3px;
-    border: 1px solid #ddd;
-    background-color: #838383 !important;
-    color: #838383 !important;
-    position: relative;
+/* Spoilers */
+.spoiler {
+    --spoiler-redact: #e5e7eb;
+    --spoiler-redact-hover: #f9fafb;
+    --spoiler-revealed: rgba(0, 0, 0, 0.35);
     cursor: pointer;
+}
+
+.spoiler.is-inline {
+    display: inline;
+    margin: 0;
+    padding: 0;
     vertical-align: baseline;
 }
 
-.spoiler.spoiler-inline::before {
-    content: "spoiler";
-    position: static;
-    top: auto;
-    left: auto;
-    transform: none;
-    visibility: visible;
-    font-weight: 600;
-    font-size: 0.75em;
-    line-height: 1;
-    z-index: auto;
+.spoiler:not(.is-inline) {
+    display: block;
+    margin: 1rem 0;
 }
 
-.spoiler.spoiler-inline.active .reveal {
-    display: inline;
+.spoiler-body {
+    transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.spoiler:not(.active) .spoiler-body {
+    color: transparent;
+    background-color: var(--spoiler-redact);
+    border-radius: 2px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    user-select: none;
+}
+
+.spoiler:not(.active) .spoiler-body * {
+    color: transparent;
+    text-decoration: none;
+}
+
+.spoiler:not(.active):hover .spoiler-body {
+    background-color: var(--spoiler-redact-hover);
+}
+
+.spoiler.active .spoiler-body {
+    color: inherit;
+    background-color: var(--spoiler-revealed);
+    user-select: text;
+}
+
+.spoiler.active .spoiler-body a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.spoiler:not(.is-inline) .spoiler-body > :first-child {
+    margin-top: 0;
+}
+
+.spoiler:not(.is-inline) .spoiler-body > :last-child {
+    margin-bottom: 0;
 }
 
 /* ---- Subscribe Form ---- */

@@ -1,3 +1,1 @@
-<span class="spoiler spoiler-inline" role="button" tabindex="0">
-  <span class="reveal">{{- .Get 0 | htmlEscape -}}</span>
-</span>
+<span class="spoiler is-inline" role="button" tabindex="0" aria-expanded="false" title="Click to reveal spoiler"><span class="spoiler-body">{{- .Page.RenderString (dict "display" "inline") (.Get 0) -}}</span></span>

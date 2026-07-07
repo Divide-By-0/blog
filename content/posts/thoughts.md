@@ -15,6 +15,22 @@ aliases:
 
 It's really hard to maintain any long-term takeaways from the content I read, so I find it useful to explain exactly how my thoughts and opinions change over time, to hold me to specific updates in opinions, to allow others to check and correct my understanding, and to invite conversation on topics that I'm interested in.
 
+## April 2026
+
+### Magnetism to what I don't understand
+
+It's interesting that I have this almost magnetism to things I don't understand? I see something I can't comprehend and instantly want to know how it works. It's not exactly curiosity, maybe it's wonder? For most of my life, this was through math; understanding that would let me understand and manipulate more of the world. But it feels easy to nerdsnipe me by showing me something I can't comprehend -- I went back through old Daniel Fernandez mentalism videos from the ~2015 era, and was trying to understand how these videos are made with deep research. My current impression is that he is doing suggestion work off-camera to see when people's reactions change and can see minute facial movements very easily. There's also a surprising amount of tech in magic, and I'm curious the extent to which smart tech folks can build atop that with cleverness.
+
+I feel like initially, my problem with being in your feelings is that you can be manipulated by magic tricks and suggestion, meaning you can be manipulated by suggestion in real life -- but seperating yourself from such leaks could make you a way better player.
+
+### Prompt surfing
+
+I guess a human's ability to navigate ideal and relevant prompt space (i.e. select the most informative prompts) feels like the bottleneck. There are a number of great approaches to this; for instance, if you have a model learning how to optimize bits per example/active learning, you can get the highest 'learning' examples much more easily.
+
+### Training Distributions
+
+A model that can rank all training data by coherence, even if it itself is an older LLM, then determines how many epochs to put each token in (instead of the basic thing where they bias towards i.e. 4 epochs per textbook token and 1 per website token).
+
 ## Feb 2026
 
 As of Jan 28, I feel that Claude's Deep Research tasks have more depth and specificity to them, vs ChatGPT's seem to make assumptions and come up with lower quality fits.

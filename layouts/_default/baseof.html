@@ -35,8 +35,46 @@
     <script>
       document.addEventListener('DOMContentLoaded', (event) => {
         document.querySelectorAll('.spoiler').forEach(function(spoiler) {
-          spoiler.addEventListener('click', function() {
-            spoiler.classList.toggle('active');
+          if (!spoiler.classList.contains('is-inline') && !spoiler.querySelector('.spoiler-body')) {
+            var body = document.createElement('div');
+            body.className = 'spoiler-body';
+            while (spoiler.firstChild) {
+              body.appendChild(spoiler.firstChild);
+            }
+            spoiler.appendChild(body);
+          }
+
+          if (!spoiler.hasAttribute('tabindex')) {
+            spoiler.setAttribute('tabindex', '0');
+          }
+          if (!spoiler.hasAttribute('role')) {
+            spoiler.setAttribute('role', 'button');
+          }
+          if (!spoiler.hasAttribute('aria-expanded')) {
+            spoiler.setAttribute('aria-expanded', 'false');
+          }
+
+          spoiler.addEventListener('click', function(event) {
+            var active = spoiler.classList.contains('active');
+
+            if (active && event.target.closest && event.target.closest('a')) {
+              return;
+            }
+
+            event.preventDefault();
+            spoiler.classList.toggle('active', !active);
+            spoiler.setAttribute('aria-expanded', active ? 'false' : 'true');
+          });
+
+          spoiler.addEventListener('keydown', function(event) {
+            if (spoiler.classList.contains('active') && event.target.closest && event.target.closest('a')) {
+              return;
+            }
+
+            if (event.key === 'Enter' || event.key === ' ') {
+              event.preventDefault();
+              spoiler.click();
+            }
           });
         });
 

@@ -1,5 +1,1 @@
-<div class="spoiler">
-  <div class="reveal">
-    {{- .Inner | markdownify -}}
-  </div>
-</div>
+<div class="spoiler" role="button" tabindex="0" aria-expanded="false" title="Click to reveal spoiler"><div class="spoiler-body">{{- .Inner | markdownify -}}</div></div>
