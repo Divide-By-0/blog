@@ -239,9 +239,9 @@ body::-webkit-scrollbar-corner {
 
 /* Spoilers */
 .spoiler {
-    --spoiler-redact: #e5e7eb;
-    --spoiler-redact-hover: #f9fafb;
-    --spoiler-revealed: rgba(0, 0, 0, 0.35);
+    --spoiler-revealed-bg: #454545;
+    --spoiler-revealed-text: #d1d5db;
+    --spoiler-revealed-link: #a8c7fa;
     cursor: pointer;
 }
 
@@ -258,35 +258,35 @@ body::-webkit-scrollbar-corner {
 }
 
 .spoiler-body {
-    transition: color 0.15s ease, background-color 0.15s ease;
+    border-radius: 2px;
+    transition: filter 0.15s ease, opacity 0.15s ease, background-color 0.15s ease, color 0.15s ease;
 }
 
 .spoiler:not(.active) .spoiler-body {
-    color: transparent;
-    background-color: var(--spoiler-redact);
-    border-radius: 2px;
+    filter: blur(5px);
+    opacity: 0.45;
+    background-color: #6b7280;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+    pointer-events: none;
     user-select: none;
 }
 
-.spoiler:not(.active) .spoiler-body * {
-    color: transparent;
-    text-decoration: none;
-}
-
 .spoiler:not(.active):hover .spoiler-body {
-    background-color: var(--spoiler-redact-hover);
+    opacity: 0.6;
 }
 
 .spoiler.active .spoiler-body {
-    color: inherit;
-    background-color: var(--spoiler-revealed);
+    filter: none;
+    opacity: 1;
+    color: var(--spoiler-revealed-text);
+    background-color: var(--spoiler-revealed-bg);
+    pointer-events: auto;
     user-select: text;
 }
 
 .spoiler.active .spoiler-body a {
-    color: inherit;
+    color: var(--spoiler-revealed-link);
     text-decoration: underline;
 }
 
