@@ -35,3 +35,16 @@ external_url: "https://example.com/post"
 ---
 ```
 
+## Spoilers
+
+Wrap inline spoilers in double pipes, with or without spaces:
+
+```markdown
+I felt a few scenes (especially ||character mistakes||) were inauthentic.
+The ending || **changes everything** ||.
+```
+
+Click or tap to reveal; click again to hide. Keyboard users can use Enter or Space.
+Markdown formatting and links work inside spoilers. Pipes inside inline code or
+fenced code blocks stay literal. Existing `spoil` and `spoiler` shortcodes still work.
+

@@ -27,6 +27,12 @@ description = "Aayush's blog. Discusses zk cryptography including plume, zk emai
   hardWraps = true
   unsafe = true
 
+# Discord-style inline spoilers, rendered at build time.
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    inline = [['||', '||']]
+
 [markup.tableOfContents]
   startLevel = 2
   endLevel = 6
