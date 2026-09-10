@@ -268,7 +268,7 @@ body::-webkit-scrollbar-corner {
     background-color: #6b7280;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
-    pointer-events: none;
+    /* Keep the blurred text clickable so events reach the spoiler toggle. */
     user-select: none;
 }
 

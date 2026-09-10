@@ -30,7 +30,7 @@ I think this list is pretty broadly recommendable, but specifically I think folk
 
 - **Rick and Morty Season 8**: 7/10. Season 8 episode 1, 8, and 10 were stellar 10/10s, but the rest fell pretty flat for me. There seem to only be ~3 good writers left on the show, as many of the best writers from the first 4 seasons left. I still think Season 7 Episode 10 (Fear no Mort) is one of the greatest episodes of TV ever made ([episode explanation](https://youtu.be/aV9FyFtP5-o) once you've seen it).
 
-- ⭐ **Pantheon** ⭐: 9/10 Season 1, 10/10 Season 2. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well. I know multiple companies working on this tech already and we will have to reckon with the consequences. I loved how grounded yet optimistic the story was. Docked a point because I felt a few scenes (especially {{< spoil character mistakes>}}) in the second season felt inauthentic, but I loved the ending. Apple did a horrible job advritising this show.
+- ⭐ **Pantheon** ⭐: 9/10 Season 1, 10/10 Season 2. Balances technological discussion, emotion, and opposing personalities and views on brain uploading very well. I know multiple companies working on this tech already and we will have to reckon with the consequences. I loved how grounded yet optimistic the story was. Docked a point because I felt a few scenes (especially {{< spoil "character mistakes" >}}) in the second season felt inauthentic, but I loved the ending. Apple did a horrible job advritising this show.
 
 - **Black Mirror**: 10/10 Eulogy, 10/10 USS Callister (1 and 2), and 10/10 White Christmas. Seems extremely variable which episodes are good. I quit halfway through for Bette Noir, Common People, and a few others that felt clumsier.
 
