@@ -25,4 +25,4 @@ Earlier in the same thread, they told me the lab can't use the data for anything
 
 After this exchange they said they'd put privacy "more front and centre" on the site, and they did: the homepage had no privacy section on [August 6](https://web.archive.org/web/20260806101109/https://genome.computer/), and by [August 24](https://web.archive.org/web/20260824162013/https://genome.computer/) it had an "Our Privacy Commitment" section with these same terms.
 
-<!-- TODO: link the ZK Email (redacted.zk.email) proof of the Aug 11 email here once generated. -->
+You don't have to take my word that they sent this: here is a [ZK Email proof of their email](https://redacted.zk.email/verify?id=5db31511-cef9-4c17-a2b3-21f9b0fa3f95). It proves the commitments above came in an email DKIM-signed by genome.computer, while hiding my address and the rest of our thread. Press "Verify Proof" to check it in your browser.
