@@ -22,7 +22,7 @@ Their sequencing lab is contractually bound to:
 - destroy leftover samples 5 days after results, and delete your DNA and data after 3 months;
 - hold any subcontractors to the same terms.
 
-{{< zkproof id="5db31511-cef9-4c17-a2b3-21f9b0fa3f95" >}}
+{{< zkproof id="2079bdcc-42db-429d-b719-806be92259e8" >}}
 
 Signed with genome.computer's own email key.
 
@@ -32,7 +32,7 @@ Signed with genome.computer's own email key.
 
 Their policy's "QA" exception only covers non-identifiable sequencing stats like coverage and yield.
 
-{{< zkproof id="28925990-200b-47d4-ba3d-f06e15cc48d7" >}}
+{{< zkproof id="46767a57-e439-41bc-af19-419a92b8562b" >}}
 
 Caveat: this one was signed with Google Workspace's default key for their account, not genome.computer's own, so it proves the email came from their Google Workspace but not the exact From address.
 
