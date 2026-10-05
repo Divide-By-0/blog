@@ -1,0 +1,9 @@
+{{- /* Embeds a redacted.zk.email proof page. Usage: {{< zkproof id="<uuid>" >}}
+  NOTE: redacted.zk.email sends no X-Frame-Options/CSP frame-ancestors (checked 2026-10-05),
+  so the verify page can be iframed. The link below is the fallback if that ever changes. */ -}}
+{{- $url := printf "https://redacted.zk.email/verify?id=%s" (.Get "id") -}}
+<div class="zkproof" style="margin:1em 0 1.5em">
+  <iframe src="{{ $url }}" title="ZK Email proof" loading="lazy"
+    style="width:100%;height:{{ .Get "height" | default "720" }}px;border:1px solid #444;border-radius:8px;background:#fff"></iframe>
+  <div style="font-size:0.9em;margin-top:0.3em"><a href="{{ $url }}">Open this proof in a new tab ↗</a> and press "Verify Proof" to check it yourself.</div>
+</div>
