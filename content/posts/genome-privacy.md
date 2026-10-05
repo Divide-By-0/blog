@@ -18,7 +18,7 @@ I recommend [Genome Computer](https://genome.computer) on my [things list](/thin
 Their sequencing lab is contractually bound to:
 
 - receive only de-identified samples, with no personal or health information;
-- never sell, license or share your data, even de-identified or aggregated;
+- never sell, license or commercially distribute your data, even de-identified or aggregated;
 - destroy leftover samples 5 days after results, and delete your DNA and data after 3 months;
 - hold any subcontractors to the same terms.
 
