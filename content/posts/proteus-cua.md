@@ -7,11 +7,11 @@ draft: false
 slug: "proteus-cua"
 category: "10 min read"
 tags: ["external"]
-description: "How Proteus builds computer use agents across macOS, Windows, and Android: per-user learning, low-latency harnesses that plan and verify actions in parallel, and custom models for fast visual action prediction."
+description: "How Proteus builds fast computer use agents for macOS, Windows, Android, and iOS: 3-10 chained actions per step instead of a 3-8 s screenshot loop, <250 ms verify gates, 5x faster custom video models, and an untethered mobile agent on a stock phone."
 aliases:
   - /posts/proteus-cua
   - /proteus-cua
 external_url: "https://proteus.computer/blog/tech.html"
 ---
 
-How we built computer use agents at Proteus: per-user specialized learning, low-latency harnesses that plan and verify actions in parallel, custom models for fast visual action prediction, and an on-device agent for Android and iOS. It ends with what's next: synthetic training data, VM-based reinforcement learning, and self-reflection.
+How we built fast computer use agents at Proteus. Instead of the standard screenshot-action-screenshot loop that costs 3-8 seconds per step, our harness chains 3-10 actions per iteration, checks them with OCR + verify gates in under 250 ms, and swaps in custom video models that cut inference latency 5x. On mobile, the agent runs untethered on a stock Android or iOS phone, with no ADB and no emulator, controlled from a floating bubble overlay.
