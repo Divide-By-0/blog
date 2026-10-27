@@ -1,12 +1,12 @@
 ---
-title: "FrontierCAD: Can Frontier Models Do CAD?"
+title: "FrontierCAD: New Verifiers to Test Frontier Models on CAD"
 date: 2026-10-27T12:00:00.000Z
 type: posts
 draft: false
 slug: "frontiercad"
 category: "10 min read"
 tags: ["external"]
-description: "A verifier study for CAD generation: a better part verifier, a new assembly verifier, and frontier models scored on building parts and assemblies from engineering drawings."
+description: "New verifiers for CAD generation: a better part verifier, a new assembly verifier, and frontier models scored on building parts and assemblies from engineering drawings."
 aliases:
   - /posts/frontiercad
   - /frontiercad
