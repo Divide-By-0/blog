@@ -8,13 +8,25 @@
   <br/>
   <h2>All Posts</h2>
   {{ $posts := where .Site.RegularPages "Type" "in" (slice "posts") }}
+  {{/* NOTE: any post tagged "zk" or "crypto" is pulled out of the main list and
+       grouped in the collapsed section at the bottom, so new crypto posts land
+       there automatically just by being tagged. */}}
+  {{ $cryptoTags := slice "zk" "crypto" }}
+  {{ $crypto := slice }}
   {{ range $posts.ByPublishDate.Reverse }}
-  <p>
-    <div>
-      <h3><a class="title" href="{{ .RelPermalink }}" style="color: #e5e7eb">{{ .Title }}</a></h3>
-      {{ partial "metadata.html" . }}
-    </div>
-  </p>
+    {{ if intersect (.Params.tags | default slice) $cryptoTags }}
+      {{ $crypto = $crypto | append . }}
+    {{ else }}
+      {{ partial "post-list-item.html" . }}
+    {{ end }}
+  {{ end }}
+  {{ with $crypto }}
+  <details id="zk-crypto" style="margin-top: 1.5rem;">
+    <summary style="cursor: pointer; list-style-position: inside; font-size: 0.95rem; opacity: 0.6;">{{ len . }} more posts on zk &amp; cryptography</summary>
+    {{ range . }}
+      {{ partial "post-list-item.html" . }}
+    {{ end }}
+  </details>
   {{ end }}
 </div>
 {{ end }}
