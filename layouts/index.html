@@ -21,8 +21,8 @@
     {{ end }}
   {{ end }}
   {{ with $crypto }}
-  <details id="zk-crypto" style="margin-top: 2.5rem; border-top: 1px solid #e6e1e1; padding-top: 1rem;">
-    <summary style="cursor: pointer; list-style-position: inside;"><h2 style="display: inline;">ZK &amp; Cryptography</h2> <span style="opacity: 0.7;">({{ len . }} posts)</span></summary>
+  <details id="zk-crypto" style="margin-top: 1.5rem;">
+    <summary style="cursor: pointer; list-style-position: inside; font-size: 0.95rem; opacity: 0.6;">{{ len . }} more posts on zk &amp; cryptography</summary>
     {{ range . }}
       {{ partial "post-list-item.html" . }}
     {{ end }}
