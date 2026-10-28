@@ -14,4 +14,4 @@ aliases:
 external_url: "https://proteus.computer/blog/tech.html"
 ---
 
-How we built fast computer use agents at Proteus. Instead of the standard screenshot-action-screenshot loop that costs 3-8 seconds per step, our harness chains 3-10 actions per iteration, checks them with OCR + verify gates in under 250 ms, and swaps in custom video models that cut inference latency 5x. On mobile, the agent runs untethered on a stock Android or iOS phone, with no ADB and no emulator, controlled from a floating bubble overlay.
+How we built fast computer use agents at Proteus. Instead of the standard screenshot-action-screenshot loop that costs 3-8 seconds per step, our harness chains 3-10 actions per iteration, checks them with OCR + verify gates in under 250 ms, and swaps in custom video models that cut inference latency 5x. On mobile, the agent runs untethered on a stock Android or iOS phone, without ADB or an emulator, controlled from a floating bubble overlay.
